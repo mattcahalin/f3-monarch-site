@@ -5,6 +5,8 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>F3 Monarch STL | Fitness, Fellowship, Faith</title>
 <script src="https://cdn.tailwindcss.com"></script>
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"/>
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
 <style>
   body { font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, sans-serif; }
   .marquee-track {
@@ -34,8 +36,8 @@
 <header class="sticky top-0 z-50 backdrop-blur" style="background:rgba(13,27,42,0.97); border-bottom:1px solid #1a3a5c;">
   <div class="max-w-6xl mx-auto px-4 py-3 flex items-center justify-between">
     <div class="flex items-center gap-2">
-      <span class="inline-flex items-center justify-center w-9 h-9 rounded font-black text-sm" style="background:#5b8db8; color:#e8f4f8;">F3</span>
-      <span class="font-display font-bold text-lg tracking-tight" style="color:#e8f4f8;">MONARCH <span style="color:#a8c8e8;">STL</span></span>
+      <img src="images/monarch%20logo.png" alt="F3 Monarch STL Logo" style="width:36px; height:36px; object-fit:contain;">
+      <span class="font-display font-bold text-lg tracking-tight" style="color:#e8f4f8;">F3 MONARCH <span style="color:#a8c8e8;">STL</span></span>
     </div>
     <nav class="hidden md:flex gap-6 text-sm font-semibold" style="color:#a8c8e8;">
       <a href="#fs" class="transition" style="color:#a8c8e8;" onmouseover="this.style.color='#e8f4f8'" onmouseout="this.style.color='#a8c8e8'">The 3 F's</a>
@@ -58,7 +60,7 @@
 <!-- HERO -->
 <section class="relative border-b" style="background:linear-gradient(to bottom, #0d1b2a, #1a3a5c); border-color:#1a3a5c;">
   <div class="max-w-6xl mx-auto px-4 py-20 md:py-28 text-center">
-    <img src="images/monarch%20logo.png" alt="F3 Monarch STL Logo" class="mx-auto mb-8" style="width:220px; height:220px; object-fit:contain;">
+    <img src="images/monarch%20logo.png" alt="F3 Monarch STL Logo" class="mx-auto mb-8" style="width:330px; height:330px; object-fit:contain;">
     <p class="mt-6 text-lg md:text-2xl font-bold max-w-3xl mx-auto" style="color:#e8f4f8;">
       Forging better men through <span style="color:#a8c8e8;">Fitness</span>, <span style="color:#a8c8e8;">Fellowship</span>, and <span style="color:#a8c8e8;">Faith</span>.
     </p>
@@ -310,12 +312,7 @@
         </div>
       </div>
       <div class="rounded-lg overflow-hidden h-64 md:h-80 shadow-sm" style="border:1px solid #a8c8e8;">
-        <iframe
-          class="w-full h-full"
-          loading="lazy"
-          referrerpolicy="no-referrer-when-downgrade"
-          src="https://www.google.com/maps?q=Chesterfield,MO&output=embed">
-        </iframe>
+        <div id="ao-map" class="w-full h-full"></div>
       </div>
     </div>
   </div>
@@ -372,12 +369,44 @@
 <footer style="background:#0d1b2a; border-top:1px solid #1a3a5c;">
   <div class="max-w-6xl mx-auto px-4 py-10 flex flex-col md:flex-row items-center justify-between gap-4">
     <div class="flex items-center gap-2">
-      <span class="inline-flex items-center justify-center w-8 h-8 rounded font-black text-sm" style="background:#5b8db8; color:#e8f4f8;">F3</span>
-      <span class="font-display font-bold" style="color:#e8f4f8;">MONARCH STL</span>
+      <img src="images/monarch%20logo.png" alt="F3 Monarch STL Logo" style="width:32px; height:32px; object-fit:contain;">
+      <span class="font-display font-bold" style="color:#e8f4f8;">F3 MONARCH STL</span>
     </div>
     <p class="text-sm text-center" style="color:#5b8db8;">&copy; 2026 F3 Monarch STL. No man left behind. No man left where he is.</p>
   </div>
 </footer>
 
+<script>
+  const map = L.map('ao-map').setView([38.620, -90.590], 11);
+  L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+  }).addTo(map);
+
+  const icon = L.divIcon({
+    className: '',
+    html: '<div style="background:#1a3a5c;border:2px solid #a8c8e8;border-radius:50%;width:14px;height:14px;"></div>',
+    iconSize: [14, 14],
+    iconAnchor: [7, 7],
+    popupAnchor: [0, -10]
+  });
+
+  const aos = [
+    { name: '🐴 The Stable',    loc: 'Chesterfield Elementary', time: 'Tue/Thu 0530',       coords: [38.6627, -90.5749] },
+    { name: '🐭 Mousetrap',     loc: 'Wildwood City Park',      time: 'Mon/Wed/Fri 0530',   coords: [38.5902, -90.6601] },
+    { name: '🦇 Arkham',        loc: 'Babler Elementary',       time: 'Tue/Thu 0530',       coords: [38.5647, -90.7124] },
+    { name: '🥒 Pickle Jar',    loc: 'Vlasis Park',             time: 'Tue/Thu 0530',       coords: [38.5993, -90.5469] },
+    { name: '🧭 Pathfinder',    loc: 'Pathfinder Church',       time: 'Sat 0645',           coords: [38.5756, -90.6234] },
+    { name: '🌲 Morning Wood',  loc: 'Castlewood Park',         time: 'Sun 0700',           coords: [38.5588, -90.4890] },
+    { name: '🧟 Zombie Ridge',  loc: 'Ridge Elementary',        time: 'Tue 0515 / Sun 0500',coords: [38.6287, -90.5606] },
+    { name: '⛪ The Way',       loc: 'Crestview Middle',        time: 'Mon/Wed/Fri 0530',   coords: [38.5997, -90.5378] },
+    { name: '💎 Diamond Dawn',  loc: 'Wildwood Middle',         time: 'Wed 0500',           coords: [38.5915, -90.6468] },
+  ];
+
+  aos.forEach(ao => {
+    L.marker(ao.coords, { icon })
+      .addTo(map)
+      .bindPopup(`<strong>${ao.name}</strong><br>${ao.loc}<br><span style="color:#1a3a5c;">${ao.time}</span>`);
+  });
+</script>
 </body>
 </html>
