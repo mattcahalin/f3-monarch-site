@@ -17,53 +17,62 @@
     100% { transform: translateX(-50%); }
   }
   .font-display { font-family: ui-sans-serif, system-ui, sans-serif; letter-spacing: -0.02em; }
+
+  /* Logo palette */
+  :root {
+    --navy:      #0d1b2a;
+    --navy-mid:  #1a3a5c;
+    --blue-mid:  #5b8db8;
+    --blue-ice:  #a8c8e8;
+    --off-white: #e8f4f8;
+  }
 </style>
 </head>
-<body class="bg-white text-slate-700">
+<body style="background:#ffffff; color:#1a3a5c;">
 
 <!-- NAV -->
-<header class="sticky top-0 z-50 bg-white/95 border-b border-slate-200 backdrop-blur">
+<header class="sticky top-0 z-50 backdrop-blur" style="background:rgba(13,27,42,0.97); border-bottom:1px solid #1a3a5c;">
   <div class="max-w-6xl mx-auto px-4 py-3 flex items-center justify-between">
     <div class="flex items-center gap-2">
-      <span class="inline-flex items-center justify-center w-9 h-9 rounded bg-amber-500 text-slate-950 font-black">F3</span>
-      <span class="font-display font-bold text-lg text-slate-900 tracking-tight">MONARCH <span class="text-amber-500">STL</span></span>
+      <span class="inline-flex items-center justify-center w-9 h-9 rounded font-black text-sm" style="background:#5b8db8; color:#e8f4f8;">F3</span>
+      <span class="font-display font-bold text-lg tracking-tight" style="color:#e8f4f8;">MONARCH <span style="color:#a8c8e8;">STL</span></span>
     </div>
-    <nav class="hidden md:flex gap-6 text-sm font-semibold text-slate-600">
-      <a href="#fs" class="hover:text-amber-500 transition">The 3 F's</a>
-      <a href="#aos" class="hover:text-amber-500 transition">AOs</a>
-      <a href="#meet" class="hover:text-amber-500 transition">Where We Meet</a>
-      <a href="#contact" class="hover:text-amber-500 transition">Contact</a>
+    <nav class="hidden md:flex gap-6 text-sm font-semibold" style="color:#a8c8e8;">
+      <a href="#fs" class="transition" style="color:#a8c8e8;" onmouseover="this.style.color='#e8f4f8'" onmouseout="this.style.color='#a8c8e8'">The 3 F's</a>
+      <a href="#aos" class="transition" style="color:#a8c8e8;" onmouseover="this.style.color='#e8f4f8'" onmouseout="this.style.color='#a8c8e8'">AOs</a>
+      <a href="#meet" class="transition" style="color:#a8c8e8;" onmouseover="this.style.color='#e8f4f8'" onmouseout="this.style.color='#a8c8e8'">Where We Meet</a>
+      <a href="#contact" class="transition" style="color:#a8c8e8;" onmouseover="this.style.color='#e8f4f8'" onmouseout="this.style.color='#a8c8e8'">Contact</a>
     </nav>
-    <a href="#aos" class="bg-amber-500 hover:bg-amber-400 text-white font-bold text-sm px-4 py-2 rounded transition">Find a Workout</a>
+    <a href="#aos" class="font-bold text-sm px-4 py-2 rounded transition" style="background:#5b8db8; color:#e8f4f8;" onmouseover="this.style.background='#a8c8e8'; this.style.color='#0d1b2a'" onmouseout="this.style.background='#5b8db8'; this.style.color='#e8f4f8'">Find a Workout</a>
   </div>
 </header>
 
 <!-- MARQUEE -->
-<div class="bg-amber-500 text-white overflow-hidden border-b-4 border-slate-900">
-  <div class="marquee-track py-1.5 font-display font-extrabold text-sm md:text-base uppercase">
+<div class="overflow-hidden border-b-4" style="background:#1a3a5c; border-color:#0d1b2a;">
+  <div class="marquee-track py-1.5 font-display font-extrabold text-sm md:text-base uppercase" style="color:#a8c8e8;">
     F3 MONARCH STL &nbsp;•&nbsp; FITNESS &nbsp;•&nbsp; FELLOWSHIP &nbsp;•&nbsp; FAITH &nbsp;•&nbsp; F3 MONARCH STL &nbsp;•&nbsp; FITNESS &nbsp;•&nbsp; FELLOWSHIP &nbsp;•&nbsp; FAITH &nbsp;•&nbsp;
     F3 MONARCH STL &nbsp;•&nbsp; FITNESS &nbsp;•&nbsp; FELLOWSHIP &nbsp;•&nbsp; FAITH &nbsp;•&nbsp; F3 MONARCH STL &nbsp;•&nbsp; FITNESS &nbsp;•&nbsp; FELLOWSHIP &nbsp;•&nbsp; FAITH &nbsp;•&nbsp;
   </div>
 </div>
 
 <!-- HERO -->
-<section class="relative bg-gradient-to-b from-slate-50 to-white border-b border-slate-200">
+<section class="relative border-b" style="background:linear-gradient(to bottom, #0d1b2a, #1a3a5c); border-color:#1a3a5c;">
   <div class="max-w-6xl mx-auto px-4 py-20 md:py-28 text-center">
-    <p class="text-amber-500 font-bold uppercase tracking-widest text-xs md:text-sm mb-4">St. Louis, MO &mdash; Free. Peer-Led. Outdoors.</p>
-    <h1 class="font-display font-black text-4xl sm:text-5xl md:text-7xl text-slate-900 leading-tight">
-      F3 MONARCH <span class="text-amber-500">STL</span>
+    <p class="font-bold uppercase tracking-widest text-xs md:text-sm mb-4" style="color:#a8c8e8;">St. Louis, MO &mdash; Free. Peer-Led. Outdoors.</p>
+    <h1 class="font-display font-black text-4xl sm:text-5xl md:text-7xl leading-tight" style="color:#e8f4f8;">
+      F3 MONARCH <span style="color:#a8c8e8;">STL</span>
     </h1>
-    <p class="mt-6 text-lg md:text-2xl font-bold text-slate-700 max-w-3xl mx-auto">
-      Forging better men through <span class="text-blue-400">Fitness</span>, <span class="text-amber-500">Fellowship</span>, and <span class="text-blue-400">Faith</span>.
+    <p class="mt-6 text-lg md:text-2xl font-bold max-w-3xl mx-auto" style="color:#e8f4f8;">
+      Forging better men through <span style="color:#a8c8e8;">Fitness</span>, <span style="color:#a8c8e8;">Fellowship</span>, and <span style="color:#a8c8e8;">Faith</span>.
     </p>
-    <p class="mt-4 text-slate-500 max-w-2xl mx-auto">
+    <p class="mt-4 max-w-2xl mx-auto" style="color:#5b8db8;">
       Free, peer-led workouts for men, every morning, rain or shine, hot or cold. No charge, no special equipment, no experience required &mdash; just show up.
     </p>
     <div class="mt-10 flex flex-col sm:flex-row gap-4 justify-center">
-      <a href="#aos" class="bg-amber-500 hover:bg-amber-400 text-white font-black uppercase tracking-wide px-8 py-4 rounded shadow-lg shadow-amber-200 transition text-lg">
+      <a href="#aos" class="font-black uppercase tracking-wide px-8 py-4 rounded shadow-lg transition text-lg" style="background:#5b8db8; color:#e8f4f8;" onmouseover="this.style.background='#a8c8e8'; this.style.color='#0d1b2a'" onmouseout="this.style.background='#5b8db8'; this.style.color='#e8f4f8'">
         Find a Workout
       </a>
-      <a href="#meet" class="border-2 border-slate-300 hover:border-blue-500 text-slate-700 font-bold uppercase tracking-wide px-8 py-4 rounded transition text-lg">
+      <a href="#meet" class="border-2 font-bold uppercase tracking-wide px-8 py-4 rounded transition text-lg" style="border-color:#5b8db8; color:#a8c8e8;" onmouseover="this.style.borderColor='#a8c8e8'; this.style.color='#e8f4f8'" onmouseout="this.style.borderColor='#5b8db8'; this.style.color='#a8c8e8'">
         Where We Meet
       </a>
     </div>
@@ -71,239 +80,239 @@
 </section>
 
 <!-- THE 3 F's -->
-<section id="fs" class="bg-white border-b border-slate-200">
+<section id="fs" class="border-b" style="background:#ffffff; border-color:#e8f4f8;">
   <div class="max-w-6xl mx-auto px-4 py-16 md:py-24">
     <div class="text-center mb-12">
-      <h2 class="font-display font-black text-3xl md:text-4xl text-slate-900">The 3 F's</h2>
-      <p class="text-slate-500 mt-3 max-w-xl mx-auto">F3 stands on three core pillars. Everything we do flows from these.</p>
+      <h2 class="font-display font-black text-3xl md:text-4xl" style="color:#0d1b2a;">The 3 F's</h2>
+      <p class="mt-3 max-w-xl mx-auto" style="color:#5b8db8;">F3 stands on three core pillars. Everything we do flows from these.</p>
     </div>
     <div class="grid md:grid-cols-3 gap-6">
-      <div class="bg-slate-50 border border-slate-200 rounded-lg p-8 hover:border-blue-500 hover:shadow-md transition">
-        <div class="w-12 h-12 rounded bg-blue-50 border border-blue-500 flex items-center justify-center mb-5">
-          <svg class="w-6 h-6 text-blue-400" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M5 6h2v12H5V6zm12 0h2v12h-2V6zM7 11h10v2H7v-2z"/></svg>
+      <div class="rounded-lg p-8 transition" style="background:#e8f4f8; border:1px solid #a8c8e8;" onmouseover="this.style.borderColor='#1a3a5c'; this.style.boxShadow='0 4px 12px rgba(13,27,42,0.15)'" onmouseout="this.style.borderColor='#a8c8e8'; this.style.boxShadow='none'">
+        <div class="w-12 h-12 rounded flex items-center justify-center mb-5" style="background:#ffffff; border:1px solid #5b8db8;">
+          <svg class="w-6 h-6" style="color:#1a3a5c;" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M5 6h2v12H5V6zm12 0h2v12h-2V6zM7 11h10v2H7v-2z"/></svg>
         </div>
-        <h3 class="font-display font-bold text-xl text-slate-900 mb-2">Fitness</h3>
-        <p class="text-slate-500 text-sm leading-relaxed">Free, intense, peer-led workouts at 5:15 AM. Every workout is functional, scalable, and led by a different man each time. No two are alike.</p>
+        <h3 class="font-display font-bold text-xl mb-2" style="color:#0d1b2a;">Fitness</h3>
+        <p class="text-sm leading-relaxed" style="color:#1a3a5c;">Free, intense, peer-led workouts at 5:15 AM. Every workout is functional, scalable, and led by a different man each time. No two are alike.</p>
       </div>
-      <div class="bg-slate-50 border border-slate-200 rounded-lg p-8 hover:border-amber-500 hover:shadow-md transition">
-        <div class="w-12 h-12 rounded bg-amber-50 border border-amber-500 flex items-center justify-center mb-5">
-          <svg class="w-6 h-6 text-amber-400" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M17 20h5v-2a4 4 0 00-3-3.87M9 20H4v-2a4 4 0 013-3.87m5-9a4 4 0 110 8 4 4 0 010-8zm6 3a3 3 0 110 6 3 3 0 010-6zM5 9a3 3 0 110 6 3 3 0 010-6z"/></svg>
+      <div class="rounded-lg p-8 transition" style="background:#e8f4f8; border:1px solid #a8c8e8;" onmouseover="this.style.borderColor='#1a3a5c'; this.style.boxShadow='0 4px 12px rgba(13,27,42,0.15)'" onmouseout="this.style.borderColor='#a8c8e8'; this.style.boxShadow='none'">
+        <div class="w-12 h-12 rounded flex items-center justify-center mb-5" style="background:#ffffff; border:1px solid #5b8db8;">
+          <svg class="w-6 h-6" style="color:#1a3a5c;" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M17 20h5v-2a4 4 0 00-3-3.87M9 20H4v-2a4 4 0 013-3.87m5-9a4 4 0 110 8 4 4 0 010-8zm6 3a3 3 0 110 6 3 3 0 010-6zM5 9a3 3 0 110 6 3 3 0 010-6z"/></svg>
         </div>
-        <h3 class="font-display font-bold text-xl text-slate-900 mb-2">Fellowship</h3>
-        <p class="text-slate-500 text-sm leading-relaxed">Men holding each other accountable, on the field and off. The sweat fades, the bonds don't. This is where real friendships are built.</p>
+        <h3 class="font-display font-bold text-xl mb-2" style="color:#0d1b2a;">Fellowship</h3>
+        <p class="text-sm leading-relaxed" style="color:#1a3a5c;">Men holding each other accountable, on the field and off. The sweat fades, the bonds don't. This is where real friendships are built.</p>
       </div>
-      <div class="bg-slate-50 border border-slate-200 rounded-lg p-8 hover:border-blue-500 hover:shadow-md transition">
-        <div class="w-12 h-12 rounded bg-blue-50 border border-blue-500 flex items-center justify-center mb-5">
-          <svg class="w-6 h-6 text-blue-400" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M12 2l3 6 6 .9-4.5 4.3 1 6.3L12 16.9 6.5 19.5l1-6.3L3 8.9 9 8z"/></svg>
+      <div class="rounded-lg p-8 transition" style="background:#e8f4f8; border:1px solid #a8c8e8;" onmouseover="this.style.borderColor='#1a3a5c'; this.style.boxShadow='0 4px 12px rgba(13,27,42,0.15)'" onmouseout="this.style.borderColor='#a8c8e8'; this.style.boxShadow='none'">
+        <div class="w-12 h-12 rounded flex items-center justify-center mb-5" style="background:#ffffff; border:1px solid #5b8db8;">
+          <svg class="w-6 h-6" style="color:#1a3a5c;" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M12 2l3 6 6 .9-4.5 4.3 1 6.3L12 16.9 6.5 19.5l1-6.3L3 8.9 9 8z"/></svg>
         </div>
-        <h3 class="font-display font-bold text-xl text-slate-900 mb-2">Faith</h3>
-        <p class="text-slate-500 text-sm leading-relaxed">A calling to lead and serve &mdash; in our homes, workplaces, and communities. F3 is faith-friendly to all men, regardless of background or belief.</p>
+        <h3 class="font-display font-bold text-xl mb-2" style="color:#0d1b2a;">Faith</h3>
+        <p class="text-sm leading-relaxed" style="color:#1a3a5c;">A calling to lead and serve &mdash; in our homes, workplaces, and communities. F3 is faith-friendly to all men, regardless of background or belief.</p>
       </div>
     </div>
   </div>
 </section>
 
 <!-- AO / SCHEDULE -->
-<section id="aos" class="bg-slate-50 border-b border-slate-200">
+<section id="aos" class="border-b" style="background:#e8f4f8; border-color:#a8c8e8;">
   <div class="max-w-6xl mx-auto px-4 py-16 md:py-24">
     <div class="text-center mb-12">
-      <h2 class="font-display font-black text-3xl md:text-4xl text-slate-900">Find a Workout (AO)</h2>
-      <p class="text-slate-500 mt-3 max-w-xl mx-auto">Every workout is FREE, outdoors, and open to all men. Pick a location below and just show up.</p>
+      <h2 class="font-display font-black text-3xl md:text-4xl" style="color:#0d1b2a;">Find a Workout (AO)</h2>
+      <p class="mt-3 max-w-xl mx-auto" style="color:#5b8db8;">Every workout is FREE, outdoors, and open to all men. Pick a location below and just show up.</p>
     </div>
 
     <div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-5">
 
       <!-- The Stable -->
-      <div class="bg-white border border-slate-200 rounded-lg p-6 hover:border-amber-500 hover:shadow-md transition flex flex-col">
+      <div class="rounded-lg p-6 transition flex flex-col" style="background:#ffffff; border:1px solid #a8c8e8;" onmouseover="this.style.borderColor='#1a3a5c'; this.style.boxShadow='0 4px 12px rgba(13,27,42,0.12)'" onmouseout="this.style.borderColor='#a8c8e8'; this.style.boxShadow='none'">
         <div class="flex items-center gap-3 mb-3">
           <span class="text-2xl">🐴</span>
-          <h3 class="font-display font-bold text-slate-900 text-lg">The Stable</h3>
+          <h3 class="font-display font-bold text-lg" style="color:#0d1b2a;">The Stable</h3>
         </div>
-        <p class="text-slate-500 text-sm flex-1">Chesterfield Elementary</p>
+        <p class="text-sm flex-1" style="color:#5b8db8;">Chesterfield Elementary</p>
         <div class="mt-4 flex items-center justify-between text-sm">
-          <span class="text-amber-500 font-bold">0530</span>
-          <span class="text-slate-400">Tue / Thu</span>
+          <span class="font-bold" style="color:#1a3a5c;">0530</span>
+          <span style="color:#a8c8e8;">Tue / Thu</span>
         </div>
       </div>
 
       <!-- Mousetrap -->
-      <div class="bg-white border border-slate-200 rounded-lg p-6 hover:border-amber-500 hover:shadow-md transition flex flex-col">
+      <div class="rounded-lg p-6 transition flex flex-col" style="background:#ffffff; border:1px solid #a8c8e8;" onmouseover="this.style.borderColor='#1a3a5c'; this.style.boxShadow='0 4px 12px rgba(13,27,42,0.12)'" onmouseout="this.style.borderColor='#a8c8e8'; this.style.boxShadow='none'">
         <div class="flex items-center gap-3 mb-3">
           <span class="text-2xl">🐭</span>
-          <h3 class="font-display font-bold text-slate-900 text-lg">Mousetrap</h3>
+          <h3 class="font-display font-bold text-lg" style="color:#0d1b2a;">Mousetrap</h3>
         </div>
-        <p class="text-slate-500 text-sm flex-1">Wildwood City Park</p>
+        <p class="text-sm flex-1" style="color:#5b8db8;">Wildwood City Park</p>
         <div class="mt-4 flex items-center justify-between text-sm">
-          <span class="text-amber-500 font-bold">0530</span>
-          <span class="text-slate-400">Mon / Wed / Fri</span>
+          <span class="font-bold" style="color:#1a3a5c;">0530</span>
+          <span style="color:#a8c8e8;">Mon / Wed / Fri</span>
         </div>
       </div>
 
-      <!-- Arkam -->
-      <div class="bg-white border border-slate-200 rounded-lg p-6 hover:border-amber-500 hover:shadow-md transition flex flex-col">
+      <!-- Arkham -->
+      <div class="rounded-lg p-6 transition flex flex-col" style="background:#ffffff; border:1px solid #a8c8e8;" onmouseover="this.style.borderColor='#1a3a5c'; this.style.boxShadow='0 4px 12px rgba(13,27,42,0.12)'" onmouseout="this.style.borderColor='#a8c8e8'; this.style.boxShadow='none'">
         <div class="flex items-center gap-3 mb-3">
           <span class="text-2xl">🦇</span>
-          <h3 class="font-display font-bold text-slate-900 text-lg">Arkham</h3>
+          <h3 class="font-display font-bold text-lg" style="color:#0d1b2a;">Arkham</h3>
         </div>
-        <p class="text-slate-500 text-sm flex-1">Babler Elementary</p>
+        <p class="text-sm flex-1" style="color:#5b8db8;">Babler Elementary</p>
         <div class="mt-4 flex items-center justify-between text-sm">
-          <span class="text-amber-500 font-bold">0530</span>
-          <span class="text-slate-400">Tue / Thu</span>
+          <span class="font-bold" style="color:#1a3a5c;">0530</span>
+          <span style="color:#a8c8e8;">Tue / Thu</span>
         </div>
       </div>
 
       <!-- Pickle Jar -->
-      <div class="bg-white border border-slate-200 rounded-lg p-6 hover:border-amber-500 hover:shadow-md transition flex flex-col">
+      <div class="rounded-lg p-6 transition flex flex-col" style="background:#ffffff; border:1px solid #a8c8e8;" onmouseover="this.style.borderColor='#1a3a5c'; this.style.boxShadow='0 4px 12px rgba(13,27,42,0.12)'" onmouseout="this.style.borderColor='#a8c8e8'; this.style.boxShadow='none'">
         <div class="flex items-center gap-3 mb-3">
           <span class="text-2xl">🥒</span>
-          <h3 class="font-display font-bold text-slate-900 text-lg">Pickle Jar</h3>
+          <h3 class="font-display font-bold text-lg" style="color:#0d1b2a;">Pickle Jar</h3>
         </div>
-        <p class="text-slate-500 text-sm flex-1">Vlasis Park</p>
+        <p class="text-sm flex-1" style="color:#5b8db8;">Vlasis Park</p>
         <div class="mt-4 flex items-center justify-between text-sm">
-          <span class="text-amber-500 font-bold">0530</span>
-          <span class="text-slate-400">Tue / Thu</span>
+          <span class="font-bold" style="color:#1a3a5c;">0530</span>
+          <span style="color:#a8c8e8;">Tue / Thu</span>
         </div>
       </div>
 
       <!-- Pathfinder -->
-      <div class="bg-white border border-slate-200 rounded-lg p-6 hover:border-amber-500 hover:shadow-md transition flex flex-col">
+      <div class="rounded-lg p-6 transition flex flex-col" style="background:#ffffff; border:1px solid #a8c8e8;" onmouseover="this.style.borderColor='#1a3a5c'; this.style.boxShadow='0 4px 12px rgba(13,27,42,0.12)'" onmouseout="this.style.borderColor='#a8c8e8'; this.style.boxShadow='none'">
         <div class="flex items-center gap-3 mb-3">
           <span class="text-2xl">🧭</span>
-          <h3 class="font-display font-bold text-slate-900 text-lg">Pathfinder</h3>
+          <h3 class="font-display font-bold text-lg" style="color:#0d1b2a;">Pathfinder</h3>
         </div>
-        <p class="text-slate-500 text-sm flex-1">Pathfinder Church</p>
+        <p class="text-sm flex-1" style="color:#5b8db8;">Pathfinder Church</p>
         <div class="mt-4 flex items-center justify-between text-sm">
-          <span class="text-amber-500 font-bold">0645</span>
-          <span class="text-slate-400">Sat</span>
+          <span class="font-bold" style="color:#1a3a5c;">0645</span>
+          <span style="color:#a8c8e8;">Sat</span>
         </div>
       </div>
 
       <!-- Morning Wood -->
-      <div class="bg-white border border-slate-200 rounded-lg p-6 hover:border-amber-500 hover:shadow-md transition flex flex-col">
+      <div class="rounded-lg p-6 transition flex flex-col" style="background:#ffffff; border:1px solid #a8c8e8;" onmouseover="this.style.borderColor='#1a3a5c'; this.style.boxShadow='0 4px 12px rgba(13,27,42,0.12)'" onmouseout="this.style.borderColor='#a8c8e8'; this.style.boxShadow='none'">
         <div class="flex items-center gap-3 mb-3">
           <span class="text-2xl">🌲</span>
-          <h3 class="font-display font-bold text-slate-900 text-lg">Morning Wood</h3>
+          <h3 class="font-display font-bold text-lg" style="color:#0d1b2a;">Morning Wood</h3>
         </div>
-        <p class="text-slate-500 text-sm flex-1">Castlewood Park</p>
+        <p class="text-sm flex-1" style="color:#5b8db8;">Castlewood Park</p>
         <div class="mt-4 flex items-center justify-between text-sm">
-          <span class="text-amber-500 font-bold">0700</span>
-          <span class="text-slate-400">Sun</span>
+          <span class="font-bold" style="color:#1a3a5c;">0700</span>
+          <span style="color:#a8c8e8;">Sun</span>
         </div>
       </div>
 
       <!-- Zombie Ridge -->
-      <div class="bg-white border border-slate-200 rounded-lg p-6 hover:border-amber-500 hover:shadow-md transition flex flex-col">
+      <div class="rounded-lg p-6 transition flex flex-col" style="background:#ffffff; border:1px solid #a8c8e8;" onmouseover="this.style.borderColor='#1a3a5c'; this.style.boxShadow='0 4px 12px rgba(13,27,42,0.12)'" onmouseout="this.style.borderColor='#a8c8e8'; this.style.boxShadow='none'">
         <div class="flex items-center gap-3 mb-3">
           <span class="text-2xl">🧟</span>
-          <h3 class="font-display font-bold text-slate-900 text-lg">Zombie Ridge</h3>
+          <h3 class="font-display font-bold text-lg" style="color:#0d1b2a;">Zombie Ridge</h3>
         </div>
-        <p class="text-slate-500 text-sm flex-1">Ridge Elementary</p>
+        <p class="text-sm flex-1" style="color:#5b8db8;">Ridge Elementary</p>
         <div class="mt-4 flex items-center justify-between text-sm">
-          <span class="text-amber-500 font-bold">0515 / 0500</span>
-          <span class="text-slate-400">Tue / Sun</span>
+          <span class="font-bold" style="color:#1a3a5c;">0515 / 0500</span>
+          <span style="color:#a8c8e8;">Tue / Sun</span>
         </div>
       </div>
 
       <!-- The Way -->
-      <div class="bg-white border border-slate-200 rounded-lg p-6 hover:border-amber-500 hover:shadow-md transition flex flex-col">
+      <div class="rounded-lg p-6 transition flex flex-col" style="background:#ffffff; border:1px solid #a8c8e8;" onmouseover="this.style.borderColor='#1a3a5c'; this.style.boxShadow='0 4px 12px rgba(13,27,42,0.12)'" onmouseout="this.style.borderColor='#a8c8e8'; this.style.boxShadow='none'">
         <div class="flex items-center gap-3 mb-3">
           <span class="text-2xl">⛪</span>
-          <h3 class="font-display font-bold text-slate-900 text-lg">The Way</h3>
+          <h3 class="font-display font-bold text-lg" style="color:#0d1b2a;">The Way</h3>
         </div>
-        <p class="text-slate-500 text-sm flex-1">Crestview Middle</p>
+        <p class="text-sm flex-1" style="color:#5b8db8;">Crestview Middle</p>
         <div class="mt-4 flex items-center justify-between text-sm">
-          <span class="text-amber-500 font-bold">0530</span>
-          <span class="text-slate-400">Mon / Wed / Fri</span>
+          <span class="font-bold" style="color:#1a3a5c;">0530</span>
+          <span style="color:#a8c8e8;">Mon / Wed / Fri</span>
         </div>
       </div>
 
       <!-- Diamond Dawn -->
-      <div class="bg-white border border-slate-200 rounded-lg p-6 hover:border-amber-500 hover:shadow-md transition flex flex-col">
+      <div class="rounded-lg p-6 transition flex flex-col" style="background:#ffffff; border:1px solid #a8c8e8;" onmouseover="this.style.borderColor='#1a3a5c'; this.style.boxShadow='0 4px 12px rgba(13,27,42,0.12)'" onmouseout="this.style.borderColor='#a8c8e8'; this.style.boxShadow='none'">
         <div class="flex items-center gap-3 mb-3">
           <span class="text-2xl">💎</span>
-          <h3 class="font-display font-bold text-slate-900 text-lg">Diamond Dawn</h3>
+          <h3 class="font-display font-bold text-lg" style="color:#0d1b2a;">Diamond Dawn</h3>
         </div>
-        <p class="text-slate-500 text-sm flex-1">Wildwood Middle</p>
+        <p class="text-sm flex-1" style="color:#5b8db8;">Wildwood Middle</p>
         <div class="mt-4 flex items-center justify-between text-sm">
-          <span class="text-amber-500 font-bold">0500</span>
-          <span class="text-slate-400">Wed</span>
+          <span class="font-bold" style="color:#1a3a5c;">0500</span>
+          <span style="color:#a8c8e8;">Wed</span>
         </div>
       </div>
 
     </div>
 
     <!-- What to bring -->
-    <div class="mt-14 bg-white border border-slate-200 rounded-lg p-8 max-w-2xl mx-auto shadow-sm">
-      <h3 class="font-display font-bold text-xl text-slate-900 mb-5 text-center">What to Bring (FNG Checklist)</h3>
-      <ul class="grid sm:grid-cols-2 gap-4 text-slate-700">
+    <div class="mt-14 rounded-lg p-8 max-w-2xl mx-auto shadow-sm" style="background:#ffffff; border:1px solid #a8c8e8;">
+      <h3 class="font-display font-bold text-xl mb-5 text-center" style="color:#0d1b2a;">What to Bring (FNG Checklist)</h3>
+      <ul class="grid sm:grid-cols-2 gap-4" style="color:#1a3a5c;">
         <li class="flex items-center gap-3">
-          <span class="w-6 h-6 flex items-center justify-center rounded bg-amber-50 border border-amber-500 text-amber-600">✓</span>
+          <span class="w-6 h-6 flex items-center justify-center rounded font-bold text-sm" style="background:#e8f4f8; border:1px solid #5b8db8; color:#1a3a5c;">✓</span>
           Running shoes
         </li>
         <li class="flex items-center gap-3">
-          <span class="w-6 h-6 flex items-center justify-center rounded bg-amber-50 border border-amber-500 text-amber-600">✓</span>
+          <span class="w-6 h-6 flex items-center justify-center rounded font-bold text-sm" style="background:#e8f4f8; border:1px solid #5b8db8; color:#1a3a5c;">✓</span>
           Water bottle
         </li>
         <li class="flex items-center gap-3">
-          <span class="w-6 h-6 flex items-center justify-center rounded bg-amber-50 border border-amber-500 text-amber-600">✓</span>
+          <span class="w-6 h-6 flex items-center justify-center rounded font-bold text-sm" style="background:#e8f4f8; border:1px solid #5b8db8; color:#1a3a5c;">✓</span>
           Gloves (cold mornings / pull-up bars)
         </li>
         <li class="flex items-center gap-3">
-          <span class="w-6 h-6 flex items-center justify-center rounded bg-amber-50 border border-amber-500 text-amber-600">✓</span>
+          <span class="w-6 h-6 flex items-center justify-center rounded font-bold text-sm" style="background:#e8f4f8; border:1px solid #5b8db8; color:#1a3a5c;">✓</span>
           Weather-appropriate layers
         </li>
         <li class="flex items-center gap-3">
-          <span class="w-6 h-6 flex items-center justify-center rounded bg-amber-50 border border-amber-500 text-amber-600">✓</span>
+          <span class="w-6 h-6 flex items-center justify-center rounded font-bold text-sm" style="background:#e8f4f8; border:1px solid #5b8db8; color:#1a3a5c;">✓</span>
           A good attitude
         </li>
         <li class="flex items-center gap-3">
-          <span class="w-6 h-6 flex items-center justify-center rounded bg-amber-50 border border-amber-500 text-amber-600">✓</span>
+          <span class="w-6 h-6 flex items-center justify-center rounded font-bold text-sm" style="background:#e8f4f8; border:1px solid #5b8db8; color:#1a3a5c;">✓</span>
           A buddy (optional, but encouraged)
         </li>
       </ul>
-      <p class="text-slate-400 text-xs text-center mt-6">No experience necessary. No cost, ever. All ages, all fitness levels.</p>
+      <p class="text-xs text-center mt-6" style="color:#a8c8e8;">No experience necessary. No cost, ever. All ages, all fitness levels.</p>
     </div>
   </div>
 </section>
 
 <!-- WHERE WE MEET -->
-<section id="meet" class="bg-white border-b border-slate-200">
+<section id="meet" class="border-b" style="background:#ffffff; border-color:#e8f4f8;">
   <div class="max-w-6xl mx-auto px-4 py-16 md:py-24">
     <div class="text-center mb-12">
-      <h2 class="font-display font-black text-3xl md:text-4xl text-slate-900">Where We Meet</h2>
-      <p class="text-slate-500 mt-3 max-w-xl mx-auto">F3 Monarch STL operates across the western St. Louis metro &mdash; Chesterfield, Wildwood, Ballwin, and surrounding areas. First time? Just show up &mdash; no sign-up required.</p>
+      <h2 class="font-display font-black text-3xl md:text-4xl" style="color:#0d1b2a;">Where We Meet</h2>
+      <p class="mt-3 max-w-xl mx-auto" style="color:#5b8db8;">F3 Monarch STL operates across the western St. Louis metro &mdash; Chesterfield, Wildwood, Ballwin, and surrounding areas. First time? Just show up &mdash; no sign-up required.</p>
     </div>
     <div class="grid md:grid-cols-2 gap-8 items-center">
       <div class="space-y-5">
         <div class="flex gap-4">
-          <div class="w-10 h-10 shrink-0 rounded bg-blue-50 border border-blue-500 flex items-center justify-center">
-            <svg class="w-5 h-5 text-blue-400" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M12 21c-4-4-7-7.5-7-11a7 7 0 1114 0c0 3.5-3 7-7 11z"/><circle cx="12" cy="10" r="2.5"/></svg>
+          <div class="w-10 h-10 shrink-0 rounded flex items-center justify-center" style="background:#e8f4f8; border:1px solid #5b8db8;">
+            <svg class="w-5 h-5" style="color:#1a3a5c;" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M12 21c-4-4-7-7.5-7-11a7 7 0 1114 0c0 3.5-3 7-7 11z"/><circle cx="12" cy="10" r="2.5"/></svg>
           </div>
           <div>
-            <h4 class="font-bold text-slate-900">9 AOs Across the Region</h4>
-            <p class="text-slate-500 text-sm">Chesterfield, Wildwood, Ballwin &amp; nearby &mdash; an AO close to almost everyone.</p>
+            <h4 class="font-bold" style="color:#0d1b2a;">9 AOs Across the Region</h4>
+            <p class="text-sm" style="color:#5b8db8;">Chesterfield, Wildwood, Ballwin &amp; nearby &mdash; an AO close to almost everyone.</p>
           </div>
         </div>
         <div class="flex gap-4">
-          <div class="w-10 h-10 shrink-0 rounded bg-amber-50 border border-amber-500 flex items-center justify-center">
-            <svg class="w-5 h-5 text-amber-400" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M12 8v4l3 2M12 22a10 10 0 100-20 10 10 0 000 20z"/></svg>
+          <div class="w-10 h-10 shrink-0 rounded flex items-center justify-center" style="background:#e8f4f8; border:1px solid #5b8db8;">
+            <svg class="w-5 h-5" style="color:#1a3a5c;" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M12 8v4l3 2M12 22a10 10 0 100-20 10 10 0 000 20z"/></svg>
           </div>
           <div>
-            <h4 class="font-bold text-slate-900">0515 &mdash; Rain, Cold, or Heat</h4>
-            <p class="text-slate-500 text-sm">We start on time and end on time, 45 minutes, every workout day.</p>
+            <h4 class="font-bold" style="color:#0d1b2a;">0515 &mdash; Rain, Cold, or Heat</h4>
+            <p class="text-sm" style="color:#5b8db8;">We start on time and end on time, 45 minutes, every workout day.</p>
           </div>
         </div>
         <div class="flex gap-4">
-          <div class="w-10 h-10 shrink-0 rounded bg-blue-50 border border-blue-500 flex items-center justify-center">
-            <svg class="w-5 h-5 text-blue-400" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M5 13l4 4L19 7"/></svg>
+          <div class="w-10 h-10 shrink-0 rounded flex items-center justify-center" style="background:#e8f4f8; border:1px solid #5b8db8;">
+            <svg class="w-5 h-5" style="color:#1a3a5c;" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M5 13l4 4L19 7"/></svg>
           </div>
           <div>
-            <h4 class="font-bold text-slate-900">Free. Always.</h4>
-            <p class="text-slate-500 text-sm">No membership, no fees, no equipment required. Just show up and post.</p>
+            <h4 class="font-bold" style="color:#0d1b2a;">Free. Always.</h4>
+            <p class="text-sm" style="color:#5b8db8;">No membership, no fees, no equipment required. Just show up and post.</p>
           </div>
         </div>
       </div>
-      <div class="rounded-lg overflow-hidden border border-slate-200 h-64 md:h-80 shadow-sm">
+      <div class="rounded-lg overflow-hidden h-64 md:h-80 shadow-sm" style="border:1px solid #a8c8e8;">
         <iframe
           class="w-full h-full"
           loading="lazy"
@@ -316,27 +325,27 @@
 </section>
 
 <!-- CONTACT -->
-<section id="contact" class="bg-slate-50">
+<section id="contact" style="background:#e8f4f8;">
   <div class="max-w-2xl mx-auto px-4 py-16 md:py-24">
     <div class="text-center mb-10">
-      <h2 class="font-display font-black text-3xl md:text-4xl text-slate-900">Got Questions?</h2>
-      <p class="text-slate-500 mt-3">Send us a message and a site Q will get back to you. First post is always free.</p>
+      <h2 class="font-display font-black text-3xl md:text-4xl" style="color:#0d1b2a;">Got Questions?</h2>
+      <p class="mt-3" style="color:#5b8db8;">Send us a message and a site Q will get back to you. First post is always free.</p>
     </div>
-    <form action="https://formspree.io/f/xojowbnl" method="POST" class="bg-white border border-slate-200 rounded-lg p-6 md:p-8 space-y-5 shadow-sm">
+    <form action="https://formspree.io/f/xojowbnl" method="POST" class="rounded-lg p-6 md:p-8 space-y-5 shadow-sm" style="background:#ffffff; border:1px solid #a8c8e8;">
       <div>
-        <label for="name" class="block text-sm font-semibold text-slate-700 mb-1.5">Name</label>
+        <label for="name" class="block text-sm font-semibold mb-1.5" style="color:#1a3a5c;">Name</label>
         <input type="text" id="name" name="name" required
-          class="w-full bg-white border border-slate-300 rounded px-4 py-2.5 text-slate-900 focus:outline-none focus:ring-2 focus:ring-amber-500 focus:border-amber-500 transition">
+          class="w-full rounded px-4 py-2.5 transition focus:outline-none" style="background:#ffffff; border:1px solid #a8c8e8; color:#0d1b2a;" onfocus="this.style.borderColor='#1a3a5c'; this.style.boxShadow='0 0 0 2px #5b8db840'" onblur="this.style.borderColor='#a8c8e8'; this.style.boxShadow='none'">
       </div>
       <div>
-        <label for="email" class="block text-sm font-semibold text-slate-700 mb-1.5">Email</label>
+        <label for="email" class="block text-sm font-semibold mb-1.5" style="color:#1a3a5c;">Email</label>
         <input type="email" id="email" name="email" required
-          class="w-full bg-white border border-slate-300 rounded px-4 py-2.5 text-slate-900 focus:outline-none focus:ring-2 focus:ring-amber-500 focus:border-amber-500 transition">
+          class="w-full rounded px-4 py-2.5 transition focus:outline-none" style="background:#ffffff; border:1px solid #a8c8e8; color:#0d1b2a;" onfocus="this.style.borderColor='#1a3a5c'; this.style.boxShadow='0 0 0 2px #5b8db840'" onblur="this.style.borderColor='#a8c8e8'; this.style.boxShadow='none'">
       </div>
       <div>
-        <label for="ao" class="block text-sm font-semibold text-slate-700 mb-1.5">Nearest AO (optional)</label>
+        <label for="ao" class="block text-sm font-semibold mb-1.5" style="color:#1a3a5c;">Nearest AO (optional)</label>
         <select id="ao" name="ao"
-          class="w-full bg-white border border-slate-300 rounded px-4 py-2.5 text-slate-900 focus:outline-none focus:ring-2 focus:ring-amber-500 focus:border-amber-500 transition">
+          class="w-full rounded px-4 py-2.5 transition focus:outline-none" style="background:#ffffff; border:1px solid #a8c8e8; color:#0d1b2a;" onfocus="this.style.borderColor='#1a3a5c'; this.style.boxShadow='0 0 0 2px #5b8db840'" onblur="this.style.borderColor='#a8c8e8'; this.style.boxShadow='none'">
           <option value="">Not sure yet</option>
           <option>The Stable</option>
           <option>Mousetrap</option>
@@ -350,12 +359,12 @@
         </select>
       </div>
       <div>
-        <label for="message" class="block text-sm font-semibold text-slate-700 mb-1.5">Message</label>
+        <label for="message" class="block text-sm font-semibold mb-1.5" style="color:#1a3a5c;">Message</label>
         <textarea id="message" name="message" rows="4" required
-          class="w-full bg-white border border-slate-300 rounded px-4 py-2.5 text-slate-900 focus:outline-none focus:ring-2 focus:ring-amber-500 focus:border-amber-500 transition resize-none"></textarea>
+          class="w-full rounded px-4 py-2.5 transition focus:outline-none resize-none" style="background:#ffffff; border:1px solid #a8c8e8; color:#0d1b2a;" onfocus="this.style.borderColor='#1a3a5c'; this.style.boxShadow='0 0 0 2px #5b8db840'" onblur="this.style.borderColor='#a8c8e8'; this.style.boxShadow='none'"></textarea>
       </div>
       <button type="submit"
-        class="w-full bg-amber-500 hover:bg-amber-400 text-white font-black uppercase tracking-wide py-3 rounded transition">
+        class="w-full font-black uppercase tracking-wide py-3 rounded transition" style="background:#1a3a5c; color:#e8f4f8;" onmouseover="this.style.background='#5b8db8'" onmouseout="this.style.background='#1a3a5c'">
         Send Message
       </button>
     </form>
@@ -363,13 +372,13 @@
 </section>
 
 <!-- FOOTER -->
-<footer class="bg-white border-t border-slate-200">
+<footer style="background:#0d1b2a; border-top:1px solid #1a3a5c;">
   <div class="max-w-6xl mx-auto px-4 py-10 flex flex-col md:flex-row items-center justify-between gap-4">
     <div class="flex items-center gap-2">
-      <span class="inline-flex items-center justify-center w-8 h-8 rounded bg-amber-500 text-slate-950 font-black text-sm">F3</span>
-      <span class="font-display font-bold text-slate-900">MONARCH STL</span>
+      <span class="inline-flex items-center justify-center w-8 h-8 rounded font-black text-sm" style="background:#5b8db8; color:#e8f4f8;">F3</span>
+      <span class="font-display font-bold" style="color:#e8f4f8;">MONARCH STL</span>
     </div>
-    <p class="text-slate-400 text-sm text-center">&copy; 2026 F3 Monarch STL. No man left behind. No man left where he is.</p>
+    <p class="text-sm text-center" style="color:#5b8db8;">&copy; 2026 F3 Monarch STL. No man left behind. No man left where he is.</p>
   </div>
 </footer>
 
