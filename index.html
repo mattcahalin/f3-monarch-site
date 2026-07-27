@@ -58,8 +58,10 @@
 </header>
 
 <!-- HERO -->
-<section class="relative border-b" style="background:linear-gradient(to bottom, #0d1b2a, #1a3a5c); border-color:#1a3a5c;">
-  <div class="max-w-6xl mx-auto px-4 py-10 md:py-28 text-center">
+<section class="relative border-b" style="border-color:#1a3a5c; min-height:100vh; overflow:hidden;">
+  <div id="hero-slideshow" class="absolute inset-0" style="z-index:0; background:#0d1b2a;"></div>
+  <div class="absolute inset-0" style="z-index:1; background:linear-gradient(to bottom, rgba(13,27,42,0.72), rgba(26,58,92,0.72));"></div>
+  <div class="relative max-w-6xl mx-auto px-4 py-10 text-center flex flex-col items-center justify-center" style="z-index:2; min-height:100vh;">
     <div class="flex items-center justify-center gap-3 md:gap-6 mb-6 md:mb-8">
       <img src="images/F3%20logo.png" alt="F3 Logo" class="w-16 h-16 md:w-[165px] md:h-[165px]" style="object-fit:contain; filter:invert(1); opacity:0.85;">
       <img src="images/monarch%20logo.png" alt="F3 Monarch STL Logo" class="w-36 h-36 md:w-[330px] md:h-[330px]" style="object-fit:contain;">
@@ -354,6 +356,86 @@
     <p class="text-sm text-center" style="color:#5b8db8;">&copy; 2026 F3 Monarch STL. No man left behind. No man left where he is.</p>
   </div>
 </footer>
+
+<script>
+  (function() {
+    const heroImages = [
+      "images/starfish/IMG_5704.JPG",
+      "images/starfish/IMG_5712.JPG",
+      "images/starfish/IMG_5714.JPG",
+      "images/starfish/IMG_5716.JPG",
+      "images/starfish/IMG_5725.JPG",
+      "images/starfish/IMG_5728.JPG",
+      "images/starfish/IMG_5731.JPG",
+      "images/starfish/IMG_5733.JPG",
+      "images/starfish/IMG_5738.JPG",
+      "images/starfish/IMG_5739.JPG",
+      "images/starfish/IMG_5747.JPG",
+      "images/starfish/IMG_5748.JPG",
+      "images/starfish/IMG_5753.JPG",
+      "images/starfish/IMG_5754.JPG",
+      "images/starfish/IMG_5756.JPG",
+      "images/starfish/IMG_5764.JPG",
+      "images/starfish/IMG_5768.JPG",
+      "images/starfish/IMG_5769.JPG",
+      "images/starfish/IMG_5770.JPG",
+      "images/starfish/IMG_5771.JPG",
+      "images/starfish/IMG_5772.JPG",
+      "images/starfish/IMG_5773.JPG",
+      "images/starfish/IMG_5774.JPG",
+      "images/starfish/IMG_5775.JPG",
+      "images/starfish/IMG_5776.JPG",
+      "images/starfish/IMG_5777.JPG",
+      "images/starfish/IMG_5778.JPG",
+      "images/starfish/IMG_5783.JPG",
+      "images/starfish/IMG_5785.JPG",
+      "images/starfish/IMG_5787.JPG",
+      "images/starfish/IMG_5788.JPG",
+      "images/starfish/IMG_5797.JPG",
+      "images/starfish/IMG_5798.JPG",
+      "images/starfish/IMG_5799.JPG",
+      "images/starfish/IMG_5800.JPG",
+      "images/starfish/IMG_5802.JPG",
+      "images/starfish/IMG_5804.JPG",
+      "images/starfish/IMG_5806.JPG",
+      "images/starfish/IMG_5807.JPG",
+      "images/starfish/IMG_5808.JPG",
+      "images/starfish/IMG_5809.JPG",
+      "images/starfish/IMG_5810.JPG"
+    ];
+
+    for (let i = heroImages.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      [heroImages[i], heroImages[j]] = [heroImages[j], heroImages[i]];
+    }
+
+    const container = document.getElementById('hero-slideshow');
+    let index = 0;
+
+    function makeSlide(src) {
+      const img = document.createElement('img');
+      img.src = src;
+      img.alt = '';
+      img.style.cssText = 'position:absolute; inset:0; width:100%; height:100%; object-fit:cover; transition: transform 1.2s ease-in-out; transform: translateX(100%);';
+      container.appendChild(img);
+      return img;
+    }
+
+    let current = makeSlide(heroImages[0]);
+    current.style.transform = 'translateX(0)';
+
+    setInterval(() => {
+      index = (index + 1) % heroImages.length;
+      const next = makeSlide(heroImages[index]);
+      void next.offsetWidth;
+      next.style.transform = 'translateX(0)';
+      current.style.transform = 'translateX(-100%)';
+      const old = current;
+      current = next;
+      setTimeout(() => old.remove(), 1300);
+    }, 5000);
+  })();
+</script>
 
 <script>
   const map = L.map('ao-map').setView([38.620, -90.590], 11);
