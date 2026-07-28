@@ -19,10 +19,17 @@
 <meta name="twitter:title" content="Photo Gallery | F3 Monarch STL">
 <meta name="twitter:image" content="https://f3-monarchstl.com/images/starfish/IMG_5798.JPG">
 
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Oswald:wght@500;600;700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
 <script src="https://cdn.tailwindcss.com"></script>
 <style>
-  body { font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, sans-serif; }
-  .font-display { font-family: ui-sans-serif, system-ui, sans-serif; letter-spacing: -0.02em; }
+  body { font-family: 'Inter', ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, sans-serif; }
+  .font-display { font-family: 'Oswald', ui-sans-serif, system-ui, sans-serif; letter-spacing: -0.01em; }
+
+  a, button, input, select, textarea {
+    transition: color 0.2s ease, background-color 0.2s ease, border-color 0.2s ease, box-shadow 0.2s ease, transform 0.2s ease, opacity 0.2s ease;
+  }
 </style>
 </head>
 <body style="background:#ffffff; color:#1a3a5c;">
@@ -31,13 +38,13 @@
 <header class="sticky top-0 z-50 backdrop-blur" style="background:rgba(13,27,42,0.97); border-bottom:1px solid #1a3a5c;">
   <div class="max-w-6xl mx-auto px-4 py-3 flex items-center justify-between">
     <a href="index.html" class="flex items-center gap-2">
-      <img src="images/monarch%20logo.png" alt="F3 Monarch STL Logo" style="width:36px; height:36px; object-fit:contain;">
+      <img src="images/monarch%20logo%20transparent.png" alt="F3 Monarch STL Logo" style="width:36px; height:36px; object-fit:contain;">
       <span class="font-display font-bold text-lg tracking-tight" style="color:#e8f4f8;">F3 MONARCH <span style="color:#a8c8e8;">STL</span></span>
     </a>
     <nav class="hidden md:flex gap-6 text-sm font-semibold" style="color:#a8c8e8;">
       <a href="index.html#fs" class="transition" style="color:#a8c8e8;" onmouseover="this.style.color='#e8f4f8'" onmouseout="this.style.color='#a8c8e8'">The 3 F's</a>
       <a href="index.html#aos" class="transition" style="color:#a8c8e8;" onmouseover="this.style.color='#e8f4f8'" onmouseout="this.style.color='#a8c8e8'">AOs</a>
-      <a href="index.html#meet" class="transition" style="color:#a8c8e8;" onmouseover="this.style.color='#e8f4f8'" onmouseout="this.style.color='#a8c8e8'">Where We Meet</a>
+      <a href="index.html#meet" class="transition" style="color:#a8c8e8;" onmouseover="this.style.color='#e8f4f8'" onmouseout="this.style.color='#a8c8e8'">Monarch Region Map</a>
       <a href="index.html#contact" class="transition" style="color:#a8c8e8;" onmouseover="this.style.color='#e8f4f8'" onmouseout="this.style.color='#a8c8e8'">Contact</a>
       <a href="gallery.html" style="color:#e8f4f8; font-weight:700;">Photo Gallery</a>
     </nav>
@@ -105,7 +112,7 @@
 <footer style="background:#0d1b2a; border-top:1px solid #1a3a5c;">
   <div class="max-w-6xl mx-auto px-4 py-10 flex flex-col md:flex-row items-center justify-between gap-4">
     <div class="flex items-center gap-2">
-      <img src="images/monarch%20logo.png" alt="F3 Monarch STL Logo" style="width:32px; height:32px; object-fit:contain;">
+      <img src="images/monarch%20logo%20transparent.png" alt="F3 Monarch STL Logo" style="width:32px; height:32px; object-fit:contain;">
       <span class="font-display font-bold" style="color:#e8f4f8;">F3 MONARCH STL</span>
     </div>
     <p class="text-sm text-center" style="color:#5b8db8;">&copy; 2026 F3 Monarch STL. No man left behind. No man left where he is.</p>
