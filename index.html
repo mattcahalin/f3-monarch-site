@@ -42,6 +42,41 @@
     --blue-ice:  #a8c8e8;
     --off-white: #e8f4f8;
   }
+
+  /* Hero slideshow loading skeleton */
+  @keyframes hero-shimmer {
+    0%   { background-position: -200% 0; }
+    100% { background-position: 200% 0; }
+  }
+  #hero-slideshow {
+    background: linear-gradient(90deg, var(--navy) 0%, var(--navy-mid) 50%, var(--navy) 100%);
+    background-size: 200% 100%;
+    animation: hero-shimmer 1.8s ease-in-out infinite;
+  }
+
+  /* Reusable component classes (replace repeated inline style/hover JS) */
+  .nav-link { color: var(--blue-ice); }
+  .nav-link:hover { color: var(--off-white); }
+
+  .mobile-nav-link { color: var(--blue-ice); padding: 8px 0; border-bottom: 1px solid rgba(26,58,92,0.13); }
+
+  .btn-primary { background: var(--blue-mid); color: var(--off-white); }
+  .btn-primary:hover { background: var(--blue-ice); color: var(--navy); }
+
+  .btn-outline { border-color: var(--blue-mid); color: var(--blue-ice); }
+  .btn-outline:hover { border-color: var(--blue-ice); color: var(--off-white); }
+
+  .btn-submit { background: var(--navy-mid); color: var(--off-white); }
+  .btn-submit:hover { background: var(--blue-mid); }
+
+  .card { background: var(--off-white); border: 1px solid var(--blue-ice); }
+  .card:hover { border-color: var(--navy-mid); box-shadow: 0 8px 20px rgba(13,27,42,0.18); transform: translateY(-4px); }
+
+  .tile-dark { background: linear-gradient(135deg, var(--navy), var(--navy-mid)); border: 1px solid var(--navy-mid); }
+  .tile-dark:hover { box-shadow: 0 8px 22px rgba(13,27,42,0.3); transform: translateY(-4px); }
+
+  .form-input { background: #ffffff; border: 1px solid var(--blue-ice); color: var(--navy); }
+  .form-input:focus { outline: none; border-color: var(--navy-mid); box-shadow: 0 0 0 2px rgba(91,141,184,0.25); }
 </style>
 </head>
 <body style="background:#ffffff; color:#1a3a5c;">
@@ -54,14 +89,14 @@
       <span class="font-display font-bold text-lg tracking-tight" style="color:#e8f4f8;">F3 MONARCH <span style="color:#a8c8e8;">STL</span></span>
     </div>
     <nav class="hidden md:flex gap-6 text-sm font-semibold" style="color:#a8c8e8;">
-      <a href="#fs" class="transition" style="color:#a8c8e8;" onmouseover="this.style.color='#e8f4f8'" onmouseout="this.style.color='#a8c8e8'">The 3 F's</a>
-      <a href="#aos" class="transition" style="color:#a8c8e8;" onmouseover="this.style.color='#e8f4f8'" onmouseout="this.style.color='#a8c8e8'">AOs</a>
-      <a href="#meet" class="transition" style="color:#a8c8e8;" onmouseover="this.style.color='#e8f4f8'" onmouseout="this.style.color='#a8c8e8'">Monarch Region Map</a>
-      <a href="#contact" class="transition" style="color:#a8c8e8;" onmouseover="this.style.color='#e8f4f8'" onmouseout="this.style.color='#a8c8e8'">Contact</a>
-      <a href="gallery.html" class="transition" style="color:#a8c8e8;" onmouseover="this.style.color='#e8f4f8'" onmouseout="this.style.color='#a8c8e8'">Photo Gallery</a>
+      <a href="#fs" class="nav-link">The 3 F's</a>
+      <a href="#aos" class="nav-link">AOs</a>
+      <a href="#meet" class="nav-link">Monarch Region Map</a>
+      <a href="#contact" class="nav-link">Contact</a>
+      <a href="gallery.html" class="nav-link">Photo Gallery</a>
     </nav>
     <div class="flex items-center gap-3">
-      <a href="#aos" class="hidden md:inline-block font-bold text-sm px-4 py-2 rounded transition" style="background:#5b8db8; color:#e8f4f8;" onmouseover="this.style.background='#a8c8e8'; this.style.color='#0d1b2a'" onmouseout="this.style.background='#5b8db8'; this.style.color='#e8f4f8'">Find a Workout</a>
+      <a href="#aos" class="hidden md:inline-block font-bold text-sm px-4 py-2 rounded btn-primary">Find a Workout</a>
       <button id="menu-toggle" class="md:hidden flex flex-col gap-1.5 p-2" onclick="document.getElementById('mobile-menu').classList.toggle('hidden')" aria-label="Menu">
         <span style="display:block; width:22px; height:2px; background:#a8c8e8;"></span>
         <span style="display:block; width:22px; height:2px; background:#a8c8e8;"></span>
@@ -71,18 +106,18 @@
   </div>
   <!-- Mobile menu -->
   <div id="mobile-menu" class="hidden md:hidden px-4 pb-4 flex flex-col gap-3 text-sm font-semibold" style="border-top:1px solid #1a3a5c;">
-    <a href="#fs" onclick="document.getElementById('mobile-menu').classList.add('hidden')" style="color:#a8c8e8; padding:8px 0; border-bottom:1px solid #1a3a5c22;">The 3 F's</a>
-    <a href="#aos" onclick="document.getElementById('mobile-menu').classList.add('hidden')" style="color:#a8c8e8; padding:8px 0; border-bottom:1px solid #1a3a5c22;">AOs</a>
-    <a href="#meet" onclick="document.getElementById('mobile-menu').classList.add('hidden')" style="color:#a8c8e8; padding:8px 0; border-bottom:1px solid #1a3a5c22;">Monarch Region Map</a>
-    <a href="#contact" onclick="document.getElementById('mobile-menu').classList.add('hidden')" style="color:#a8c8e8; padding:8px 0; border-bottom:1px solid #1a3a5c22;">Contact</a>
-    <a href="gallery.html" style="color:#a8c8e8; padding:8px 0; border-bottom:1px solid #1a3a5c22;">Photo Gallery</a>
-    <a href="#aos" onclick="document.getElementById('mobile-menu').classList.add('hidden')" class="text-center font-bold rounded py-2 mt-1" style="background:#5b8db8; color:#e8f4f8;">Find a Workout</a>
+    <a href="#fs" onclick="document.getElementById('mobile-menu').classList.add('hidden')" class="mobile-nav-link">The 3 F's</a>
+    <a href="#aos" onclick="document.getElementById('mobile-menu').classList.add('hidden')" class="mobile-nav-link">AOs</a>
+    <a href="#meet" onclick="document.getElementById('mobile-menu').classList.add('hidden')" class="mobile-nav-link">Monarch Region Map</a>
+    <a href="#contact" onclick="document.getElementById('mobile-menu').classList.add('hidden')" class="mobile-nav-link">Contact</a>
+    <a href="gallery.html" class="mobile-nav-link">Photo Gallery</a>
+    <a href="#aos" onclick="document.getElementById('mobile-menu').classList.add('hidden')" class="text-center font-bold rounded py-2 mt-1 btn-primary">Find a Workout</a>
   </div>
 </header>
 
 <!-- HERO -->
 <section class="relative border-b" style="border-color:#1a3a5c; min-height:100vh; overflow:hidden;">
-  <div id="hero-slideshow" class="absolute inset-0" style="z-index:0; background:#0d1b2a;"></div>
+  <div id="hero-slideshow" class="absolute inset-0" style="z-index:0;"></div>
   <div class="absolute inset-0" style="z-index:1; background:linear-gradient(to bottom, rgba(13,27,42,0.72), rgba(26,58,92,0.72));"></div>
   <div class="relative max-w-6xl mx-auto px-4 py-10 text-center flex flex-col items-center justify-center" style="z-index:2; min-height:100vh;">
     <div class="flex items-center justify-center gap-3 md:gap-6 mb-6 md:mb-8">
@@ -97,10 +132,10 @@
       Free, peer-led workouts for men, every morning, rain or shine, hot or cold. No charge, no special equipment, no experience required &mdash; just show up.
     </p>
     <div class="mt-10 flex flex-col sm:flex-row gap-4 justify-center">
-      <a href="#aos" class="font-black uppercase tracking-wide px-8 py-4 rounded shadow-lg transition text-lg" style="background:#5b8db8; color:#e8f4f8;" onmouseover="this.style.background='#a8c8e8'; this.style.color='#0d1b2a'" onmouseout="this.style.background='#5b8db8'; this.style.color='#e8f4f8'">
+      <a href="#aos" class="font-black uppercase tracking-wide px-8 py-4 rounded shadow-lg text-lg btn-primary">
         Find a Workout
       </a>
-      <a href="#meet" class="border-2 font-bold uppercase tracking-wide px-8 py-4 rounded transition text-lg" style="border-color:#5b8db8; color:#a8c8e8;" onmouseover="this.style.borderColor='#a8c8e8'; this.style.color='#e8f4f8'" onmouseout="this.style.borderColor='#5b8db8'; this.style.color='#a8c8e8'">
+      <a href="#meet" class="border-2 font-bold uppercase tracking-wide px-8 py-4 rounded text-lg btn-outline">
         Monarch Region Map
       </a>
     </div>
@@ -115,21 +150,21 @@
       <p class="mt-3 max-w-xl mx-auto" style="color:#5b8db8;">F3 stands on three core pillars. Everything we do flows from these.</p>
     </div>
     <div class="grid md:grid-cols-3 gap-6">
-      <div class="rounded-lg p-8 transition" style="background:#e8f4f8; border:1px solid #a8c8e8;" onmouseover="this.style.borderColor='#1a3a5c'; this.style.boxShadow='0 8px 20px rgba(13,27,42,0.18)'; this.style.transform='translateY(-4px)'" onmouseout="this.style.borderColor='#a8c8e8'; this.style.boxShadow='none'; this.style.transform='translateY(0)'">
+      <div class="rounded-lg p-8 card">
         <div class="w-12 h-12 rounded flex items-center justify-center mb-5" style="background:#ffffff; border:1px solid #5b8db8;">
           <svg class="w-6 h-6" style="color:#1a3a5c;" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M5 6h2v12H5V6zm12 0h2v12h-2V6zM7 11h10v2H7v-2z"/></svg>
         </div>
         <h3 class="font-display font-bold text-xl mb-2" style="color:#0d1b2a;">Fitness</h3>
         <p class="text-sm leading-relaxed" style="color:#1a3a5c;">Free, intense, peer-led workouts every morning. Every workout is functional, scalable, and led by a different man each time. No two are alike.</p>
       </div>
-      <div class="rounded-lg p-8 transition" style="background:#e8f4f8; border:1px solid #a8c8e8;" onmouseover="this.style.borderColor='#1a3a5c'; this.style.boxShadow='0 8px 20px rgba(13,27,42,0.18)'; this.style.transform='translateY(-4px)'" onmouseout="this.style.borderColor='#a8c8e8'; this.style.boxShadow='none'; this.style.transform='translateY(0)'">
+      <div class="rounded-lg p-8 card">
         <div class="w-12 h-12 rounded flex items-center justify-center mb-5" style="background:#ffffff; border:1px solid #5b8db8;">
           <svg class="w-6 h-6" style="color:#1a3a5c;" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M17 20h5v-2a4 4 0 00-3-3.87M9 20H4v-2a4 4 0 013-3.87m5-9a4 4 0 110 8 4 4 0 010-8zm6 3a3 3 0 110 6 3 3 0 010-6zM5 9a3 3 0 110 6 3 3 0 010-6z"/></svg>
         </div>
         <h3 class="font-display font-bold text-xl mb-2" style="color:#0d1b2a;">Fellowship</h3>
         <p class="text-sm leading-relaxed" style="color:#1a3a5c;">Men holding each other accountable, on the field and off. The sweat fades, the bonds don't. This is where real friendships are built.</p>
       </div>
-      <div class="rounded-lg p-8 transition" style="background:#e8f4f8; border:1px solid #a8c8e8;" onmouseover="this.style.borderColor='#1a3a5c'; this.style.boxShadow='0 8px 20px rgba(13,27,42,0.18)'; this.style.transform='translateY(-4px)'" onmouseout="this.style.borderColor='#a8c8e8'; this.style.boxShadow='none'; this.style.transform='translateY(0)'">
+      <div class="rounded-lg p-8 card">
         <div class="w-12 h-12 rounded flex items-center justify-center mb-5" style="background:#ffffff; border:1px solid #5b8db8;">
           <svg class="w-6 h-6" style="color:#1a3a5c;" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M12 2l3 6 6 .9-4.5 4.3 1 6.3L12 16.9 6.5 19.5l1-6.3L3 8.9 9 8z"/></svg>
         </div>
@@ -240,7 +275,7 @@
 
     <p class="text-xs font-bold uppercase tracking-wide mb-4" style="color:#5b8db8;">Core &amp; West County</p>
     <div class="grid sm:grid-cols-2 gap-6 mb-10">
-      <a href="https://f3stlouis.com/" target="_blank" rel="noopener" class="relative overflow-hidden rounded-lg shadow-sm transition block p-6" style="background:linear-gradient(135deg,#0d1b2a,#1a3a5c); border:1px solid #1a3a5c;" onmouseover="this.style.boxShadow='0 8px 22px rgba(13,27,42,0.3)'; this.style.transform='translateY(-4px)'" onmouseout="this.style.boxShadow='none'; this.style.transform='translateY(0)'">
+      <a href="https://f3stlouis.com/" target="_blank" rel="noopener" class="relative overflow-hidden rounded-lg shadow-sm block p-6 tile-dark">
         <img src="images/regions/region-saintlouis.png" alt="" aria-hidden="true" style="position:absolute; right:-15px; bottom:-15px; width:170px; height:170px; opacity:0.22; mix-blend-mode:screen; transform:rotate(-8deg); pointer-events:none; object-fit:contain;">
         <div class="relative" style="z-index:1;">
           <h4 class="font-display font-bold text-base" style="color:#e8f4f8;">F3 Saint Louis <span class="font-normal text-xs" style="color:#a8c8e8;">(The OG Region)</span></h4>
@@ -248,7 +283,7 @@
           <span class="inline-block mt-4 text-sm font-bold" style="color:#ffffff;">f3stlouis.com &rarr;</span>
         </div>
       </a>
-      <a href="https://www.facebook.com/f3spiritstl/" target="_blank" rel="noopener" class="relative overflow-hidden rounded-lg shadow-sm transition block p-6" style="background:linear-gradient(135deg,#0d1b2a,#1a3a5c); border:1px solid #1a3a5c;" onmouseover="this.style.boxShadow='0 8px 22px rgba(13,27,42,0.3)'; this.style.transform='translateY(-4px)'" onmouseout="this.style.boxShadow='none'; this.style.transform='translateY(0)'">
+      <a href="https://www.facebook.com/f3spiritstl/" target="_blank" rel="noopener" class="relative overflow-hidden rounded-lg shadow-sm block p-6 tile-dark">
         <img src="images/regions/region-spirit.png" alt="" aria-hidden="true" style="position:absolute; right:-15px; bottom:-15px; width:170px; height:170px; opacity:0.22; mix-blend-mode:screen; transform:rotate(6deg); pointer-events:none; object-fit:contain;">
         <div class="relative" style="z-index:1;">
           <h4 class="font-display font-bold text-base" style="color:#e8f4f8;">F3 Spirit of St. Louis <span class="font-normal text-xs" style="color:#a8c8e8;">(SoSL)</span></h4>
@@ -260,7 +295,7 @@
 
     <p class="text-xs font-bold uppercase tracking-wide mb-4" style="color:#5b8db8;">City &amp; South</p>
     <div class="grid sm:grid-cols-2 gap-6 mb-10">
-      <a href="https://www.f3cityofstlouis.com/" target="_blank" rel="noopener" class="relative overflow-hidden rounded-lg shadow-sm transition block p-6" style="background:linear-gradient(135deg,#0d1b2a,#1a3a5c); border:1px solid #1a3a5c;" onmouseover="this.style.boxShadow='0 8px 22px rgba(13,27,42,0.3)'; this.style.transform='translateY(-4px)'" onmouseout="this.style.boxShadow='none'; this.style.transform='translateY(0)'">
+      <a href="https://www.f3cityofstlouis.com/" target="_blank" rel="noopener" class="relative overflow-hidden rounded-lg shadow-sm block p-6 tile-dark">
         <img src="images/regions/region-stlcity.png" alt="" aria-hidden="true" style="position:absolute; right:-15px; bottom:-15px; width:170px; height:170px; opacity:0.22; mix-blend-mode:screen; transform:rotate(-4deg); pointer-events:none; object-fit:contain;">
         <div class="relative" style="z-index:1;">
           <h4 class="font-display font-bold text-base" style="color:#e8f4f8;">F3 City of St. Louis</h4>
@@ -268,7 +303,7 @@
           <span class="inline-block mt-4 text-sm font-bold" style="color:#ffffff;">f3cityofstlouis.com &rarr;</span>
         </div>
       </a>
-      <a href="https://www.facebook.com/f3jeffco/" target="_blank" rel="noopener" class="relative overflow-hidden rounded-lg shadow-sm transition block p-6" style="background:linear-gradient(135deg,#0d1b2a,#1a3a5c); border:1px solid #1a3a5c;" onmouseover="this.style.boxShadow='0 8px 22px rgba(13,27,42,0.3)'; this.style.transform='translateY(-4px)'" onmouseout="this.style.boxShadow='none'; this.style.transform='translateY(0)'">
+      <a href="https://www.facebook.com/f3jeffco/" target="_blank" rel="noopener" class="relative overflow-hidden rounded-lg shadow-sm block p-6 tile-dark">
         <img src="images/regions/region-jeffco.png" alt="" aria-hidden="true" style="position:absolute; right:-15px; bottom:-15px; width:170px; height:170px; opacity:0.22; mix-blend-mode:screen; transform:rotate(5deg); pointer-events:none; object-fit:contain;">
         <div class="relative" style="z-index:1;">
           <h4 class="font-display font-bold text-base" style="color:#e8f4f8;">F3 Jefferson County <span class="font-normal text-xs" style="color:#a8c8e8;">(JeffCo)</span></h4>
@@ -280,7 +315,7 @@
 
     <p class="text-xs font-bold uppercase tracking-wide mb-4" style="color:#5b8db8;">North &amp; St. Charles</p>
     <div class="grid sm:grid-cols-2 gap-6 mb-10">
-      <a href="https://www.facebook.com/f3stcharles/" target="_blank" rel="noopener" class="relative overflow-hidden rounded-lg shadow-sm transition block p-6" style="background:linear-gradient(135deg,#0d1b2a,#1a3a5c); border:1px solid #1a3a5c;" onmouseover="this.style.boxShadow='0 8px 22px rgba(13,27,42,0.3)'; this.style.transform='translateY(-4px)'" onmouseout="this.style.boxShadow='none'; this.style.transform='translateY(0)'">
+      <a href="https://www.facebook.com/f3stcharles/" target="_blank" rel="noopener" class="relative overflow-hidden rounded-lg shadow-sm block p-6 tile-dark">
         <img src="images/regions/region-stcharles.png" alt="" aria-hidden="true" style="position:absolute; right:-15px; bottom:-15px; width:170px; height:170px; opacity:0.22; mix-blend-mode:screen; transform:rotate(-6deg); pointer-events:none; object-fit:contain;">
         <div class="relative" style="z-index:1;">
           <h4 class="font-display font-bold text-base" style="color:#e8f4f8;">F3 St. Charles County</h4>
@@ -288,7 +323,7 @@
           <span class="inline-block mt-4 text-sm font-bold" style="color:#ffffff;">facebook.com/f3stcharles &rarr;</span>
         </div>
       </a>
-      <a href="https://f3thechuck.com/" target="_blank" rel="noopener" class="relative overflow-hidden rounded-lg shadow-sm transition block p-6" style="background:linear-gradient(135deg,#0d1b2a,#1a3a5c); border:1px solid #1a3a5c;" onmouseover="this.style.boxShadow='0 8px 22px rgba(13,27,42,0.3)'; this.style.transform='translateY(-4px)'" onmouseout="this.style.boxShadow='none'; this.style.transform='translateY(0)'">
+      <a href="https://f3thechuck.com/" target="_blank" rel="noopener" class="relative overflow-hidden rounded-lg shadow-sm block p-6 tile-dark">
         <img src="images/regions/region-stcharlescity.png" alt="" aria-hidden="true" style="position:absolute; right:-15px; bottom:-15px; width:170px; height:170px; opacity:0.22; mix-blend-mode:screen; transform:rotate(4deg); pointer-events:none; object-fit:contain;">
         <div class="relative" style="z-index:1;">
           <h4 class="font-display font-bold text-base" style="color:#e8f4f8;">F3 St. Charles City <span class="font-normal text-xs" style="color:#a8c8e8;">(The Chuck)</span></h4>
@@ -300,7 +335,7 @@
 
     <p class="text-xs font-bold uppercase tracking-wide mb-4" style="color:#5b8db8;">Outer Regional &amp; Metro East</p>
     <div class="grid sm:grid-cols-2 gap-6">
-      <a href="https://f3soil.com/" target="_blank" rel="noopener" class="relative overflow-hidden rounded-lg shadow-sm transition block p-6" style="background:linear-gradient(135deg,#0d1b2a,#1a3a5c); border:1px solid #1a3a5c;" onmouseover="this.style.boxShadow='0 8px 22px rgba(13,27,42,0.3)'; this.style.transform='translateY(-4px)'" onmouseout="this.style.boxShadow='none'; this.style.transform='translateY(0)'">
+      <a href="https://f3soil.com/" target="_blank" rel="noopener" class="relative overflow-hidden rounded-lg shadow-sm block p-6 tile-dark">
         <img src="images/regions/region-nation.png" alt="" aria-hidden="true" style="position:absolute; right:-15px; bottom:-15px; width:150px; height:150px; opacity:0.22; mix-blend-mode:screen; transform:rotate(-5deg); pointer-events:none; object-fit:contain;">
         <div class="relative" style="z-index:1;">
           <h4 class="font-display font-bold text-base" style="color:#e8f4f8;">F3 SOIL <span class="font-normal text-xs" style="color:#a8c8e8;">(Southern Illinois / Metro East)</span></h4>
@@ -308,7 +343,7 @@
           <span class="inline-block mt-4 text-sm font-bold" style="color:#ffffff;">f3soil.com &rarr;</span>
         </div>
       </a>
-      <a href="https://f3washmo.com/" target="_blank" rel="noopener" class="relative overflow-hidden rounded-lg shadow-sm transition block p-6" style="background:linear-gradient(135deg,#0d1b2a,#1a3a5c); border:1px solid #1a3a5c;" onmouseover="this.style.boxShadow='0 8px 22px rgba(13,27,42,0.3)'; this.style.transform='translateY(-4px)'" onmouseout="this.style.boxShadow='none'; this.style.transform='translateY(0)'">
+      <a href="https://f3washmo.com/" target="_blank" rel="noopener" class="relative overflow-hidden rounded-lg shadow-sm block p-6 tile-dark">
         <img src="images/regions/region-nation.png" alt="" aria-hidden="true" style="position:absolute; right:-15px; bottom:-15px; width:150px; height:150px; opacity:0.22; mix-blend-mode:screen; transform:rotate(7deg); pointer-events:none; object-fit:contain;">
         <div class="relative" style="z-index:1;">
           <h4 class="font-display font-bold text-base" style="color:#e8f4f8;">F3 Washington, MO</h4>
@@ -333,17 +368,17 @@
       <div>
         <label for="name" class="block text-sm font-semibold mb-1.5" style="color:#1a3a5c;">Name</label>
         <input type="text" id="name" name="name" required
-          class="w-full rounded px-4 py-2.5 transition focus:outline-none" style="background:#ffffff; border:1px solid #a8c8e8; color:#0d1b2a;" onfocus="this.style.borderColor='#1a3a5c'; this.style.boxShadow='0 0 0 2px #5b8db840'" onblur="this.style.borderColor='#a8c8e8'; this.style.boxShadow='none'">
+          class="w-full rounded px-4 py-2.5 form-input">
       </div>
       <div>
         <label for="email" class="block text-sm font-semibold mb-1.5" style="color:#1a3a5c;">Email</label>
         <input type="email" id="email" name="email" required
-          class="w-full rounded px-4 py-2.5 transition focus:outline-none" style="background:#ffffff; border:1px solid #a8c8e8; color:#0d1b2a;" onfocus="this.style.borderColor='#1a3a5c'; this.style.boxShadow='0 0 0 2px #5b8db840'" onblur="this.style.borderColor='#a8c8e8'; this.style.boxShadow='none'">
+          class="w-full rounded px-4 py-2.5 form-input">
       </div>
       <div>
         <label for="ao" class="block text-sm font-semibold mb-1.5" style="color:#1a3a5c;">Nearest AO (optional)</label>
         <select id="ao" name="ao"
-          class="w-full rounded px-4 py-2.5 transition focus:outline-none" style="background:#ffffff; border:1px solid #a8c8e8; color:#0d1b2a;" onfocus="this.style.borderColor='#1a3a5c'; this.style.boxShadow='0 0 0 2px #5b8db840'" onblur="this.style.borderColor='#a8c8e8'; this.style.boxShadow='none'">
+          class="w-full rounded px-4 py-2.5 form-input">
           <option value="">Not sure yet</option>
           <option>The Stable</option>
           <option>Mousetrap</option>
@@ -359,10 +394,10 @@
       <div>
         <label for="message" class="block text-sm font-semibold mb-1.5" style="color:#1a3a5c;">Message</label>
         <textarea id="message" name="message" rows="4" required
-          class="w-full rounded px-4 py-2.5 transition focus:outline-none resize-none" style="background:#ffffff; border:1px solid #a8c8e8; color:#0d1b2a;" onfocus="this.style.borderColor='#1a3a5c'; this.style.boxShadow='0 0 0 2px #5b8db840'" onblur="this.style.borderColor='#a8c8e8'; this.style.boxShadow='none'"></textarea>
+          class="w-full rounded px-4 py-2.5 resize-none form-input"></textarea>
       </div>
       <button type="submit"
-        class="w-full font-black uppercase tracking-wide py-3 rounded transition" style="background:#1a3a5c; color:#e8f4f8;" onmouseover="this.style.background='#5b8db8'" onmouseout="this.style.background='#1a3a5c'">
+        class="w-full font-black uppercase tracking-wide py-3 rounded btn-submit">
         Send Message
       </button>
     </form>
@@ -439,13 +474,17 @@
       const img = document.createElement('img');
       img.src = src;
       img.alt = '';
-      img.style.cssText = 'position:absolute; inset:0; width:100%; height:100%; object-fit:cover; transition: transform 1.2s ease-in-out; transform: translateX(100%);';
+      img.style.cssText = 'position:absolute; inset:0; width:100%; height:100%; object-fit:cover; transition: transform 1.2s ease-in-out, opacity 0.6s ease-in; transform: translateX(100%);';
       container.appendChild(img);
       return img;
     }
 
     let current = makeSlide(heroImages[0]);
     current.style.transform = 'translateX(0)';
+    current.style.opacity = '0';
+    const revealFirstSlide = () => { current.style.opacity = '1'; };
+    if (current.complete) revealFirstSlide();
+    else current.addEventListener('load', revealFirstSlide, { once: true });
 
     setInterval(() => {
       index = (index + 1) % heroImages.length;

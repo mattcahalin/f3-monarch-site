@@ -30,6 +30,20 @@
   a, button, input, select, textarea {
     transition: color 0.2s ease, background-color 0.2s ease, border-color 0.2s ease, box-shadow 0.2s ease, transform 0.2s ease, opacity 0.2s ease;
   }
+
+  :root {
+    --navy:      #0d1b2a;
+    --navy-mid:  #1a3a5c;
+    --blue-mid:  #5b8db8;
+    --blue-ice:  #a8c8e8;
+    --off-white: #e8f4f8;
+  }
+
+  .nav-link { color: var(--blue-ice); }
+  .nav-link:hover { color: var(--off-white); }
+
+  .btn-primary { background: var(--blue-mid); color: var(--off-white); }
+  .btn-primary:hover { background: var(--blue-ice); color: var(--navy); }
 </style>
 </head>
 <body style="background:#ffffff; color:#1a3a5c;">
@@ -42,13 +56,13 @@
       <span class="font-display font-bold text-lg tracking-tight" style="color:#e8f4f8;">F3 MONARCH <span style="color:#a8c8e8;">STL</span></span>
     </a>
     <nav class="hidden md:flex gap-6 text-sm font-semibold" style="color:#a8c8e8;">
-      <a href="index.html#fs" class="transition" style="color:#a8c8e8;" onmouseover="this.style.color='#e8f4f8'" onmouseout="this.style.color='#a8c8e8'">The 3 F's</a>
-      <a href="index.html#aos" class="transition" style="color:#a8c8e8;" onmouseover="this.style.color='#e8f4f8'" onmouseout="this.style.color='#a8c8e8'">AOs</a>
-      <a href="index.html#meet" class="transition" style="color:#a8c8e8;" onmouseover="this.style.color='#e8f4f8'" onmouseout="this.style.color='#a8c8e8'">Monarch Region Map</a>
-      <a href="index.html#contact" class="transition" style="color:#a8c8e8;" onmouseover="this.style.color='#e8f4f8'" onmouseout="this.style.color='#a8c8e8'">Contact</a>
+      <a href="index.html#fs" class="nav-link">The 3 F's</a>
+      <a href="index.html#aos" class="nav-link">AOs</a>
+      <a href="index.html#meet" class="nav-link">Monarch Region Map</a>
+      <a href="index.html#contact" class="nav-link">Contact</a>
       <a href="gallery.html" style="color:#e8f4f8; font-weight:700;">Photo Gallery</a>
     </nav>
-    <a href="index.html#aos" class="font-bold text-sm px-4 py-2 rounded transition" style="background:#5b8db8; color:#e8f4f8;" onmouseover="this.style.background='#a8c8e8'; this.style.color='#0d1b2a'" onmouseout="this.style.background='#5b8db8'; this.style.color='#e8f4f8'">Find a Workout</a>
+    <a href="index.html#aos" class="font-bold text-sm px-4 py-2 rounded btn-primary">Find a Workout</a>
   </div>
 </header>
 
