@@ -60,6 +60,10 @@
 
   .mobile-nav-link { color: var(--blue-ice); padding: 8px 0; border-bottom: 1px solid rgba(26,58,92,0.13); }
 
+  .dropdown-item { display: block; padding: 10px 16px; color: var(--blue-ice); }
+  .dropdown-item:hover { background: var(--navy); color: var(--off-white); }
+  .dropdown-item + .dropdown-item { border-top: 1px solid rgba(168,200,232,0.15); }
+
   .btn-primary { background: var(--blue-mid); color: var(--off-white); }
   .btn-primary:hover { background: var(--blue-ice); color: var(--navy); }
 
@@ -88,12 +92,21 @@
       <img src="images/monarch%20logo%20transparent.png" alt="F3 Monarch STL Logo" style="width:36px; height:36px; object-fit:contain;">
       <span class="font-display font-bold text-lg tracking-tight" style="color:#e8f4f8;">F3 MONARCH <span style="color:#a8c8e8;">STL</span></span>
     </div>
-    <nav class="hidden md:flex gap-6 text-sm font-semibold" style="color:#a8c8e8;">
+    <nav class="hidden md:flex gap-6 text-sm font-semibold items-center" style="color:#a8c8e8;">
       <a href="#fs" class="nav-link">The 3 F's</a>
       <a href="#aos" class="nav-link">AOs</a>
       <a href="#meet" class="nav-link">Monarch Region Map</a>
-      <a href="#contact" class="nav-link">Contact</a>
-      <a href="gallery.html" class="nav-link">Photo Gallery</a>
+      <div class="relative" id="more-dropdown">
+        <button type="button" class="nav-link flex items-center gap-1" onclick="document.getElementById('more-menu').classList.toggle('hidden')">
+          More
+          <svg class="w-3 h-3" viewBox="0 0 12 12" fill="none" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M2 4l4 4 4-4"/></svg>
+        </button>
+        <div id="more-menu" class="hidden absolute right-0 mt-3 rounded-lg shadow-lg overflow-hidden" style="background:#1a3a5c; border:1px solid #5b8db8; min-width:180px; z-index:60;">
+          <a href="#contact" class="dropdown-item">Contact</a>
+          <a href="gallery.html" class="dropdown-item">Photo Gallery</a>
+          <a href="pax-spotlight.html" class="dropdown-item">PAX Spotlight</a>
+        </div>
+      </div>
     </nav>
     <div class="flex items-center gap-3">
       <a href="#aos" class="hidden md:inline-block font-bold text-sm px-4 py-2 rounded btn-primary">Find a Workout</a>
@@ -111,9 +124,17 @@
     <a href="#meet" onclick="document.getElementById('mobile-menu').classList.add('hidden')" class="mobile-nav-link">Monarch Region Map</a>
     <a href="#contact" onclick="document.getElementById('mobile-menu').classList.add('hidden')" class="mobile-nav-link">Contact</a>
     <a href="gallery.html" class="mobile-nav-link">Photo Gallery</a>
+    <a href="pax-spotlight.html" class="mobile-nav-link">PAX Spotlight</a>
     <a href="#aos" onclick="document.getElementById('mobile-menu').classList.add('hidden')" class="text-center font-bold rounded py-2 mt-1 btn-primary">Find a Workout</a>
   </div>
 </header>
+<script>
+  document.addEventListener('click', (e) => {
+    const dropdown = document.getElementById('more-dropdown');
+    const menu = document.getElementById('more-menu');
+    if (dropdown && menu && !dropdown.contains(e.target)) menu.classList.add('hidden');
+  });
+</script>
 
 <!-- HERO -->
 <section class="relative border-b" style="border-color:#1a3a5c; min-height:100vh; overflow:hidden;">

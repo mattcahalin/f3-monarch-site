@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>PAX Spotlight | F3 Monarch STL</title>
+<meta name="description" content="Every month, F3 Monarch STL shines a spotlight on a PAX who exemplifies Fitness, Fellowship, and Faith. This month: Porky.">
+<link rel="canonical" href="https://f3-monarchstl.com/pax-spotlight.html">
+<link rel="icon" type="image/png" href="images/monarch%20logo.png">
+
+<meta property="og:type" content="website">
+<meta property="og:title" content="PAX Spotlight | F3 Monarch STL">
+<meta property="og:description" content="Every month, F3 Monarch STL shines a spotlight on a PAX who exemplifies Fitness, Fellowship, and Faith.">
+<meta property="og:url" content="https://f3-monarchstl.com/pax-spotlight.html">
+<meta property="og:image" content="https://f3-monarchstl.com/images/porkyMACE.jpg">
+<meta property="og:site_name" content="F3 Monarch STL">
+
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="PAX Spotlight | F3 Monarch STL">
+<meta name="twitter:image" content="https://f3-monarchstl.com/images/porkyMACE.jpg">
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Oswald:wght@500;600;700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<script src="https://cdn.tailwindcss.com"></script>
+<style>
+  body { font-family: 'Inter', ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, sans-serif; }
+  .font-display { font-family: 'Oswald', ui-sans-serif, system-ui, sans-serif; letter-spacing: -0.01em; }
+
+  a, button, input, select, textarea {
+    transition: color 0.2s ease, background-color 0.2s ease, border-color 0.2s ease, box-shadow 0.2s ease, transform 0.2s ease, opacity 0.2s ease;
+  }
+
+  :root {
+    --navy:      #0d1b2a;
+    --navy-mid:  #1a3a5c;
+    --blue-mid:  #5b8db8;
+    --blue-ice:  #a8c8e8;
+    --off-white: #e8f4f8;
+  }
+
+  .nav-link { color: var(--blue-ice); }
+  .nav-link:hover { color: var(--off-white); }
+
+  .btn-primary { background: var(--blue-mid); color: var(--off-white); }
+  .btn-primary:hover { background: var(--blue-ice); color: var(--navy); }
+
+  .mention { font-weight: 700; color: var(--navy-mid); }
+
+  .dropdown-item { display: block; padding: 10px 16px; color: var(--blue-ice); }
+  .dropdown-item:hover { background: var(--navy); color: var(--off-white); }
+  .dropdown-item + .dropdown-item { border-top: 1px solid rgba(168,200,232,0.15); }
+</style>
+</head>
+<body style="background:#ffffff; color:#1a3a5c;">
+
+<!-- NAV -->
+<header class="sticky top-0 z-50 backdrop-blur" style="background:rgba(13,27,42,0.97); border-bottom:1px solid #1a3a5c;">
+  <div class="max-w-6xl mx-auto px-4 py-3 flex items-center justify-between">
+    <a href="index.html" class="flex items-center gap-2">
+      <img src="images/monarch%20logo%20transparent.png" alt="F3 Monarch STL Logo" style="width:36px; height:36px; object-fit:contain;">
+      <span class="font-display font-bold text-lg tracking-tight" style="color:#e8f4f8;">F3 MONARCH <span style="color:#a8c8e8;">STL</span></span>
+    </a>
+    <nav class="hidden md:flex gap-6 text-sm font-semibold items-center" style="color:#a8c8e8;">
+      <a href="index.html#fs" class="nav-link">The 3 F's</a>
+      <a href="index.html#aos" class="nav-link">AOs</a>
+      <a href="index.html#meet" class="nav-link">Monarch Region Map</a>
+      <div class="relative" id="more-dropdown">
+        <button type="button" class="nav-link flex items-center gap-1" onclick="document.getElementById('more-menu').classList.toggle('hidden')">
+          More
+          <svg class="w-3 h-3" viewBox="0 0 12 12" fill="none" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M2 4l4 4 4-4"/></svg>
+        </button>
+        <div id="more-menu" class="hidden absolute right-0 mt-3 rounded-lg shadow-lg overflow-hidden" style="background:#1a3a5c; border:1px solid #5b8db8; min-width:180px; z-index:60;">
+          <a href="index.html#contact" class="dropdown-item">Contact</a>
+          <a href="gallery.html" class="dropdown-item">Photo Gallery</a>
+          <a href="pax-spotlight.html" class="dropdown-item" style="color:#e8f4f8; font-weight:700;">PAX Spotlight</a>
+        </div>
+      </div>
+    </nav>
+    <a href="index.html#aos" class="font-bold text-sm px-4 py-2 rounded btn-primary">Find a Workout</a>
+  </div>
+</header>
+<script>
+  document.addEventListener('click', (e) => {
+    const dropdown = document.getElementById('more-dropdown');
+    const menu = document.getElementById('more-menu');
+    if (dropdown && menu && !dropdown.contains(e.target)) menu.classList.add('hidden');
+  });
+</script>
+
+<!-- PAGE HEADER -->
+<section style="background:linear-gradient(to bottom, #0d1b2a, #1a3a5c); border-bottom:1px solid #1a3a5c;">
+  <div class="max-w-6xl mx-auto px-4 py-16 text-center">
+    <h1 class="font-display font-black text-4xl md:text-5xl" style="color:#e8f4f8;">PAX Spotlight</h1>
+    <p class="mt-4 text-lg" style="color:#a8c8e8;">Celebrating a Monarch PAX who exemplifies Fitness, Fellowship, and Faith &mdash; every month.</p>
+  </div>
+</section>
+
+<!-- SPOTLIGHT -->
+<section class="border-b" style="background:#e8f4f8; border-color:#a8c8e8;">
+  <div class="max-w-4xl mx-auto px-4 py-16 md:py-24">
+    <div class="rounded-lg overflow-hidden shadow-sm md:grid md:grid-cols-5" style="background:#ffffff; border:1px solid #a8c8e8;">
+      <div class="md:col-span-2">
+        <img src="images/porkyMACE.jpg" alt="Porky receiving the M.A.C.E." class="w-full h-full" style="object-fit:cover; aspect-ratio:3/4;">
+      </div>
+      <div class="md:col-span-3 p-8 md:p-10 flex flex-col justify-center">
+        <p class="text-xs font-bold uppercase tracking-wide" style="color:#5b8db8;">July 2026 &mdash; First Spotlight</p>
+        <h2 class="font-display font-black text-3xl mt-2" style="color:#0d1b2a;">Porky</h2>
+        <p class="mt-6 leading-relaxed" style="color:#1a3a5c;">
+          The M.A.C.E. (man achieving community excellence) has officially been handed off to <span class="mention">@Porky</span>. In the year-ish (?) since he's joined F3, he has become a Monarch staple, showing up 5x days a week at the trap and the asylum, taking on Q's, putting in the work, and driving his partners harder. Whereas others are more vocal cheerleaders, he (like many others in Monarch) pushes himself and others with a quiet tenacity that sets the example to follow. Congratulations <span class="mention">@Porky</span> and continue inspiring us all!
+        </p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- FOOTER -->
+<footer style="background:#0d1b2a; border-top:1px solid #1a3a5c;">
+  <div class="max-w-6xl mx-auto px-4 py-10 flex flex-col md:flex-row items-center justify-between gap-4">
+    <div class="flex items-center gap-2">
+      <img src="images/monarch%20logo%20transparent.png" alt="F3 Monarch STL Logo" style="width:32px; height:32px; object-fit:contain;">
+      <span class="font-display font-bold" style="color:#e8f4f8;">F3 MONARCH STL</span>
+    </div>
+    <p class="text-sm text-center" style="color:#5b8db8;">&copy; 2026 F3 Monarch STL. No man left behind. No man left where he is.</p>
+  </div>
+</footer>
+
+</body>
+</html>
