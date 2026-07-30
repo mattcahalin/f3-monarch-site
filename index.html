@@ -7,6 +7,7 @@
 <meta name="description" content="F3 Monarch STL offers free, peer-led outdoor workouts for men every morning across Chesterfield, Wildwood, and Ballwin, MO. No cost, no membership, all fitness levels welcome.">
 <link rel="canonical" href="https://f3-monarchstl.com/">
 <link rel="icon" type="image/png" href="images/monarch%20logo.png">
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
 
 <meta property="og:type" content="website">
 <meta property="og:title" content="F3 Monarch STL | Fitness, Fellowship, Faith">
@@ -527,7 +528,7 @@
       <h2 class="font-display font-black text-3xl md:text-4xl" style="color:#e8f4f8;">See You In the Gloom</h2>
       <p class="mt-3 max-w-xl mx-auto" style="color:#a8c8e8;">A look at what a Monarch beatdown feels like &mdash; before the sun's even up.</p>
     </div>
-    <div id="gloom-player" class="relative rounded-lg overflow-hidden shadow-sm" style="border:1px solid #1a3a5c; aspect-ratio:16/9; background:#000000;"></div>
+    <div id="gloom-player" class="relative rounded-lg overflow-hidden shadow-sm" style="border:1px solid #1a3a5c; aspect-ratio:16/9; background:#000000 url('images/gloom-poster.jpg') center/cover;"></div>
   </div>
 </section>
 
@@ -652,6 +653,7 @@
     function makeVideo(src) {
       const v = document.createElement('video');
       v.src = src;
+      v.poster = 'images/gloom-poster.jpg';
       v.muted = true;
       v.playsInline = true;
       v.autoplay = true;

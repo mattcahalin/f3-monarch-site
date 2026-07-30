@@ -7,6 +7,7 @@
 <meta name="description" content="Photos from F3 Monarch STL workouts across Chesterfield, Wildwood, and Ballwin, MO. See the fitness, fellowship, and faith in action.">
 <link rel="canonical" href="https://f3-monarchstl.com/gallery.html">
 <link rel="icon" type="image/png" href="images/monarch%20logo.png">
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
 
 <meta property="og:type" content="website">
 <meta property="og:title" content="Photo Gallery | F3 Monarch STL">
@@ -49,6 +50,12 @@
   .dropdown-item { display: block; padding: 10px 16px; color: var(--blue-ice); }
   .dropdown-item:hover { background: var(--navy); color: var(--off-white); }
   .dropdown-item + .dropdown-item { border-top: 1px solid rgba(168,200,232,0.15); }
+
+  .gallery-grid img { cursor: pointer; }
+  .gallery-grid img:hover { opacity: 0.85; }
+
+  .lightbox-btn { background: rgba(232,244,248,0.1); color: var(--off-white); }
+  .lightbox-btn:hover { background: rgba(232,244,248,0.25); }
 </style>
 </head>
 <body style="background:#ffffff; color:#1a3a5c;">
@@ -114,7 +121,7 @@
 
 <!-- GALLERY -->
 <section class="max-w-6xl mx-auto px-4 py-16 md:py-24">
-  <div class="columns-2 sm:columns-3 lg:columns-4 gap-3 space-y-3">
+  <div id="gallery-grid" class="gallery-grid columns-2 sm:columns-3 lg:columns-4 gap-3 space-y-3">
     <img src="images/starfish/IMG_5704.JPG" alt="F3 Monarch STL" class="w-full rounded-lg break-inside-avoid" style="border:1px solid #a8c8e8;" loading="lazy">
     <img src="images/starfish/IMG_5712.JPG" alt="F3 Monarch STL" class="w-full rounded-lg break-inside-avoid" style="border:1px solid #a8c8e8;" loading="lazy">
     <img src="images/starfish/IMG_5714.JPG" alt="F3 Monarch STL" class="w-full rounded-lg break-inside-avoid" style="border:1px solid #a8c8e8;" loading="lazy">
@@ -160,6 +167,59 @@
     <img src="images/cincodemayo.JPG" alt="F3 Monarch STL" class="w-full rounded-lg break-inside-avoid" style="border:1px solid #a8c8e8;" loading="lazy">
   </div>
 </section>
+
+<!-- LIGHTBOX -->
+<div id="lightbox" class="hidden fixed inset-0 z-[100] flex items-center justify-center" style="background:rgba(13,27,42,0.94);">
+  <button id="lightbox-close" aria-label="Close" class="absolute top-4 right-4 lightbox-btn rounded-full flex items-center justify-center" style="width:44px; height:44px; font-size:24px; line-height:1;">&times;</button>
+  <button id="lightbox-prev" aria-label="Previous photo" class="absolute lightbox-btn rounded-full flex items-center justify-center" style="left:12px; top:50%; transform:translateY(-50%); width:44px; height:44px; font-size:22px;">&lsaquo;</button>
+  <img id="lightbox-img" src="" alt="" class="rounded-lg shadow-lg" style="max-width:90vw; max-height:88vh; object-fit:contain;">
+  <button id="lightbox-next" aria-label="Next photo" class="absolute lightbox-btn rounded-full flex items-center justify-center" style="right:12px; top:50%; transform:translateY(-50%); width:44px; height:44px; font-size:22px;">&rsaquo;</button>
+</div>
+<script>
+  (function() {
+    const grid = document.getElementById('gallery-grid');
+    const photos = [...grid.querySelectorAll('img')];
+    const lightbox = document.getElementById('lightbox');
+    const lightboxImg = document.getElementById('lightbox-img');
+    let index = 0;
+
+    function show(i) {
+      index = (i + photos.length) % photos.length;
+      lightboxImg.src = photos[index].src;
+      lightboxImg.alt = photos[index].alt;
+    }
+
+    function open(i) {
+      show(i);
+      lightbox.classList.remove('hidden');
+      document.body.style.overflow = 'hidden';
+    }
+
+    function close() {
+      lightbox.classList.add('hidden');
+      document.body.style.overflow = '';
+    }
+
+    grid.addEventListener('click', (e) => {
+      if (e.target.tagName === 'IMG') open(photos.indexOf(e.target));
+    });
+
+    document.getElementById('lightbox-close').addEventListener('click', close);
+    document.getElementById('lightbox-prev').addEventListener('click', () => show(index - 1));
+    document.getElementById('lightbox-next').addEventListener('click', () => show(index + 1));
+
+    lightbox.addEventListener('click', (e) => {
+      if (e.target === lightbox) close();
+    });
+
+    document.addEventListener('keydown', (e) => {
+      if (lightbox.classList.contains('hidden')) return;
+      if (e.key === 'Escape') close();
+      else if (e.key === 'ArrowLeft') show(index - 1);
+      else if (e.key === 'ArrowRight') show(index + 1);
+    });
+  })();
+</script>
 
 <!-- FOOTER -->
 <footer style="background:#0d1b2a; border-top:1px solid #1a3a5c;">
