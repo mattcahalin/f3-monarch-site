@@ -294,109 +294,154 @@
       <p class="mt-3 max-w-xl mx-auto" style="color:#5b8db8;">Nothing closeby? Check out our neighboring regions for an AO near you.</p>
     </div>
 
-    <p class="text-xs font-bold uppercase tracking-wide mb-4" style="color:#5b8db8;">Core &amp; West County</p>
-    <div class="grid sm:grid-cols-2 gap-6 mb-10">
-      <a href="https://f3stlouis.com/" target="_blank" rel="noopener" class="relative overflow-hidden rounded-lg shadow-sm block p-6 tile-dark">
-        <img src="images/regions/region-saintlouis.png" alt="" aria-hidden="true" style="position:absolute; right:-15px; bottom:-15px; width:170px; height:170px; opacity:0.22; mix-blend-mode:screen; transform:rotate(-8deg); pointer-events:none; object-fit:contain;">
-        <div class="relative" style="z-index:1;">
-          <h4 class="font-display font-bold text-base" style="color:#e8f4f8;">F3 Saint Louis <span class="font-normal text-xs" style="color:#a8c8e8;">(The OG Region)</span></h4>
-          <p class="text-sm mt-3 leading-relaxed" style="color:#a8c8e8;">The OG for Missouri, the Saint Louis region has grown from 5 PAX to well into the four-figure range since 2017. Starting out with just one AO (&ldquo;The Huck&rdquo; in Clayton), the Saint Louis area just keeps experiencing explosive growth, as seen by all the regions that have spun off in the past few years.</p>
-          <span class="inline-block mt-4 text-sm font-bold" style="color:#ffffff;">f3stlouis.com &rarr;</span>
+    <div class="max-w-3xl mx-auto" style="border-top:1px solid #e8f4f8;">
+      <div style="border-bottom:1px solid #e8f4f8;">
+        <button type="button" class="w-full flex items-center justify-between py-4" onclick="toggleRegionGroup(this)">
+          <span class="text-xs font-bold uppercase tracking-wide" style="color:#5b8db8;">Core &amp; West County</span>
+          <svg class="chevron w-4 h-4 shrink-0" style="transition:transform 0.2s ease;" viewBox="0 0 12 12" fill="none" stroke="#5b8db8" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M2 4l4 4 4-4"/></svg>
+        </button>
+        <div class="hidden pb-8">
+          <div class="grid sm:grid-cols-2 gap-6">
+            <a href="https://f3stlouis.com/" target="_blank" rel="noopener" class="relative overflow-hidden rounded-lg shadow-sm block p-6 tile-dark">
+              <img src="images/regions/region-saintlouis.png" alt="" aria-hidden="true" style="position:absolute; right:-15px; bottom:-15px; width:170px; height:170px; opacity:0.22; mix-blend-mode:screen; transform:rotate(-8deg); pointer-events:none; object-fit:contain;">
+              <div class="relative" style="z-index:1;">
+                <h4 class="font-display font-bold text-base" style="color:#e8f4f8;">F3 Saint Louis <span class="font-normal text-xs" style="color:#a8c8e8;">(The OG Region)</span></h4>
+                <p class="text-sm mt-3 leading-relaxed" style="color:#a8c8e8;">The OG for Missouri, the Saint Louis region has grown from 5 PAX to well into the four-figure range since 2017. Starting out with just one AO (&ldquo;The Huck&rdquo; in Clayton), the Saint Louis area just keeps experiencing explosive growth, as seen by all the regions that have spun off in the past few years.</p>
+                <span class="inline-block mt-4 text-sm font-bold" style="color:#ffffff;">f3stlouis.com &rarr;</span>
+              </div>
+            </a>
+            <a href="https://www.facebook.com/f3spiritstl/" target="_blank" rel="noopener" class="relative overflow-hidden rounded-lg shadow-sm block p-6 tile-dark">
+              <img src="images/regions/region-spirit.png" alt="" aria-hidden="true" style="position:absolute; right:-15px; bottom:-15px; width:170px; height:170px; opacity:0.22; mix-blend-mode:screen; transform:rotate(6deg); pointer-events:none; object-fit:contain;">
+              <div class="relative" style="z-index:1;">
+                <h4 class="font-display font-bold text-base" style="color:#e8f4f8;">F3 Spirit of St. Louis <span class="font-normal text-xs" style="color:#a8c8e8;">(SoSL)</span></h4>
+                <p class="text-sm mt-3 leading-relaxed" style="color:#a8c8e8;">The Outer Belt region of St. Louis County, F3 SoSL serves the PAX West of Interstate 270 up to the borders of JeffCo and St. Charles. From Fenton to Chesterfield to Pacific, if you are looking for a great workout in the Westward Expansion of St. Louis, this is your place.</p>
+                <span class="inline-block mt-4 text-sm font-bold" style="color:#ffffff;">facebook.com/f3spiritstl &rarr;</span>
+              </div>
+            </a>
+          </div>
         </div>
-      </a>
-      <a href="https://www.facebook.com/f3spiritstl/" target="_blank" rel="noopener" class="relative overflow-hidden rounded-lg shadow-sm block p-6 tile-dark">
-        <img src="images/regions/region-spirit.png" alt="" aria-hidden="true" style="position:absolute; right:-15px; bottom:-15px; width:170px; height:170px; opacity:0.22; mix-blend-mode:screen; transform:rotate(6deg); pointer-events:none; object-fit:contain;">
-        <div class="relative" style="z-index:1;">
-          <h4 class="font-display font-bold text-base" style="color:#e8f4f8;">F3 Spirit of St. Louis <span class="font-normal text-xs" style="color:#a8c8e8;">(SoSL)</span></h4>
-          <p class="text-sm mt-3 leading-relaxed" style="color:#a8c8e8;">The Outer Belt region of St. Louis County, F3 SoSL serves the PAX West of Interstate 270 up to the borders of JeffCo and St. Charles. From Fenton to Chesterfield to Pacific, if you are looking for a great workout in the Westward Expansion of St. Louis, this is your place.</p>
-          <span class="inline-block mt-4 text-sm font-bold" style="color:#ffffff;">facebook.com/f3spiritstl &rarr;</span>
-        </div>
-      </a>
-    </div>
+      </div>
 
-    <p class="text-xs font-bold uppercase tracking-wide mb-4" style="color:#5b8db8;">City &amp; South</p>
-    <div class="grid sm:grid-cols-2 gap-6 mb-10">
-      <a href="https://www.f3cityofstlouis.com/" target="_blank" rel="noopener" class="relative overflow-hidden rounded-lg shadow-sm block p-6 tile-dark">
-        <img src="images/regions/region-stlcity.png" alt="" aria-hidden="true" style="position:absolute; right:-15px; bottom:-15px; width:170px; height:170px; opacity:0.22; mix-blend-mode:screen; transform:rotate(-4deg); pointer-events:none; object-fit:contain;">
-        <div class="relative" style="z-index:1;">
-          <h4 class="font-display font-bold text-base" style="color:#e8f4f8;">F3 City of St. Louis</h4>
-          <p class="text-sm mt-3 leading-relaxed" style="color:#a8c8e8;">In July 2022, we continued our expansion through our starfish model by establishing the City of St. Louis region, which includes all AOs inside St. Louis City limits as well as our Illinois AOs.</p>
-          <span class="inline-block mt-4 text-sm font-bold" style="color:#ffffff;">f3cityofstlouis.com &rarr;</span>
+      <div style="border-bottom:1px solid #e8f4f8;">
+        <button type="button" class="w-full flex items-center justify-between py-4" onclick="toggleRegionGroup(this)">
+          <span class="text-xs font-bold uppercase tracking-wide" style="color:#5b8db8;">City &amp; South</span>
+          <svg class="chevron w-4 h-4 shrink-0" style="transition:transform 0.2s ease;" viewBox="0 0 12 12" fill="none" stroke="#5b8db8" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M2 4l4 4 4-4"/></svg>
+        </button>
+        <div class="hidden pb-8">
+          <div class="grid sm:grid-cols-2 gap-6">
+            <a href="https://www.f3cityofstlouis.com/" target="_blank" rel="noopener" class="relative overflow-hidden rounded-lg shadow-sm block p-6 tile-dark">
+              <img src="images/regions/region-stlcity.png" alt="" aria-hidden="true" style="position:absolute; right:-15px; bottom:-15px; width:170px; height:170px; opacity:0.22; mix-blend-mode:screen; transform:rotate(-4deg); pointer-events:none; object-fit:contain;">
+              <div class="relative" style="z-index:1;">
+                <h4 class="font-display font-bold text-base" style="color:#e8f4f8;">F3 City of St. Louis</h4>
+                <p class="text-sm mt-3 leading-relaxed" style="color:#a8c8e8;">In July 2022, we continued our expansion through our starfish model by establishing the City of St. Louis region, which includes all AOs inside St. Louis City limits as well as our Illinois AOs.</p>
+                <span class="inline-block mt-4 text-sm font-bold" style="color:#ffffff;">f3cityofstlouis.com &rarr;</span>
+              </div>
+            </a>
+            <a href="https://www.facebook.com/f3jeffco/" target="_blank" rel="noopener" class="relative overflow-hidden rounded-lg shadow-sm block p-6 tile-dark">
+              <img src="images/regions/region-jeffco.png" alt="" aria-hidden="true" style="position:absolute; right:-15px; bottom:-15px; width:170px; height:170px; opacity:0.22; mix-blend-mode:screen; transform:rotate(5deg); pointer-events:none; object-fit:contain;">
+              <div class="relative" style="z-index:1;">
+                <h4 class="font-display font-bold text-base" style="color:#e8f4f8;">F3 Jefferson County <span class="font-normal text-xs" style="color:#a8c8e8;">(JeffCo)</span></h4>
+                <p class="text-sm mt-3 leading-relaxed" style="color:#a8c8e8;">Heading South, the Jefferson County region split into a separate region in October, 2021. This region has strong growth and an amazing leadership team to keep the PAX accelerating.</p>
+                <span class="inline-block mt-4 text-sm font-bold" style="color:#ffffff;">facebook.com/f3jeffco &rarr;</span>
+              </div>
+            </a>
+          </div>
         </div>
-      </a>
-      <a href="https://www.facebook.com/f3jeffco/" target="_blank" rel="noopener" class="relative overflow-hidden rounded-lg shadow-sm block p-6 tile-dark">
-        <img src="images/regions/region-jeffco.png" alt="" aria-hidden="true" style="position:absolute; right:-15px; bottom:-15px; width:170px; height:170px; opacity:0.22; mix-blend-mode:screen; transform:rotate(5deg); pointer-events:none; object-fit:contain;">
-        <div class="relative" style="z-index:1;">
-          <h4 class="font-display font-bold text-base" style="color:#e8f4f8;">F3 Jefferson County <span class="font-normal text-xs" style="color:#a8c8e8;">(JeffCo)</span></h4>
-          <p class="text-sm mt-3 leading-relaxed" style="color:#a8c8e8;">Heading South, the Jefferson County region split into a separate region in October, 2021. This region has strong growth and an amazing leadership team to keep the PAX accelerating.</p>
-          <span class="inline-block mt-4 text-sm font-bold" style="color:#ffffff;">facebook.com/f3jeffco &rarr;</span>
-        </div>
-      </a>
-    </div>
+      </div>
 
-    <p class="text-xs font-bold uppercase tracking-wide mb-4" style="color:#5b8db8;">North &amp; St. Charles</p>
-    <div class="grid sm:grid-cols-2 gap-6 mb-10">
-      <a href="https://www.facebook.com/f3stcharles/" target="_blank" rel="noopener" class="relative overflow-hidden rounded-lg shadow-sm block p-6 tile-dark">
-        <img src="images/regions/region-stcharles.png" alt="" aria-hidden="true" style="position:absolute; right:-15px; bottom:-15px; width:170px; height:170px; opacity:0.22; mix-blend-mode:screen; transform:rotate(-6deg); pointer-events:none; object-fit:contain;">
-        <div class="relative" style="z-index:1;">
-          <h4 class="font-display font-bold text-base" style="color:#e8f4f8;">F3 St. Charles County</h4>
-          <p class="text-sm mt-3 leading-relaxed" style="color:#a8c8e8;">Our northernmost region, Saint Charles, separated into a distinct region in June of 2021. Serving the PAX of St. Charles County, there are some amazingly beautiful, riverfront AOs for a perfect start to your day.</p>
-          <span class="inline-block mt-4 text-sm font-bold" style="color:#ffffff;">facebook.com/f3stcharles &rarr;</span>
+      <div style="border-bottom:1px solid #e8f4f8;">
+        <button type="button" class="w-full flex items-center justify-between py-4" onclick="toggleRegionGroup(this)">
+          <span class="text-xs font-bold uppercase tracking-wide" style="color:#5b8db8;">North &amp; St. Charles</span>
+          <svg class="chevron w-4 h-4 shrink-0" style="transition:transform 0.2s ease;" viewBox="0 0 12 12" fill="none" stroke="#5b8db8" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M2 4l4 4 4-4"/></svg>
+        </button>
+        <div class="hidden pb-8">
+          <div class="grid sm:grid-cols-2 gap-6">
+            <a href="https://www.facebook.com/f3stcharles/" target="_blank" rel="noopener" class="relative overflow-hidden rounded-lg shadow-sm block p-6 tile-dark">
+              <img src="images/regions/region-stcharles.png" alt="" aria-hidden="true" style="position:absolute; right:-15px; bottom:-15px; width:170px; height:170px; opacity:0.22; mix-blend-mode:screen; transform:rotate(-6deg); pointer-events:none; object-fit:contain;">
+              <div class="relative" style="z-index:1;">
+                <h4 class="font-display font-bold text-base" style="color:#e8f4f8;">F3 St. Charles County</h4>
+                <p class="text-sm mt-3 leading-relaxed" style="color:#a8c8e8;">Our northernmost region, Saint Charles, separated into a distinct region in June of 2021. Serving the PAX of St. Charles County, there are some amazingly beautiful, riverfront AOs for a perfect start to your day.</p>
+                <span class="inline-block mt-4 text-sm font-bold" style="color:#ffffff;">facebook.com/f3stcharles &rarr;</span>
+              </div>
+            </a>
+            <a href="https://f3thechuck.com/" target="_blank" rel="noopener" class="relative overflow-hidden rounded-lg shadow-sm block p-6 tile-dark">
+              <img src="images/regions/region-stcharlescity.png" alt="" aria-hidden="true" style="position:absolute; right:-15px; bottom:-15px; width:170px; height:170px; opacity:0.22; mix-blend-mode:screen; transform:rotate(4deg); pointer-events:none; object-fit:contain;">
+              <div class="relative" style="z-index:1;">
+                <h4 class="font-display font-bold text-base" style="color:#e8f4f8;">F3 St. Charles City <span class="font-normal text-xs" style="color:#a8c8e8;">(The Chuck)</span></h4>
+                <p class="text-sm mt-3 leading-relaxed" style="color:#a8c8e8;">Expansion continues as the St. Charles area has grown to the point where a separate region was needed for the city limits. &ldquo;The Chuck&rdquo; holds beatdowns at some of the finest parking lots and parks in St. Charles City.</p>
+                <span class="inline-block mt-4 text-sm font-bold" style="color:#ffffff;">f3thechuck.com &rarr;</span>
+              </div>
+            </a>
+          </div>
         </div>
-      </a>
-      <a href="https://f3thechuck.com/" target="_blank" rel="noopener" class="relative overflow-hidden rounded-lg shadow-sm block p-6 tile-dark">
-        <img src="images/regions/region-stcharlescity.png" alt="" aria-hidden="true" style="position:absolute; right:-15px; bottom:-15px; width:170px; height:170px; opacity:0.22; mix-blend-mode:screen; transform:rotate(4deg); pointer-events:none; object-fit:contain;">
-        <div class="relative" style="z-index:1;">
-          <h4 class="font-display font-bold text-base" style="color:#e8f4f8;">F3 St. Charles City <span class="font-normal text-xs" style="color:#a8c8e8;">(The Chuck)</span></h4>
-          <p class="text-sm mt-3 leading-relaxed" style="color:#a8c8e8;">Expansion continues as the St. Charles area has grown to the point where a separate region was needed for the city limits. &ldquo;The Chuck&rdquo; holds beatdowns at some of the finest parking lots and parks in St. Charles City.</p>
-          <span class="inline-block mt-4 text-sm font-bold" style="color:#ffffff;">f3thechuck.com &rarr;</span>
-        </div>
-      </a>
-    </div>
+      </div>
 
-    <p class="text-xs font-bold uppercase tracking-wide mb-4" style="color:#5b8db8;">Outer Regional &amp; Metro East</p>
-    <div class="grid sm:grid-cols-2 gap-6">
-      <a href="https://f3soil.com/" target="_blank" rel="noopener" class="relative overflow-hidden rounded-lg shadow-sm block p-6 tile-dark">
-        <img src="images/regions/region-nation.png" alt="" aria-hidden="true" style="position:absolute; right:-15px; bottom:-15px; width:150px; height:150px; opacity:0.22; mix-blend-mode:screen; transform:rotate(-5deg); pointer-events:none; object-fit:contain;">
-        <div class="relative" style="z-index:1;">
-          <h4 class="font-display font-bold text-base" style="color:#e8f4f8;">F3 SOIL <span class="font-normal text-xs" style="color:#a8c8e8;">(Southern Illinois / Metro East)</span></h4>
-          <p class="text-sm mt-3 leading-relaxed" style="color:#a8c8e8;">F3 SOIL is the (SO)uthern (IL)linois and St. Louis Metro East region of F3.</p>
-          <span class="inline-block mt-4 text-sm font-bold" style="color:#ffffff;">f3soil.com &rarr;</span>
+      <div style="border-bottom:1px solid #e8f4f8;">
+        <button type="button" class="w-full flex items-center justify-between py-4" onclick="toggleRegionGroup(this)">
+          <span class="text-xs font-bold uppercase tracking-wide" style="color:#5b8db8;">Outer Regional &amp; Metro East</span>
+          <svg class="chevron w-4 h-4 shrink-0" style="transition:transform 0.2s ease;" viewBox="0 0 12 12" fill="none" stroke="#5b8db8" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M2 4l4 4 4-4"/></svg>
+        </button>
+        <div class="hidden pb-8">
+          <div class="grid sm:grid-cols-2 gap-6">
+            <a href="https://f3soil.com/" target="_blank" rel="noopener" class="relative overflow-hidden rounded-lg shadow-sm block p-6 tile-dark">
+              <img src="images/regions/region-nation.png" alt="" aria-hidden="true" style="position:absolute; right:-15px; bottom:-15px; width:150px; height:150px; opacity:0.22; mix-blend-mode:screen; transform:rotate(-5deg); pointer-events:none; object-fit:contain;">
+              <div class="relative" style="z-index:1;">
+                <h4 class="font-display font-bold text-base" style="color:#e8f4f8;">F3 SOIL <span class="font-normal text-xs" style="color:#a8c8e8;">(Southern Illinois / Metro East)</span></h4>
+                <p class="text-sm mt-3 leading-relaxed" style="color:#a8c8e8;">F3 SOIL is the (SO)uthern (IL)linois and St. Louis Metro East region of F3.</p>
+                <span class="inline-block mt-4 text-sm font-bold" style="color:#ffffff;">f3soil.com &rarr;</span>
+              </div>
+            </a>
+            <a href="https://f3washmo.com/" target="_blank" rel="noopener" class="relative overflow-hidden rounded-lg shadow-sm block p-6 tile-dark">
+              <img src="images/regions/region-nation.png" alt="" aria-hidden="true" style="position:absolute; right:-15px; bottom:-15px; width:150px; height:150px; opacity:0.22; mix-blend-mode:screen; transform:rotate(7deg); pointer-events:none; object-fit:contain;">
+              <div class="relative" style="z-index:1;">
+                <h4 class="font-display font-bold text-base" style="color:#e8f4f8;">F3 Washington, MO</h4>
+                <p class="text-sm mt-3 leading-relaxed" style="color:#a8c8e8;">Our Washington Missouri region also split into a distinct F3 region in June of 2021. Serving the PAX of Franklin County, the region continues to spread westbound!</p>
+                <span class="inline-block mt-4 text-sm font-bold" style="color:#ffffff;">f3washmo.com &rarr;</span>
+              </div>
+            </a>
+          </div>
         </div>
-      </a>
-      <a href="https://f3washmo.com/" target="_blank" rel="noopener" class="relative overflow-hidden rounded-lg shadow-sm block p-6 tile-dark">
-        <img src="images/regions/region-nation.png" alt="" aria-hidden="true" style="position:absolute; right:-15px; bottom:-15px; width:150px; height:150px; opacity:0.22; mix-blend-mode:screen; transform:rotate(7deg); pointer-events:none; object-fit:contain;">
-        <div class="relative" style="z-index:1;">
-          <h4 class="font-display font-bold text-base" style="color:#e8f4f8;">F3 Washington, MO</h4>
-          <p class="text-sm mt-3 leading-relaxed" style="color:#a8c8e8;">Our Washington Missouri region also split into a distinct F3 region in June of 2021. Serving the PAX of Franklin County, the region continues to spread westbound!</p>
-          <span class="inline-block mt-4 text-sm font-bold" style="color:#ffffff;">f3washmo.com &rarr;</span>
-        </div>
-      </a>
-    </div>
+      </div>
 
-    <p class="text-xs font-bold uppercase tracking-wide mb-4 mt-8" style="color:#5b8db8;">Southwest County</p>
-    <div class="grid sm:grid-cols-2 gap-6">
-      <a href="https://f3stlcountyline.com/" target="_blank" rel="noopener" class="relative overflow-hidden rounded-lg shadow-sm block p-6 tile-dark">
-        <img src="images/regions/region-countyline.png" alt="" aria-hidden="true" style="position:absolute; right:-15px; bottom:-15px; width:150px; height:150px; opacity:0.22; mix-blend-mode:screen; transform:rotate(-6deg); pointer-events:none; object-fit:contain;">
-        <div class="relative" style="z-index:1;">
-          <h4 class="font-display font-bold text-base" style="color:#e8f4f8;">F3 County Line</h4>
-          <p class="text-sm mt-3 leading-relaxed" style="color:#a8c8e8;">Serving Eureka and the far western reaches of St. Louis County, right along the Franklin County line.</p>
-          <span class="inline-block mt-4 text-sm font-bold" style="color:#ffffff;">f3stlcountyline.com &rarr;</span>
+      <div>
+        <button type="button" class="w-full flex items-center justify-between py-4" onclick="toggleRegionGroup(this)">
+          <span class="text-xs font-bold uppercase tracking-wide" style="color:#5b8db8;">Southwest County</span>
+          <svg class="chevron w-4 h-4 shrink-0" style="transition:transform 0.2s ease;" viewBox="0 0 12 12" fill="none" stroke="#5b8db8" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M2 4l4 4 4-4"/></svg>
+        </button>
+        <div class="hidden pb-8">
+          <div class="grid sm:grid-cols-2 gap-6">
+            <a href="https://f3stlcountyline.com/" target="_blank" rel="noopener" class="relative overflow-hidden rounded-lg shadow-sm block p-6 tile-dark">
+              <img src="images/regions/region-countyline.png" alt="" aria-hidden="true" style="position:absolute; right:-15px; bottom:-15px; width:150px; height:150px; opacity:0.22; mix-blend-mode:screen; transform:rotate(-6deg); pointer-events:none; object-fit:contain;">
+              <div class="relative" style="z-index:1;">
+                <h4 class="font-display font-bold text-base" style="color:#e8f4f8;">F3 County Line</h4>
+                <p class="text-sm mt-3 leading-relaxed" style="color:#a8c8e8;">Serving Eureka and the far western reaches of St. Louis County, right along the Franklin County line.</p>
+                <span class="inline-block mt-4 text-sm font-bold" style="color:#ffffff;">f3stlcountyline.com &rarr;</span>
+              </div>
+            </a>
+            <a href="https://www.f3meramecstl.com/" target="_blank" rel="noopener" class="relative overflow-hidden rounded-lg shadow-sm block p-6 tile-dark">
+              <img src="images/regions/region-meramec.jpg" alt="" aria-hidden="true" style="position:absolute; right:-15px; bottom:-15px; width:150px; height:150px; opacity:0.22; mix-blend-mode:screen; transform:rotate(5deg); pointer-events:none; object-fit:contain;">
+              <div class="relative" style="z-index:1;">
+                <h4 class="font-display font-bold text-base" style="color:#e8f4f8;">F3 Meramec STL</h4>
+                <p class="text-sm mt-3 leading-relaxed" style="color:#a8c8e8;">Our region that serves Fenton and Valley Park with all your needs.</p>
+                <span class="inline-block mt-4 text-sm font-bold" style="color:#ffffff;">f3meramecstl.com &rarr;</span>
+              </div>
+            </a>
+          </div>
         </div>
-      </a>
-      <a href="https://www.f3meramecstl.com/" target="_blank" rel="noopener" class="relative overflow-hidden rounded-lg shadow-sm block p-6 tile-dark">
-        <img src="images/regions/region-meramec.jpg" alt="" aria-hidden="true" style="position:absolute; right:-15px; bottom:-15px; width:150px; height:150px; opacity:0.22; mix-blend-mode:screen; transform:rotate(5deg); pointer-events:none; object-fit:contain;">
-        <div class="relative" style="z-index:1;">
-          <h4 class="font-display font-bold text-base" style="color:#e8f4f8;">F3 Meramec STL</h4>
-          <p class="text-sm mt-3 leading-relaxed" style="color:#a8c8e8;">Our region that serves Fenton and Valley Park with all your needs.</p>
-          <span class="inline-block mt-4 text-sm font-bold" style="color:#ffffff;">f3meramecstl.com &rarr;</span>
-        </div>
-      </a>
+      </div>
     </div>
 
     <p class="text-center mt-12" style="color:#5b8db8;">Still can't find a place nearby? F3 is global &mdash; check out our <a href="https://map.f3nation.com/" target="_blank" rel="noopener" class="font-bold" style="color:#1a3a5c;">interactive global site map</a>.</p>
   </div>
 </section>
+<script>
+  function toggleRegionGroup(btn) {
+    const content = btn.nextElementSibling;
+    const chevron = btn.querySelector('.chevron');
+    content.classList.toggle('hidden');
+    chevron.style.transform = content.classList.contains('hidden') ? 'rotate(0deg)' : 'rotate(180deg)';
+  }
+</script>
 
 <!-- TESTIMONIALS -->
 <!--
