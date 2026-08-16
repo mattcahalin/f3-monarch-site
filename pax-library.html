@@ -1,0 +1,394 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>PAX Library | F3 Monarch STL</title>
+<meta name="description" content="Helpful resources for F3 Monarch STL PAX: beatdown apps for Q's, an F3 glossary, and other useful links.">
+<link rel="canonical" href="https://f3-monarchstl.com/pax-library.html">
+<link rel="icon" type="image/png" href="images/monarch%20logo.png">
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
+
+<meta property="og:type" content="website">
+<meta property="og:title" content="PAX Library | F3 Monarch STL">
+<meta property="og:description" content="Helpful resources for F3 Monarch STL PAX: beatdown apps for Q's, an F3 glossary, and other useful links.">
+<meta property="og:url" content="https://f3-monarchstl.com/pax-library.html">
+<meta property="og:image" content="https://f3-monarchstl.com/images/monarch%20logo.png">
+<meta property="og:site_name" content="F3 Monarch STL">
+
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="PAX Library | F3 Monarch STL">
+<meta name="twitter:image" content="https://f3-monarchstl.com/images/monarch%20logo.png">
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Oswald:wght@500;600;700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<script src="https://cdn.tailwindcss.com"></script>
+<style>
+  body { font-family: 'Inter', ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, sans-serif; }
+  .font-display { font-family: 'Oswald', ui-sans-serif, system-ui, sans-serif; letter-spacing: -0.01em; }
+
+  a, button, input, select, textarea {
+    transition: color 0.2s ease, background-color 0.2s ease, border-color 0.2s ease, box-shadow 0.2s ease, transform 0.2s ease, opacity 0.2s ease;
+  }
+
+  :root {
+    --navy:      #0d1b2a;
+    --navy-mid:  #1a3a5c;
+    --blue-mid:  #5b8db8;
+    --blue-ice:  #a8c8e8;
+    --off-white: #e8f4f8;
+  }
+
+  .nav-link { color: var(--blue-ice); }
+  .mobile-nav-link { color: var(--blue-ice); padding: 8px 0; border-bottom: 1px solid rgba(26,58,92,0.13); }
+  .nav-link:hover { color: var(--off-white); }
+
+  .btn-primary { background: var(--blue-mid); color: var(--off-white); }
+  .btn-primary:hover { background: var(--blue-ice); color: var(--navy); }
+
+  .dropdown-item { display: block; padding: 10px 16px; color: var(--blue-ice); }
+  .dropdown-item:hover { background: var(--navy); color: var(--off-white); }
+  .dropdown-item + .dropdown-item { border-top: 1px solid rgba(168,200,232,0.15); }
+
+  /* App Store icons */
+  .app-icon {
+    width: 64px; height: 64px; border-radius: 16px; object-fit: cover;
+    box-shadow: 0 2px 6px rgba(13,27,42,0.25);
+  }
+  .app-card:hover { transform: translateY(-2px); box-shadow: 0 8px 20px rgba(13,27,42,0.12); }
+
+  /* Glossary */
+  .glossary-term { color: var(--navy-mid); }
+  .glossary-category { font-family: 'Oswald', ui-sans-serif, system-ui, sans-serif; }
+
+  /* Glossary accordion */
+  .glossary-accordion-item { scroll-margin-top: 90px; }
+  .glossary-accordion-trigger { cursor: pointer; background: none; border: none; }
+  .glossary-chevron { transition: transform 0.2s ease; color: var(--blue-mid); }
+  .glossary-accordion-trigger[aria-expanded="true"] .glossary-chevron { transform: rotate(180deg); }
+  .glossary-accordion-panel[hidden] { display: none; }
+</style>
+</head>
+<body style="background:#ffffff; color:#1a3a5c;">
+
+<!-- NAV -->
+<header class="sticky top-0 z-50 backdrop-blur" style="background:#1a3a5c; border-bottom:3px solid #5b8db8;">
+  <div class="max-w-6xl mx-auto px-4 py-3 flex items-center justify-between">
+    <a href="index.html" class="flex items-center gap-2">
+      <img src="images/monarch%20logo%20transparent.png" alt="F3 Monarch STL Logo" style="width:36px; height:36px; object-fit:contain;">
+      <span class="font-display font-bold text-lg tracking-tight" style="color:#e8f4f8;">F3 MONARCH <span style="color:#a8c8e8;">STL</span></span>
+    </a>
+    <nav class="hidden md:flex gap-6 text-sm font-semibold items-center" style="color:#a8c8e8;">
+      <a href="index.html#fs" class="nav-link">The 3 F's</a>
+      <a href="index.html#aos" class="nav-link">AOs</a>
+      <a href="index.html#meet" class="nav-link">Monarch Region Map</a>
+      <div class="relative" id="more-dropdown">
+        <button type="button" class="nav-link flex items-center gap-1" onclick="document.getElementById('more-menu').classList.toggle('hidden')">
+          More
+          <svg class="w-3 h-3" viewBox="0 0 12 12" fill="none" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M2 4l4 4 4-4"/></svg>
+        </button>
+        <div id="more-menu" class="hidden absolute right-0 mt-3 rounded-lg shadow-lg overflow-hidden" style="background:#1a3a5c; border:1px solid #5b8db8; min-width:180px; z-index:60;">
+          <a href="index.html#contact" class="dropdown-item">Contact</a>
+          <a href="gallery.html" class="dropdown-item">Photo Gallery</a>
+          <a href="pax-spotlight.html" class="dropdown-item">PAX Spotlight</a>
+          <a href="pax-library.html" class="dropdown-item" style="color:#e8f4f8; font-weight:700;">PAX Library</a>
+        </div>
+      </div>
+    </nav>
+    <div class="flex items-center gap-3">
+      <a href="index.html#aos" class="hidden md:inline-block font-bold text-sm px-4 py-2 rounded btn-primary">Find a Workout</a>
+      <button id="menu-toggle" class="md:hidden flex flex-col gap-1.5 p-2" onclick="document.getElementById('mobile-menu').classList.toggle('hidden')" aria-label="Menu">
+        <span style="display:block; width:22px; height:2px; background:#a8c8e8;"></span>
+        <span style="display:block; width:22px; height:2px; background:#a8c8e8;"></span>
+        <span style="display:block; width:22px; height:2px; background:#a8c8e8;"></span>
+      </button>
+    </div>
+  </div>
+  <!-- Mobile menu -->
+  <div id="mobile-menu" class="hidden md:hidden px-4 pb-4 flex flex-col gap-3 text-sm font-semibold" style="border-top:1px solid #1a3a5c;">
+    <a href="index.html#fs" class="mobile-nav-link">The 3 F's</a>
+    <a href="index.html#aos" class="mobile-nav-link">AOs</a>
+    <a href="index.html#meet" class="mobile-nav-link">Monarch Region Map</a>
+    <a href="index.html#contact" class="mobile-nav-link">Contact</a>
+    <a href="gallery.html" class="mobile-nav-link">Photo Gallery</a>
+    <a href="pax-spotlight.html" class="mobile-nav-link">PAX Spotlight</a>
+    <a href="pax-library.html" class="mobile-nav-link" style="color:#e8f4f8; font-weight:700;">PAX Library</a>
+    <a href="index.html#aos" class="text-center font-bold rounded py-2 mt-1 btn-primary">Find a Workout</a>
+  </div>
+</header>
+<script>
+  document.addEventListener('click', (e) => {
+    const dropdown = document.getElementById('more-dropdown');
+    const menu = document.getElementById('more-menu');
+    if (dropdown && menu && !dropdown.contains(e.target)) menu.classList.add('hidden');
+  });
+</script>
+
+<!-- PAGE HEADER -->
+<section style="background:linear-gradient(to bottom, #0d1b2a, #1a3a5c); border-bottom:1px solid #1a3a5c;">
+  <div class="max-w-6xl mx-auto px-4 py-16 text-center">
+    <h1 class="font-display font-black text-4xl md:text-5xl" style="color:#e8f4f8;">PAX Library</h1>
+    <p class="mt-4 text-lg max-w-2xl mx-auto" style="color:#a8c8e8;">Helpful materials for Monarch PAX &mdash; beatdown apps for Q's, F3 lingo, and other useful links.</p>
+  </div>
+</section>
+
+<!-- IN-PAGE NAV -->
+<nav class="border-b" style="background:#e8f4f8; border-color:#a8c8e8;">
+  <div class="max-w-6xl mx-auto px-4 flex gap-6 text-sm font-semibold overflow-x-auto" style="color:#1a3a5c;">
+    <a href="#app-store" class="py-3 whitespace-nowrap" style="border-bottom:2px solid transparent;" onmouseover="this.style.borderColor='#5b8db8'" onmouseout="this.style.borderColor='transparent'">App Store</a>
+    <a href="#glossary" class="py-3 whitespace-nowrap" style="border-bottom:2px solid transparent;" onmouseover="this.style.borderColor='#5b8db8'" onmouseout="this.style.borderColor='transparent'">F3 Glossary</a>
+    <a href="#links" class="py-3 whitespace-nowrap" style="border-bottom:2px solid transparent;" onmouseover="this.style.borderColor='#5b8db8'" onmouseout="this.style.borderColor='transparent'">Other Helpful Links</a>
+  </div>
+</nav>
+
+<!-- APP STORE -->
+<section id="app-store" class="border-b" style="background:#ffffff; border-color:#a8c8e8;">
+  <div class="max-w-6xl mx-auto px-4 py-16 md:py-20">
+    <h2 class="font-display font-black text-3xl" style="color:#0d1b2a;">App Store</h2>
+    <p class="mt-3 max-w-2xl" style="color:#1a3a5c;">Beatdown apps Q's can use to plan and run a workout.</p>
+
+    <div class="mt-10 grid sm:grid-cols-2 lg:grid-cols-3 gap-5">
+      <div class="app-card flex items-start gap-4 p-5 rounded-lg" style="background:#e8f4f8; border:1px solid #a8c8e8;">
+        <a href="https://football-beatdown.onrender.com/" target="_blank" rel="noopener" class="shrink-0">
+          <img src="images/apps/hiit-challenge.jfif" alt="HIIT Challenge icon" class="app-icon">
+        </a>
+        <div>
+          <a href="https://football-beatdown.onrender.com/" target="_blank" rel="noopener" class="font-bold" style="color:#0d1b2a;">HIIT Challenge</a>
+          <p class="text-sm mt-1" style="color:#1a3a5c;">Football-themed team challenge with race to reps for TDs, and Q defined challenges for extra points and turnovers. <a href="https://football-beatdown.onrender.com/how-to-play.html" target="_blank" rel="noopener" class="font-semibold underline" style="color:#5b8db8;">How to play</a></p>
+        </div>
+      </div>
+
+      <!-- App card template — duplicate this block for each additional app -->
+      <!--
+      <div class="app-card flex items-start gap-4 p-5 rounded-lg" style="background:#e8f4f8; border:1px solid #a8c8e8;">
+        <a href="APP_STORE_URL" target="_blank" rel="noopener" class="shrink-0">
+          <img src="images/apps/APP_ICON.png" alt="APP_NAME icon" class="app-icon">
+        </a>
+        <div>
+          <a href="APP_STORE_URL" target="_blank" rel="noopener" class="font-bold" style="color:#0d1b2a;">APP_NAME</a>
+          <p class="text-sm mt-1" style="color:#1a3a5c;">APP_DESCRIPTION</p>
+        </div>
+      </div>
+      -->
+    </div>
+  </div>
+</section>
+
+<!-- F3 GLOSSARY -->
+<section id="glossary" class="border-b" style="background:#e8f4f8; border-color:#a8c8e8;">
+  <div class="max-w-6xl mx-auto px-4 py-16 md:py-20">
+    <h2 class="font-display font-black text-3xl" style="color:#0d1b2a;">F3 Glossary</h2>
+    <p class="mt-3 max-w-2xl" style="color:#1a3a5c;">New to F3? Here's a rundown of the lingo you'll hear at the AO. Tap a category to expand it.</p>
+
+    <div class="mt-8 space-y-3">
+
+      <div id="gloss-principles" class="glossary-accordion-item rounded-lg overflow-hidden" style="border:1px solid #a8c8e8; background:#ffffff;">
+        <button type="button" class="glossary-accordion-trigger w-full flex items-center justify-between gap-3 text-left px-5 py-4" aria-expanded="true" onclick="toggleGlossary(this)">
+          <h3 class="glossary-category font-bold text-lg" style="color:#0d1b2a;">1. Core Principles &amp; Roles</h3>
+          <svg class="glossary-chevron w-4 h-4 shrink-0" viewBox="0 0 12 12" fill="none" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M2 4l4 4 4-4"/></svg>
+        </button>
+        <div class="glossary-accordion-panel px-5 pb-6">
+        <div class="grid md:grid-cols-2 gap-x-10 gap-y-6">
+          <div><p class="font-bold glossary-term">F3</p><p class="text-sm mt-1" style="color:#1a3a5c;">Stands for Fitness, Fellowship, and Faith (defined broadly as belief in a purpose higher than oneself).</p></div>
+          <div><p class="font-bold glossary-term">1st F (Fitness)</p><p class="text-sm mt-1" style="color:#1a3a5c;">The physical workout component that gets men out of bed.</p></div>
+          <div><p class="font-bold glossary-term">2nd F (Fellowship)</p><p class="text-sm mt-1" style="color:#1a3a5c;">The social bonds, conversations, and community built before, during, and after workouts.</p></div>
+          <div><p class="font-bold glossary-term">3rd F (Faith)</p><p class="text-sm mt-1" style="color:#1a3a5c;">Community leadership, philanthropy, and pushing men to serve others and be better leaders.</p></div>
+          <div><p class="font-bold glossary-term">HIM (High Impact Man)</p><p class="text-sm mt-1" style="color:#1a3a5c;">A dedicated member who leads by example in his family, workplace, and community.</p></div>
+          <div><p class="font-bold glossary-term">PAX</p><p class="text-sm mt-1" style="color:#1a3a5c;">The participants or members attending an F3 workout (short for &ldquo;passengers&rdquo; or &ldquo;people&rdquo;).</p></div>
+          <div><p class="font-bold glossary-term">FNG (Friendly New Guy)</p><p class="text-sm mt-1" style="color:#1a3a5c;">A newcomer attending their first F3 workout who receives an official nickname at the end of the session.</p></div>
+          <div><p class="font-bold glossary-term">Q / QIC (Q-in-Charge)</p><p class="text-sm mt-1" style="color:#1a3a5c;">The member leading and instructing the workout for that day.</p></div>
+          <div><p class="font-bold glossary-term">Site Q</p><p class="text-sm mt-1" style="color:#1a3a5c;">The volunteer responsible for overseeing a specific workout location.</p></div>
+          <div><p class="font-bold glossary-term">The M</p><p class="text-sm mt-1" style="color:#1a3a5c;">A member's spouse or significant other.</p></div>
+          <div><p class="font-bold glossary-term">2.0</p><p class="text-sm mt-1" style="color:#1a3a5c;">A member's child.</p></div>
+          <div><p class="font-bold glossary-term">YHC (Your Humble Correspondent)</p><p class="text-sm mt-1" style="color:#1a3a5c;">How a leader refers to himself when writing up the Backblast summary.</p></div>
+        </div>
+        </div>
+      </div>
+
+      <div id="gloss-logistics" class="glossary-accordion-item rounded-lg overflow-hidden" style="border:1px solid #a8c8e8; background:#ffffff;">
+        <button type="button" class="glossary-accordion-trigger w-full flex items-center justify-between gap-3 text-left px-5 py-4" aria-expanded="false" onclick="toggleGlossary(this)">
+          <h3 class="glossary-category font-bold text-lg" style="color:#0d1b2a;">2. Logistics, Locations &amp; Culture</h3>
+          <svg class="glossary-chevron w-4 h-4 shrink-0" viewBox="0 0 12 12" fill="none" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M2 4l4 4 4-4"/></svg>
+        </button>
+        <div class="glossary-accordion-panel px-5 pb-6" hidden>
+        <div class="grid md:grid-cols-2 gap-x-10 gap-y-6">
+          <div><p class="font-bold glossary-term">AO (Area of Operations)</p><p class="text-sm mt-1" style="color:#1a3a5c;">The physical venue where the workout takes place (e.g., a park, parking lot, or field).</p></div>
+          <div><p class="font-bold glossary-term">Backblast (BB)</p><p class="text-sm mt-1" style="color:#1a3a5c;">A written report posted online summarizing the workout details, attendance, and highlights.</p></div>
+          <div><p class="font-bold glossary-term">Coffeteria / Beerteria</p><p class="text-sm mt-1" style="color:#1a3a5c;">Gathering for coffee (morning) or beverages (evening) immediately following the workout to build community.</p></div>
+          <div><p class="font-bold glossary-term">CSAUP (Completely Stupid And Utterly Pointless)</p><p class="text-sm mt-1" style="color:#1a3a5c;">An endurance event or extra-tough challenge designed to test grit and build camaraderie (e.g., a multi-hour night ruck or marathon).</p></div>
+          <div><p class="font-bold glossary-term">Downrange</p><p class="text-sm mt-1" style="color:#1a3a5c;">Attending an F3 workout in a different city or region while traveling.</p></div>
+          <div><p class="font-bold glossary-term">Fartsack / Fartsacking</p><p class="text-sm mt-1" style="color:#1a3a5c;">Staying in bed instead of waking up to work out.</p></div>
+          <div><p class="font-bold glossary-term">HC (Hard Commit)</p><p class="text-sm mt-1" style="color:#1a3a5c;">A firm promise or confirmation that you will show up to a scheduled workout.</p></div>
+          <div><p class="font-bold glossary-term">Mumble Chatter</p><p class="text-sm mt-1" style="color:#1a3a5c;">Casual talking, banter, or lighthearted complaining during a workout to build morale.</p></div>
+          <div><p class="font-bold glossary-term">Post</p><p class="text-sm mt-1" style="color:#1a3a5c;">Showing up and participating in a workout.</p></div>
+          <div><p class="font-bold glossary-term">Shovel Flag</p><p class="text-sm mt-1" style="color:#1a3a5c;">An American flag or regional banner mounted on a shovel, stuck into the ground to mark the workout starting point.</p></div>
+          <div><p class="font-bold glossary-term">The Gloom</p><p class="text-sm mt-1" style="color:#1a3a5c;">The dark, pre-dawn hours when morning F3 workouts take place.</p></div>
+        </div>
+        </div>
+      </div>
+
+      <div id="gloss-anatomy" class="glossary-accordion-item rounded-lg overflow-hidden" style="border:1px solid #a8c8e8; background:#ffffff;">
+        <button type="button" class="glossary-accordion-trigger w-full flex items-center justify-between gap-3 text-left px-5 py-4" aria-expanded="false" onclick="toggleGlossary(this)">
+          <h3 class="glossary-category font-bold text-lg" style="color:#0d1b2a;">3. Workout Anatomy &amp; Commands</h3>
+          <svg class="glossary-chevron w-4 h-4 shrink-0" viewBox="0 0 12 12" fill="none" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M2 4l4 4 4-4"/></svg>
+        </button>
+        <div class="glossary-accordion-panel px-5 pb-6" hidden>
+        <div class="grid md:grid-cols-2 gap-x-10 gap-y-6">
+          <div><p class="font-bold glossary-term">AYG (All You Got)</p><p class="text-sm mt-1" style="color:#1a3a5c;">Sprinting or giving maximum effort.</p></div>
+          <div><p class="font-bold glossary-term">Ball of Man (BOM)</p><p class="text-sm mt-1" style="color:#1a3a5c;">Huddling up shoulder-to-shoulder or taking a knee at the end of the COT for a brief closing thought or prayer.</p></div>
+          <div><p class="font-bold glossary-term">Beatdown (BD)</p><p class="text-sm mt-1" style="color:#1a3a5c;">The main 45-to-60-minute boot-camp style workout.</p></div>
+          <div><p class="font-bold glossary-term">COR (Count-o-rama)</p><p class="text-sm mt-1" style="color:#1a3a5c;">Counting the total number of men present at the end of the workout.</p></div>
+          <div><p class="font-bold glossary-term">COT (Circle of Trust)</p><p class="text-sm mt-1" style="color:#1a3a5c;">The closing gathering where announcements, personal reflections, support requests, or prayers are shared.</p></div>
+          <div><p class="font-bold glossary-term">Coupon</p><p class="text-sm mt-1" style="color:#1a3a5c;">Any heavy object used as a weight during exercises&mdash;most commonly a standard 8-inch concrete cinder block.</p></div>
+          <div><p class="font-bold glossary-term">IC (In Cadence)</p><p class="text-sm mt-1" style="color:#1a3a5c;">Performing exercises together while the leader counts the tempo out loud.</p></div>
+          <div><p class="font-bold glossary-term">Mary</p><p class="text-sm mt-1" style="color:#1a3a5c;">The dedicated abdominal/core portion near the end of the workout.</p></div>
+          <div><p class="font-bold glossary-term">Modify</p><p class="text-sm mt-1" style="color:#1a3a5c;">Adjusting an exercise to fit your current fitness level or physical limitations (&ldquo;Modify as needed, not as wanted&rdquo;).</p></div>
+          <div><p class="font-bold glossary-term">Mosey</p><p class="text-sm mt-1" style="color:#1a3a5c;">A light jog used to move the group from one station or area to another.</p></div>
+          <div><p class="font-bold glossary-term">NOR (Name-o-rama)</p><p class="text-sm mt-1" style="color:#1a3a5c;">Going around the circle at the end where everyone states their real name, age, and F3 nickname.</p></div>
+          <div><p class="font-bold glossary-term">OYO (On Your Own)</p><p class="text-sm mt-1" style="color:#1a3a5c;">Completing a set number of exercise repetitions at your own individual pace.</p></div>
+          <div><p class="font-bold glossary-term">The Six</p><p class="text-sm mt-1" style="color:#1a3a5c;">Your backside/rear, or the group running at the back of the pack. &ldquo;Picking up the six&rdquo; means stronger runners loop back so no man is left behind.</p></div>
+          <div><p class="font-bold glossary-term">The Thang</p><p class="text-sm mt-1" style="color:#1a3a5c;">The main section of the workout (circuits, intervals, hill runs, or routines).</p></div>
+          <div><p class="font-bold glossary-term">Warm-a-Rama</p><p class="text-sm mt-1" style="color:#1a3a5c;">The 5-minute dynamic warm-up at the beginning of the workout.</p></div>
+        </div>
+        </div>
+      </div>
+
+      <div id="gloss-upper" class="glossary-accordion-item rounded-lg overflow-hidden" style="border:1px solid #a8c8e8; background:#ffffff;">
+        <button type="button" class="glossary-accordion-trigger w-full flex items-center justify-between gap-3 text-left px-5 py-4" aria-expanded="false" onclick="toggleGlossary(this)">
+          <h3 class="glossary-category font-bold text-lg" style="color:#0d1b2a;">4. Upper Body Exercises</h3>
+          <svg class="glossary-chevron w-4 h-4 shrink-0" viewBox="0 0 12 12" fill="none" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M2 4l4 4 4-4"/></svg>
+        </button>
+        <div class="glossary-accordion-panel px-5 pb-6" hidden>
+        <div class="grid md:grid-cols-2 gap-x-10 gap-y-6">
+          <div><p class="font-bold glossary-term">Carolina Dry Dock</p><p class="text-sm mt-1" style="color:#1a3a5c;">A pike push-up with hips held high in a V-shape, lowering your head toward the ground to target the shoulders.</p></div>
+          <div><p class="font-bold glossary-term">Derkin (Decline Merkin)</p><p class="text-sm mt-1" style="color:#1a3a5c;">A push-up with your feet elevated on a bench, curb, or wall to increase upper-chest intensity.</p></div>
+          <div><p class="font-bold glossary-term">Diamond Merkin</p><p class="text-sm mt-1" style="color:#1a3a5c;">A push-up with your hands touching to form a diamond shape under your chest to isolate the triceps.</p></div>
+          <div><p class="font-bold glossary-term">Hand-Release Merkin</p><p class="text-sm mt-1" style="color:#1a3a5c;">A push-up where you lower all the way down, lift your hands completely off the ground for a split second, and push back up.</p></div>
+          <div><p class="font-bold glossary-term">Incline Merkin</p><p class="text-sm mt-1" style="color:#1a3a5c;">A push-up with your hands elevated on a bench or curb to lighten the load.</p></div>
+          <div><p class="font-bold glossary-term">Merkin</p><p class="text-sm mt-1" style="color:#1a3a5c;">A standard push-up.</p></div>
+          <div><p class="font-bold glossary-term">Peter Parker</p><p class="text-sm mt-1" style="color:#1a3a5c;">A plank or push-up where you bring your knee out to the side toward the same-side elbow.</p></div>
+          <div><p class="font-bold glossary-term">Ranger Merkin</p><p class="text-sm mt-1" style="color:#1a3a5c;">A push-up performed with hands placed close to the ribs and elbows pinned tightly against the sides.</p></div>
+          <div><p class="font-bold glossary-term">Werkin (Wide Merkin)</p><p class="text-sm mt-1" style="color:#1a3a5c;">A push-up performed with hands set significantly wider than shoulder-width apart.</p></div>
+        </div>
+        </div>
+      </div>
+
+      <div id="gloss-abs" class="glossary-accordion-item rounded-lg overflow-hidden" style="border:1px solid #a8c8e8; background:#ffffff;">
+        <button type="button" class="glossary-accordion-trigger w-full flex items-center justify-between gap-3 text-left px-5 py-4" aria-expanded="false" onclick="toggleGlossary(this)">
+          <h3 class="glossary-category font-bold text-lg" style="color:#0d1b2a;">5. Core Exercises</h3>
+          <svg class="glossary-chevron w-4 h-4 shrink-0" viewBox="0 0 12 12" fill="none" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M2 4l4 4 4-4"/></svg>
+        </button>
+        <div class="glossary-accordion-panel px-5 pb-6" hidden>
+        <div class="grid md:grid-cols-2 gap-x-10 gap-y-6">
+          <div><p class="font-bold glossary-term">American Hammer</p><p class="text-sm mt-1" style="color:#1a3a5c;">Sitting in a boat-pose position with feet lifted, holding a weight or clasping hands, and rotating the torso to touch the ground on each side.</p></div>
+          <div><p class="font-bold glossary-term">Big Boys</p><p class="text-sm mt-1" style="color:#1a3a5c;">Full sit-ups starting flat on your back with arms extended overhead, sitting all the way up to touch your feet.</p></div>
+          <div><p class="font-bold glossary-term">Flutter Kicks</p><p class="text-sm mt-1" style="color:#1a3a5c;">Lying on your back with hands under your glutes, keeping legs straight while alternating small up-and-down kicks.</p></div>
+          <div><p class="font-bold glossary-term">Freddy Mercury</p><p class="text-sm mt-1" style="color:#1a3a5c;">Bicycle crunches performed lying flat on your back, cycling your legs while reaching the opposite elbow to the opposite knee.</p></div>
+          <div><p class="font-bold glossary-term">Hello Dolly</p><p class="text-sm mt-1" style="color:#1a3a5c;">Lying on your back with legs straight, opening and closing them horizontally in a scissor motion.</p></div>
+          <div><p class="font-bold glossary-term">LBC (Little Baby Crunch)</p><p class="text-sm mt-1" style="color:#1a3a5c;">A quick, controlled ab crunch with knees bent at 90 degrees and fingertips behind the ears.</p></div>
+          <div><p class="font-bold glossary-term">Plankama (or Plank-a-rama)</p><p class="text-sm mt-1" style="color:#1a3a5c;">Holding standard planks while alternating variations (e.g., side planks, shoulder taps, or leg lifts).</p></div>
+          <div><p class="font-bold glossary-term">Protractor</p><p class="text-sm mt-1" style="color:#1a3a5c;">Lying on your back while the leader calls out leg-elevation angles (e.g., 30&deg;, 45&deg;, 90&deg;) for static core holds.</p></div>
+          <div><p class="font-bold glossary-term">Rosalita</p><p class="text-sm mt-1" style="color:#1a3a5c;">Lying flat on your back, raising both legs straight up to a 90-degree angle, opening them wide, and bringing them back together.</p></div>
+        </div>
+        </div>
+      </div>
+
+      <div id="gloss-lower" class="glossary-accordion-item rounded-lg overflow-hidden" style="border:1px solid #a8c8e8; background:#ffffff;">
+        <button type="button" class="glossary-accordion-trigger w-full flex items-center justify-between gap-3 text-left px-5 py-4" aria-expanded="false" onclick="toggleGlossary(this)">
+          <h3 class="glossary-category font-bold text-lg" style="color:#0d1b2a;">6. Lower Body Exercises</h3>
+          <svg class="glossary-chevron w-4 h-4 shrink-0" viewBox="0 0 12 12" fill="none" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M2 4l4 4 4-4"/></svg>
+        </button>
+        <div class="glossary-accordion-panel px-5 pb-6" hidden>
+        <div class="grid md:grid-cols-2 gap-x-10 gap-y-6">
+          <div><p class="font-bold glossary-term">Air Squats</p><p class="text-sm mt-1" style="color:#1a3a5c;">Standard bodyweight squats performed with proper depth and hips breaking parallel.</p></div>
+          <div><p class="font-bold glossary-term">Al Gore</p><p class="text-sm mt-1" style="color:#1a3a5c;">Holding a static squat position at a 90-degree angle with arms extended forward (a nod to &ldquo;standing still&rdquo; like a statue).</p></div>
+          <div><p class="font-bold glossary-term">Bobby Hurley</p><p class="text-sm mt-1" style="color:#1a3a5c;">A jump squat where you reach down to touch the ground with one hand, then explode upward into a jump while reaching high with the other.</p></div>
+          <div><p class="font-bold glossary-term">Bonnie Blair</p><p class="text-sm mt-1" style="color:#1a3a5c;">Alternating reverse jumping lunges (jumping side to side into a lunge position).</p></div>
+          <div><p class="font-bold glossary-term">Hillbilly</p><p class="text-sm mt-1" style="color:#1a3a5c;">A standing march bringing the knee up diagonally while touching the opposite elbow to it with hands behind the head.</p></div>
+          <div><p class="font-bold glossary-term">Imperial Stormtrooper (IST)</p><p class="text-sm mt-1" style="color:#1a3a5c;">Standing upright, kicking one straight leg high while reaching the opposite hand out to touch the toes.</p></div>
+          <div><p class="font-bold glossary-term">Monkey Humpers</p><p class="text-sm mt-1" style="color:#1a3a5c;">Standing in a wide stance, grabbing your ankles or calves, and raising and lowering your hips to work the glutes and hamstrings.</p></div>
+        </div>
+        </div>
+      </div>
+
+      <div id="gloss-fullbody" class="glossary-accordion-item rounded-lg overflow-hidden" style="border:1px solid #a8c8e8; background:#ffffff;">
+        <button type="button" class="glossary-accordion-trigger w-full flex items-center justify-between gap-3 text-left px-5 py-4" aria-expanded="false" onclick="toggleGlossary(this)">
+          <h3 class="glossary-category font-bold text-lg" style="color:#0d1b2a;">7. Full Body Exercises</h3>
+          <svg class="glossary-chevron w-4 h-4 shrink-0" viewBox="0 0 12 12" fill="none" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M2 4l4 4 4-4"/></svg>
+        </button>
+        <div class="glossary-accordion-panel px-5 pb-6" hidden>
+        <div class="grid md:grid-cols-2 gap-x-10 gap-y-6">
+          <div><p class="font-bold glossary-term">Bear Crawl</p><p class="text-sm mt-1" style="color:#1a3a5c;">Moving forward on all fours with hands and feet on the ground, keeping knees hovered just above the grass.</p></div>
+          <div><p class="font-bold glossary-term">Burpee</p><p class="text-sm mt-1" style="color:#1a3a5c;">Standard 4-step exercise: squat, kick feet back to a plank, perform a push-up, jump feet back in, and jump vertically with hands overhead.</p></div>
+          <div><p class="font-bold glossary-term">Crab Walk</p><p class="text-sm mt-1" style="color:#1a3a5c;">Sitting on the ground, lifting your hips up using your hands and feet behind you, and traveling forward or backward.</p></div>
+          <div><p class="font-bold glossary-term">Gorilla Walk</p><p class="text-sm mt-1" style="color:#1a3a5c;">Bending deep into a low squat, placing hands on the ground in front, and hopping your feet forward to meet your hands in a wide stance.</p></div>
+          <div><p class="font-bold glossary-term">Groiner</p><p class="text-sm mt-1" style="color:#1a3a5c;">Starting in a high plank position, jumping both feet forward so they land wide on the outside of your hands, then jumping back to a plank.</p></div>
+          <div><p class="font-bold glossary-term">Side Straddle Hop (SSH)</p><p class="text-sm mt-1" style="color:#1a3a5c;">Standard jumping jacks.</p></div>
+          <div><p class="font-bold glossary-term">Smurf Jacks</p><p class="text-sm mt-1" style="color:#1a3a5c;">Jumping jacks performed entirely while staying low in a partial squat position.</p></div>
+        </div>
+        </div>
+      </div>
+
+      <div id="gloss-movement" class="glossary-accordion-item rounded-lg overflow-hidden" style="border:1px solid #a8c8e8; background:#ffffff;">
+        <button type="button" class="glossary-accordion-trigger w-full flex items-center justify-between gap-3 text-left px-5 py-4" aria-expanded="false" onclick="toggleGlossary(this)">
+          <h3 class="glossary-category font-bold text-lg" style="color:#0d1b2a;">8. Movement &amp; Formations</h3>
+          <svg class="glossary-chevron w-4 h-4 shrink-0" viewBox="0 0 12 12" fill="none" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M2 4l4 4 4-4"/></svg>
+        </button>
+        <div class="glossary-accordion-panel px-5 pb-6" hidden>
+        <div class="grid md:grid-cols-2 gap-x-10 gap-y-6">
+          <div><p class="font-bold glossary-term">Catch Me If You Can</p><p class="text-sm mt-1" style="color:#1a3a5c;">A partner routine where Partner A performs exercises while Partner B moves forward using a designated travel method; Partner A then sprints to catch up and swap roles.</p></div>
+          <div><p class="font-bold glossary-term">Dora (or Dora 1-2-3)</p><p class="text-sm mt-1" style="color:#1a3a5c;">A team-of-two workout where Partner A works on cumulative exercise reps while Partner B runs a set distance, switching off until all target reps are completed.</p></div>
+          <div><p class="font-bold glossary-term">Elevens (11s)</p><p class="text-sm mt-1" style="color:#1a3a5c;">A ladder workout between two physical points. You do 10 reps of Exercise A at Point 1 and 1 rep of Exercise B at Point 2, adjusting counts so the sum always equals 11.</p></div>
+          <div><p class="font-bold glossary-term">Indian Run</p><p class="text-sm mt-1" style="color:#1a3a5c;">A single-file group run where the person at the very back sprints to the front to take the lead.</p></div>
+          <div><p class="font-bold glossary-term">String of Pearls</p><p class="text-sm mt-1" style="color:#1a3a5c;">A workout structure where the group moseys between multiple stops, executing a set of exercises at each station along the way.</p></div>
+        </div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</section>
+<script>
+  function toggleGlossary(btn) {
+    const panel = btn.nextElementSibling;
+    const isOpen = btn.getAttribute('aria-expanded') === 'true';
+    btn.setAttribute('aria-expanded', String(!isOpen));
+    if (isOpen) { panel.setAttribute('hidden', ''); } else { panel.removeAttribute('hidden'); }
+  }
+</script>
+
+<!-- OTHER HELPFUL LINKS -->
+<section id="links" style="background:#ffffff;">
+  <div class="max-w-6xl mx-auto px-4 py-16 md:py-20">
+    <h2 class="font-display font-black text-3xl" style="color:#0d1b2a;">Other Helpful Links</h2>
+    <p class="mt-3 max-w-2xl" style="color:#1a3a5c;">Miscellaneous sites and resources worth a look.</p>
+
+    <div class="mt-10 grid sm:grid-cols-2 lg:grid-cols-3 gap-5">
+      <!-- Link card template — duplicate this block for each link -->
+      <!--
+      <a href="LINK_URL" target="_blank" rel="noopener" class="app-card block p-5 rounded-lg" style="background:#e8f4f8; border:1px solid #a8c8e8;">
+        <p class="font-bold" style="color:#0d1b2a;">LINK_TITLE</p>
+        <p class="text-sm mt-1" style="color:#1a3a5c;">LINK_DESCRIPTION</p>
+      </a>
+      -->
+      <div class="flex items-center justify-center p-8 rounded-lg text-center text-sm" style="background:#e8f4f8; border:1px dashed #a8c8e8; color:#5b8db8;">
+        Links coming soon.
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- FOOTER -->
+<footer style="background:#0d1b2a; border-top:1px solid #1a3a5c;">
+  <div class="max-w-6xl mx-auto px-4 py-10 flex flex-col md:flex-row items-center justify-between gap-4">
+    <div class="flex items-center gap-2">
+      <img src="images/monarch%20logo%20transparent.png" alt="F3 Monarch STL Logo" style="width:32px; height:32px; object-fit:contain;">
+      <span class="font-display font-bold" style="color:#e8f4f8;">F3 MONARCH STL</span>
+    </div>
+    <p class="text-sm text-center" style="color:#5b8db8;">&copy; 2026 F3 Monarch STL. No man left behind. No man left where he is.</p>
+  </div>
+</footer>
+
+</body>
+</html>
