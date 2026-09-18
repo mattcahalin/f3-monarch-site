@@ -246,7 +246,7 @@
       html += `<p class="mb-4 flex flex-wrap gap-2"><span class="chip" style="background:#1a3a5c; color:#e8f4f8; border-color:#1a3a5c;">~${m.total} min total</span>
         <span class="chip">Fits in 40</span><span class="chip">${w.sources.length} beatdowns stitched together</span></p>`;
     }
-    html += section('Warmup', w.warmup, m && m.warmup + m.mosey);
+    html += section('Warmup', w.warmup, m && m.warmup);
     html += section(w.mode === 'moreau' ? 'Thang: The House of Pain' : 'Thang', w.thang, m && m.thang);
     html += section('Mary', w.mary, m && m.mary);
     if (w.sources) {

@@ -233,7 +233,7 @@
 
   const CREATURE = ['Hyena-Swine', 'Leopard-Man', 'Ape-Man', 'Ox-Man', 'Dog-Man', 'Satyr-Man', 'Sloth Thing', 'Bull-Man', 'Wolf-Bear', 'Mare-Rhino'];
 
-  // Warmup 7-9 min + moseys 3 + Thang 16-20 + Mary 5-7 — always 40 min or less.
+  // Warmup 6-8 min + Thang 16-20 + Mary 5-7 — always 40 min or less.
   function moreau(entries, pools, r) {
     const used = new Set();
     const take = (sec, n, filter) => {
@@ -248,8 +248,8 @@
     const plan = fmt.build(r, (n, f) => { const g = take('thang', n, f); thangPicks.push(...g); return g; });
     const mary = take('mary', between(r, 5, 7));
 
-    const warmMins = warm.length, maryMins = mary.length, moseyMins = 3;
-    const total = warmMins + moseyMins + plan.mins + maryMins;
+    const warmMins = warm.length, maryMins = mary.length;
+    const total = warmMins + plan.mins + maryMins;
 
     const parts = [...warm, ...thangPicks, ...mary];
     const src = new Map();
@@ -263,8 +263,8 @@
       mode: 'moreau',
       title: `Specimen #${String(between(r, 1, 9999)).padStart(4, '0')}: The ${pick(r, CREATURE)}`,
       format: fmt.name,
-      minutes: { warmup: warmMins, mosey: moseyMins, thang: plan.mins, mary: maryMins, total },
-      warmup: { items: warm.map(x => dose(x)), note: 'Circle up. Mosey a lap first to wake up the blood.' },
+      minutes: { warmup: warmMins, thang: plan.mins, mary: maryMins, total },
+      warmup: { items: warm.map(x => dose(x)), note: 'Circle up.' },
       thang: { note: plan.text, items: plan.items },
       mary: { items: mary.map(x => dose(x)) },
       sources: [...src].map(([i, names]) => ({ title: entries[i].title, names })),
