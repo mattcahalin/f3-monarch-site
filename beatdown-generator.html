@@ -1,0 +1,315 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-EPR8J7Z71X"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-EPR8J7Z71X');
+</script>
+
+<title>Beatdown Generator | F3 Monarch STL</title>
+<meta name="description" content="Need a beatdown? Pull a past beatdown, mix and match warmups, thangs, and marys, or stitch together a 40-minute Island of Dr. Moreau workout.">
+<link rel="canonical" href="https://f3-monarchstl.com/beatdown-generator.html">
+<link rel="icon" type="image/png" href="images/monarch%20logo.png">
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
+
+<meta property="og:type" content="website">
+<meta property="og:title" content="Beatdown Generator | F3 Monarch STL">
+<meta property="og:description" content="Pull a past beatdown, mix and match, or stitch together a 40-minute Island of Dr. Moreau workout.">
+<meta property="og:url" content="https://f3-monarchstl.com/beatdown-generator.html">
+<meta property="og:image" content="https://f3-monarchstl.com/images/monarch%20logo.png">
+<meta property="og:site_name" content="F3 Monarch STL">
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Oswald:wght@500;600;700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<script src="https://cdn.tailwindcss.com"></script>
+<style>
+  body { font-family: 'Inter', ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, sans-serif; }
+  .font-display { font-family: 'Oswald', ui-sans-serif, system-ui, sans-serif; letter-spacing: -0.01em; }
+
+  a, button, input, select, textarea {
+    transition: color 0.2s ease, background-color 0.2s ease, border-color 0.2s ease, box-shadow 0.2s ease, transform 0.2s ease, opacity 0.2s ease;
+  }
+
+  :root {
+    --navy:      #0d1b2a;
+    --navy-mid:  #1a3a5c;
+    --blue-mid:  #5b8db8;
+    --blue-ice:  #a8c8e8;
+    --off-white: #e8f4f8;
+  }
+
+  .nav-link { color: var(--blue-ice); }
+  .mobile-nav-link { color: var(--blue-ice); padding: 8px 0; border-bottom: 1px solid rgba(26,58,92,0.13); }
+  .nav-link:hover { color: var(--off-white); }
+
+  .btn-primary { background: var(--blue-mid); color: var(--off-white); }
+  .btn-primary:hover { background: var(--blue-ice); color: var(--navy); }
+  .btn-primary:disabled { opacity: 0.5; cursor: wait; }
+  .btn-ghost { background: #ffffff; color: var(--navy-mid); border: 1px solid var(--blue-ice); }
+  .btn-ghost:hover { border-color: var(--blue-mid); color: var(--navy); }
+
+  .dropdown-item { display: block; padding: 10px 16px; color: var(--blue-ice); }
+  .dropdown-item:hover { background: var(--navy); color: var(--off-white); }
+  .dropdown-item + .dropdown-item { border-top: 1px solid rgba(168,200,232,0.15); }
+
+  /* Mode picker */
+  .mode-card { background: #ffffff; border: 2px solid var(--blue-ice); cursor: pointer; text-align: left; }
+  .mode-card:hover { border-color: var(--blue-mid); }
+  .mode-card[aria-checked="true"] { border-color: var(--navy-mid); background: var(--off-white); box-shadow: 0 0 0 3px rgba(91,141,184,0.25); }
+  .mode-card[aria-checked="true"] .mode-dot { background: var(--navy-mid); box-shadow: inset 0 0 0 3px #ffffff; }
+  .mode-dot { width: 16px; height: 16px; border-radius: 999px; border: 2px solid var(--navy-mid); flex: none; }
+
+  /* Workout output */
+  .bd-section h3 { font-family: 'Oswald', ui-sans-serif, system-ui, sans-serif; }
+  .bd-body { color: var(--navy-mid); line-height: 1.6; overflow-wrap: anywhere; }
+  .bd-body p + p, .bd-body p + ul, .bd-body ul + p, .bd-body p + ol, .bd-body ol + p, .bd-body ul + ul { margin-top: 0.6rem; }
+  .bd-body ul { list-style: disc; padding-left: 1.25rem; }
+  .bd-body ol { list-style: decimal; padding-left: 1.25rem; }
+  .bd-body li + li { margin-top: 0.15rem; }
+  .bd-body a { color: var(--blue-mid); text-decoration: underline; }
+  .chip { display: inline-flex; align-items: center; gap: 4px; font-size: 12px; font-weight: 700; padding: 3px 10px; border-radius: 999px; background: var(--off-white); color: var(--navy-mid); border: 1px solid var(--blue-ice); }
+  .from { font-size: 12px; color: var(--blue-mid); }
+  .spinner { width: 22px; height: 22px; border-radius: 999px; border: 3px solid var(--blue-ice); border-top-color: var(--navy-mid); animation: spin 0.8s linear infinite; }
+  @keyframes spin { to { transform: rotate(360deg); } }
+  #result { animation: rise 0.25s ease; scroll-margin-top: 90px; }
+  @keyframes rise { from { opacity: 0; transform: translateY(6px); } to { opacity: 1; transform: none; } }
+  @media (prefers-reduced-motion: reduce) { #result, .spinner { animation: none; } }
+</style>
+</head>
+<body style="background:#ffffff; color:#1a3a5c;">
+
+<!-- NAV -->
+<header class="sticky top-0 z-50 backdrop-blur" style="background:#1a3a5c; border-bottom:3px solid #5b8db8;">
+  <div class="max-w-6xl mx-auto px-4 py-3 flex items-center justify-between">
+    <a href="index.html" class="flex items-center gap-2">
+      <img src="images/monarch%20logo%20transparent.png" alt="F3 Monarch STL Logo" style="width:36px; height:36px; object-fit:contain;">
+      <span class="font-display font-bold text-lg tracking-tight" style="color:#e8f4f8;">F3 MONARCH <span style="color:#a8c8e8;">STL</span></span>
+    </a>
+    <nav class="hidden md:flex gap-6 text-sm font-semibold items-center" style="color:#a8c8e8;">
+      <a href="index.html#fs" class="nav-link">The 3 F's</a>
+      <a href="index.html#aos" class="nav-link">AOs</a>
+      <a href="index.html#meet" class="nav-link">Monarch Region Map</a>
+      <div class="relative" id="more-dropdown">
+        <button type="button" class="nav-link flex items-center gap-1" onclick="document.getElementById('more-menu').classList.toggle('hidden')">
+          More
+          <svg class="w-3 h-3" viewBox="0 0 12 12" fill="none" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M2 4l4 4 4-4"/></svg>
+        </button>
+        <div id="more-menu" class="hidden absolute right-0 mt-3 rounded-lg shadow-lg overflow-hidden" style="background:#1a3a5c; border:1px solid #5b8db8; min-width:180px; z-index:60;">
+          <a href="index.html#contact" class="dropdown-item">Contact</a>
+          <a href="gallery.html" class="dropdown-item">Photo Gallery</a>
+          <a href="pax-spotlight.html" class="dropdown-item">PAX Spotlight</a>
+          <a href="pax-library.html" class="dropdown-item" style="color:#e8f4f8; font-weight:700;">PAX Library</a>
+        </div>
+      </div>
+    </nav>
+    <div class="flex items-center gap-3">
+      <a href="index.html#aos" class="hidden md:inline-block font-bold text-sm px-4 py-2 rounded btn-primary">Find a Workout</a>
+      <button id="menu-toggle" class="md:hidden flex flex-col gap-1.5 p-2" onclick="document.getElementById('mobile-menu').classList.toggle('hidden')" aria-label="Menu">
+        <span style="display:block; width:22px; height:2px; background:#a8c8e8;"></span>
+        <span style="display:block; width:22px; height:2px; background:#a8c8e8;"></span>
+        <span style="display:block; width:22px; height:2px; background:#a8c8e8;"></span>
+      </button>
+    </div>
+  </div>
+  <!-- Mobile menu -->
+  <div id="mobile-menu" class="hidden md:hidden px-4 pb-4 flex flex-col gap-3 text-sm font-semibold" style="border-top:1px solid #1a3a5c;">
+    <a href="index.html#fs" class="mobile-nav-link">The 3 F's</a>
+    <a href="index.html#aos" class="mobile-nav-link">AOs</a>
+    <a href="index.html#meet" class="mobile-nav-link">Monarch Region Map</a>
+    <a href="index.html#contact" class="mobile-nav-link">Contact</a>
+    <a href="gallery.html" class="mobile-nav-link">Photo Gallery</a>
+    <a href="pax-spotlight.html" class="mobile-nav-link">PAX Spotlight</a>
+    <a href="pax-library.html" class="mobile-nav-link" style="color:#e8f4f8; font-weight:700;">PAX Library</a>
+    <a href="index.html#aos" class="text-center font-bold rounded py-2 mt-1 btn-primary">Find a Workout</a>
+  </div>
+</header>
+<script>
+  document.addEventListener('click', (e) => {
+    const dropdown = document.getElementById('more-dropdown');
+    const menu = document.getElementById('more-menu');
+    if (dropdown && menu && !dropdown.contains(e.target)) menu.classList.add('hidden');
+  });
+</script>
+
+<!-- PAGE HEADER -->
+<section style="background:linear-gradient(to bottom, #0d1b2a, #1a3a5c); border-bottom:1px solid #1a3a5c;">
+  <div class="max-w-6xl mx-auto px-4 py-14 text-center">
+    <a href="pax-library.html#app-store" class="text-sm font-semibold" style="color:#a8c8e8;">&larr; PAX Library</a>
+    <h1 class="font-display font-black text-4xl md:text-5xl mt-3" style="color:#e8f4f8;">Beatdown Generator</h1>
+    <p class="mt-4 text-lg max-w-2xl mx-auto" style="color:#a8c8e8;">On the Q and out of ideas? Pull from <span id="bb-count">thousands of</span> real beatdowns from PAX around St. Louis.</p>
+  </div>
+</section>
+
+<!-- GENERATOR -->
+<section style="background:#e8f4f8;">
+  <div class="max-w-4xl mx-auto px-4 py-12 md:py-16">
+
+    <div role="radiogroup" aria-label="Generator mode" class="grid md:grid-cols-3 gap-4">
+      <button type="button" role="radio" class="mode-card rounded-lg p-5" data-mode="previous" aria-checked="false">
+        <span class="flex items-center gap-2"><span class="mode-dot"></span><span class="font-display font-bold text-lg" style="color:#0d1b2a;">Previous Beatdown</span></span>
+        <span class="block text-sm mt-2">Oldie, but Goodie... A random beatdown, start to finish: its warmup, thang, and mary exactly as the Q ran it.</span>
+      </button>
+      <button type="button" role="radio" class="mode-card rounded-lg p-5" data-mode="mix" aria-checked="false">
+        <span class="flex items-center gap-2"><span class="mode-dot"></span><span class="font-display font-bold text-lg" style="color:#0d1b2a;">Mix &amp; Match</span></span>
+        <span class="block text-sm mt-2">Put it in the Blender... A warmup from one beatdown, a thang from another, and a mary from a third.</span>
+      </button>
+      <button type="button" role="radio" class="mode-card rounded-lg p-5" data-mode="moreau" aria-checked="false">
+        <span class="flex items-center gap-2"><span class="mode-dot"></span><span class="font-display font-bold text-lg" style="color:#0d1b2a;">Island of Dr. Moreau</span></span>
+        <span class="block text-sm mt-2">I'll go to the Looney Bin with you Bro... Exercises spliced from across the beatdowns into a new creature that fits in 40 minutes or less.</span>
+      </button>
+    </div>
+
+    <div class="mt-6 flex flex-wrap items-center gap-3">
+      <button id="go" type="button" class="font-bold px-6 py-3 rounded btn-primary" disabled>Generate Beatdown</button>
+      <span id="status" class="flex items-center gap-3 text-sm" style="color:#1a3a5c;"><span class="spinner" aria-hidden="true"></span>Loading beatdowns&hellip;</span>
+    </div>
+
+    <div id="out" class="mt-8" aria-live="polite"></div>
+  </div>
+</section>
+
+<!-- FOOTER -->
+<footer style="background:#0d1b2a; border-top:1px solid #1a3a5c;">
+  <div class="max-w-6xl mx-auto px-4 py-10 flex flex-col md:flex-row items-center justify-between gap-4">
+    <div class="flex items-center gap-2">
+      <img src="images/monarch%20logo%20transparent.png" alt="F3 Monarch STL Logo" style="width:32px; height:32px; object-fit:contain;">
+      <span class="font-display font-bold" style="color:#e8f4f8;">F3 MONARCH STL</span>
+    </div>
+    <p class="text-sm text-center" style="color:#5b8db8;">&copy; 2026 F3 Monarch STL. No man left behind. No man left where he is.</p>
+  </div>
+</footer>
+
+<script src="js/beatdown-generator.js"></script>
+<script>
+(function () {
+  const MODES = { previous: 'Previous Beatdown', mix: 'Mix & Match', moreau: 'Island of Dr. Moreau' };
+  const EMOJI = { white_check_mark: '✅', spades: '♠️', clubs: '♣️', diamonds: '♦️', hearts: '♥️', heart: '❤️', muscle: '💪', fire: '🔥', x: '❌',
+    wink: '😉', loudspeaker: '📢', clipboard: '📋', bear: '🐻', joy: '😂', first_place_medal: '🥇', arrow_right: '➡️', american_flag: '🇺🇸', us: '🇺🇸',
+    bicyclist: '🚴', small_red_triangle: '🔺', man_shrugging: '🤷', 'man-shrugging': '🤷', sweat_smile: '😅', runner: '🏃', 'man-running': '🏃',
+    rolling_on_the_floor_laughing: '🤣', four: '4️⃣', sunglasses: '😎', smile: '😄', rabbit: '🐇', point_down: '👇', notes: '🎶', musical_note: '🎵',
+    grimacing: '😬', '+1': '👍', '-1': '👎', gem: '💎', sweat_drops: '💦', dragon_face: '🐲', stopwatch: '⏱️', snowflake: '❄️', sunny: '☀️', zap: '⚡',
+    rain_cloud: '🌧️', thunder_cloud_and_rain: '⛈️', christmas_tree: '🎄', skull: '💀', trophy: '🏆', clock: '🕐', star: '⭐', pray: '🙏', eyes: '👀' };
+
+  const $ = (s) => document.querySelector(s);
+  const esc = (s) => s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+  // Known Slack shortcodes become emoji; custom ones (:coupon:, :ssh:) are dropped.
+  const emoji = (s) => s.replace(/(?<!\w):([a-z][a-z0-9_+-]*|\+1|-1):(?!\w)/g, (m, k) => EMOJI[k] || '');
+
+  function inline(s) {
+    const links = [];
+    s = s.replace(/\[([^\]]+)\]\((https?:\/\/[^)\s]+)\)/g, (m, t, u) => { links.push([t, u]); return '\u0000' + (links.length - 1) + '\u0000'; })
+         .replace(/<(https?:\/\/[^>\s]+)>/g, (m, u) => { links.push([u, u]); return '\u0000' + (links.length - 1) + '\u0000'; });
+    s = esc(emoji(s));
+    return s.replace(/\u0000(\d+)\u0000/g, (m, i) => `<a href="${esc(links[i][1])}" target="_blank" rel="noopener">${esc(links[i][0])}</a>`);
+  }
+
+  // The markdown here only has paragraphs (hard line breaks), bullet lists, and numbered lists.
+  function md(text) {
+    return text.split(/\n\s*\n/).map((block) => {
+      const lines = block.split('\n').map((l) => l.replace(/\s+$/, '')).filter(Boolean);
+      if (lines.length && lines.every((l) => /^- /.test(l))) return '<ul>' + lines.map((l) => `<li>${inline(l.slice(2))}</li>`).join('') + '</ul>';
+      if (lines.length && lines.every((l) => /^\d+\. /.test(l))) return '<ol>' + lines.map((l) => `<li>${inline(l.replace(/^\d+\. /, ''))}</li>`).join('') + '</ol>';
+      return '<p>' + lines.map(inline).join('<br>') + '</p>';
+    }).join('');
+  }
+  const list = (items) => '<ul>' + items.map((i) => `<li>${esc(i)}</li>`).join('') + '</ul>';
+  // Titles say "beatdown", never "backblast" (untitled posts come through as "Backblast").
+  const plainTitle = (t) => emoji(t).replace(/backblast/gi, (w) => w[0] === 'B' ? (w === 'BACKBLAST' ? 'BEATDOWN' : 'Beatdown') : 'beatdown');
+  const title = (t) => esc(plainTitle(t));
+
+  function section(label, part, mins) {
+    const body = part.md ? md(part.md) : (part.note ? `<p>${esc(part.note)}</p>` : '') + (part.items ? list(part.items) : '');
+    return `<div class="bd-section py-5" style="border-top:1px solid #a8c8e8;">
+      <div class="flex flex-wrap items-baseline justify-between gap-2">
+        <h3 class="font-bold text-xl" style="color:#0d1b2a;">${label}</h3>
+        ${mins ? `<span class="chip">~${mins} min</span>` : ''}
+        ${part.from ? `<span class="from">from &ldquo;${title(part.from)}&rdquo;</span>` : ''}
+      </div>
+      <div class="bd-body mt-2">${body || '<p style="color:#5b8db8;">Not recorded in this beatdown.</p>'}</div>
+    </div>`;
+  }
+
+  function render(w) {
+    const m = w.minutes;
+    let html = `<article id="result" class="rounded-lg p-6 md:p-8 shadow-sm" style="background:#ffffff; border:1px solid #a8c8e8;">
+      <p class="text-xs font-bold uppercase tracking-wide" style="color:#5b8db8;">${esc(MODES[w.mode])}${w.format ? ' &middot; ' + esc(w.format) : ''}</p>
+      <h2 class="font-display font-black text-2xl md:text-3xl mt-1 mb-4" style="color:#0d1b2a;">${title(w.title)}</h2>`;
+    if (m) {
+      html += `<p class="mb-4 flex flex-wrap gap-2"><span class="chip" style="background:#1a3a5c; color:#e8f4f8; border-color:#1a3a5c;">~${m.total} min total</span>
+        <span class="chip">Fits in 40</span><span class="chip">${w.sources.length} beatdowns stitched together</span></p>`;
+    }
+    html += section('Warmup', w.warmup, m && m.warmup + m.mosey);
+    html += section(w.mode === 'moreau' ? 'Thang: The House of Pain' : 'Thang', w.thang, m && m.thang);
+    html += section('Mary', w.mary, m && m.mary);
+    if (w.sources) {
+      html += `<details class="pt-5" style="border-top:1px solid #a8c8e8;">
+        <summary class="cursor-pointer font-semibold" style="color:#1a3a5c;">Where the parts came from</summary>
+        <ul class="mt-3 text-sm space-y-1" style="color:#1a3a5c;">${w.sources.map((s) => `<li><strong>${esc(s.names.join(', '))}</strong> &larr; &ldquo;${title(s.title)}&rdquo;</li>`).join('')}</ul>
+      </details>`;
+    }
+    html += `<div class="mt-6 flex flex-wrap gap-3">
+        <button type="button" id="again" class="font-bold px-5 py-2 rounded btn-primary">Another One</button>
+        <button type="button" id="copy" class="font-semibold px-5 py-2 rounded btn-ghost">Copy for Slack</button>
+        <button type="button" id="share" class="font-semibold px-5 py-2 rounded btn-ghost">Copy Link</button>
+        <span id="copied" class="self-center text-sm font-semibold" style="color:#5b8db8;"></span>
+      </div></article>`;
+    $('#out').innerHTML = html;
+    $('#again').onclick = () => go();
+    $('#copy').onclick = () => copy(toText(w), 'Copied, ready to paste');
+    $('#share').onclick = () => copy(location.href, 'Link copied');
+  }
+
+  function toText(w) {
+    const plain = (p) => p.md ? p.md.replace(/\[([^\]]+)\]\(([^)]+)\)/g, '$1 ($2)').replace(/  \n/g, '\n').replace(/^- /gm, '• ')
+                              : (p.note ? p.note + '\n' : '') + (p.items || []).map((i) => '• ' + i).join('\n');
+    const m = w.minutes;
+    return [`*${plainTitle(w.title)}*` + (m ? ` (~${m.total} min)` : ''), '', '*WARMUP:*', plain(w.warmup), '', '*THE THANG:*', plain(w.thang), '', '*MARY:*', plain(w.mary)].join('\n');
+  }
+
+  function copy(text, msg) {
+    const done = () => { $('#copied').textContent = msg; setTimeout(() => { const c = $('#copied'); if (c) c.textContent = ''; }, 2500); };
+    if (navigator.clipboard) navigator.clipboard.writeText(text).then(done, () => { $('#copied').textContent = 'Copy blocked by the browser'; });
+  }
+
+  let state = null, mode = 'moreau';
+  function setMode(m) {
+    mode = MODES[m] ? m : 'moreau';
+    document.querySelectorAll('.mode-card').forEach((b) => b.setAttribute('aria-checked', String(b.dataset.mode === mode)));
+  }
+  function show(seed) {
+    render(BeatdownGen.generate(state, mode, seed));
+    history.replaceState(null, '', `#mode=${mode}&seed=${seed}`);
+    if (window.gtag) gtag('event', 'generate_beatdown', { mode: mode });
+  }
+  function go() { show(Math.floor(Math.random() * 2147483647)); }
+
+  document.querySelectorAll('.mode-card').forEach((b) => b.addEventListener('click', () => { setMode(b.dataset.mode); if (state) go(); }));
+  $('#go').addEventListener('click', go);
+
+  const hash = new URLSearchParams(location.hash.slice(1));
+  setMode(hash.get('mode') || 'moreau');
+
+  fetch('data/backblasts.md')
+    .then((r) => { if (!r.ok) throw new Error(r.status); return r.text(); })
+    .then((text) => {
+      state = BeatdownGen.load(text);
+      $('#bb-count').textContent = state.entries.length.toLocaleString();
+      $('#status').innerHTML = `${state.entries.length.toLocaleString()} beatdowns loaded.`;
+      $('#go').disabled = false;
+      const seed = parseInt(hash.get('seed'), 10);
+      if (seed >= 0) show(seed);
+    })
+    .catch(() => { $('#status').innerHTML = '<span style="color:#b42318;">Couldn&rsquo;t load the beatdowns. Refresh to try again.</span>'; });
+})();
+</script>
+
+</body>
+</html>
