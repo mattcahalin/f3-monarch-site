@@ -260,17 +260,93 @@
         <button type="button" id="again" class="font-bold px-5 py-2 rounded btn-primary">Another One</button>
         <button type="button" id="copy" class="font-semibold px-5 py-2 rounded btn-ghost">Copy for Slack</button>
         <button type="button" id="share" class="font-semibold px-5 py-2 rounded btn-ghost">Copy Link</button>
+        <button type="button" id="pdf" class="font-semibold px-5 py-2 rounded btn-ghost">Download PDF</button>
         <span id="copied" class="self-center text-sm font-semibold" style="color:#5b8db8;"></span>
       </div></article>`;
     $('#out').innerHTML = html;
     $('#again').onclick = () => go();
     $('#copy').onclick = () => copy(toText(w), 'Copied, ready to paste');
     $('#share').onclick = () => copy(location.href, 'Link copied');
+    $('#pdf').onclick = () => downloadPdf(w);
+  }
+
+  // A section as plain text lines, bullets as "• ".
+  const plain = (p) => p.md ? emoji(p.md).replace(/\[([^\]]+)\]\(([^)]+)\)/g, '$1 ($2)').replace(/<(https?:[^>]+)>/g, '$1').replace(/  \n/g, '\n').replace(/^- /gm, '• ')
+                            : (p.note ? p.note + '\n' : '') + (p.items || []).map((i) => '• ' + i).join('\n');
+
+  // ---------- PDF export ----------
+  let jsPdfLoading = null;
+  function loadJsPdf() {
+    if (window.jspdf) return Promise.resolve(window.jspdf);
+    return jsPdfLoading || (jsPdfLoading = new Promise((resolve, reject) => {
+      const s = document.createElement('script');
+      s.src = 'https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js';
+      s.onload = () => resolve(window.jspdf);
+      s.onerror = () => { jsPdfLoading = null; reject(new Error('load failed')); };
+      document.head.appendChild(s);
+    }));
+  }
+
+  // The PDF's built-in fonts only cover Western characters: swap typographic marks, drop emoji.
+  const pdfSafe = (s) => s.replace(/[‘’]/g, "'").replace(/[“”]/g, '"').replace(/[–—]/g, '-')
+    .replace(/…/g, '...').replace(/•/g, '-').replace(/[^\n\x20-\x7e -ÿ]/g, '').replace(/[ \t]+$/gm, '');
+
+  async function downloadPdf(w) {
+    const btn = $('#pdf'), label = btn.textContent;
+    btn.textContent = 'Building PDF…'; btn.disabled = true;
+    try {
+      const { jsPDF } = await loadJsPdf();
+      const doc = new jsPDF({ unit: 'pt', format: 'letter' });
+      const W = doc.internal.pageSize.getWidth(), H = doc.internal.pageSize.getHeight(), M = 54, TW = W - 2 * M;
+      let y = M;                                              // top of the next line
+      const room = (h) => { if (y + h > H - M) { doc.addPage(); y = M; } };
+      const text = (str, size, style, color, gap) => {
+        doc.setFont('helvetica', style); doc.setFontSize(size); doc.setTextColor(...color);
+        for (const line of doc.splitTextToSize(pdfSafe(str), TW)) {
+          room(size * 1.3);
+          doc.text(line, M, y + size);                        // jsPDF draws at the baseline
+          y += size * 1.3;
+        }
+        y += gap || 0;
+      };
+      const NAVY = [13, 27, 42], MID = [26, 58, 92], BLUE = [91, 141, 184];
+
+      // Mix & Match has no title of its own, so its Thang name heads the page.
+      const heading = w.mode === 'mix' && w.thang.name ? w.thang.name : plainTitle(w.title);
+      text('F3 MONARCH STL  |  BEATDOWN GENERATOR', 9, 'bold', BLUE, 4);
+      text(`${MODES[w.mode]}${w.format ? '  |  ' + w.format : ''}`, 10, 'normal', BLUE, 2);
+      text(heading, 22, 'bold', NAVY, 2);
+      const m = w.minutes;
+      if (m) text(`~${m.total} min total${w.sources ? '' : ' (estimated from the write-up)'}`, 11, 'bold', MID, 6);
+
+      const part = (label, p, mins) => {
+        room(40);
+        doc.setDrawColor(168, 200, 232); doc.line(M, y, W - M, y); y += 18;
+        text(label + (mins ? `   (~${mins} min)` : ''), 14, 'bold', NAVY, 0);
+        if (p.from) text(`from "${plainTitle(p.from)}"`, 9, 'italic', BLUE, 0);
+        y += 4;
+        const body = plain(p).trim() || 'Not recorded in this beatdown.';
+        for (const line of body.split('\n')) line.trim() ? text(line, 11, 'normal', MID, 1) : (y += 5);
+        y += 8;
+      };
+      part('Warmup', w.warmup, m && m.warmup);
+      part('Thang' + (w.thang.name ? ': ' + w.thang.name : ''), w.thang, m && m.thang);
+      part('Mary', w.mary, m && m.mary);
+
+      // Link back to this workout, in the bottom margin so it never forces a page of its own.
+      doc.setFont('helvetica', 'normal'); doc.setFontSize(8); doc.setTextColor(...BLUE);
+      doc.text(pdfSafe(location.href), M, H - 30);
+      const file = pdfSafe(heading).replace(/[^\w\s-]/g, '').trim().replace(/\s+/g, '-').slice(0, 60) || 'beatdown';
+      doc.save(`${file}.pdf`);
+      if (window.gtag) gtag('event', 'download_pdf', { mode: w.mode });
+    } catch (e) {
+      $('#copied').textContent = 'Couldn’t build the PDF. Try again.';
+    } finally {
+      btn.textContent = label; btn.disabled = false;
+    }
   }
 
   function toText(w) {
-    const plain = (p) => p.md ? p.md.replace(/\[([^\]]+)\]\(([^)]+)\)/g, '$1 ($2)').replace(/  \n/g, '\n').replace(/^- /gm, '• ')
-                              : (p.note ? p.note + '\n' : '') + (p.items || []).map((i) => '• ' + i).join('\n');
     const m = w.minutes;
     return [`*${plainTitle(w.title)}*` + (m ? ` (~${m.total} min)` : ''), '', '*WARMUP:*', plain(w.warmup), '', '*THE THANG:*' + (w.thang.name ? ' ' + w.thang.name : ''), plain(w.thang), '', '*MARY:*', plain(w.mary)].join('\n');
   }
