@@ -246,6 +246,51 @@
       } },
   ];
 
+  // No named format: a string of moves the way most real Thangs are written.
+  const PLACES = ['the pavilion', 'the far cones', 'the parking lot lights', 'the bottom of the hill', 'the playground', 'the benches', 'the flagpole', 'the ball field'];
+  const FREESTYLE = { name: 'Freestyle', build(r, ex, budget) {
+    const lines = [], picks = [];
+    const grab = (n, f) => { const g = ex(n, f); picks.push(...g); return g; };
+    const notTravel = x => x.unit !== 'yds';
+    const travel = () => { const t = grab(1, x => x.unit === 'yds')[0]; return t ? `, ${dose(t)} on the way` : ''; };
+    let left = budget - 1;                                   // save a minute for the mosey back
+    lines.push(`Mosey to ${pick(r, PLACES)}${travel()}.`); left -= 2;
+    const blocks = [
+      () => {                                                // rounds of a few exercises (~1 min each)
+        const k = between(r, 3, 4), rounds = Math.min(between(r, 2, 4), Math.floor((left - 1) / k));
+        if (rounds < 1) return 0;
+        lines.push(`${rounds === 1 ? 'Once through' : rounds + ' rounds'}: ${grab(k, notTravel).map(x => dose(x)).join(', ')}.`);
+        return rounds * k + 1;
+      },
+      () => {                                                // run a lap with stops
+        const [x] = grab(1, x => x.unit === 'reps');
+        if (!x || left < 5) return 0;
+        lines.push(`Run a lap; every 50 yds stop for 5 ${x.name}.`);
+        return 5;
+      },
+      () => {                                                // partner work
+        const [a, b] = grab(2, notTravel), mins = Math.min(between(r, 4, 6), left);
+        if (!b || mins < 4) return 0;
+        lines.push(`Partner up for ${mins} min: P1 does ${a.name} while P2 does ${b.name}; flapjack at the whistle.`);
+        return mins;
+      },
+      () => {                                                // move to a new spot (never twice in a row)
+        if (/^Mosey/.test(lines[lines.length - 1])) return 0;
+        lines.push(`Mosey to ${pick(r, PLACES)}${travel()}.`);
+        return 2;
+      },
+    ];
+    for (let tries = 0; left >= 4 && tries < 12; tries++) left -= pick(r, blocks)();
+    if (left >= 2) {                                         // burn off whatever time is left
+      const [x] = grab(1, notTravel);
+      if (x) { lines.push(`Burnout: ${left} min of ${x.name}, OYO.`); left = 0; }
+    }
+    lines.push(left === 1 ? 'Long mosey back to the flag.' : 'Mosey back to the flag.');
+    if (left === 1) left = 0;
+    return { mins: budget - Math.max(0, left), picks, text: 'No set format: work through these in order.', items: lines,
+      names: [(a, b) => `The Stray ${a}-${b} Mongrel`, (a, b, m) => `The Untamed ${a} ${m}`, (a) => `The Feral ${a}-Beast`] };
+  } };
+
   // The Thang is a beast spliced together from its exercises, Dr. Moreau style.
   const MONSTERS = ['Behemoth', 'Chimera', 'Hydra', 'Manticore', 'Minotaur', 'Gorgon', 'Wendigo', 'Leviathan', 'Kraken', 'Abomination', 'Brute', 'Mutant'];
   const ANIMALS = ['Hyena', 'Swine', 'Leopard', 'Ape', 'Ox', 'Wolf', 'Bear', 'Boar', 'Jackal', 'Rhino', 'Puma', 'Bull', 'Sloth', 'Badger', 'Gorilla'];
@@ -286,7 +331,8 @@
     const warm = take('warmup', between(r, 6, 8));
     const mary = take('mary', between(r, 5, 7));
     const warmMins = warm.length, maryMins = mary.length;
-    const fmt = pick(r, FORMATS);
+    // Most real Thangs follow no named format, so Freestyle gets about 30%; the 7 formats share the rest.
+    const fmt = r() < 0.3 ? FREESTYLE : pick(r, FORMATS);
     const plan = fmt.build(r, (n, f) => take('thang', n, f), between(r, 38, 40) - warmMins - maryMins);
     const total = warmMins + plan.mins + maryMins;
 
