@@ -187,7 +187,7 @@
   </div>
 </footer>
 
-<script src="js/beatdown-generator.js?v=057de638"></script>
+<script src="js/beatdown-generator.js?v=3bb97e16"></script>
 <script>
 (function () {
   const MODES = { previous: 'Previous Beatdown', mix: 'Mix & Match', moreau: 'Island of Dr. Moreau' };
@@ -231,8 +231,8 @@
       <div class="flex flex-wrap items-baseline justify-between gap-2">
         <h3 class="font-bold text-xl" style="color:#0d1b2a;">${label}</h3>
         ${mins ? `<span class="chip">~${mins} min</span>` : ''}
-        ${part.from ? `<span class="from">from &ldquo;${title(part.from)}&rdquo;</span>` : ''}
       </div>
+      ${part.from ? `<p class="from mt-1">from &ldquo;${title(part.from)}&rdquo;</p>` : ''}
       <div class="bd-body mt-2">${body || '<p style="color:#5b8db8;">Not recorded in this beatdown.</p>'}</div>
     </div>`;
   }
@@ -244,7 +244,8 @@
       <h2 class="font-display font-black text-2xl md:text-3xl mt-1 mb-4" style="color:#0d1b2a;">${title(w.title)}</h2>`;
     if (m) {
       html += `<p class="mb-4 flex flex-wrap gap-2"><span class="chip" style="background:#1a3a5c; color:#e8f4f8; border-color:#1a3a5c;">~${m.total} min total</span>
-        <span class="chip">Fits in 40</span><span class="chip">${w.sources.length} beatdowns stitched together</span></p>`;
+        ${w.sources ? `<span class="chip">Fits in 40</span><span class="chip">${w.sources.length} beatdowns stitched together</span>`
+                    : `<span class="chip">Estimated from the write-up</span>`}</p>`;
     }
     html += section('Warmup', w.warmup, m && m.warmup);
     html += section(w.thang.name ? 'Thang: ' + esc(w.thang.name) : 'Thang', w.thang, m && m.thang);

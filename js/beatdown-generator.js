@@ -310,9 +310,81 @@
     };
   }
 
+  // ---------- Time estimates for written-out sections ----------
+  // Rough seconds for one written item: a set of reps, a hold, a run, or a lap.
+  const SLOW_REPS = /burpee|blockee|man ?maker|thruster|squat thrust|star jump|box jump|broad jump|pull[- ]?up|murder bunn/i;
+  function itemSeconds(item, kind) {
+    const s = item.toLowerCase();
+    let m;
+    if ((m = s.match(/(\d+(?:\.\d+)?)\s*(?:-\s*)?(?:mi|miles?)\b/))) return +m[1] * 600;
+    if ((m = s.match(/(\d+(?:\.\d+)?)\s*(?:-\s*)?(?:min|mins|minutes?)\b/))) return Math.min(+m[1], 30) * 60;
+    if ((m = s.match(/(\d+)\s*(?:-\s*)?(?:s|sec|secs|seconds?)\b/))) return Math.min(+m[1], 300);
+    if ((m = s.match(/(\d+)\s*(?:-\s*)?(?:yds?|yards?|m|meters?)\b/))) return Math.min(+m[1], 1600) * 0.35;
+    if ((m = s.match(/(\d+)?\s*laps?\b/))) return (+(m[1] || 1)) * 90;
+    if (/\bmosey|\bjog\b|\brun\b|\bsprint/.test(s) && !/\d/.test(s)) return 90;
+    if ((m = s.match(/(?:x\s*)?(\d{1,3})(?!\d)/))) {
+      const n = Math.min(+m[1], 300);
+      const per = /\bic\b|in cadence/.test(s) ? 3 : SLOW_REPS.test(s) ? 4.5 : 2.5;
+      return Math.max(20, n * per);
+    }
+    return { warmup: 40, thang: 50, mary: 50 }[kind];
+  }
+
+  // "3 rounds", "x3 rounds", "repeat 2x", "rinse and repeat"
+  function roundsIn(text) {
+    const s = text.toLowerCase();
+    let m = s.match(/(\d+)\s*(?:x\s*)?(?:rounds?|sets?|times)\b/) || s.match(/\b(?:rounds?|sets?)\s*(?:x|of)?\s*(\d+)\b/) || s.match(/repeat(?:ed)?\s*(?:x\s*)?(\d+)/);
+    if (m) return Math.min(+m[1], 10);
+    return /rinse (?:and|&) repeat|repeat/.test(s) ? 2 : 1;
+  }
+
+  // A stated time block like "AMRAP 20", "EMOM 12 min", "20 minute cap".
+  function statedMinutes(text) {
+    const re = /\b(?:amrap|emom|tabata|time cap|cap(?:ped)?(?: at)?|for)\s*(?:of\s*)?(\d{1,2})\s*(?:min|mins|minutes)?\b|\b(\d{1,2})\s*(?:-\s*)?(?:min|mins|minute)s?\s*(?:amrap|emom|cap|of|block|round)/gi;
+    let total = 0, m;
+    while ((m = re.exec(text))) total += +(m[1] || m[2]);
+    return total;
+  }
+
+  // Each written item also costs time to explain, demo, count off, and move on.
+  const OVERHEAD = { warmup: 25, thang: 25, mary: 20 };
+  const LIMITS = { warmup: [4, 12], thang: [12, 45], mary: [3, 12] };
+  const TYPICAL_THANG = 30;
+
+  function estimateMinutes(md, kind) {
+    if (!md) return 0;
+    const [lo, hi] = LIMITS[kind];
+    let secs = 0, carry = 1, measured = 0;
+    for (const block of md.split(/\n\s*\n/)) {
+      const lines = block.split('\n').map(l => l.replace(/^\s*(?:[-*•]|\d+[.)])\s+/, '').trim()).filter(Boolean);
+      const items = lines.flatMap(l => (/\d/.test(l) && !/,\s*\d/.test(l) ? [l] : l.split(/\s*[,;]\s*/)))
+        .filter(x => /[a-z]/i.test(x) && x.split(/\s+/).length <= 14);   // long sentences are story, not items
+      const mult = roundsIn(block);
+      // A lone "3 rounds of:" line sets the count for the list that follows it.
+      if (items.length <= 1 && mult > 1 && lines.join(' ').length < 40) { carry = mult; continue; }
+      measured += items.filter(it => /\d/.test(it)).length;
+      secs += items.reduce((t, it) => t + Math.max(itemSeconds(it, kind), 25) + OVERHEAD[kind], 0) * Math.max(mult, carry);
+      carry = 1;
+    }
+    let mins = secs / 60 + (kind === 'thang' ? 0 : 1);         // circling up / getting set
+    if (kind === 'thang') {
+      const stated = statedMinutes(md);
+      if (stated >= 8) mins = stated + 3;                    // "AMRAP 20" plus setup and moseys
+      else if (measured >= 4) mins = mins + 4;               // a real list: add setup and moseys
+      else mins = TYPICAL_THANG;                             // written as a story: assume a normal Thang
+    }
+    return Math.round(Math.max(lo, Math.min(hi, mins)));
+  }
+
+  function withMinutes(w) {
+    const mins = { warmup: estimateMinutes(w.warmup.md, 'warmup'), thang: estimateMinutes(w.thang.md, 'thang'), mary: estimateMinutes(w.mary.md, 'mary') };
+    w.minutes = { ...mins, total: mins.warmup + mins.thang + mins.mary, estimated: true };
+    return w;
+  }
+
   function previous(state, r) {
     const e = pick(r, state.full.length ? state.full : state.entries);
-    return { mode: 'previous', title: e.title, warmup: { md: e.warmup }, thang: { md: e.thang }, mary: { md: e.mary } };
+    return withMinutes({ mode: 'previous', title: e.title, warmup: { md: e.warmup }, thang: { md: e.thang }, mary: { md: e.mary } });
   }
 
   // ---------- Mix & Match Thang names ----------
@@ -375,12 +447,12 @@
 
   function mix(state, r) {
     const w = pick(r, state.withWarmup), t = pick(r, state.withThang), m = pick(r, state.withMary);
-    return {
+    return withMinutes({
       mode: 'mix', title: 'Mix & Match',
       warmup: { md: w.warmup, from: w.title },
       thang: { name: mixName(r, t, w, m), md: t.thang, from: t.title },
       mary: { md: m.mary, from: m.title },
-    };
+    });
   }
 
   function generate(state, mode, seed) {
@@ -402,7 +474,7 @@
     };
   }
 
-  const api = { load, generate, parse, buildPools, usable };
+  const api = { load, generate, parse, buildPools, usable, estimateMinutes };
   if (typeof module !== 'undefined' && module.exports) module.exports = api;
   else root.BeatdownGen = api;
 })(this);
