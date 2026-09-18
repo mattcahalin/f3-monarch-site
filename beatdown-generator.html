@@ -247,7 +247,7 @@
         <span class="chip">Fits in 40</span><span class="chip">${w.sources.length} beatdowns stitched together</span></p>`;
     }
     html += section('Warmup', w.warmup, m && m.warmup);
-    html += section(w.mode === 'moreau' ? 'Thang: The House of Pain' : 'Thang', w.thang, m && m.thang);
+    html += section(w.thang.name ? 'Thang: ' + esc(w.thang.name) : 'Thang', w.thang, m && m.thang);
     html += section('Mary', w.mary, m && m.mary);
     if (w.sources) {
       html += `<details class="pt-5" style="border-top:1px solid #a8c8e8;">
@@ -271,7 +271,7 @@
     const plain = (p) => p.md ? p.md.replace(/\[([^\]]+)\]\(([^)]+)\)/g, '$1 ($2)').replace(/  \n/g, '\n').replace(/^- /gm, '• ')
                               : (p.note ? p.note + '\n' : '') + (p.items || []).map((i) => '• ' + i).join('\n');
     const m = w.minutes;
-    return [`*${plainTitle(w.title)}*` + (m ? ` (~${m.total} min)` : ''), '', '*WARMUP:*', plain(w.warmup), '', '*THE THANG:*', plain(w.thang), '', '*MARY:*', plain(w.mary)].join('\n');
+    return [`*${plainTitle(w.title)}*` + (m ? ` (~${m.total} min)` : ''), '', '*WARMUP:*', plain(w.warmup), '', '*THE THANG:*' + (w.thang.name ? ' ' + w.thang.name : ''), plain(w.thang), '', '*MARY:*', plain(w.mary)].join('\n');
   }
 
   function copy(text, msg) {

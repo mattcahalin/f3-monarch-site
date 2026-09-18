@@ -29,6 +29,7 @@
 
   // ---------- Parse the markdown ----------
   function parse(md) {
+    md = md.replace(/&lt;/g, '<').replace(/&gt;/g, '>').replace(/&amp;/g, '&');   // Slack escapes these
     const entries = [];
     for (const chunk of md.split(/\n## /).slice(1)) {
       const nl = chunk.indexOf('\n');
@@ -192,48 +193,88 @@
     return `${n} ${x.name}`;
   }
 
-  // Thang formats. Each returns the plan text and its time in minutes.
+  // Thang formats. Each fills the minutes it is given (never more) and returns
+  // its plan text, the exercises it used, and a few names that fit it.
+  const reps = x => x.unit === 'reps' || x.unit === 'ic';
   const FORMATS = [
-    { name: 'AMRAP', build(r, ex) {
-        const mins = between(r, 16, 20), picks = ex(5);
-        return { mins, text: `AMRAP ${mins} minutes — as many rounds as possible. Mosey 50 yds between rounds.`,
-          items: picks.map(x => dose(x)) };
+    { name: 'AMRAP', build(r, ex, budget) {
+        const mins = budget, picks = ex(5);
+        return { mins, picks, text: `AMRAP ${mins} minutes — as many rounds as possible. Mosey 50 yds between rounds.`,
+          items: picks.map(x => dose(x)),
+          names: [(a, b, m) => `The ${a} ${m} That Would Not Die`, (a) => `The Undying ${a}-Hound`, (a, b) => `The Tireless ${a}-${b} Brute`] };
       } },
-    { name: 'Dora 1-2-3', build(r, ex) {
-        const mins = 18, picks = ex(3, x => x.unit === 'reps' || x.unit === 'ic');
-        return { mins, text: `Dora 1-2-3 (${mins} min cap). Partner up: P1 works while P2 runs 75 yds and back, then flapjack. Chip away at the team totals.`,
-          items: picks.map((x, i) => `${[100, 200, 300][i]} ${x.name}`) };
+    { name: 'Dora 1-2-3', build(r, ex, budget) {
+        const mins = budget, picks = ex(3, reps);
+        return { mins, picks, text: `Dora 1-2-3 (${mins} min cap). Partner up: P1 works while P2 runs 75 yds and back, then flapjack. Chip away at the team totals.`,
+          items: picks.map((x, i) => `${[100, 200, 300][i]} ${x.name}`),
+          names: [(a, b) => `The Two-Headed ${a}-${b} Beast`, (a, b, m) => `The 600-Rep ${a} ${m}`, (a) => `The Conjoined ${a} Twins`] };
       } },
-    { name: '11s', build(r, ex) {
-        const mins = 16, picks = ex(2, x => x.unit === 'reps');
-        return { mins, text: `11s (${mins} min cap). Two cones ~40 yds apart. 10 of the first at cone A, 1 of the second at cone B, then 9 and 2, and so on down to 1 and 10. Mosey between cones.`,
-          items: [`Cone A: ${picks[0].name}`, `Cone B: ${picks[1].name}`] };
+    { name: '11s', build(r, ex, budget) {
+        const mins = budget, picks = ex(2, x => x.unit === 'reps');
+        return { mins, picks, text: `11s (${mins} min cap). Two cones ~40 yds apart. 10 of the first at cone A, 1 of the second at cone B, then 9 and 2, and so on down to 1 and 10. Mosey between cones. Finish early? Swap the cones and go again.`,
+          items: [`Cone A: ${picks[0].name}`, `Cone B: ${picks[1].name}`],
+          names: [(a, b) => `Half-${a}, Half-${b}`, (a, b, m) => `The Eleven-Legged ${a} ${m}`, (a, b) => `The ${a}-${b} Centipede`] };
       } },
-    { name: 'EMOM', build(r, ex) {
-        const mins = 20, picks = ex(4, x => x.unit !== 'yds');
-        return { mins, text: `EMOM ${mins} — every minute on the minute, rotate through the list (5 rounds). Rest whatever is left of the minute.`,
-          items: picks.map(x => dose(x, 0.8)) };
+    { name: 'EMOM', build(r, ex, budget) {
+        const mins = budget, picks = ex(between(r, 4, 6), x => x.unit !== 'yds');
+        return { mins, picks, text: `EMOM ${mins} — every minute on the minute, do the next exercise on the list, cycling back to the top until time is up. Rest whatever is left of the minute.`,
+          items: picks.map(x => dose(x, 0.8)),
+          names: [(a, b, m) => `The Clockwork ${a} ${m}`, (a) => `The ${a}-Croc That Swallowed the Clock`, (a, b) => `The Tick-Tock ${a}-${b} Mutant`] };
       } },
-    { name: 'Four Corners', build(r, ex) {
-        const mins = 20, picks = ex(4, x => x.unit === 'reps' || x.unit === 'ic');
-        return { mins, text: `Four Corners (${mins} min cap). Mark a square ~40 yds per side. Run to each corner, do its exercise and every exercise from the corners before it. Travel between corners changes each lap: bear crawl, lunge walk, sprint, karaoke.`,
-          items: picks.map((x, i) => `Corner ${i + 1}: ${dose(x)}`) };
+    { name: 'Four Corners', build(r, ex, budget) {
+        const mins = budget, picks = ex(4, reps);
+        return { mins, picks, text: `Four Corners (${mins} min cap). Mark a square ~40 yds per side. Run to each corner, do its exercise and every exercise from the corners before it. Travel between corners changes each lap: bear crawl, lunge walk, sprint, karaoke.`,
+          items: picks.map((x, i) => `Corner ${i + 1}: ${dose(x)}`),
+          names: [(a, b) => `The Four-Legged ${a}-${b} Thing`, (a, b, m) => `The Caged ${a} ${m}`, (a) => `The ${a}-Beast of the Four Pens`] };
       } },
-    { name: 'Tabata', build(r, ex) {
-        const picks = ex(5, x => x.unit === 'reps' || x.unit === 'ic'), mins = picks.length * 4;
-        return { mins, text: `Tabata — 4 minutes per exercise: 8 rounds of 20 sec all-out, 10 sec rest. 30-second breather between exercises.`,
-          items: picks.map(x => x.name) };
+    { name: 'Tabata', build(r, ex, budget) {
+        // 4 min per exercise; the breather between exercises stretches (30-90 sec) to fill the time.
+        const n = Math.max(2, Math.floor((budget * 60 + 30) / 270));
+        const picks = ex(n, reps), k = picks.length;
+        const rest = Math.max(30, Math.min(90, Math.floor(((budget - 4 * k) * 60) / (k - 1) / 15) * 15));
+        const mins = Math.round(4 * k + ((k - 1) * rest) / 60);
+        return { mins, picks, text: `Tabata — 4 minutes per exercise: 8 rounds of 20 sec all-out, 10 sec rest. ${rest}-second breather between exercises.`,
+          items: picks.map(x => x.name),
+          names: [(a, b, m) => `The Frenzied ${a} ${m}`, (a) => `The Rabid ${a}-Jackal`, (a, b) => `The ${a}-${b} Berserker`] };
       } },
-    { name: 'Stations', build(r, ex) {
-        const picks = ex(5), mins = 18;
-        return { mins, text: `String of Pearls — 5 stations in a loop. 3 laps, 60 sec work at each station, mosey to the next.`,
-          items: picks.map((x, i) => `Station ${i + 1}: ${x.unit === 'yds' ? dose(x) : x.name + ' (60 sec)'}`) };
+    { name: 'Stations', build(r, ex, budget) {
+        const laps = 4, work = Math.max(45, Math.min(90, Math.floor(((budget * 60) / laps / 5 - 15) / 5) * 5));
+        const picks = ex(5), mins = Math.floor((laps * 5 * (work + 15)) / 60);
+        return { mins, picks, text: `String of Pearls — 5 stations in a loop. ${laps} laps, ${work} sec work at each station, mosey to the next.`,
+          items: picks.map((x, i) => `Station ${i + 1}: ${x.unit === 'yds' ? dose(x) : `${x.name} (${work} sec)`}`),
+          names: [(a, b) => `The Five-Headed ${a} Hydra`, (a, b, m) => `The ${a}-${b} ${m} of Many Parts`, (a) => `The Stitched-Together ${a} Serpent`] };
       } },
   ];
 
+  // The Thang is a beast spliced together from its exercises, Dr. Moreau style.
+  const MONSTERS = ['Behemoth', 'Chimera', 'Hydra', 'Manticore', 'Minotaur', 'Gorgon', 'Wendigo', 'Leviathan', 'Kraken', 'Abomination', 'Brute', 'Mutant'];
+  const ANIMALS = ['Hyena', 'Swine', 'Leopard', 'Ape', 'Ox', 'Wolf', 'Bear', 'Boar', 'Jackal', 'Rhino', 'Puma', 'Bull', 'Sloth', 'Badger', 'Gorilla'];
+  // (a, b) are the two exercises, m a monster, z an animal.
+  const BEAST_NAMES = [
+    (a, b, m, z) => `The ${a}-${z}`,
+    (a) => `The Were-${a}`,
+    (a, b, m) => `The ${a} ${m}`,
+    (a, b, m, z) => `The ${a}-${b} ${z}-Man`,
+    (a, b, m) => `The ${a} ${m} of Moreau's Island`,
+    (a, b, m, z) => `The ${z}-Headed ${a}`,
+  ];
+  // Word mash-ups only read right on one-word names ("Burpeesaurus", not "Bent Over Rowsaurus").
+  const MASHUPS = [(a) => `${a}${/[aeiou]$/i.test(a) ? 's' : 'as'}aurus`, (a) => `The ${a}taur`];
+
+  // "Hand Release Merkins" -> "Hand Release Merkin", "Freddie Mercurys" -> "Freddie Mercury"
+  const singular = name => name.replace(/^Coupon /, '').replace(/\s*\(.*\)$/, '').replace(/(\w+)$/, w =>
+    /ies$/i.test(w) ? w.slice(0, -3) + 'y' : /(sh|ch|x)es$/i.test(w) ? w.slice(0, -2) : /[^s]s$/i.test(w) ? w.slice(0, -1) : w);
+
+  function thangName(r, plan) {
+    const [x, y] = plan.picks.length > 1 ? [...plan.picks].sort(() => r() - 0.5) : [plan.picks[0], plan.picks[0]];
+    const a = singular(x.name), b = singular(y.name);
+    const pool = [...plan.names, ...plan.names, ...BEAST_NAMES, ...(/[\s-]/.test(a) ? [] : MASHUPS)];
+    return pick(r, pool)(a, b, pick(r, MONSTERS), pick(r, ANIMALS));
+  }
+
   const CREATURE = ['Hyena-Swine', 'Leopard-Man', 'Ape-Man', 'Ox-Man', 'Dog-Man', 'Satyr-Man', 'Sloth Thing', 'Bull-Man', 'Wolf-Bear', 'Mare-Rhino'];
 
-  // Warmup 6-8 min + Thang 16-20 + Mary 5-7 — always 40 min or less.
+  // Warmup 6-8 min + Mary 5-7; the Thang gets the rest so the total lands at 38-40.
   function moreau(entries, pools, r) {
     const used = new Set();
     const take = (sec, n, filter) => {
@@ -243,15 +284,13 @@
       return got;
     };
     const warm = take('warmup', between(r, 6, 8));
-    const fmt = pick(r, FORMATS);
-    const thangPicks = [];
-    const plan = fmt.build(r, (n, f) => { const g = take('thang', n, f); thangPicks.push(...g); return g; });
     const mary = take('mary', between(r, 5, 7));
-
     const warmMins = warm.length, maryMins = mary.length;
+    const fmt = pick(r, FORMATS);
+    const plan = fmt.build(r, (n, f) => take('thang', n, f), between(r, 38, 40) - warmMins - maryMins);
     const total = warmMins + plan.mins + maryMins;
 
-    const parts = [...warm, ...thangPicks, ...mary];
+    const parts = [...warm, ...plan.picks, ...mary];
     const src = new Map();
     for (const x of parts) {
       const titled = x.sources.filter(i => !/^backblast$/i.test(entries[i].title));
@@ -265,7 +304,7 @@
       format: fmt.name,
       minutes: { warmup: warmMins, thang: plan.mins, mary: maryMins, total },
       warmup: { items: warm.map(x => dose(x)), note: 'Circle up.' },
-      thang: { note: plan.text, items: plan.items },
+      thang: { name: thangName(r, plan), note: plan.text, items: plan.items },
       mary: { items: mary.map(x => dose(x)) },
       sources: [...src].map(([i, names]) => ({ title: entries[i].title, names })),
     };
@@ -276,11 +315,71 @@
     return { mode: 'previous', title: e.title, warmup: { md: e.warmup }, thang: { md: e.thang }, mary: { md: e.mary } };
   }
 
+  // ---------- Mix & Match Thang names ----------
+  const titleWords = t => t.replace(/&amp;/g, '&').replace(/(?<!\w):[a-z0-9_+-]+:(?!\w)/g, ' ')
+    .replace(/[^\p{L}\p{N}'’&\- ]+/gu, ' ').split(/\s+/).filter(w => /[\p{L}\p{N}]/u.test(w));
+  const realTitle = t => !/^(?:backblast|beatdown)$/i.test(t.trim()) && titleWords(t).length > 0;
+
+  // A name can join on "Enjoying the | Gloom", but a half can't end on "did not" or start on "the".
+  const JOINERS = /^(?:the|a|an|of|in|on|at|for|with|to|over|under|and|&|from|into|by)$/i;
+  const FILLER = /^(?:the|a|an|of|in|on|at|for|with|to|and|or|but|&|is|was|are|it|it's|it’s|its|not|did|do|does|doesn't|doesn’t|be|we|you|your|our|my|that|this|as|by|from|get|got|lets|let's|let’s|who|what|so)$/i;
+
+  function headOf(title) {
+    const w = titleWords(title).slice(0, 6);
+    const h = w.slice(0, Math.min(3, Math.max(1, Math.ceil(w.length / 2))));
+    while (h.length > 1 && FILLER.test(h[h.length - 1]) && !JOINERS.test(h[h.length - 1])) h.pop();
+    return h;
+  }
+  function tailOf(title) {
+    const w = titleWords(title).slice(-6);
+    let t = w.slice(-Math.min(3, Math.max(1, Math.floor(w.length / 2))));
+    while (t.length > 1 && FILLER.test(t[0])) t = t.slice(1);
+    return t.some(x => /\p{L}/u.test(x)) && !FILLER.test(t[0]) ? t : [];
+  }
+  const joinWords = words => words.filter((x, i) => i === 0 || x.toLowerCase() !== words[i - 1].toLowerCase()).join(' ');
+
+  // Front of one title + back of another: "Turkey Hunt" + "Friday Eve Grind" -> "Turkey Eve Grind".
+  function mashTitles(a, b) {
+    const head = headOf(a), tail = tailOf(b);
+    const name = joinWords([...head, ...(tail.length ? tail : titleWords(b).slice(-1))]);
+    const same = s => s.trim().toLowerCase() === name.toLowerCase();
+    return same(a) || same(b) ? `${a.trim()} Meets ${b.trim()}` : name;
+  }
+
+  const BLENDER_NAMES = [
+    (a, b) => `The ${a} Gauntlet`, (a, b) => `${a} & ${b} Showdown`, (a) => `Operation ${a}`, (a) => `The ${a} Grinder`,
+    (a) => `${a} Madness`, (a) => `Return of the ${a}`, (a, b) => `The ${a}-${b} Express`, (a, b) => `${a}-${b} Smoothie`,
+  ];
+  const BLENDER_FALLBACK = ['The Blender Special', 'Smoothie of Suffering', 'Leftover Stew', 'The Kitchen Sink'];
+
+  const thangExercises = text => VOCAB.thang.filter(([, re]) => new RegExp(re.source, 'i').test(text)).map(([name]) => singular(name));
+
+  // Made up from the exercises when the source beatdowns had no real titles.
+  function exerciseTitle(r, text) {
+    const found = thangExercises(text);
+    if (!found.length) return pick(r, BLENDER_FALLBACK);
+    const [a, b] = [pick(r, found), pick(r, found)];
+    return pick(r, a === b ? BLENDER_NAMES.filter(f => f.length < 2) : BLENDER_NAMES)(a, b);
+  }
+
+  function mixName(r, t, w, m) {
+    const titles = [t.title, w.title, m.title].filter(realTitle);
+    if (titles.length >= 2) {
+      const [a, b] = t.title === titles[0] && r() < 0.5 ? [titles[0], pick(r, titles.slice(1))] : [pick(r, titles.slice(1)), titles[0]];
+      return mashTitles(a, b);
+    }
+    const found = thangExercises(t.thang);
+    if (titles.length === 1 && found.length) return joinWords([...headOf(titles[0]), pick(r, found)]);
+    return exerciseTitle(r, t.thang);
+  }
+
   function mix(state, r) {
     const w = pick(r, state.withWarmup), t = pick(r, state.withThang), m = pick(r, state.withMary);
     return {
       mode: 'mix', title: 'Mix & Match',
-      warmup: { md: w.warmup, from: w.title }, thang: { md: t.thang, from: t.title }, mary: { md: m.mary, from: m.title },
+      warmup: { md: w.warmup, from: w.title },
+      thang: { name: mixName(r, t, w, m), md: t.thang, from: t.title },
+      mary: { md: m.mary, from: m.title },
     };
   }
 
