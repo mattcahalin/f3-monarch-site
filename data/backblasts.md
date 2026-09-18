@@ -49,34 +49,6 @@ Monkey Humpers x23 IC
 
 ---
 
-## Christmas Rock Ruck
-
-### Warmup
-
-each taking a turn through core principles, mission, credo, while rucking
-
-### Thang
-
-2.7 mile ruck around the Rock
-
----
-
-## A Christmas Special Ruck
-
-### Warmup
-
-stretching OYO
-
-### Thang
-
-rucked to the roux, around the track, and back. Played Christmas tunes through the speaker during the ruck for some festive vibes. Saw a reindeer on the way back, though it could have been a buck.
-
-### Mary
-
-Nah
-
----
-
 ## T'was the Night Before Christmas
 
 ### Warmup
@@ -116,7 +88,6 @@ When out of nowhere PAX came from the street
 He was dressed all in red, from his head to his feet,
 His eyes, how they twinkled, his dimples how merry.
 He told the PAX to do 10 CPR’s so we don’t get wary
-His cheeks were like roses, his nose like a cherry.
 His droll little mouth was drawn up like a bow
 So PAX suggested we do 15 coupon rows so let go
 With a wink in his eye and a twist of his head
@@ -339,30 +310,6 @@ Return to the flag
 
 ---
 
-## Rucking at Mousetrap Part 1 and 2
-
-### Thang
-
-Rucking
-
----
-
-## Christmas Eve pre-ruck
-
-### Thang
-
-Ruck around the Roux before  the Christmas Eve beatdown. Great time in the gloom.
-
----
-
-## Supporting Twin Peaks
-
-### Thang
-
-Rucked
-
----
-
 ## Christmas Eve Hustle
 
 ### Warmup
@@ -405,32 +352,6 @@ Crab walk down and back
 10 burpees
 Lap
 10 burpees
-
----
-
-## Second Ruck a da day
-
-### Warmup
-
-ruck no 1
-
-### Thang
-
-3.x ruck out and back
-
----
-
-## Tuesday Morning Ruck
-
-### Warmup
-
-Old Man Stretch OYO
-Willie Maes Hays x6 IC
-High Knees OYO
-
-### Thang
-
-3 mile ruck on Zombie
 
 ---
 
@@ -505,10 +426,6 @@ various stretches
 
 ## Journey to Bethlehem and Full Body Mobility
 
-### Warmup
-
-Yes
-
 ### Thang
 
 Journey to Bethlehem - partner up, one partner travels 45 each way while other performs exercise. 4 minute rounds, alternate entire round until round is over.
@@ -560,18 +477,6 @@ This workout will help you get rid of stiffness in your hips, joints, and back a
 ### Mary
 
 included above
-
----
-
-## Diamondback Tuesday Ruck
-
-### Warmup
-
-20 Learning to Phelps
-
-### Thang
-
-Rucked the Logan mile 3 times
 
 ---
 
@@ -643,26 +548,6 @@ none
 
 ---
 
-## Rucking Beatdown
-
-### Warmup
-
-LBAC, Stretching
-
-### Thang
-
-Ruck with exercise stops
-
-### Mary
-
-PAX Choice
-PAX led low plank
-PAX led flutter kicks
-PAX led BBSUs
-PAX led LBCs
-
----
-
 ## Calling all sandbags
 
 ### Warmup
@@ -690,18 +575,6 @@ Monkey Humper’s-SB Run
 ### Mary
 
 50 yard Runs
-
----
-
-## Winter Solstice Run
-
-### Warmup
-
-20 SSH; 10 WMH; 10 GGs; Old Man Stretch; DD/WGS; Hairy Flamingos
-
-### Thang
-
-3.2 Mile Run; 1.7 Mile Ruck
 
 ---
 
@@ -796,34 +669,6 @@ Round 4
 
 ---
 
-## Ruck with dropout
-
-### Warmup
-
-none
-
-### Thang
-
-2.31 mile ruck
-
----
-
-## Ruck Around Track
-
-### Thang
-
-Rucked 2.7
-
----
-
-## Rucking Gravel Pit’s Run
-
-### Thang
-
-Rucking at Gravel Pit. PAX Heavy Ruck complete. PAX
-
----
-
 ## Ursine Monday
 
 ### Warmup
@@ -854,32 +699,6 @@ Just to mix it up we took a 0.6 mile mosey around the park.
 But to make it more fun PAX could perform Bear Crawl 360 while crawling around the outside of the circle. BC360 is rotating either clockwise or counterclockwise while bear crawling forward.
 
 COR, NOR
-
----
-
-## Backblast
-
-### Warmup
-
-Stretching
-
-### Thang
-
-pick a Ruck
-
----
-
-## WINTER IS HERE
-
-### Warmup
-
-Old Man Stretch OYO
-Open the Gates OYO
-Close the Gates OYO
-
-### Thang
-
-3 mile ruck down and back up Zombie Trail
 
 ---
 
@@ -1286,22 +1105,6 @@ Rifle Carry from the playground to the Parking lot and back, if you need a break
 
 ---
 
-## Dumpster fire
-
-### Warmup
-
-Old Man stretch’s
-
-### Thang
-
-Rucked to the Roux and did a lap at the track and returned
-
-### Mary
-
-Flutter Kicks
-
----
-
 ## Secret Santa Beatdown
 
 ### Warmup
@@ -1579,23 +1382,6 @@ down dog/ calf stretch
 
 ---
 
-## Tis the season to be jolly
-
-### Warmup
-
-Willy mays hays, arm circles, learning to Phelps
-
-### Thang
-
-pax vested up with our sandbag or coupon. We did a 2 mile ruck towards Town Center.
-We stopped every few minutes and did different exercises including bent over rows, curls, overhead press, squats, skull crushers and Jillian Michaels
-
-### Mary
-
-penguin tappers, LBC’s, butterfly stretch and Big boy situps
-
----
-
 ## Back to Business!
 
 ### Warmup
@@ -1628,22 +1414,6 @@ Was going to be another 1 mile sandbag mosey, but no time.
 ### Mary
 
 Mosey as a group around the lower parking lot.
-
----
-
-## Basically Summer Rucking
-
-### Warmup
-
-a few stretches
-
-### Thang
-
-zombie trail pass bridge 13
-
-### Mary
-
-na
 
 ---
 
@@ -1984,34 +1754,6 @@ EMOM for Arms, 3 rounds
 
 ---
 
-## Ruck of the Millennium
-
-### Warmup
-
-- SSHs
-- Learning to Phelps
-- Abe Vigodas
-- LBACs
-- Old Man Stretch
-
-### Thang
-
-Traveled around the park paved path and down to neighborhood entrance and back for 1.75 mile loop while stopping and performing various exercises every 2 minutes.
-
-### Mary
-
-Core exercises in thang
-
----
-
-## Ice Road Ruckers- the Prequel
-
-### Thang
-
-Icy Ruck
-
----
-
 ## 12 Pains of Christmas
 
 ### Warmup
@@ -2043,26 +1785,6 @@ Icy Ruck
 - 24 flutter kicks (IC)
 - 24 LBCs OYO
 - 24 flutter kicks (IC)
-
----
-
-## The 12 Jogs of Christmas
-
-### Warmup
-
-toe hops, abe vigodas, learning to phelps, hairy flamingos, open the gates, down dog
-
-### Thang
-
-5.0 mile jog (or ~3 mi ruck)
-
----
-
-## Rucking at 12 Pains
-
-### Thang
-
-rucking around Pickle Jar
 
 ---
 
@@ -2238,44 +1960,6 @@ Switch at 5:30
 
 ---
 
-## Ahh Ruck it around the Jar with lite work
-
-### Warmup
-
-lite stretching on Qs count mossy around upper lake
-
-### Thang
-
-Ruck around outer Jar while on the Ruck we did
-1 set of 5 burpees, 10 merkins and 20 jump squats at 3 locations as a PAX and picked up the 6
-
-### Mary
-
-Q asked PAX members to lead in Mary
-PAX - penquin touches IC x50
-PAX - flutter kicks IC x20
-
----
-
-## Come for the Ruck, stay for the modifiers!
-
-### Warmup
-
-- High knees IC
-- Butt Kicks IC
-- Willie Mays Hays IC
-- Downward Dog stretches
-
-### Thang
-
-PAX ruck down the trail to the neighborhood trail head and back. Along the way performed various modifiers exercises.
-
-### Mary
-
-Ran out of time
-
----
-
 ## Double 3rd Maniversary Part 1
 
 ### Warmup
@@ -2332,22 +2016,6 @@ plenty warm after PAX’s BD
 ### Mary
 
 - welsh dragons to 6
-
----
-
-## Ruck with Neymar
-
-### Warmup
-
-old man stretch
-
-### Thang
-
-ruck around the neighborhood
-
-### Mary
-
-some leg stretches
 
 ---
 
@@ -2647,20 +2315,6 @@ Circuit Ten
 
 ---
 
-## Tuesday Morning Ruck
-
-### Warmup
-
-Old Man Stretches OYO
-Open the Gate OYO
-Close the Gate OYO
-
-### Thang
-
-Morning Ruck down and back up Zombie
-
----
-
 ## Rock em sock em, hit em, knock em part 2
 
 ### Warmup
@@ -2884,14 +2538,6 @@ Straight into the Thang...
 ### Mary
 
 Skipped
-
----
-
-## Ruck the Moth(ra)
-
-### Thang
-
-ruck
 
 ---
 
@@ -3157,22 +2803,6 @@ Flutter kicks IC
 
 ---
 
-## Roux pre-ruck
-
-### Thang
-
-Ruck
-
----
-
-## Monday Evening Ruck
-
-### Thang
-
-Evening Ruck at #AO
-
----
-
 ## Uppers & Downers
 
 ### Warmup
@@ -3210,22 +2840,6 @@ Mountain Climbers
 Round 5
 Thrusters
 Monkey Humpers
-
----
-
-## Zombie Ruck part 2
-
-### Warmup
-
-Ruck 1
-
-### Thang
-
-5 miles down Zombie as the day dawned
-
-### Mary
-
-none
 
 ---
 
@@ -3489,18 +3103,6 @@ Part of BD.
 -Big Boy Sit Ups – 1 minute
 -Plank - 45 seconds
 -OYO with a reflection on a relationship which needs healed - 1 minute
-
----
-
-## A Special Ruck
-
-### Thang
-
-Ruck to the Roux and back
-
-### Mary
-
-Hillbilly Walkers, Learning to Phelps
 
 ---
 
@@ -3871,30 +3473,6 @@ Plank for 3 minutes
 
 ---
 
-## Happy Hour Ruck
-
-### Thang
-
-Ruck to #AO
-
----
-
-## Frozen Pickles
-
-### Warmup
-
-Brief vote how to make the best of the conditions. Roads were clear, but everything else, including parking lots, were covered in snow and ice. The two options were running or rucking around PJ surrounding roads
-
-### Thang
-
-Rucked Around PJ
-
-### Mary
-
-none
-
----
-
 ## Average Tuesday Beatdown
 
 ### Warmup
@@ -4199,7 +3777,7 @@ Mosey down the hill to pick up the cones.
 
 ---
 
-## Data Dump’s Vicarious Q
+## Backblast
 
 ### Warmup
 
@@ -4325,34 +3903,6 @@ COR & NOR
 
 ---
 
-## Sunday Ruck Day
-
-### Warmup
-
-Stretch OYO
-
-### Thang
-
-Morning Ruck Down and back up Zombie
-
----
-
-## Sunday! Sunday!! Sunday!!!
-
-### Warmup
-
-Stretching on your own. Too slick for Side Straddle Hops.
-
-### Thang
-
-Rucking down and up the trail. Went down past the depot to La Salle retreat center. We then made a right turn on the way back and went down to the roundabout at the end before heading back up.
-
-### Mary
-
-None
-
----
-
 ## Backblast
 
 ### Thang
@@ -4365,14 +3915,6 @@ Figure 4
 ### Mary
 
 5-1 Maryvators
-
----
-
-## Turkey Burn
-
-### Thang
-
-2.2 mile ruck from #AO around Longview and back down Mason.
 
 ---
 
@@ -4544,14 +4086,6 @@ PAX traveled Logan Campus, sandbag in tow, and performed random exercises at ran
 ### Mary
 
 5 Burpees
-
----
-
-## Fun Ruck before Fun Friday
-
-### Thang
-
-Ruck around the Roux in the pre beatdown hour. Great to spend time and catch up with Roux founder PAX!
 
 ---
 
@@ -5075,19 +4609,6 @@ BBSUs
 
 ---
 
-## Tuesday Ruck Day
-
-### Warmup
-
-Old Man Stretch OYO
-Willie Mays Hays IC x8
-
-### Thang
-
-3.1 Mile Ruck down and back up Zombie Trail
-
----
-
 ## Hold On To Your Pickles; It's Going To Be A Doozy
 
 ### Warmup
@@ -5184,31 +4705,6 @@ Set thirty second timer. The following exercises were completed. .50 = 30 second
 .50 LBC – Legs 90 degrees
 .50 Flutter Kicks
 .50 Freddie Mercury
-
----
-
-## A Ruck and a BD
-
-### Warmup
-
-- Willy Mays Hays
-- Sumo Squat Stretch
-- Open the Gates
-
-### Thang
-
-- Round 1: Curls, Overhead Press, Skullcrushers, Elf on a Shelf
-- Round 2: Curls, Taint Scrapers, Bent-over Rows, Goblet Squats
-- Round 3: Overhead Press, Curls, Lawnmower Pulls, Coupon Lunges
-
-Followed by one more ruck loop all together.
-
-### Mary
-
-- X-factor crunches
-- ABC deadbugs
-- Imperial Walkers
-- Hillbilly Walkers
 
 ---
 
@@ -5631,22 +5127,6 @@ Willy Mays Haze - 10 IC
 
 ---
 
-## Ruck the Roux
-
-### Thang
-
-Rucking during beatdown at the Roux
-
----
-
-## Monday morning pre-ruck at the Roux
-
-### Thang
-
-Ruck around the track at the Roux while enjoying some pre-beatdown wisdom
-
----
-
 ## Turkey Terminator
 
 ### Warmup
@@ -5687,42 +5167,6 @@ Run half mile
 ### Mary
 
 We did enough in the BD
-
----
-
-## Sunday Ruck Day
-
-### Warmup
-
-Stretching, LBAC
-
-### Thang
-
-Ruck down Zombie Trail
-
-### Mary
-
-Nope
-
----
-
-## F3 Turkey Trot
-
-### Warmup
-
-SSH
-Calf Stretches
-Runners Stretch
-Pigeon
-Willie Mayes Hayes
-
-### Thang
-
-Option 1 - Long Course: Q - PAX
-Run from Wildwood Park (Mousetrap) to Wildwood Middle (Diamond Dawn), Q PAX (from afar) BD, Run to Wildwood Middle to Babler Elementary (Arkham), PAX BD, Run to Mousetrap
-
-Option 2 - Short Course - Run/Ruck: PAX
-Travel from Wildwood Park (Mousetrap) to Wildwood Middle (Diamond Dawn), 5 on 2 BD, travel to Mousetrap
 
 ---
 
@@ -5990,14 +5434,6 @@ Mobility/MARY: Tabletop/beast pose sequence
 20 plank twists
 20 BBSU
 20 90/90s
-
----
-
-## Reckoning
-
-### Thang
-
-Ruck down the big hill and back up past The Roux.
 
 ---
 
@@ -6308,37 +5744,6 @@ Shuffle the deck. Flip whole set of cards at a time. The number on the card = re
 ### Mary
 
 flutter kicks, keys tappers, lbc’s
-
----
-
-## Backblast
-
-### Thang
-
-Rucking During Beatdown at PAX Central
-
----
-
-## Tuesday Ruck Day
-
-### Warmup
-
-4-1 Motivators
-Bat Wings Forward & Reverse x 10 IC
-
-### Thang
-
-10 minutes 10 reps per
-Push up
-Burpees
-Air Squats
-Sit ups
-1 minute rest
-10 minutes
-Ring of Burpees
-One PAX does a burpee while the other PAX rest.
-1 minute rest
-By this time the lightning had passed, so we did our ruck, which had to be cut short because of time. We rucked 2.1 miles.
 
 ---
 
@@ -6824,18 +6229,6 @@ Boats and Canoes to Flower by Mobe for 1 minute.
 
 ---
 
-## Sunday Ruck "Carry the Weight - Share the Load"
-
-### Warmup
-
-LBAs, Abe Vigodas, Willie Mays Hayes
-
-### Thang
-
-Long Ruck out and back on Rock Hollow Trail, 6 miles total. PAX took turns carrying extra 30# and 20# sandbags
-
----
-
 ## Logan Miles
 
 ### Warmup
@@ -7105,14 +6498,6 @@ slow walk home, high fives.
 
 ---
 
-## Ruck the Roux
-
-### Thang
-
-While the PAX played an away game, we rucked the Roux.
-
----
-
 ## What’s your identity?
 
 ### Warmup
@@ -7155,22 +6540,6 @@ See the Card
 ### Mary
 
 See the Card
-
----
-
-## Friendly Ruck
-
-### Warmup
-
-LBACs, Learning to Phelps
-
-### Thang
-
-Rucked just over 2 miles while carrying PAX burden
-
-### Mary
-
-None
 
 ---
 
@@ -7535,18 +6904,6 @@ Return to the flag
 
 ---
 
-## Rucking
-
-### Warmup
-
-calf stretch  old man stretch arm warm ip
-
-### Thang
-
-ruck
-
----
-
 ## Make the Most of Your Tuesday Morning
 
 ### Warmup
@@ -7745,14 +7102,6 @@ Round 4
 
 ---
 
-## Mothruck
-
-### Thang
-
-Rucking during beatdown at Mothra.
-
----
-
 ## Bust a Move
 
 ### Warmup
@@ -7934,22 +7283,6 @@ After 20 minutes was up, switched to a 10 minute Tabata. 25 seconds of each, ove
 
 ---
 
-## A cold day in Ruck
-
-### Thang
-
-Ruck on a cold and windy day.
-
----
-
-## Evening Ruck Wildwood Community Park
-
-### Thang
-
-40 minute ruck
-
----
-
 ## Expansion for the Millennium
 
 ### Warmup
@@ -7982,14 +7315,6 @@ Lower body focus:
 - Ice Skaters (Apollo Ohnos) (20)
 - Lunges (alternating) (20)
 - AL Gore (20 second hold OYO count)
-
----
-
-## 4 miles on ZR
-
-### Thang
-
-4 mile ruck - good pace everyone.
 
 ---
 
@@ -8060,26 +7385,6 @@ F3 Quarterly Fitness Test (REST FOR 3 MINUTES BETWEEN EXERCISE)
 ### Mary
 
 25 Flutter Kicks; 10 BB situps
-
----
-
-## Satruck
-
-### Thang
-
-Saturday ruck during beatdown at Roux
-
----
-
-## Rotating Sat pre-ruck
-
-### Thang
-
-Rucked around the Roux
-
-### Mary
-
-rucked around the Roux
 
 ---
 
@@ -8247,14 +7552,6 @@ flutter kicks, big flutter kicks, planks, side planks, one arm one foot balance.
 
 ---
 
-## RouxRuck
-
-### Thang
-
-Rucking during beatdown at the Roux
-
----
-
 ## Backblast
 
 ### Warmup
@@ -8307,22 +7604,6 @@ PAX pick your poison, if pick stationary exercise do 30 reps, some travels inter
 ### Mary
 
 - not today
-
----
-
-## Walking With Weight
-
-### Warmup
-
-stretch OYO while discs given
-
-### Thang
-
-Rucked around the neighborhood for a change, took the long loop, and stayed together as a small group with a quick pace.
-
-### Mary
-
-10 merkins OYO
 
 ---
 
@@ -8400,14 +7681,6 @@ Travel Back: Bear trap
 ### Mary
 
 25 flutter kicks, 24 lbcs, 1min plank hold
-
----
-
-## Mothruck
-
-### Thang
-
-Rucking at Mothra while PAX did beatdown
 
 ---
 
@@ -8635,34 +7908,6 @@ Non stop movement today
 ### Mary
 
 Air SquatsIC with bags, chest press IC
-
----
-
-## Midweek Happy Hour Ruck at Mini Mousetrap
-
-### Warmup
-
-Stretch OYO
-
-### Thang
-
-Ruck the park, up 109, back to Mousetrap and to Manchester and back
-
-### Mary
-
-None
-
----
-
-## Flag Handoff ??  New Horizons
-
-### Warmup
-
-Old Man, Reaching, and overhead stretches
-
-### Thang
-
-Rucked Out and back about 3 miles in 50 minutes
 
 ---
 
@@ -9043,18 +8288,6 @@ Mosey with coupons back to flag
 
 ---
 
-## Monday Evening Ruck
-
-### Warmup
-
-High Knees
-
-### Thang
-
-2.26 Mile Ruck
-
----
-
 ## Backblast
 
 ### Warmup
@@ -9087,30 +8320,6 @@ Recipe - OYO
 ### Mary
 
 COR & NOR
-
----
-
-## Turn Back Time.
-
-### Warmup
-
-Did old man stretch and Willy Mayes Hayes
-
-### Thang
-
-Broke into two groups. PAX PAX did 3mi. While the rest of did 7.2mi.
-
----
-
-## Foggy Gloom
-
-### Warmup
-
-old man stretch  Willie maze haze
-
-### Thang
-
-rucked
 
 ---
 
@@ -9180,14 +8389,6 @@ Willie Mays Hayes, Abe Vigodas, Toe Hops, Air Squats, Reverse Lunges, Open the G
 ### Thang
 
 4.1 mi jog, starting at Oasis, looping around Longview, heading along Clayton, looping around Principia, and back to Oasis.
-
----
-
-## Saturday at the Way
-
-### Thang
-
-Rucking around the track at The Way during the Saturday beatdown.
 
 ---
 
@@ -9466,18 +8667,6 @@ Side straddle hops, high knees, butt kickers, old man stretch, downward dog,  Wi
 ### Mary
 
 big boy, situps, LBC‘s, oblique crunches, alternating Superman’s, world’s greatest stretch
-
----
-
-## Staying on Task Ruck
-
-### Warmup
-
-Front and back calf stretches
-
-### Thang
-
-Ruck to the Roux
 
 ---
 
@@ -9857,18 +9046,6 @@ R run jail break 20 sec then mosey back
 
 ---
 
-## Recovery Ruck at Zombie Ridge
-
-### Warmup
-
-Series of Stretches
-
-### Thang
-
-Rucked out and back on Rock Hollow Trail
-
----
-
 ## Time to Brush up our store of Useless Knowledge
 
 ### Warmup
@@ -10055,14 +9232,6 @@ We stayed together as a unit as we moved through the course, picking up the six 
 ### Mary
 
 37 Flutter Kicks IC
-
----
-
-## Mothruck
-
-### Thang
-
-Rucking during beatdown at Mothra
 
 ---
 
@@ -10297,26 +9466,6 @@ Exercise 2 moves to the bleachers with coupons and did a 5 minute EMOM. Compound
 ### Mary
 
 10 MM Merkens, 10 big boy sit-ups, 5 accountability blockers in HCing.
-
----
-
-## Evening Ruck Wildwood Community Park
-
-### Thang
-
-2.5 mile ruck
-
----
-
-## Rucktober- Final Sunday Ruck
-
-### Warmup
-
-Light Stretching.
-
-### Thang
-
-Rucked out and back on Zombie Trail (aka Rock Hollow Trail)
 
 ---
 
@@ -10621,22 +9770,6 @@ Moseyed back to flag
 
 ---
 
-## Thursday Ruckday
-
-### Warmup
-
-Arm circles
-
-### Thang
-
-Ruck thru the Roux
-
-### Mary
-
-Pick up the 6
-
----
-
 ## Zombie Apocalypse
 
 ### Warmup
@@ -10751,14 +9884,6 @@ Swimmers
 
 ---
 
-## Pre-ruck at the outlet
-
-### Thang
-
-Rucked to roux and back. Picked up a straggler along the way. Some intense speed, we made quick time!
-
----
-
 ## Get Out In The Gloom For A Mid Week Beatdown
 
 ### Warmup
@@ -10775,10 +9900,6 @@ Seal Claps x 10
 One person had a sandbag and they were the trigger person to change exercises.
 Exercises: Curls, BB Sit Ups, Lawn Mowers, Crunches, Squats, Overhead Presses, flutter kicks, Merkins, Reverse Curls, Crunches, CPRs, BB Sit Ups
 First round we went around the first circle, second time, we went the far circle. Last round we went around the first circle twice.
-
-### Mary
-
-NA
 
 ---
 
@@ -10851,14 +9972,6 @@ Skull crushers
 
 20 negative Big boy situps
 Plank 10 count with the pax
-
----
-
-## Just Ruckin
-
-### Thang
-
-Impromptu ruck
 
 ---
 
@@ -11016,26 +10129,6 @@ Grab your sandbag and mosey back to Diamond Dawn, more exercise stops along the 
 
 ---
 
-## Wednesday Evening Ruck
-
-### Thang
-
-2.35 Mile Ruck around The Trap
-
----
-
-## This... is...Sparta! ruck
-
-### Warmup
-
-LBAC, Stretching
-
-### Thang
-
-Quick paced ruck
-
----
-
 ## The Best Tuesday Workout Around.
 
 ### Warmup
@@ -11130,14 +10223,6 @@ PAX completed 3 full laps with 3rd lap as speed round cutting reps in half.
 Old man stretch
 Downward dog
 Child pose
-
----
-
-## Mothruck
-
-### Thang
-
-Rucking during beatdown at Mothra
 
 ---
 
@@ -11241,34 +10326,6 @@ Dynamic resistance yoga, strength, flexibility session based on DDPY
 
 ---
 
-## Wrestling rucking true-up
-
-### Thang
-
-September 2nd - October 20th wrestling practices rucking recognition
-
----
-
-## Be the Centry
-
-### Warmup
-
-yes
-
-### Thang
-
-55 minute evening ruck bluebird park
-
----
-
-## Pre-BD Ruck at Pickle Jar
-
-### Thang
-
-see title
-
----
-
 ## House of cards ♦️♠️♥️♣️
 
 ### Warmup
@@ -11325,18 +10382,6 @@ Backward runs
 ### Mary
 
 52 boats n canoes oyo
-
----
-
-## slt bidness
-
-### Warmup
-
-oyo
-
-### Thang
-
-7s on the hill, BBs and Burpees, then ruck
 
 ---
 
@@ -11537,22 +10582,6 @@ Curls, Coupon Squats, and Skull Crushers
 
 ---
 
-## Rucktober ruck
-
-### Warmup
-
-Waved our arms and got moving
-
-### Thang
-
-On a cold, wet and windy day we rucked to the Zombie intersection
-
-### Mary
-
-NA
-
----
-
 ## Six at the Pit
 
 ### Warmup
@@ -11685,22 +10714,6 @@ Crab walks
 
 ---
 
-## Respect Ruck
-
-### Warmup
-
-LBAC stretch
-
-### Thang
-
-Ruck around the Roux, stop for 5 Merkins and hill sprints. Lap 1 = 5 merkins and 1 sprint, lap 2 = 5 merkins and 2 sprints, ... up to 5.
-
-### Mary
-
-Stretch
-
----
-
 ## 44
 
 ### Warmup
@@ -11809,22 +10822,6 @@ Had to cut round 4 and 5 down to 5 mins each and skip the laps to complete it be
 
 ---
 
-## Backblast
-
-### Thang
-
-Rucked 2.1 with Heavy Weight!
-
----
-
-## Backblast
-
-### Thang
-
-2.8 mile ruck
-
----
-
 ## Sua Sponte Leaders
 
 ### Warmup
@@ -11910,10 +10907,6 @@ Repeated Entire Routine (2nd travel - mosey)
 ---
 
 ## Field Day
-
-### Warmup
-
-Yes
 
 ### Thang
 
@@ -12017,42 +11010,6 @@ WMH, GG, SSH, GBs, stretching, mosey around the pasture
 ### Thang
 
 partner Dora format - 100 pull-ups, 200 merkins, 300 BBS; lunge walk for the travel
-
----
-
-## Pre Ruck at the Outlet
-
-### Warmup
-
-oyo stretch
-
-### Thang
-
-ruck to the roux and back
-
-### Mary
-
-nope
-
----
-
-## Backblast
-
-### Warmup
-
-Mosey to the pavilion
-
-### Thang
-
-Long Ruck (8 miles) and PAX in and around the Roux. A beautiful day with lots of sun and a light breeze.
-
----
-
-## Pre-BD Ruck at PJ
-
-### Thang
-
-Ruck around the Pickle Jar
 
 ---
 
@@ -12269,32 +11226,6 @@ Repeat back down the ladder. Due to time back down the ladder we modified blocke
 
 ---
 
-## Early Pre-Ruck at “The Roux”
-
-### Warmup
-
-stretching OYO
-
-### Thang
-
-early morning pre-Beatdown Ruck around “
-
----
-
-## Tuesday Ruck
-
-### Warmup
-
-Willie Mayes Hayes
-Grass Grabbers
-Toe Touches
-
-### Thang
-
-3 mile ruck down to bridge 13 and back
-
----
-
 ## On Tuesdays we go to The Pickle Jar
 
 ### Warmup
@@ -12344,14 +11275,6 @@ Return to the flag
 30 seconds: hollow tuck
 60 seconds:  Bicycle Crunches
 60 seconds: Plank
-
----
-
-## Ruck at the Giant Butterfly
-
-### Thang
-
-Ruck at Mothra
 
 ---
 
@@ -12486,14 +11409,6 @@ Recover, Recover:white_check_mark:
 
 ---
 
-## Song of the South
-
-### Thang
-
-Bush Ruck in the park,
-
----
-
 ## 9er Tour with the Toy Box
 
 ### Warmup
@@ -12595,14 +11510,6 @@ Run around median by entrance of pool and back
 
 ---
 
-## Backblast
-
-### Thang
-
-Ruck
-
----
-
 ## Millennium DORA at Millennium Park
 
 ### Warmup
@@ -12640,14 +11547,6 @@ Some partners finished early so rinse and repeat exercises but changed travel to
 ### Mary
 
 1 minute plank hold
-
----
-
-## good rucking morning
-
-### Thang
-
-2.3 mile ruck
 
 ---
 
@@ -12795,42 +11694,6 @@ Most PAX got 1.5x through!
 
 ---
 
-## Happy Hour Rucking Crew at The Trap
-
-### Warmup
-
-OYO warmups
-
-### Thang
-
-Rucked 2.5 miles around Mousetrap
-
-### Mary
-
-OYO stretches
-
----
-
-## We killed the ruck
-
-### Warmup
-
-old man stretch and calf  stretch
-
-### Thang
-
-We rucked zombie ridge
-
----
-
-## Afternoon Ruck Around The Trap
-
-### Thang
-
-7.79  mile ruck around Mousetrap and regions beyond.
-
----
-
 ## 5 on 2’s wrestling run but with F3 instead
 
 ### Warmup
@@ -12847,42 +11710,6 @@ Old man stretch OYO
 
 2 minutes hand release merkins AMRAP (aim for above 40)
 2 minutes big boy sit ups AMRAP (aim for above 50)
-
----
-
-## 3 mile Ruck avoiding Zombies
-
-### Warmup
-
-Run by PAX
-
-### Thang
-
-Ruck 3.0 for Covering House
-
----
-
-## Extra Long Ruck
-
-### Warmup
-
-stretches with the PAX
-
-### Thang
-
-blistering pace ruck from zombie down to rockwood reservations and back. A few of us got back in just under 2:30 shattering zombie records.
-
-### Mary
-
-Collapse, run feet, etc.
-
----
-
-## Saturday Rotating at Zombie - 5 Mile Ruck Option
-
-### Thang
-
-5 Mile Ruck
 
 ---
 
@@ -13026,55 +11853,6 @@ SSH
 
 no dribble basketball
 
-### Mary
-
-nah
-
----
-
-## Ruck at the Roux
-
-### Thang
-
-Rucking during beatdown at Roux
-
----
-
-## Pre-BD Ruck at The Way
-
-### Warmup
-
-walking from the parking lot to the track.
-
-### Thang
-
-3.01 mile ruck around the track.
-
-### Mary
-
-Nope
-
----
-
-## Friday Funday Preruck
-
-### Thang
-
-2.1 mile ruck
-
----
-
-## Rare Ruck at the Way
-
-### Warmup
-
-light stretching
-
-### Thang
-
-2.8 mile rucking tour of Ellisville
-Leave no man behind, left some men not where we found them.... oops
-
 ---
 
 ## a lot of 8s
@@ -13117,42 +11895,6 @@ Skipping around the Parking Lot, stretch oyo. One run up and down Logan Hill, on
 20 merkins
 30 EW Bonnie Blairs
 400M Run
-
----
-
-## Operation Gateway Grind
-
-### Warmup
-
-Gearing up and finding everyone in Kirkwood Park along with a five minute gear check
-
-### Thang
-
-26.2 mile loop around 12 AOs of the PAX region from 8 pm to 6:45 am. Started with 14 intrepid ruckers, one joined late in the journey, SIX completed all 26.2 miles!
-
----
-
-## Waning Gibbous
-
-### Thang
-
-3.65 mile ruck with only the light of the waning gibbous and PAX flickering headlamp to light our way.
-
----
-
-## Ruck for TCH
-
-### Warmup
-
-Various stretches.
-
-### Thang
-
-2.47 mile ruck around the World Headquarters.
-
-### Mary
-
-nope.
 
 ---
 
@@ -13230,18 +11972,6 @@ Round 6
 
 ---
 
-## pre ruck at the Outlet
-
-### Warmup
-
-none
-
-### Thang
-
-PAX already covered this one
-
----
-
 ## Backblast
 
 ### Warmup
@@ -13279,30 +12009,6 @@ Most of the Pax completed at least 3 miles.
 ### Mary
 
 None
-
----
-
-## Backblast
-
-### Warmup
-
-Willie Mays Hayes & Grass Grabbers
-
-### Thang
-
-Ruck
-
----
-
-## Pre-ruck
-
-### Warmup
-
-Got to rucking
-
-### Thang
-
-Ruck
 
 ---
 
@@ -13405,30 +12111,6 @@ Plank Jacks
 
 Ran a cool down lap around the track to finish it off.  Each HIM completed somewhere between 2 and 3 miles depending on his pace.
 LOG YOUR MILES HERE:
-
----
-
-## Backblast
-
-### Warmup
-
-Stretch.  OYO
-
-### Thang
-
-2 mile HEAVY ruck. PAX, please mark the heavy
-
----
-
-## Pre Ruck Around at the Roux
-
-### Thang
-
-ruck around track
-
-### Mary
-
-nope
 
 ---
 
@@ -13560,31 +12242,6 @@ PAX did at least 2.5 miles, and probably closer to 3
 
 ---
 
-## Ruck alongside the Dawngers
-
-### Thang
-
-marched around the school and area. Ran into PAX and may see a kotter comeback???
-
-### Mary
-
-circled up with the dawn. 50 BBSUs.
-
----
-
-## Tuesday Ruck
-
-### Warmup
-
-Willie Mayes Hayes
-Grass Grabbers
-
-### Thang
-
-3.1 mile ruck just past bridge 13 and back.
-
----
-
 ## Tuesday fun day
 
 ### Warmup
@@ -13626,39 +12283,6 @@ I0 burpees b/c it’s F3
 ### Mary
 
 None
-
----
-
-## 3rd Annual Arkham 5k for the Covering House
-
-### Warmup
-
-5 to 1s
-Various Leg stretches
-
-### Thang
-
-3.1 miles from Arkham to Mousetrap and Back or Rucking for Time
-
-### Mary
-
-none today
-
----
-
-## MothRuck
-
-### Thang
-
-Rucking during beatdown at Mothra
-
----
-
-## Pre-BD Ruck at The Outlet
-
-### Thang
-
-1.2 mile pre-BD ruck, dodging cars and an oddly dressed "little child" along the way.
 
 ---
 
@@ -13812,24 +12436,6 @@ Nope
 
 ---
 
-## Ruck The Awakening for TCH
-
-### Warmup
-
-25 Goofballs. IC
-10 second hang IC
-10 Grass Grabbers
-
-### Thang
-
-Ruck 2.1 miles for TCH
-
-### Mary
-
-None time
-
----
-
 ## MWM
 
 ### Warmup
@@ -13865,33 +12471,6 @@ x3 rounds
 
 ---
 
-## Roux Ruck
-
-### Warmup
-
-Old man stretch
-Harry flamingos
-
-### Thang
-
-2 mile ruck in the neighborhood around the Roux for covering house
-
-### Mary
-
-stretching
-Abe Vigotas
-Worlds greatest stretch
-
----
-
-## Happy Hour Ruck
-
-### Thang
-
-2 mile evening ruck
-
----
-
 ## Early Morning Monday
 
 ### Warmup
@@ -13905,14 +12484,6 @@ stretch oyo
 ### Mary
 
 none
-
----
-
-## preruck at the roux
-
-### Thang
-
-2.8 mile ruck
 
 ---
 
@@ -13988,77 +12559,6 @@ Dying Cockroaches
 ### Mary
 
 flutterkicks, lbc’s, planks (3)
-
----
-
-## Pik A Ruk
-
-### Warmup
-
-Willie Mayes Hayes
-
-### Thang
-
-Pick a ruck 8 mile option
-
----
-
-## Pik-A-Ruk - 5 Mile Option
-
-### Warmup
-
-Willie Mays Hays
-
-### Thang
-
-The PAX broke up into three Rucking groups;
-3 Mile Ruck
-5 Mile Ruck
-8 Mile Ruck
-
-### Mary
-
-No Mary
-
----
-
-## Cheer on the MO Cow Bell Marathon
-
-### Warmup
-
-OYO
-
-### Thang
-
-8 MILE RUCK
-
----
-
-## Covering House Challenge Long Ruck Kickoff
-
-### Warmup
-
-- 5:1 Motivators - Good suggestion PAX
-- Piano Tappers
-- Little Baby Arm Circles
-
-### Thang
-
-- 8.6 mi ruck ao_outlet to Selvidge Middle School
-
-### Mary
-
-- Little Baby Arm Circles
-- Shoulder Stretches
-- Harry Flamingoes
-
----
-
-## 2.0 Ruck at Castlewood
-
-### Thang
-
-4.11 mile ruck at Castlewood
 
 ---
 
@@ -14301,22 +12801,6 @@ soccer on the tennis courts with one break doing LBCs.
 ### Mary
 
 the LBCs
-
----
-
-## ruck early
-
-### Thang
-
-2 mile ruck
-
----
-
-## Rucking at the Roux
-
-### Thang
-
-Rucking during beatdown at the Roux
 
 ---
 
@@ -14565,18 +13049,6 @@ Child's Pose.
 
 ---
 
-## The other pre-ruck
-
-### Thang
-
-Ruck
-
-### Mary
-
-Take off packs
-
----
-
 ## IRON PAX WEEK 4 BERT WOD
 
 ### Warmup
@@ -14604,18 +13076,6 @@ Seal Claps
 - 100 merkins
 - 10-yard murder bunny, mosey 90 yards and back to your block, reverse murder bunny for 10 yards back to start
 - 50 burpees
-
----
-
-## Rucking
-
-### Warmup
-
-Learning to Felps - 15 IC
-
-### Thang
-
-Rucked to the Olympic Gymnastic gym and back. - PAX stayed together
 
 ---
 
@@ -14773,34 +13233,6 @@ Exercises: Goblet Squats, OH Press, Bent Over Rows, Taint Scrapers, Dead Lift to
 ### Mary
 
 Jail break to crosswalk and back.
-
----
-
-## This is The Way to Ruck
-
-### Warmup
-
-OYO
-
-### Thang
-
-Ruck the track.  Bucky did 2 miles heavy.
-
----
-
-## Evening Rick Wildwood Community Park
-
-### Warmup
-
-OYO
-
-### Thang
-
-Ruck Long
-
-### Mary
-
-water break
 
 ---
 
@@ -15000,42 +13432,6 @@ Round 5: 8 Track Remix with Feek
 400 m
 
 Repeat till time
-
----
-
-## Covering House tune-up
-
-### Warmup
-
-LBAC
-
-### Thang
-
-High paced ruck
-
----
-
-## Rucking Around the World Headquarters
-
-### Warmup
-
-Stretching OYO
-
-### Thang
-
-3 mile ruck around Pickle Jar
-
-### Mary
-
-Nope
-
----
-
-## MothRuck
-
-### Thang
-
-Rucking during Mothra beatdown
 
 ---
 
@@ -15337,46 +13733,6 @@ Bear hold
 
 ---
 
-## pre Manaversary ruck
-
-### Thang
-
-2.4 mile ruck
-
----
-
-## Rucking the Roux
-
-### Warmup
-
-Stretch OYO
-
-### Thang
-
-Ruck the Roux
-
-### Mary
-
-None
-
----
-
-## Happy Hour Ruck
-
-### Thang
-
-Evening Ruck at #AO
-
----
-
-## Ruckin at the Roux
-
-### Thang
-
-2.3 mile ruck
-
----
-
 ## Monday
 
 ### Warmup
@@ -15492,34 +13848,6 @@ PAX still faster than PAX
 
 ---
 
-## Chesterfield Levy Long Ruck
-
-### Warmup
-
-OYO
-
-### Thang
-
-Long Ruck from trailhead behind Top Golf out the levy trail then through River's Edge Park
-
----
-
-## Special LONG Ruck - 8 Miles
-
-### Warmup
-
-Willie Mays Hays
-
-### Thang
-
-8 Mile Ruck
-
-### Mary
-
-None
-
----
-
 ## Beatdown at Pathfinder with Neymar.
 
 ### Warmup
@@ -15555,10 +13883,6 @@ Team PAX did a MABA bd amount of burpees.
 Team PAX did 5 more Burpees than PAX did this January,
 
 The highly contested game was about as close as PAX s OSU game.
-
-### Mary
-
-na
 
 ---
 
@@ -15629,26 +13953,6 @@ At Recover called, Q called for a “Fell Run” back to the flags. Your path; Y
 
 - Worlds Greatest Stretch. One ea. Side
 - Ted Lasso’s Celebration Dance
-
----
-
-## Pre FF Ruck
-
-### Warmup
-
-none
-
-### Thang
-
-2.2 mile ruck
-
----
-
-## Rucking at the Roux
-
-### Thang
-
-Rucking around the track while the PAX did beatdown
 
 ---
 
@@ -15823,38 +14127,6 @@ Not today
 
 ---
 
-## Right to Ruck
-
-### Warmup
-
-LBAC, Lerning to Phelps, put packs on
-
-### Thang
-
-Ruck down the hill and back up past the Roux.
-
-### Mary
-
-Take packs off
-
----
-
-## Ruck b4u Ruck
-
-### Warmup
-
-NA
-
-### Thang
-
-2.5 miles ruck
-
-### Mary
-
-nope
-
----
-
 ## Thirsty Thursdays
 
 ### Warmup
@@ -15977,14 +14249,6 @@ none ran out of time
 
 ---
 
-## Happy Hour Ruck
-
-### Thang
-
-Evening Ruck around # AO mousetrap
-
----
-
 ## Iron Pax Week 3
 
 ### Thang
@@ -16072,25 +14336,6 @@ LBC’s and penguin tappers
 
 ---
 
-## There and Back Again, A Zombie Tale
-
-### Warmup
-
-- Grass Grabbers
-- Baby Arm Circles
-
-### Thang
-
-- 3 Mile Ruck
-
-50 lb Ruckers: PAX PAX PAX PAX
-
-### Mary
-
-Light Stretching OYO
-
----
-
 ## Iron PAX Week 3 - Chris Kyle WOD
 
 ### Warmup
@@ -16163,22 +14408,6 @@ Return to the flag
 30 seconds: American Hammers
 30 seconds: Mountain Climbers
 60 seconds: Plank
-
----
-
-## Rucking at Gates of Fire
-
-### Thang
-
-Rucking around MO Bap campus
-
----
-
-## Tuesday Evening Security Ruck
-
-### Thang
-
-Rucking Blue Bird
 
 ---
 
@@ -16334,51 +14563,6 @@ Alternate until Bike Lap Complete
 
 ---
 
-## WEEK 3 IronPax - Chris Kyle WOD
-
-### Warmup
-
-- SSH
-- LBC
-- Yoga
-
-### Thang
-
-Chris Kyle WOD
-
-- Format
-- 40-minute AMRAP
-- Total repetition count workout
-- Burpees do not count towards your repetition count
-- Standard coupon
-- 5-minute EMOM timer
-- Measure 25 yards
-
-- Start both the 40-minute timer and the 5-minute EMOM timer at the same time
-- Complete the following exercises as prescribed
-- 40 Kettlebell swings
-- 40 lateral block jump-overs
-- 40 thrusters
-- 40 decline merkins (feet on top of your coupon that is turned vertically)
-- When EMOM timer goes off
-- Stop the work you are doing:
-- Run out 25 yards
-- Do 5 burpees
-- Run back 25 yards
-- Pick up where you left off when you get back
-- Repeat this pattern for 40 minutes
-
-PAX - 675
-PAX - 573
-PAX - 585
-PAX - 647
-PAX - 800 M up and down
-PAX - 640 M
-PAX - 582
-PAX - rucked
-
----
-
 ## iPad week 3
 
 ### Warmup
@@ -16435,14 +14619,6 @@ Hillbilly walkers
 
 ---
 
-## 2.24 Mile Ruck
-
-### Thang
-
-2.24 mile ruck and PAX
-
----
-
 ## SLT Meeting
 
 ### Warmup
@@ -16459,38 +14635,6 @@ First 2 have suitcases, 3rd has 80# sandbags 4 through N pax are stepped back 1 
 ### Mary
 
 OYO during meeting
-
----
-
-## Ruck Arround ao_mousetrap
-
-### Warmup
-
-OYO
-
-### Thang
-
-2 mile ruck
-
----
-
-## Trail Run / Ruck
-
-### Warmup
-
-Baby Arm Circles - 10 forward 10 backward
-Willy Mays Hays x10
-Downward Dog / World Greatest Stretch
-
-### Thang
-
-Runners: 3 Mile Trail Run
-Ruckers: 40 minutes
-
-### Mary
-
-Old Man Stretch
-Boats and Canoes
 
 ---
 
@@ -16528,18 +14672,6 @@ Cindy WOD modified
 ### Mary
 
 15 min core mobility
-
----
-
-## Rucking at Zombie Ridge
-
-### Warmup
-
-old man stretch and calf stretch
-
-### Thang
-
-rucked 3.5 miles
 
 ---
 
@@ -16661,14 +14793,6 @@ Stretch OYO
 
 ---
 
-## 3 Mile Ruck
-
-### Thang
-
-3 mile ruck
-
----
-
 ## 6 Years; Every 11 Minutes
 
 ### Warmup
@@ -16706,22 +14830,6 @@ Up the ladder and down the ladder workout, with stations set up 11 yards apart. 
 COOL DOWN:
 
 - 10 burpees
-
----
-
-## Ruck
-
-### Thang
-
-2.5 miles ruck
-
----
-
-## Pre-BD Ruck at the Trap
-
-### Thang
-
-1.0 mile ruck around the Mousetrap.
 
 ---
 
@@ -16852,39 +14960,6 @@ Log it here
 
 ---
 
-## Pre-Ruck
-
-### Warmup
-
-nope
-
-### Thang
-
-rucking
-
-### Mary
-
-nope
-
----
-
-## Rucking with Rogerroger
-
-### Warmup
-
-Grass Grabbers
-Baby Arm Circles
-
-### Thang
-
-2.1 mile ruck, with a new cut through a neighborhood and much confusion after groups separated.
-
-### Mary
-
-Skipped for time
-
----
-
 ## 2 FNG's!
 
 ### Warmup
@@ -16926,10 +15001,6 @@ Nope!
 ### Thang
 
 - 8 Track
-
-### Mary
-
-- Nah
 
 ---
 
@@ -17043,14 +15114,6 @@ Worlds greatest stretch
 
 ---
 
-## Happy Hour Ruck
-
-### Thang
-
-Ruck around Wildwood Community Park
-
----
-
 ## IronPAX 2025 Week 2 - Cleveland 8 Track
 
 ### Warmup
@@ -17107,22 +15170,6 @@ Did 3 full circuits running little over 1.25 miles
 ### Mary
 
 did it in the middle
-
----
-
-## Zombie Ruck
-
-### Warmup
-
-Old man stretch, LBAC, Learning to Phelps
-
-### Thang
-
-Ruck down and back the spooky Zombie trail - no snakes... this time
-
-### Mary
-
-Old man stretch
 
 ---
 
@@ -17220,21 +15267,6 @@ None
 
 ---
 
-## Twisted Tuesday
-
-### Warmup
-
-5-1 Motivators
-Willy Mays Haze
-Arm Circles Fwd/bwd
-Seal Claps
-
-### Thang
-
-Rucked around Logan campus with 60# sand bags. Stopped at various spots for front squats, hill sprints, arm curls, pull-ups, push-ups, sit-ups.
-
----
-
 ## Time To Be Bold
 
 ### Warmup
@@ -17328,18 +15360,6 @@ built into thang
 
 ---
 
-## Rucky Guys
-
-### Warmup
-
-none
-
-### Thang
-
-2.6 miles ruck
-
----
-
 ## TBD
 
 ### Warmup
@@ -17363,23 +15383,6 @@ No surrender squats
 ### Mary
 
 Bring Sally up
-
----
-
-## Backblast
-
-### Warmup
-
-not today
-
-### Thang
-
-- 2.38km ruck
-- 400m sprint
-
-### Mary
-
-not today
 
 ---
 
@@ -17472,18 +15475,6 @@ Kettle Bell Swings
 SSH
 
 Curls
-
----
-
-## Sunday Morning Ruck
-
-### Warmup
-
-Old Man Stretch, Willie Mays Hays, Abe Vegoda’s
-
-### Thang
-
-Two options 1. Normal three Mile ruck 2. Longer eight mile ruck (performed by the rest of the pax)
 
 ---
 
@@ -17655,14 +15646,6 @@ Station 6
 
 ---
 
-## Rucking good times
-
-### Thang
-
-2 mile ruck
-
----
-
 ## Silence is Golden/Mute Mode/Hushed Hustle/Sweet Silence/Donut Run
 
 ### Warmup
@@ -17815,22 +15798,6 @@ Upon completion PAX performed 2 minutes AMRAP burpees
 
 Downward dog
 Cobra stretch
-
----
-
-## A Ruck to Remember
-
-### Warmup
-
-Stretching OYO
-
-### Thang
-
-Rucked from #AO down Queensbridge, down Hanna to #AO, circled the pavilion, headed back to #AO via Mermac, then circled the parking lot for a final lap.
-
-### Mary
-
-None
 
 ---
 
@@ -18020,14 +15987,6 @@ more random stretching
 
 ---
 
-## Happy Hour Ruck
-
-### Thang
-
-2 Mile ruck
-
----
-
 ## Recovery at The Rock
 
 ### Thang
@@ -18114,18 +16073,6 @@ We did 40 different exercises(really 36 because we doubled up a few.  Several bl
 ### Mary
 
 none as it was done in workout
-
----
-
-## Tuesday morning ruck
-
-### Warmup
-
-Old man stretch, bat wings, Willie mays hays, Abe Vegodas
-
-### Thang
-
-3 Mile ruck on Zombie Trail
 
 ---
 
@@ -18360,44 +16307,6 @@ none today
 
 ---
 
-## Monday Motivation
-
-### Warmup
-
-Old man stretch
-Willie Mayes Hayes
-Harry Flamingos
-
-### Thang
-
-Rucked around the Roux stopping occasionally to do some exercises
-
-Exercises:
-Air squats x 16
-Worlds Greatest Stretch
-Ruck down disc golf hill and Bernie back up
-Mountain Climbers x 16 (In Cadence)
-Merkins x 16 (In Cadence)
-Step Ups x 16 (HW)
-
-### Mary
-
-In Cadence x 16
-Hillbilly Walkers
-Imperial Walkers
-Imperial Hillbillies
-American Hammers
-
----
-
-## Pre-BD 2 Mile Ruck
-
-### Thang
-
-Pre-BD 2 mile ruck
-
----
-
 ## A Run and Lift at the Half Mile Hill
 
 ### Warmup
@@ -18535,18 +16444,6 @@ imperial walkers
 
 ---
 
-## rucking
-
-### Warmup
-
-old man stretch calf stretch
-
-### Thang
-
-We rucked 3.1 miles
-
----
-
 ## A beatdown from a dad for current dads and future dads
 
 ### Warmup
@@ -18608,22 +16505,6 @@ Shuttle Run
 Stop Timer
 
 Shuttle Run: 5yd, home, 10yd, home, 15yd, home, 20yd, home
-
----
-
-## Town & Cross-Country
-
-### Warmup
-
-SSH, Abe Vigodas, Willie Mays Hayes, Down Dog, World's Greatest Stretch
-
-### Thang
-
-3.2 - 3.5 mile jog via Mason, Principia campus, and Clayton. No one lost this time
-
-### Mary
-
-Miscellaneous stretching
 
 ---
 
@@ -18731,14 +16612,6 @@ Rinse and repeat
 ### Mary
 
 Guantanamo
-
----
-
-## Pre-BD Ruck
-
-### Thang
-
-2 mile ruck
 
 ---
 
@@ -18893,38 +16766,6 @@ NOR YES
 
 ---
 
-## Thursday Mixer #2
-
-### Warmup
-
-Side straddle hops
-Grass grabbers
-Willie mayes hayes
-Downward dog (alt. stretch L/R calves)
-Old man stretch
-Reach for the sky
-
-### Thang
-
-Wasn't sure whether to run or ruck, but decided on Ruck so we Rucked down to Garden Valley neighborhood
-
-Once there we Deion up the hill to the sidewalk
-
-40 Imp Walkers
-20 (each side) shoulder tap plank
-
-then Rucked back to flag
-
-### Mary
-
-Downward dog
-World’s greatest stretch
-Downward dog
-Old man stretch
-Reach for the sky
-
----
-
 ## ?IRON PAX WEEK 0?
 
 ### Warmup
@@ -18945,22 +16786,6 @@ IPAX Week 0 "Sgt. Tellier WOD"
 100 Big Boy Sit Ups
 150 Squats
 Shuttle run 5-10-15-20 in between rounds
-
----
-
-## Ruck
-
-### Warmup
-
-Old man stretch
-
-### Thang
-
-Ruck past #AO, down the hill, and back up again.
-
-### Mary
-
-None
 
 ---
 
@@ -19336,20 +17161,6 @@ Twice.
 
 ---
 
-## Rucking Good Time
-
-### Warmup
-
-- Grass Grabbers
-- Piano Tappers
-- Abe Vagotas
-
-### Thang
-
-- ~3 mile Ruck
-
----
-
 ## Everyone Is Lucky It's IP Week 0
 
 ### Warmup
@@ -19384,22 +17195,6 @@ Iron Pax week 0
 ### Mary
 
 old man stretch, and various yoga
-
----
-
-## Rucking the Moth
-
-### Warmup
-
-OYO
-
-### Thang
-
-Ruck the park
-
-### Mary
-
-Joined the PAX
 
 ---
 
@@ -19721,66 +17516,6 @@ part of the thang
 
 ---
 
-## Good Ruck Charm
-
-### Warmup
-
-Old man & calf stretch
-
-### Thang
-
-Ruck
-
-### Mary
-
-Pick up the 6
-
----
-
-## 1 hour ruck
-
-### Warmup
-
-old man stretch
-
-### Thang
-
-rucking down zombie ridge
-
----
-
-## Saturday IR Ruck
-
-### Warmup
-
-OYO
-
-### Thang
-
-RUCK
-
-### Mary
-
-NONE
-
----
-
-## Pre-Saturday Rotating Ruck
-
-### Warmup
-
-None
-
-### Thang
-
-2 mile ruck before #AO
-
-### Mary
-
-none
-
----
-
 ## Shaun T’s Total Body Beatdown
 
 ### Warmup
@@ -19946,30 +17681,6 @@ none
 
 ---
 
-## 2.2 mile ruck
-
-### Thang
-
-2.2 mile ruck , PAX , PAX
-
----
-
-## Rucking the Roux
-
-### Warmup
-
-OYO
-
-### Thang
-
-Ruck
-
-### Mary
-
-None
-
----
-
 ## Street Ball Hockey
 
 ### Warmup
@@ -20100,22 +17811,6 @@ Downward dog
 
 ---
 
-## Rucking with the butterflies
-
-### Warmup
-
-OYO
-
-### Thang
-
-Ruck
-
-### Mary
-
-none
-
----
-
 ## Tractor Pull 2025
 
 ### Warmup
@@ -20154,18 +17849,6 @@ PAX had 6 pts
 ### Mary
 
 Negative
-
----
-
-## Labor of Ruck
-
-### Warmup
-
-skipped to transition straight to ruck and cover maximum mileage
-
-### Thang
-
-we took a new route past Parkway South into a neighborhood for a loop. Glad to have PAX join us from Meramec region.
 
 ---
 
@@ -20278,41 +17961,6 @@ Who Framed Roger Rabbit?
 
 ---
 
-## Classic Beatdown
-
-### Warmup
-
-Baby Arm Circles, Willy May Hayes
-
-### Thang
-
-Station 1
-25 Hand Release Merkins
-25 Curls
-25 lunges
-When excersies completed groups ran approx 400 meter and completed 20 burpess
-
-Station 2
-25 Merkins
-25 Big Boys
-25 Squats hard way
-When excersies completed groups ran approx 400 meter and completed 20 burpess
-
-Station 3
-15 8 Point Planks
-25 Bent Over Rows
-25 American Hammer
-25 Mt Climber
-When excersies completed groups ran approx 400 meter and completed 20 burpess
-
-3 to 4 man groups rotated stations with running and 20 burpess before moving to next station.
-
-### Mary
-
-10 Big Boys on own, Grass Grabbers Cobra pose
-
----
-
 ## Prep Work
 
 ### Warmup
@@ -20333,18 +17981,6 @@ Exercises: Curls, Squat, Merkins, SSH
 LBCs - 100 Reps
 Big Boys - 25 Reps
 Flutter Kicks - 50 reps
-
----
-
-## Wednesday Morning Ruck
-
-### Warmup
-
-SSH, Grass Grabbers, Willie Mays Hays, Bat Wings, Seal Claps
-
-### Thang
-
-2 Mile Ruck around the track during the Way Wednesday BD
 
 ---
 
@@ -20554,23 +18190,6 @@ High plan low plank.
 
 ---
 
-## It’s Tuesday
-
-### Warmup
-
-Calf stretch OYO
-Open and close the gates
-Grass grabbers
-Willie mayes Hayes
-
-### Thang
-
-3 mile ruck
-
-Heavy Ruckers today with 50+ lbs today:
-
----
-
 ## Red Light Green Light Returns
 
 ### Warmup
@@ -20585,22 +18204,6 @@ old man
 Setup four cones.  PAX starts at the first cone.  Each PAX gets a travel in which they start and stop with red light yellow light and green light. Run a lap after each round
 We finished 3 rnd 2 with coupon and one without with lots of exercises
 Mary was boats and canoes with red light greenlight
-
----
-
-## Blue Bird Park Evening Ruck
-
-### Warmup
-
-OYO
-
-### Thang
-
-Ruck PAX neighborhood
-
-### Mary
-
-Two laps
 
 ---
 
@@ -20636,27 +18239,6 @@ Who Framed Roger Rabbit?
 - PAX - 3
 
 + to PAX for splashing merlot at the end of the BD
-
----
-
-## It's Gunna Be Windy
-
-### Warmup
-
-SSH - 30 IC
-Open the Gates - 10 IC
-Willy Mays Haze - 10 IC
-Arm Circles Front/Back - 20 IC
-Pretzels - 15 IC
-
-### Thang
-
-1. Weighted Vest Ruck to Data Dumps - House of Pain Garage
-2. Circuit of Chest & Bicep workouts (Heavy Weight/Lower reps was goal)
-1. Incline Bench & Dumbbell Curls
-2. Flat Bench and Dumbbell Curls
-3. Dips & Big Boy Sit-ups
-1. Ruck back to the flag
 
 ---
 
@@ -20838,22 +18420,6 @@ Low abdominal progression: reverse march, up-up-down-down, double knee up, dying
 
 ---
 
-## HH Ruck
-
-### Warmup
-
-OYO
-
-### Thang
-
-Ruck around Wildwood park
-
-### Mary
-
-none
-
----
-
 ## Football, No Teams
 
 ### Warmup
@@ -20900,74 +18466,11 @@ lemon squeezers IC
 
 ---
 
-## Sunday Ruckday
-
-### Warmup
-
-Stretching
-
-### Thang
-
-Ruck in the gloom
-
----
-
-## Anvil ruck miles
-
-### Warmup
-
-Anvil beatdowns
-
-### Thang
-
-5.8 miles spread out over 4 rucks
-
----
-
-## Track Time
-
-### Thang
-
-2.5 ruck
-
----
-
 ## Qsource 3.5 articulation-- at Pathfinder
 
 ### Thang
 
 QSource 3.5 - Focus on Articulation
-
----
-
-## Backblast
-
-### Warmup
-
-- Abe vigotas
-- Learning to Phelps
-- Lunges w/ arm circles
-- Downward dog/cobra stretches
-- WGS
-
-### Thang
-
-PAX broke into three groups: runners, ruckers, and beatdowners.
-
-- Runners completed a 15min interval workout on the track
-- Ruckers completed a 15min ruck
-- Beatdowners completed a 15min workout, with a series of exercises for 1 minute, followed by a travel that increased by 5 yards each round. Six rounds were completed.
-
-Group came back together for a 10min run-oriented strength routine of 4 exercises, which repeated until the timer sounded.
-
-- Step ups, incline merkins, calf raises, and Bulgarian split squats
-
-### Mary
-
-- Reverse crunches
-- 1 minute of alternating high/low planks
-
-Recover, Recover:white_check_mark:
 
 ---
 
@@ -21075,30 +18578,6 @@ Round 5: loser did 40 hillbilly walkers and winner did 20
 ### Mary
 
 round 4 & 5
-
----
-
-## IR ruck
-
-### Warmup
-
-OYO
-
-### Thang
-
-Ruck the lake and then some
-
-### Mary
-
-Joined the PAX
-
----
-
-## Pre BD Fun Ruck
-
-### Thang
-
-Ruck around the Roux before Fun Friday. Good  times with great guys.
 
 ---
 
@@ -21240,22 +18719,6 @@ PAX ran to Lafayette HS. Performed a series of calisthenic exercises. Then took 
 
 ---
 
-## Charging the Battery in the City
-
-### Warmup
-
-OYO
-
-### Thang
-
-RUCK at Lafayette Park
-
-### Mary
-
-none
-
----
-
 ## humpback whale watching
 
 ### Warmup
@@ -21311,14 +18774,6 @@ Flutter Kicks
 American Hammers
 LBCs
 Shoulder Taps
-
----
-
-## BTS Ruck
-
-### Thang
-
-Ruck down and up the big hill
 
 ---
 
@@ -21475,14 +18930,6 @@ Repeated circuit, deion, and running a second time.  Each PAX tallied between 4-
 
 ---
 
-## Wednesday Evening Ruck
-
-### Thang
-
-2.55 Mile Ruck
-
----
-
 ## Remember the Titans - Forge @ The Way
 
 ### Warmup
@@ -21604,18 +19051,6 @@ Run back 80 yds - 15 coupon sit ups
 
 ---
 
-## Backblast
-
-### Warmup
-
-Old Man Stretch OYO, Grass Grabbers x 10 IC, Willie Mays Hays x 10 IC
-
-### Thang
-
-3 Mile Ruck down & back up Zombie Trail
-
----
-
 ## Reclaiming the Land!
 
 ### Warmup
@@ -21672,22 +19107,6 @@ It was a bloody mess.
 
 ---
 
-## Men vs. Mothra
-
-### Warmup
-
-OYO
-
-### Thang
-
-RUCK AROUND #AO
-
-### Mary
-
-None
-
----
-
 ## TEMPUS BREVE EST
 
 ### Warmup
@@ -21698,22 +19117,6 @@ SSH; Abe V; WMH; Grass Grabbers; Learning Phelps; OYO Stretch
 
 PAX separated into 5 teams took positions at 5 stations in a circle(?), each station with a card listing 3 exercises and 1 travel.
 Each Team does 200 reps total of the 3 exercises in any order. When finished teams travel to the next station. Rinse & repeat til all teams complete all stations. See cards below for exercises & travel.
-
----
-
-## Leave no man behind
-
-### Warmup
-
-stretch OYO
-
-### Thang
-
-rucked to the school and did a few laps around the track. Came upon some energetic morning walkers, some said hello and some gave the cold shoulder. Better luck next time.
-
-### Mary
-
-Vests off
 
 ---
 
@@ -21868,14 +19271,6 @@ Men only, no Marys
 
 ---
 
-## Pre Beatdown Ruck!!!
-
-### Thang
-
-MILES: 2.5
-
----
-
 ## A Stolen Beatdown
 
 ### Warmup
@@ -21896,14 +19291,6 @@ Carolina Dry Docks and narrow grip merkins
 ### Mary
 
 Cool down lap around the track in the opposite direction.
-
----
-
-## Evening Ruck at # AO MouseTrap
-
-### Thang
-
-2.5 Mile Ruck
 
 ---
 
@@ -22045,22 +19432,6 @@ Punishing Pyramid
 
 ---
 
-## And now something completely different ruck
-
-### Warmup
-
-OYO
-
-### Thang
-
-Ruck to the Roux and back
-
-### Mary
-
-none
-
----
-
 ## ?? The British Invasion ?? Monty Python's BD Circus PART II
 
 ### Warmup
@@ -22108,22 +19479,6 @@ Mary, Queen of Scots:
 Tis but a  Flutter Kicks 20 IC
 V-ups 20 OYO
 One final gallup with 3 new  volunteers around the parking lot
-
----
-
-## Pathfinding at Pathfinder
-
-### Warmup
-
-OYO
-
-### Thang
-
-Ruck through Bluebird Park
-
-### Mary
-
-None
 
 ---
 
@@ -22250,22 +19605,6 @@ Stableman:  (5) sets of (10) Burpees & (10) BBSU's.
 
 ---
 
-## Ruck around the Country Club
-
-### Warmup
-
-OYO
-
-### Thang
-
-RUCK
-
-### Mary
-
-NONE
-
----
-
 ## Pick Your Poison Friday
 
 ### Warmup
@@ -22332,40 +19671,6 @@ Winner picks the ultimate punishment for the rest of the pax.
 ### Mary
 
 Flutter Kicks - 20 IC
-
----
-
-## Better Together
-
-### Warmup
-
-6 -1 motivators
-Old man stretch 15 ct
-Grass Grabbers IC
-Pretzel stretch 10 ct ea side
-LBAC IC
-Grady Corn IC
-
-### Thang
-
-Teams of 2.
-
-Buy In  - Mosey 1 lap
-
-2rd  Rounds
-Partner A -  200 M run
-Partner B - 5 Thrusters, 10 Rows, 15 Squats
-
-50 partner Merkins (facing each other hand taps after merkins)
-50 alternating burpees ( 25 each)
-
-2rd  Rounds
-Partner A -  200 M run
-Partner B - 5 Thrusters, 10 Rows, 15 Squats
-
-Buy Out - Mosey one lap
-
-PAX put on weighted vests and rucked 1.4 mi
 
 ---
 
@@ -22464,14 +19769,6 @@ Jail break back
 
 1 min plank
 1 min wall sit
-
----
-
-## Let’s Ruck
-
-### Thang
-
-2mile ruck
 
 ---
 
@@ -22652,22 +19949,6 @@ Big Boy Situps
 
 ---
 
-## Rucking
-
-### Warmup
-
-old man strecthes
-
-### Thang
-
-rucking
-
-### Mary
-
-old man
-
----
-
 ## Variety Pack
 
 ### Warmup
@@ -22824,25 +20105,6 @@ Butt kickers 20 IC
 ### Mary
 
 none
-
----
-
-## Down on your ruck
-
-### Warmup
-
-Willy Mayes hays
-Various stretches
-
-### Thang
-
-ruck to bridge 13
-10 merkins
-Ruck back
-
-### Mary
-
-None
 
 ---
 
@@ -23163,30 +20425,6 @@ Round 6: Exponents again
 
 ---
 
-## Backblast
-
-### Warmup
-
-Circle the lot until Gumbo shows up. Wave at PAX.
-
-### Thang
-
-Rucked around looking for fences to hop because #ChAmp has gated off all the pathway entrances
-
-### Mary
-
-Head to the lot to circle up for the BD
-
----
-
-## Monday Evening Ruck
-
-### Thang
-
-2.4 Mile around #AO
-
----
-
 ## Qsource 3.4 (Vision) at Roux
 
 ### Thang
@@ -23211,46 +20449,6 @@ SSH, butt kickers, toy soldiers
 ### Mary
 
 None
-
----
-
-## Carry the One
-
-### Warmup
-
-- SSH x 20 IC
-- Willie Mays Hays
-- Old Man Stretch
-- Hairy Flamingo Stretch
-- Arm Circles FWD/BWD x 10 IC
-
-### Thang
-
-Route: 1.9-mile loop with 4 pain stations. Runners and Ruckers follow the same route.
-Format:
-
-- Runners: Run at easy pace for the set time, then reverse and run hard back to catch the Ruckers.
-- As the runners reaches the Ruckers, join them in a forward march until the last runner has arrived. Once all are together begin the station work.
-- Ruckers: Move steadily and complete modified versions of the exercises as needed.
-
-Stations:
-7-minute run → Reverse & chase → Station 1
-
-- Station 1 - 20 Merkins, 20 Flutter Kicks (IC)
-
-6-minute run → Reverse & chase → Station 2
-
-- Station 2 - 15 V-Ups, Superman (3 x 15-sec hold)
-
-5-minute run → Reverse & chase → Station 3
-
-- Station 3 - Runners: 20 Burpees
-
-Run back to Base
-
-### Mary
-
-Stretch on your own
 
 ---
 
@@ -23315,18 +20513,6 @@ Part III
 ### Mary
 
 30 second plank hold, 10 santanas each side
-
----
-
-## Sunday Ruck on Rock Hollow Trail
-
-### Warmup
-
-light stretching
-
-### Thang
-
-Rucked out and back on Zombie Trail traveling about 3 miles in 45 minutes.
 
 ---
 
@@ -23632,24 +20818,6 @@ having too much fun, no Mary
 
 ---
 
-## Hi-Ho Hi-Ho It’s Off To DB We Go!
-
-### Warmup
-
-SSH
-Grass Grabbers
-Willie Mayes Hayes
-Hairy Flamingos
-Arm Circles
-All in cadence
-
-### Thang
-
-All PAX completed a 2.7 mile ruck while vested up and carrying sandbags, completing the “heavy” quadrant of the 75 Ruck Challenge.
-We also threw some SSH, BBSU, and Merkins in for good measure. All while wearing vests.
-
----
-
 ## Fire On The Mountain (Mt. Gherkin)
 
 ### Warmup
@@ -23694,22 +20862,6 @@ Dora, see below (3 man team did 300 reps); one man works, one man runs
 
 ---
 
-## Outlet Pre-Ruck
-
-### Warmup
-
-Hit the ground running
-
-### Thang
-
-Ruck to #AO and back
-
-### Mary
-
-Back just in time to pick up the PAX for the 5:30 start.
-
----
-
 ## Strength in 3's!
 
 ### Warmup
@@ -23745,27 +20897,6 @@ Core
 20 - Plank Shoulder Taps
 20 - Big Boy Sit-ups
 20 - American Hammers
-
----
-
-## Outlet ruck
-
-### Warmup
-
-‭‭Luke‬ ‭5‬:‭17‬-‭26‬ ‭NASB1995‬‬
-
-### Thang
-
-2.10 mile pre-ruck
-2.2ish mile ruck
-
-### Mary
-
-15 merkins IC
-OH press hold into 10 OH squats
-Plank
-Plank jacks
-10 merkins
 
 ---
 
@@ -23828,26 +20959,6 @@ Partnered up. Partners start travel in opposite directions around the short loop
 ### Mary
 
 25 Flutter Kicks; 25 LBCs; 15 Flutter Kicks; 15 LBCs
-
----
-
-## Backblast
-
-### Warmup
-
-Turn projector on, plug in laptop, wheel in cooler, OYO
-
-### Thang
-
-Slides + links to be shared in 1st F canvas!
-
-- Looker Studio and PAX stats
-- F3Nation dev support
-- We discovered that today was PAX’s 2 year Q'iversary "have a light dinner"! — You may be glad you missed that
-
-### Mary
-
-Clean up, lights off
 
 ---
 
@@ -23916,48 +21027,6 @@ Partner travel to lights up the hill, stop at lights and do exercise:
 
 ---
 
-## 31 heros
-
-### Warmup
-
-SSH IC
-Grass Grabbers IC
-Willie Mays Hays IC
-Learning to Phelps IC
-LBAC IC
-
-### Thang
-
-3 teams of 2
-Partner A 400 yard loop with sandbag or ruck sack
-
-Partner B
-10 Thrusters
-10 No Cheat Merkins
-11 Box jumps ( on a bench in the pavilion)
-
-Rinse and Repeat for 31 minutes
-
-Each team completed 7 rounds and finished with the entire PAX running the last lap
-
-### Mary
-
-31 American Hammers
-
----
-
-## Early morning Ruck
-
-### Warmup
-
-OYO
-
-### Thang
-
-Ruck around the ball fields
-
----
-
 ## fins up!
 
 ### Warmup
@@ -23972,14 +21041,6 @@ Close game with NIL deals mid game.
 ### Mary
 
 Some single leg flutter kicks and vups IC
-
----
-
-## uck at Wildwood Community Parek
-
-### Thang
-
-2 plus mile ruck
 
 ---
 
@@ -24142,18 +21203,6 @@ Rotate & Repeat x2
 
 ---
 
-## One step to 75
-
-### Warmup
-
-Learning to Phelps, Old Man Stretch, LBAC
-
-### Thang
-
-Ruck
-
----
-
 ## Backblast
 
 ### Warmup
@@ -24240,14 +21289,6 @@ Repeat until time.
 Flutter Kicks: 25x IC
 LBCs (Little Baby Crunches): 20 OYO
 PAX to Marge: 10 with a 4 count down
-
----
-
-## Blue Bird Park Evening Ruck
-
-### Thang
-
-3 Mile Ruck
 
 ---
 
@@ -24544,14 +21585,6 @@ Flutter Kicks x 30 in cadence
 
 ---
 
-## 1st Chance at 75 Ruck Hard
-
-### Thang
-
-2 mile ruck on Monday Evening
-
----
-
 ## Backblast
 
 ### Warmup
@@ -24572,14 +21605,6 @@ Always perform merkins and an ab workout, run ~70 yards down the track, 2 burpee
 - 30 - merkins, Oblique crunches each side
 - 20 - merkins, BBSUs
 - 10 - merkins, WWIII sit ups
-
----
-
-## Ruck bb
-
-### Thang
-
-ruck
 
 ---
 
@@ -24642,30 +21667,6 @@ See the card below.
 ### Mary
 
 See the card below.
-
----
-
-## Sunday Ruck
-
-### Warmup
-
-Old Man stretch’s
-
-### Thang
-
-Walked a total of 3.7mi. Down to bridge 13 and back.
-
----
-
-## Pre-Orbit Al Foster Trail
-
-### Warmup
-
-Stretch on your own
-
-### Thang
-
-PAX and PAX ran, while the rest of us rucked 3 miles
 
 ---
 
@@ -24999,22 +22000,6 @@ Calves Your calf is primarily composed of three muscles: the gastrocnemius, sole
 - Little baby oblique crunches, each side
 - Flutter kicks
 - Single-leg flutter kicks, each side
-
----
-
-## Ruckamania Is Runnin’ Wild!
-
-### Warmup
-
-Learning to Phelps & Willie Mays Hayes
-
-### Thang
-
-We rucked!
-
-### Mary
-
-No Mary
 
 ---
 
@@ -25403,18 +22388,6 @@ Boats and Canoes
 
 ---
 
-## ?‍♂️  Tues Zombie Trail Ruck  ?‍♂️
-
-### Warmup
-
-various old man stretches
-
-### Thang
-
-Rucked out and back on Rock Hollow Trail. Traveled approx 3 miles in about 48 minutes carrying
-
----
-
 ## Keeping it A Hunnerd
 
 ### Warmup
@@ -25700,50 +22673,6 @@ BBS
 
 ---
 
-## Sunday Ruck at Zombie Ridge
-
-### Warmup
-
-old man stretch
-
-### Thang
-
-Rucked out and back on Zombie Trail.  About 2.5 to 3.2 miles, (45 minutes), in a fierce downpour.
-
----
-
-## Sasquatch CSAUP - 3 Years Strong!
-
-### Warmup
-
-Intro
-
-Warmup
-
-- High Knees
-- Grass Grabbers
-- OMS
-- Wily mays Hayes
-- Piano tappers
-
-### Thang
-
-Sasquatch Format
-A 2.2 mi trail run or 1.2 mi ruck for 30 minutes Followed by a 15 minute beatdown
-with a 15 minute break. Repeat for 5 hours.
-Beatdown 1
-Break into Teams of 3 and complete DORA style workout with burpee at one end, rifle carry partner travel, and varying exercises at opposite end.
-Beatdown 2
-Tabata style BD focusing on core exercises
-Beatdown 3
-Tabata style BD focusing on core exercises
-Beatdown 4
-DEFENSE! Boxing focused cardio work.
-Beatdown 5 (Mary)
-Mary exercises and mobility stretching
-
----
-
 ## Sasquatch CSAUP - BD #3
 
 ### Warmup
@@ -25873,14 +22802,6 @@ The goal is to get as many total laps done as possible and have every man comple
 100 SSH
 
 Until 5:00 AM
-
----
-
-## Ruck IT
-
-### Thang
-
-Joined the ball busters for coffeteria.
 
 ---
 
@@ -26068,14 +22989,6 @@ Completed 3 cycles
 
 Flutter Kicks – 15 IC
 Hello Dollys - 12 IC
-
----
-
-## L.O.S.T. in the U.S.A.
-
-### Thang
-
-Q brought some groceries to make the PAX be guinea pigs to see if they could function as a good prop/accessory in the future. Some of the PAX traded juice and milk jugs along the ruck, fireman's carry style.
 
 ---
 
@@ -26393,18 +23306,6 @@ New exercise
 Hello Dollies combined with lemon squeezers( boats and canoes)
 So we called them
 Shipwreck Dollies
-
----
-
-## Ruck
-
-### Warmup
-
-LBAC, Old Man Stretch
-
-### Thang
-
-Ruck the Ridge
 
 ---
 
@@ -26902,18 +23803,6 @@ Included in BD
 
 ---
 
-## Zombie Ruck
-
-### Warmup
-
-old man stretch. Other stretching  oyo
-
-### Thang
-
-rucked down rock hollow trail and back 3 miles total
-
----
-
 ## Saturday Burns
 
 ### Warmup
@@ -27230,24 +24119,6 @@ Ass Kickers
 Bear Crawl/ Deion
 
 Goal for the PAX was to complete 3 rounds.  Some guys did more, some guys did less, but all the men put in hard work and "fun" was had by everyone!
-
----
-
-## Ruck Around the Block
-
-### Warmup
-
-- SSH
-- Willey Mays Hays
-- Abe Vegotas
-
-### Thang
-
-Ruck
-
-### Mary
-
-Toe Touches.
 
 ---
 
@@ -27638,113 +24509,6 @@ Monkey Humpers
 
 ---
 
-## Mount Sinai and the Ten Commandments
-
-### Warmup
-
-10-1 motivators
-Grass grabbers
-Willy Mayes hays
-Downward dog -> cobra
-LBAC
-
-### Thang
-
-Start at the base of the hill
-
-2 hill sprints between each commandment
-
-- 40 burpees
-- 10 OHPraises with sandbag
-
-Commandment 2: You shall not make idols
-
-- 20 Jillian Michaels
-- 100 taint scrapers
-
-- Bear crawl to the other hill and back (walk over the pit)
-
-- Sexy six between base of the hills
-- 5 thrusters
-- Mosey between base of hills
-- 1 bagee
-
-Commandment 6: you shall not murder bunny
-
-- Murder bunny to the other hill and back
-
-- 300 Monkey humpers
-
-Commandment 8: You shall not steal (your neighbors coupon)
-
-- 50 Idols on the shelves
-
-Commandment 9: You shall not bear false witness against your neighbor.
-
-- 50 Blockees
-
-Commandment 10: You shall not covet your neighbor’s sandbag and ruck.
-
-- 20 Partner sandbag tosses easy way
-
-### Mary
-
-Commandment 4: Remember the sabbath day to keep it Holy
-
----
-
-## Tuesday Ruck
-
-### Warmup
-
-Old man stretch OYO
-Grass grabbers
-Quad stretch
-
-### Thang
-
-PAX split into 2 groups. Recovery group walked the track and the others hit the ridge.
-
-It was great to see PAX and PAX on the recovery road.
-
-Birds heard at Zombie this morning:
-
-Wood Thrush
-Eastern Wood Pe-Wee
-Carolina Wren
-
-### Mary
-
-Ran out of time
-
----
-
-## The Gangs of Ballwin
-
-### Warmup
-
-- 5-1 Motivators
-- Old Man Stretches
-- Open the Gates
-- Goof Balls
-- Downward Dog & Cobra
-
-### Thang
-
-- "The Natives" - Indian run around both lakes x2
-- "The Dead Rabbits" - 35 yd murder bunnies, 35 yard resurrection bunnies
-- Mosey 35 yds and back x2
-
-Heavy objects (coupons, sandbags, kettlebells, plates, rucksack) at the base of the hill.
-
-3. At base of hill, PAX then bear crawled up, and crawl beared down.
-
-### Mary
-
-Carry all the heavy stuff from the base of the hill to the flags.
-
----
-
 ## BLIMPS over Arkham
 
 ### Warmup
@@ -27779,43 +24543,6 @@ Little Baby Crunches – 50 OYO – HBD PAX !
 Figure 4 Left
 Figure 4 Right
 Child’s Pose
-
----
-
-## Night rangers
-
-### Warmup
-
-5-1 motivators
-Learning to Phelps
-Willy Mayes Hayes
-LBAC/Seal/Oh claps
-
-### Thang
-
-In Cadence exercises:
-Hillbillies
-Curls
-Cactus Jack Squats
-Monkey Humpers
-Hindu squats
-Merkins
-Killer Queens one way
-Killer queens other way
-
-Two sides
-3 groups carries sandbag/ruck rotating through
-
-Blockees
-WWIII sit ups
-Cactus Jack squats
-
-After all completed then go crawl bear and bear crawl up the hill as a unit
-
-### Mary
-
-Coupon pull throughs
-Panic attacks
 
 ---
 
@@ -28146,18 +24873,6 @@ Some more stretches and hip mobility moves
 ### Mary
 
 LBTs little baby twists and Wonderboys
-
----
-
-## Ruck & Mumble
-
-### Thang
-
-Ruck down Zombe rd, Did around 3 miles in total
-
-### Mary
-
-Freddy Mercurys
 
 ---
 
@@ -28500,22 +25215,6 @@ Some Beast progression, 10 motivators, some more worlds second greatest stretch 
 
 ---
 
-## Ruck Ruck Around
-
-### Warmup
-
-toe touches, stretch the quads
-
-### Thang
-
-rucking 2.7sh miles
-
-### Mary
-
-toe touches
-
----
-
 ## Simple but Effective
 
 ### Warmup
@@ -28816,24 +25515,6 @@ A Smashing victory.
 Half the PAX vested up.
 Everyone was gassed out.
 Every one of you were the version of Superman you need to be this morning.
-
----
-
-## Ruckin' Good Time
-
-### Warmup
-
-- Toe Touches
-- Abe Vegotas
-
-### Thang
-
-3.0 mi ruck
-
-### Mary
-
-- Downward Dog
-- Cobra Stretch
 
 ---
 
@@ -29219,47 +25900,6 @@ Plank till end of minute
 
 ---
 
-## Hound dog
-
-### Warmup
-
-5-1 motivators
-Learning to Phelps
-Abe vigodas
-Willy Mayes Hayes
-Bat Wings complex
-
-### Thang
-
-Trigger Station: PAX 5’s Sexy 6's Q can't count(same concept as 11s)
-5 Blockees
-Rifle carry
-1 Thruster
-Then reverse it gradually to 1 Blockee and 5 Thrusters
-
-Station 1: Bagees
-Station 2: Bear crawl between cones and 5 get ups at the cones
-Station 3: 5 Carolina Drydocks
-20 SSHs
-Station 4: Killer Queens
-Station 5: Ruck OH press
-Station 6: 5 Jillian Michaels
-20 Plank Jacks
-Station 7: 10 Bent over rows
-10 BBSUs
-
-Q got everyone who had not done the trigger yet to do it.
-
-Afterwards a sprint was completed down and back (75 large paces measured out between the cones).
-
-Men circled up and held an Al Gore while a sandbag was passed around and each man completed 10 squats with the bag. Half-way through Monkey humpers were done.
-
-### Mary
-
-30 Monkey humpers
-
----
-
 ## Twelves and some other stuff
 
 ### Warmup
@@ -29383,18 +26023,6 @@ Mountain Climbers
 Round 5
 Thrusters
 Monkey Humpers
-
----
-
-## Sunday Fellowship Ruck
-
-### Warmup
-
-Stretch & LBAC
-
-### Thang
-
-Long ruck down Zombie Trail
 
 ---
 
@@ -30153,22 +26781,6 @@ toe touch, flutter kicks and Freddie mercuries
 
 ---
 
-## Happy Ruck of July
-
-### Warmup
-
-LBAC, Piano Tappers, Old Man Stretch
-
-### Thang
-
-Rucked down the trail and back for 2.5 to 3 miles.
-
-### Mary
-
-None
-
----
-
 ## Come on out for some fun at the Jar!
 
 ### Warmup
@@ -30474,38 +27086,6 @@ REPEAT (5 min each)
 Jackknife crunches - 10 OYO
 Xs and Os (X - all limbs 6 inches off ground, O - Bring all limbs into a ball)
 Lemon squezzers - 10 OYO
-
----
-
-## Stable Ruck
-
-### Warmup
-
-Toe touch
-Hairy flamingos
-Monkey Humpers
-Piano tappers
-Old man stretches
-
-### Thang
-
-2.1 mi ruck
-
-### Mary
-
-Stretches
-
----
-
-## Ruck and Roll
-
-### Thang
-
-Rucked .6 down zombie until we encountered a big ‘ol tree restricting our path. Reversed course and roamed the mean streets of crown point.
-
-### Mary
-
-Nah
 
 ---
 
@@ -31177,20 +27757,6 @@ Not Today
 
 ---
 
-## beat'n the heat
-
-### Warmup
-
-toe touches - IC
-overhead old mans - IC
-arm stretches - IC
-
-### Thang
-
-Ruck Zombie down a mile back up a mile
-
----
-
 ## Check out the big brain on brain
 
 ### Warmup
@@ -31323,8 +27889,6 @@ Teams of 2, one HIM travels while other AMRAPs Exercise, alternating between  an
 ### Thang
 
 - Ran to the Parkway South track to use bleachers stairs
-
-Parkway South - Tower of Terror
 
 - Up stairs & do workout at bottom of stairs
 - 50 squats
@@ -31632,28 +28196,6 @@ Mountain climbers
 Slow mountain climbers
 Low plank
 High plank
-
----
-
-## The Crucible Finish Line
-
-### Warmup
-
-Stretching OYO
-
-### Thang
-
-3.5-4 mile ruck depending on the pace. Stopped at the halfway mark to pay homage to the PAX that were on the home stretch in the crucible. Q led the following exercises:
-
-10 PAX silent assassin squats
-10 PAX weightless hammer curls
-10 PAX error squat pose while miming a wheel turn
-10 count PAX toe touch
-10 4ct PAX monkey humpers
-
-### Mary
-
-picked up the 6 after grabbing some water
 
 ---
 
@@ -32304,24 +28846,6 @@ Plank for 2:30
 
 ---
 
-## Backblast
-
-### Warmup
-
-5-1 motivators
-Grass grabbers
-Willy Mayes hays OYO
-
-### Thang
-
-~3ish mile ruck to bridge 13 and back
-
-### Mary
-
-None
-
----
-
 ## This is just a Tribute
 
 ### Warmup
@@ -32727,61 +29251,6 @@ In Beatdown
 
 ---
 
-## Crash Into the Gloom at Gravel Pit
-
-### Warmup
-
-20 SSH, 10 Little Baby Arm Circles each way, 10 GG, 10 WMH, 10 LTP, 10 Toy Soldiers, ~20 seconds of Al Gore
-
-### Thang
-
-Some of us rucked, some of ran, some of us did the following beatdown.
-
-Pyramid of pain set to Dave Matthews Band performances
-
-10 Burpees
-10 Monkey Humpers
-10 Mountain Climbers (hard way)
-10 Carolina Dry Docks
-
-20 Hammer Curls
-20 Skull Crushers
-20 Chest Press
-20 Thrusters
-
-30 Air Squats
-30 BBSU
-30 Merkins
-30 Rows
-
-Running Down a Dream:
-40 LBCs
-40 Calf Raises
-40 Freddy Mercurys (easy way)
-40 Shoulder Taps (easy way)
-
-30 Air Squats
-30 BBSU
-30 Merkins
-30 Rows
-
-Sweet Up and Down:
-20 Hammer Curls
-20 Skull Crushers
-20 Chest Press
-20 Thrusters
-
-10 Burpees
-10 Monkey Humpers
-10 Mountain Climbers (hard way)
-10 Carolina Dry Docks
-
-### Mary
-
-Ran out of time
-
----
-
 ## London Calling
 
 ### Warmup
@@ -32791,14 +29260,6 @@ Ran out of time
 ### Thang
 
 Variation of the dice game. Each PAX rolls. Number rolled + 10 equals amount of exercise coinciding with the total number on the dice. If you rolled doubles, number of reps also doubles. After all PAX took turn, went down to play a lovely game of English football. Every 3 minutes, PAX had to jailbreak to a cone, do 5 burpees and then jailbreak back into the game. Score was not kept but the number of wipeouts caused by the field was definitely the overall winner.
-
----
-
-## Orbit/SRB convergence
-
-### Thang
-
-3.3mi run, ruck option, hybrid
 
 ---
 
@@ -33130,20 +29591,6 @@ Repeated the sequence 7 times (no time for 8th). Goal was to maintain same reps 
 ### Mary
 
 Freddy Mercuries, Box Cutters
-
----
-
-## Ruck it up!
-
-### Warmup
-
-SSH
-Grass Grabbers
-Piano Tappers
-
-### Thang
-
-Ruck down to Manchester Plaza, returning either after out and back or a swing by Schroeder Park. 2-2.2 miles.
 
 ---
 
@@ -33511,18 +29958,6 @@ High Low Planks IC x 12
 
 ---
 
-## Ruck the Ridge
-
-### Warmup
-
-Willie Mays Hayes, Open the Gates, Learning to Phelps
-
-### Thang
-
-2.5-3.5 mile ruck down the trail and back. Bonus points to PAX pushing a 4 mph pace with a 50lb ruck
-
----
-
 ## Over the Hills and Far Away
 
 ### Warmup
@@ -33702,10 +30137,6 @@ Goblet Squats
 Rep count 5, 10, 15, 20, 15, 10, 5
 After each set, take a lap around the track. Pax did 4 laps with sandbag and 2 laps slick. No time for the last set.
 
-### Mary
-
-NA
-
 ---
 
 ## Tuesdays are for getting stronger
@@ -33858,18 +30289,6 @@ Repeat above in reverse order
 
 ---
 
-## Happy Hour Ruck
-
-### Thang
-
-Rucked 2.25 miles in 40 minutes around Wildwood Community Park while our M’s did a FiA Beatdown.
-
-### Mary
-
-loaded rucks in vehicles
-
----
-
 ## Backblast
 
 ### Warmup
@@ -33945,18 +30364,6 @@ Quasi-Dumpster Fire! PAX each took turns with a 30ish-yard travel while remainin
 
 ---
 
-## It’s rucking early.
-
-### Warmup
-
-Old man stretch/Calf raises
-
-### Thang
-
-We rucked to bridge 11 and back.
-
----
-
 ## KT82 Trail Relay Race - F3 Spirit Teams
 
 ### Warmup
@@ -33999,26 +30406,6 @@ DORA
 ### Mary
 
 Mortal Kombat planks for 1.5 minutes (Q’s shoulder couldn’t take full 5, can’t Q it don’t do it)
-
----
-
-## Not the KT82
-
-### Warmup
-
-Learning to Phelps
-Grass Grabbers
-Willie Mays Hayes
-
-### Thang
-
-Run through Queeny
-3.6 miles total
-3.1 miles trail run
-0.5 miles with periodic stops of lunges
-
-Ruck through Queeny
-2 mile ruck
 
 ---
 
@@ -34623,22 +31010,6 @@ Monkey humpers to Telephone Line by ELO
 
 ---
 
-## Tuesday Ruck
-
-### Warmup
-
-3-1 Motivators
-Grass grabbers
-Willie Mayes Hayes
-Downward Dog
-Reach for the sky
-
-### Thang
-
-Unintentional Extended time Ruck down Zombie. We didn’t have PAX to set the pace so PAX stepped in. Made it to bridge 13.
-
----
-
 ## inVEST in Yourself
 
 ### Warmup
@@ -34975,22 +31346,6 @@ PAX Bond
 
 ---
 
-## Mother Rucker
-
-### Warmup
-
-Side Straddle Hops x10, Abe Vagodas x 10, Grass Grabbers x10, world's greatest stretch, and downward dog oyo.
-
-### Thang
-
-PAX ruck on the upper loop, entering the hill for the loop PAX guardian run to the top. Ended with an 1/8 mile or so walking lunge
-
-### Mary
-
-One round waterfall of boats and canoes
-
----
-
 ## Suns Out, Guns Out
 
 ### Warmup
@@ -35032,18 +31387,6 @@ Partner Dora - 100 reps as a team. One man did exercises while the other ran to 
 ### Thang
 
 10 rounds. 2 minutes on, 1 minute rest All-Around fighting.
-
----
-
-## Seventh Day “Sunday” Ruck
-
-### Warmup
-
-Old Man Stretch, learning to Phelps
-
-### Thang
-
-Rucked out and back on Rock Hollow Trail traveling over 3.5 miles in 60 minutes.
 
 ---
 
@@ -35095,28 +31438,6 @@ Dying Cockroaches - 10 IC
 - PAX and PAX went in for a face off and PAX was crowned king of the ring.
 
 Played Wrestling Songs from various wrestlers.
-
----
-
-## Happy hour hero’s
-
-### Warmup
-
-Open the gates
-Grass grabbers
-Old man stretch left/right
-Arm circles
-Cross body arm stretches
-Worlds greatest stretch right and left sides
-
-### Thang
-
-Mosey around field
-Pax rucked back around thru Bluebird park
-
-### Mary
-
-short mosey back to the flags
 
 ---
 
@@ -35305,20 +31626,6 @@ Improvised ultimate frisbee. With uneven teams, played 2-on-2. One PAX floated b
 
 - Hollow hold (60 seconds)
 - Plank (60 seconds)
-
----
-
-## 6am Orbit Run/Ruck
-
-### Warmup
-
-- SSH, Abe Vigoda, Willie Mayes Hayes, Lunge + Arm Circle, Down Dog & Cobra
-
-### Thang
-
-Jogged to Bluebird Park amphitheater (~1 mi) and played poker, Orbit-style. Ran from stage to top of hill, selected one playing card, and jogged back down. Repeated 5 times until players had a full poker hand. Split into groups of 4 and bet burpees (up to 10) on their poker hand. Losers performed burpees in the pot. Then jogged back to Pathfinder. Approx. 3 miles total
-
-Ruckers took a separate route - feel free to add any further detail on that experience in the comments.
 
 ---
 
@@ -35598,18 +31905,6 @@ Side Straddle Hops
 
 ---
 
-## Run/Ruck  2000 hr
-
-### Warmup
-
-old man stretch, greatest stretch of all time
-
-### Thang
-
-3mile run/ ruck through bluebird park
-
----
-
 ## Rolling Dice. 7:00 pm
 
 ### Warmup
@@ -35639,24 +31934,6 @@ Exercises: coupon press, curls, squats, Merkins, incline merkins, decline merkin
 ### Mary
 
 Supermans, rotating Superman’s, and stretching
-
----
-
-## It's been 2 years...
-
-### Warmup
-
-- 5 to 1 Motivators
-- Grass Grabbers
-- Learning to Phelps
-
-### Thang
-
-Yoga:
-
-- Forward Bend, Chair Pose, Downard Facing Dog, PAX Pose, One Leg Downward Dog (LR), Camel Pose, Cobra Pose, Upward Facing Dog, Forearm Plank, Side Forearm Plank (LR), Bridge Pose, Warrior 1, 2 and 3 (LR),  Triangle Pose (LR), Cat/Cow, and Child's Pose
-
-Ruck:
 
 ---
 
@@ -35790,18 +32067,6 @@ Round 9---TKO
 - WW3 Sit ups
 - WW3 Sit ups
 - Run
-
----
-
-## Happy Hour Ruck at “The-Trap”
-
-### Warmup
-
-Old Man Stretch
-
-### Thang
-
-Rucked 2.5 miles around Wildwood Community Park while our Ms did their FiA Beatdown. Enjoyed meeting and rucking whose M (FiA OffSeason) recently joined FiA Wildwood.
 
 ---
 
@@ -35977,22 +32242,6 @@ Continue until each pax has completed each rotation 4 times.
 
 ---
 
-## Backblast
-
-### Warmup
-
-A walk around the parking lot
-
-### Thang
-
-3 Mile ruck on Zombie Trail
-
-### Mary
-
-None
-
----
-
 ## A Workout
 
 ### Warmup
@@ -36063,48 +32312,6 @@ CHAD 1000
 ### Mary
 
 skipped
-
----
-
-## DB Freedom Ops training
-
-### Thang
-
-Log Move (20 min)
-
-- Objective: Move as a team, carrying a 6 foot Log and all sandbags around the 1/3-mile loop, rotating every few minutes.
-- Time Hack: Complete loop in 12 minutes or less.
-- Penalty for Failure: 5 ruck thrusters, 5 ruck burpees
-- Post-Loop: 20 merkins + 20 flutter kicks (IC).
-
-Grinder AMRAP Stations (20 min)
-
-- Setup: Two stations, ~100 yards apart.
-- Penalties for failures: 5 ruck thrusters, 5 ruck burpees
-- Station A – Grinder AMRAP (with rucks):
-- 10 Ruck Squats
-- 10 Upright Rows
-- 10 Ruck Curls
-- 10 Merkins
-- 10 4-count Mountain Climbers
-- Repeat until team returns.
-- Station B – Sandbag Shuttle:
-- 2–3 PAX carry sandbags out & back (100 yards total)
-- Remaining rotate after 50 yards
-
-Logan Mile Ruck + Time Hack (15 min)
-
-- Objective: All PAX + sandbags complete 1-mile hill loop, rotating carries.
-- Time Hack: Finish under 16 minutes.
-- Penalty for Failure:5 ruck thrusters, 5 ruck burpees
-- Success Reward: 60-second rest
-
-runs to finish time
-PAX jailbrake 50 yards w/ ruck and back, Jailbrake 50 yards and back w/o rucksack
-
-### Mary
-
-Flutter kicks IC, BBSUs OYO
 
 ---
 
@@ -36183,14 +32390,6 @@ LBAC/OH claps
 1 Mile run
 (with or without a weighted vest)
 Pick up the six
-
----
-
-## Memorial Evening Ruck
-
-### Thang
-
-2.5 Mile Ruck
 
 ---
 
@@ -36277,14 +32476,6 @@ Freddy Mercuries, LBCs, Dead Bugs
 
 ---
 
-## Seventh Day Recovery Ruck
-
-### Thang
-
-Rucked down Rock Hollow Trail out and back for a total of 3 miles in about 60 minutes. Average pace of 20 minutes per mile.
-
----
-
 ## Saturday at The Awakening
 
 ### Warmup
@@ -36342,24 +32533,6 @@ We did the above for about 15 min, the rest of the time we played a 5v5 soccer g
 ### Mary
 
 extra soccer time
-
----
-
-## You’re Gonna Go Far, Kid
-
-### Warmup
-
-Side head touches
-Willie Mays Hayes
-Old man stretches
-
-### Thang
-
-4-8 mile run, or ruck/walk
-
-### Mary
-
-More stretching
 
 ---
 
@@ -36898,55 +33071,6 @@ Ended with a 100 yard bear crawl and jail break back to end zone.
 
 ---
 
-## Red Dawn @ Diamond Dawn
-
-### Warmup
-
-- Monkey Humpers
-- Prisoner Good Morning
-- Imperial Walkers
-- Gorilla Humpers
-- Prisoner Good Morning
-- Imperial Blockers
-
-### Thang
-
-- Mission #1: Thrusting Rifles:gun:
-
-Rifle Carry sandbags to each parking lot light. At the first light do two thrusters. Increasing total number of thrusters by 2 at each light. (2, 4, 6, 8, 10, 12, 14, 16) BONUS: Accountability Burpees.
-
-- Mission #2: Sandy Transport:small_airplane:
-
-PAX divided into two companies and loaded all their sandbags onto the region famous bucky bar(s). 2 to 3 HIMS carried the transport. Remaining members of the company did 20 merkins and jailbroke to the transport. Transport operators rotated until the school was circled and the sandbags were safely delivered to the battlefield.
-
-- Mission #3: Field of Fatigue:football-field:
-
-HIMS unloaded and carried sandbag of choice. Thereafter, each HIM did sandbag lunge walk suicides at intervals of 25 yards, 50 yards, 75 yards and 100 yards. 500 yards total by mission operations.
-
-### Mary
-
-- Mission #4: Victory Lap:v:
-
-HIMS rucked the track in victory formation.
-
-- Mission #5: World War 3:earth_americas:
-
-HIMS recovered with WW3 sit ups in cadence.
-
----
-
-## Ruck
-
-### Warmup
-
-Learning to Phelps
-
-### Thang
-
-Ruck down Zombie
-
----
-
 ## The Day before Wednesday at WorldWide Headquarters
 
 ### Warmup
@@ -37054,22 +33178,6 @@ See 4th lap.
 
 ---
 
-## Evening ruck around Bluebird Park
-
-### Warmup
-
-Stretch OYO
-
-### Thang
-
-Ruck around Bluebird Park.  2.5 miles
-
-### Mary
-
-None
-
----
-
 ## Full Circuit Tuesday
 
 ### Warmup
@@ -37165,42 +33273,6 @@ BOMBS Round 4
 20 Big Boy Situps
 25 Squats
 Mosey
-
----
-
-## Strongman
-
-### Warmup
-
-SSH 25 IC
-Abe Vigodas 10 IC
-Willie Mays Hayes 10 IC
-Learning to Phelps 10 IC
-
-### Thang
-
-Logan mile with sandbags, 80# and strongman bag. We stayed together at the pace of the man carrying the strong man bag. Rotated the strongman bag and the 80 lb whenever strong man was ready to switch.
-
-Travel all the way to the big tree in the main field.
-
-6 minutes
-P1 sandies
-P3 on far side doing overhead bag tosses
-P2 wearing a ruck sack with a sandbag roped to it, drag sandbag to far side around the tree, switch with P3
-Rinse and repeat till time
-
-6 minutes
-P1 bent over rows
-P3 merkin sandbag pull throughs
-P2 bear crawl, switch with P3
-Rinse and repeat till time
-
-Run a lap at the fastest pace you can hold
-
-8 minutes
-P1 burpees
-P3 squats with or without bag
-P2 crawl bear, switch with P3
 
 ---
 
@@ -37398,22 +33470,6 @@ ssh, arm circles, stretching
 ### Mary
 
 howling monkeys; shoulder tap waterfall
-
----
-
-## Rucking in the USA
-
-### Warmup
-
-Learning to Phelps
-
-### Thang
-
-Ruck down Zombie on a beautiful 59 degree morning.
-
-### Mary
-
-NA
 
 ---
 
@@ -37720,22 +33776,6 @@ BB Sit-ups
 ### Mary
 
 Old Man Stretch
-
----
-
-## Morning Ruck
-
-### Warmup
-
-Stretching & LBAC
-
-### Thang
-
-Ruck through the neighborhood
-
-### Mary
-
-Piano Tappers
 
 ---
 
@@ -38279,14 +34319,6 @@ Come find out what this is Thursday.
 
 ---
 
-## Monday Evening Ruck
-
-### Thang
-
-3.1 Mile Ruck
-
----
-
 ## Arkham 4/3 Track and Stack Re Revisited
 
 ### Warmup
@@ -38350,39 +34382,7 @@ Reach for the sky
 
 ---
 
-## Backblast
-
-### Warmup
-
-- 10 Willie Mays Hayes
-- 10 Baby Arm Circles
-- 1/2 Mile Mosey (one lap around the course)
-
-### Thang
-
-The PAX ran a loop (with each lap ~1/2 mile long).  It was set up to mirror a Fun Run, with hills, shuffles and ladders.  There was also a 'PAX' shortcut (if needed).
-
-The target plan was as follows;
-LAP 1:  Run at your own speed (with no weight)
-LAP 2:  Run with a weighted vest or rucksack
-LAP 4:  Run with a weighted vest or rucksack AND 8 ft 2x2 piece of lumber AND coupon
-
-If PAX were able to finish all 4 laps, the PAX was encouraged to run the course in reverse and shedding weight with each lap.
-
-The PAX was encouraged to modify each lap as needed.  The goal was to gradually add some weight with each lap.
-
-### Mary
-
-- Old Man Stretch (OYO)
-- Downward Dog (OYO)
-
----
-
 ## The Pivot
-
-### Warmup
-
-Yes.
 
 ### Thang
 
@@ -38429,18 +34429,6 @@ Curls
 
 Round 5
 Dips
-
----
-
-## Mother Rucker
-
-### Warmup
-
-Stretching and arm circles
-
-### Thang
-
-Ruck down Zombie trail and back. Approximately 2.6 miles at a comfortable pace.
 
 ---
 
@@ -38733,24 +34721,6 @@ Freddie Mercury
 
 ---
 
-## Murph Work
-
-### Warmup
-
-10 pull up buy in
-
-### Thang
-
-Mosey to LHS.
-Suicides.  Every 10 yards knock out 10 merkins and return to goal line for 20 squats.
-
-### Mary
-
-Ruck back to flag.
-10 pull up buy out.
-
----
-
 ## Sandbag Terror and Monkey Madness
 
 ### Warmup
@@ -38828,22 +34798,6 @@ Then mosey to a pull-up bar, do 3 pull-ups, and return to do 6 of each.  Continu
 
 ---
 
-## ruck it, let's go
-
-### Warmup
-
-Toe Touches IC, Quad stretch QC, OYO stretches as Rucking plan was laid out
-
-### Thang
-
-We rucked to Hannah Woods Middle school and back
-
-### Mary
-
-Good Mornings IC
-
----
-
 ## Let the Race Begin
 
 ### Warmup
@@ -38906,14 +34860,6 @@ Exercises included:
 
 ---
 
-## Wet Miles with Smiles (Evening Ruck)
-
-### Thang
-
-Rucked around Wildwood Community Park during the rain while our Ms did a FIA Beatdown.
-
----
-
 ## Conclave
 
 ### Warmup
@@ -38956,37 +34902,6 @@ PAX Fry led a series of exercises while the votes were tabulated.
 
 ---
 
-## Midweek Grind
-
-### Warmup
-
-5-1 Motivators
-Old Man Stretch
-Willie Mayes Hayes
-Grass Grabbers
-Alll in cadence
-
-### Thang
-
-Lap
-25 Curls
-10 merkins
-4 Rotations
-Lunge walk to opposite side of field and back
-
-25 Big Boys
-10 merkins
-4 rotations
-50 Side Straddle Hops
-
-25 coupon squats
-10 merkins
-4 rotations
-Rifle carry to opposite end and back
-Pick up Ruckers
-
----
-
 ## 50 is the New 30!
 
 ### Warmup
@@ -39003,20 +34918,6 @@ Pick up Ruckers
 
 - 25 - four ct Chest Press with Flutter Kicks
 - 25 - four ct Panic Attacks - Chest press with coupon on chest
-
----
-
-## Walk, Don't Run
-
-### Warmup
-
-- Abe Vigodas IC
-- Open the gates OYO
-- WMHs IC
-
-### Thang
-
-- Leisurely stroll down the Rock Hollow Trail
 
 ---
 
@@ -39069,14 +34970,6 @@ Station 3 - Core:
 ### Mary
 
 Completed various stretches until time.
-
----
-
-## Tuesday Evening Ruck at Bluebird Park
-
-### Thang
-
-3.5 Mile ruck around the park
 
 ---
 
@@ -39492,8 +35385,6 @@ Battle of Hoth
 
 - AT-AT Walk (Bear Crawl) - 30 yds x2
 - AT-ST Walk (Duck Walk) - 30 yds x2
-
-Sarlac Pit
 
 Imperial March
 
@@ -39912,23 +35803,6 @@ It being May 1st and Q having forgotten his maypole in crawl space, Pax skipped 
 
 ---
 
-## Backblast
-
-### Warmup
-
-Learning to Phelps
-
-### Thang
-
-Rotating farmer carry ruck to the  #AO and back. Toward the end we limited each carry to 43 paces as we paved the way for the rest of the PAX to travel along.
-
-### Mary
-
-4 count curls - 2 sets of 10.
-Imperial walkers until we were dizzy
-
----
-
 ## There will be Gloom
 
 ### Warmup
@@ -40212,14 +36086,6 @@ Shoulder stretch, tricep stretch, cobra, and child's pose
 
 ---
 
-## How about today?
-
-### Thang
-
-took a hike. 3 miles to bridge 13 and back.
-
----
-
 ## It’s gonna be May (almost)
 
 ### Warmup
@@ -40288,47 +36154,6 @@ Old Man Stretch
 
 ---
 
-## GTE Training # 4 Perseverance
-
-### Warmup
-
-Goofballs
-Willie Mayes Hayes
-Open the gates
-Learning to phelps
-
-### Thang
-
-1. Grab a sandbag. Run the Logan mile in reverse and meet back by the flags.
-2. Pax grabbed 5 coupons, 2 suitcases, 1 ruck, and 7 sandbags (some also had vests on) proceeded up the hill to the Logan sign with all the heavies.
-3. Mini PT test. At the Logan sign we did hand release merkins amrap in 2 minutes. Then BBUs amrap in 2 minutes. Note your total. Goal is 40 merkins and 50 bbsus.
-4. Carry all the heavies back to the flag.
-
-### Mary
-
-No time. We got back to the flag at 6:57am
-
----
-
-## Plan on a monsoon
-
-### Warmup
-
-Grass grabbers
-Arm circles
-Willie mays hays
-Stretch oyo
-
-### Thang
-
-Ruck around Mothra in what was supposed to be no rain in the forecast. Turned into raining many  and .  Made it 2.5 miles.
-
-### Mary
-
-nope
-
----
-
 ## Roux Relay - First go...Haha
 
 ### Warmup
@@ -40349,14 +36174,6 @@ nope
 - Little Baby Crunches
 - Flutter Kicks
 - Hold Plank for 1 Minute
-
----
-
-## Monday Evening Ruck
-
-### Thang
-
-2.2 Mile Ruck around the Trap
 
 ---
 
@@ -40495,24 +36312,6 @@ PAX Powerup Block 3 (2 sets):
 
 ---
 
-## 9 and 1
-
-### Warmup
-
-Various OYO stretches wile Q delivered mission statement, 5 core principles, credo and abbreviated disclaimer.
-
-### Thang
-
-Rucking with a twist. 10 minute EMOM timer, for the first 9 minutes we rucked in primary direction, and then for the remaining minute, we reversed course and backtracked.  Did this 4 times going out and 4 times going back.
-
-Total distance of ~5 miles in about 1:20. The rain showed up late, but we decided not to do burpees for the late arrival.
-
-### Mary
-
-None.
-
----
-
 ## Work Release
 
 ### Warmup
@@ -40573,61 +36372,6 @@ rotating stations
 ### Mary
 
 sprint
-
----
-
-## The Hills Have Thighs
-
-### Warmup
-
-Imperial walkers
-Monkey humpers
-SSHs
-Downward dog/WGS
-
-### Thang
-
-Ruckers incorporated hills on their own route.
-
----
-
-## Stroll Through the Woods
-
-### Warmup
-
-Hill Billy Walkers
-
-### Thang
-
-Moseyed along the wooded trail behind the apartments stopping at each bridge (7 or 8 ) to perform an exercise, a travel across the bridge, and then another exercise.  We also took turns wearing a ruck with a 25lb plate.  On the ruck pack was a bag containing the exercises.  The PAX drew from the bag at each bridge to determine which of the following exercises we would complete.
-
-10 Merkins
-Lunges
-10 Merkins
-
-10 Bobby Hurleys
-Bear Craw
-10 Bobby Hurleys
-
-10 Freddy Mercury’s
-Bunny Hop
-10 Freddy Mercury’s
-
-5 Burpees
-Karaoke
-5 Burpees
-
-10 big boys
-Craw Bear
-10 big Boys
-
-10 Mike Tyson Merkins
-Backward lunges
-10 Mike Tyson Merkins
-
-10 Learning to Phelps
-Side Straddle Hop
-10 Learning to Phelps
 
 ---
 
@@ -40949,21 +36693,6 @@ Repeat sets 1-2
 
 ---
 
-## Ruck
-
-### Warmup
-
-Grass Grabbers
-Piano Tappers
-Harry Flamingoes
-Arm circles
-
-### Thang
-
-Ruck to Big Bend and Back
-
----
-
 ## Mothra VQ
 
 ### Warmup
@@ -41195,18 +36924,6 @@ Group 2: Tabata—60 sec with no rest of each, repeat until everyone from the ot
 ### Mary
 
 Elizabeth Warren (Indian run but using lunge walk. Last in line will  to the front.)
-
----
-
-## Tuesday Zombie Trail Ruck
-
-### Warmup
-
-Abe Vigotas, Willie (Ernie) Mayes Hayes, Learning to Phelps.
-
-### Thang
-
-Rucked 3+ miles in 52 minutes down & back Rock Hollow Trail.  Awesome #AO, #AO and lots of #AO. Time well invested!
 
 ---
 
@@ -41564,38 +37281,6 @@ Leg lifts, hello dollies, LBCs, penguin tappers
 
 ---
 
-## Sunrise Service
-
-### Warmup
-
-Various old man stretches while we did Mission, 5 Core Principles, Credo, Disclaimer.
-
-### Thang
-
-3.62 mile ruck down Zombie Trail in ~56 minutes --- just in time to beat the rain!
-
-### Mary
-
-Nope
-
----
-
-## Easter Egg Hunt
-
-### Warmup
-
-Downward Dog
-Grass Grabber
-Learning to Phelps
-
-### Thang
-
-Run/Ruck Easter Egg Hunt
-
-Pax split into 4 groups and headed out on a run or ruck Easter egg hunt following different routes based on instructions directing them from one egg to the next.
-
----
-
 ## Prep For The Reaurrection
 
 ### Warmup
@@ -41948,22 +37633,6 @@ Freddie Mercury
 Plank Jacks
 Side Plank Hold (r)
 Side Plank Hold (l)
-
----
-
-## Rucking W/ Neymar
-
-### Warmup
-
-old man stretch , baby arm circles & side straddle hops
-
-### Thang
-
-Ruck
-
-### Mary
-
-NA
 
 ---
 
@@ -42657,22 +38326,6 @@ Guantanamo
 
 ---
 
-## Master Ruck
-
-### Warmup
-
-Old man stretch, Willy Mays
-
-### Thang
-
-Masters-ful ruck started with a par 3. PAX were able to hit the green in regulation and a little backspin led to pars. On the par 4 after some easy wall merkins more backspin led to more pars. Then went for longest drive, well over 1.5 miles and then back to the clubhouse.
-
-### Mary
-
-More stretching
-
----
-
 ## Ring around the rosey ⭕️
 
 ### Warmup
@@ -42943,22 +38596,6 @@ After the 6 was in, we spent 10 minutes doing various mobility movements and str
 - V-UPs at 20 counts
 - Flutter kicks IC
 - Heel taps IC
-
----
-
-## All Ruck No Suck
-
-### Warmup
-
-Old Man stretch, slow Grass Grabbers
-
-### Thang
-
-Rotating Ruck to the Roux, Quick paced ruck in a single file with the trailing HIM moving to the front. Did some hills there. Rucked back with a short stop for some LBAC.
-
-### Mary
-
-Stretching & Willy Mays led by HarryC
 
 ---
 
@@ -43924,10 +39561,6 @@ Cobra stretch
 
 ## Patience is a virtue
 
-### Warmup
-
-Yes
-
 ### Thang
 
 Slow movement/time under tension exercises. Started with 5 reps of 3 seconds down, hold 3 seconds, up 3 seconds. Following rounds increased to 4 seconds then 5 seconds.
@@ -44031,37 +39664,6 @@ Cone at bottom of hill, and another cone 75 yards up the hill. PAX jailbroke up 
 ### Mary
 
 Wellerman Sea Shanty (alternating high plank, low plank, merkin for duration of song).
-
----
-
-## 5 CORE Principles
-
-### Warmup
-
-in cadence
-SSH (Richard Simons style)
-Old man stretch
-Grass grabbers
-Glute stretch
-Little baby arm circles
-
-### Thang
-
-carry coupon around a we ruck through through the park stopping to do core exercises along the way with various counts and cadence
-
-Exercises:
-Incline big boy sit-ups
-Imperial walkers
-Suitcases on picnic benches
-Standing coupon twist pass to the right
-Plank
-Standing coupon pass to the left
-Box cutters
-Flutter kicks
-
-### Mary
-
-Mortal Kombat Planks for ~2.5 minutes
 
 ---
 
@@ -44448,19 +40050,6 @@ Merkin x 3 (last gasser is 18)
 BBS x 4 (last gasser is 24)
 Bobby Hurley x5 (last gasser is 30)
 SSH x 6 (last gasser is 36)
-
----
-
-## Backblast
-
-### Warmup
-
-Old man stretch, LBAC
-
-### Thang
-
-Beautiful morning with a light westerly breeze. Temps in the low 60's with warm and cool spots along the Haunted Trail. The ghost of Bucky's youth was in the air, but PAX, there was no actual Bucky to be found.
-7.24 mile ruck at a very respectable pace had us back in under 2 hours. and PAX practically running up the final hill.
 
 ---
 
@@ -45435,24 +41024,6 @@ Round 2 burpees
 
 ---
 
-## Backblast
-
-### Warmup
-
-Stretch OYO during intro
-
-### Thang
-
-- PAX either rucked or ran in two groups (one running around 2.5mi the other running just under 2) and met back at parking lot.
-- 1 minute sprint attempting to get as close to 400m as possible.  Everyone made it past the halfway mark.  Will set out cones next time in the range where PAX finished today.
-- #AO
-
-### Mary
-
-- stretching followed by merkin waterfall to 2
-
----
-
 ## Foreman's fury
 
 ### Warmup
@@ -45479,14 +41050,6 @@ Repeated 5 times.
 - Hamstring stretch – hurdler hamstring stretch
 - "The Foreman Grill" (Plank Hold) – 1 min
 - Mike Tyson BBSU – 20 OYO
-
----
-
-## Seventh Day Sunday Ruck
-
-### Thang
-
-Rucked on Rock Hollow down to Al Foster and back. 4.5 miles in 72 minutes. (16:17 min/mile pace).
 
 ---
 
@@ -45872,10 +41435,6 @@ Grass Grabbers
 
 10 - one minute rounds consisting of 10 hand-release merkins and complete round with BBSU’s
 
-### Mary
-
-Nah
-
 ---
 
 ## Hump Day
@@ -46036,22 +41595,6 @@ Rd 5
 - Flutter kicks
 - Hello dollies
 - Ric Flair
-
----
-
-## Recovering after the Ridge Trail
-
-### Warmup
-
-Opening the gates and some Learning to Phelps
-
-### Thang
-
-We hiked down to Bridge 13, about 1.5 miles out and another 1.5 up hill sometimes. The downed tree seen Sunday has been cleared.
-
-### Mary
-
-Body Twists and LBAC forward/Backward/small/Big
 
 ---
 
@@ -46376,54 +41919,6 @@ plank
 
 ---
 
-## Big Loop, Little Loop
-
-### Warmup
-
-Stretching OYO
-
-### Thang
-
-Big Loop, Little Loop.
-Pax split up whiling Running or Rucking
-
-### Mary
-
-Shoulder Taps, Knee taps, V-sits
-
----
-
-## Sunday Ruck Day
-
-### Warmup
-
-Learning to Phelps, other stretches
-
-### Thang
-
-Rucked out and back on Rock Hollow Trail. About 3 miles in 55 minutes.
-
----
-
-## Let's go t-Rucking at Zombie Ridge
-
-### Warmup
-
-20 SSH - IC
-10 Grass Grabbers
-10 Willie Mays Hays -IC
-Misc stretching - OYO
-
-### Thang
-
-Ruck down Zombie trail and then around after 20 minutes.
-
-### Mary
-
-None.   Not even a Rick Flair
-
----
-
 ## Circle of HIMs
 
 ### Warmup
@@ -46645,36 +42140,6 @@ PAX led Pax in US Army Individual Movement technique. PAX paired up, and one PAX
 
 ---
 
-## Just Another Thursday
-
-### Warmup
-
-Old man stretch
-Right over left
-Left over right
-Arm circles
-3-1 Motivators
-Piano Tappers
-Willie Mayes Hayes
-
-### Thang
-
-PAX rucked trail down to Garden Valley neighborhood
-
-Jail break up hill
-
-25 merkins OYO
-
-Ruck back to Flag
-
-### Mary
-
-Downward dog
-Stretch left and right calves
-Into cobra
-
----
-
 ## Get out and enjoy this weather
 
 ### Warmup
@@ -46868,19 +42333,6 @@ followed the instructions on the map (see first reply) for about 25 minutes
 ### Mary
 
 suitcase carry the coupons back to flags and two rounds of howling monkeys
-
----
-
-## Ruck and Roll
-
-### Warmup
-
-- Grass Grabbers
-- Hairy Flamingoes
-
-### Thang
-
-Up to 3.48 mi over 52:47 (min:sec)
 
 ---
 
@@ -47260,18 +42712,6 @@ Not today
 
 ---
 
-## Sunday Ruckday!
-
-### Warmup
-
-Ernie Mayes Hayes, learning to Phelps
-
-### Thang
-
-Rucked out and back on Rock Hollow trail covered 3.75 miles in 60 minutes.
-
----
-
 ## Sunday Family Funday
 
 ### Warmup
@@ -47581,19 +43021,6 @@ Downward Dog
 
 ---
 
-## Yeti bound
-
-### Warmup
-
-SSH
-
-### Thang
-
-2 mile Ruck
-Hanna Rd north to Meramec Station Rd back to the Outlet.
-
----
-
 ## Backblast
 
 ### Warmup
@@ -47869,22 +43296,6 @@ Same Partners - PAX1 no cheat merkins PAX 2 - Run from Flag up-hill and to the r
 
 ---
 
-## Get the Ruck outa here
-
-### Warmup
-
-PAX let the warmup with some 5-1 motivators, grass grabbers, old man stretches, and Willie mays hays
-
-### Thang
-
-Rucked in the rain for total of 50 minutes
-
-### Mary
-
-none
-
----
-
 ## Plan B
 
 ### Warmup
@@ -48026,35 +43437,6 @@ Elf on Shelf (L/R), Goblet Squats, Plank Jacks, Blockees, LBC’s, Merkins, Curl
 
 Spartan Hammers 25 IC
 Hello Dolly’s 20 IC
-
----
-
-## Our Anterior Midcingulate Cortex Grew Today
-
-### Warmup
-
-Old Man toe touches
-SSH
-Willie Mays Hayes
-PAX Little Arm Burns
-SSH
-
-### Thang
-
-Partner up
-
-P1 runs with sandbag to cross walk. Drop bag and do 15 merkins. Run without bag to sign at the fork. Return to bag and run with bag back to start.
-
-P2 does 15 bent over Rows then runs 2 laps without bag (or ruck with bag).
-
-Whichever partner gets back first does SSH till other partner return. Swap and do the same thing. Second round, do the same thing but stay with your partner.
-
-Everyone completed 2 1/3 miles, PAX and PAX were cruising and did another 1/3 mile.
-
-### Mary
-
-3-1 motivators
-1 minute plank
 
 ---
 
@@ -48293,25 +43675,6 @@ Penguin Tappers x 25
 
 ---
 
-## Making Strides
-
-### Warmup
-
-- Grass Grabbers IC x 10
-- Age Vigoda IC x 12
-- Learning to Phelps IC x 10
-- 5 to 1 Motivators
-
-### Thang
-
-PAX split into Ruck and Run groups. Runners started from the Flag and Ran towards the lighted cone. The long distances across the parking lot were runs, the uphill short section was a sprint or long stride, the short downhill section was a walk. Pax rotated Run, Walk, Sprint, Run until Q called time. Approximately distance was 2.25-2.75 miles
-
-### Mary
-
-Led the group in deep stretches.
-
----
-
 ## Dreams of California
 
 ### Warmup
@@ -48334,21 +43697,6 @@ Elf on Shelf (L/R), Goblet Squats, Plank Jacks, Blockees, LBC’s, Merkins, Curl
 
 Spartan Hammers 20 (or so, lost count) IC
 Hello Dolly’s 20 IC
-
----
-
-## Backblast
-
-### Warmup
-
-Old man hang 10s count
-Learning to Fly 10 IC
-
-### Thang
-
-Goal was to get to bridge 13 before turning around. All 15 PAX made it there and back in about 50 minutes. When the first group got back, they turned around to pick up the 6.
-
-We didn’t run into any snow, but we did see 7 snow monsters and even picked one up along the way.
 
 ---
 
@@ -48635,27 +43983,6 @@ Wall sit, Sisyphus isometric hold
 
 Cool down
 Slow Asphalt grabbers on account of Q sore hammie
-
----
-
-## why are we here?
-
-### Warmup
-
-5-1 motivators
-willie mayes-hayes
-5-1 motivators
-bat wings
-
-### Thang
-
-25 taint scrapers then
-ruck around track interspersing various and sundry exercises as we went, such as merkins, squats, jailbreaks, lunge walks.
-25 taint scrapers
-
-### Mary
-
-broga
 
 ---
 
@@ -48960,27 +44287,6 @@ rinse and repeat till time’s up
 
 flutter kicks
 mountain climbers
-
----
-
-## How many Trolls will we see?
-
-### Warmup
-
-PAX lead us in a group of stretches and 5-1 motivators
-
-### Thang
-
-Started at the top (obviously) then walked to 1st bridge then went back to the top.
-Walked to second bridge then back to top.
-Walked to third bridge then back to the top.
-Walked to fourth bridge then back to top.
-
-Work until 6:08
-
-### Mary
-
-None
 
 ---
 
@@ -49307,18 +44613,6 @@ Started with 5, added 5 per ladder "rung".
 
 ---
 
-## A Ruck in the Woods
-
-### Warmup
-
-Learning to Phelps, OldMan Stretch, Arm Circles
-
-### Thang
-
-Rucked down the icy trail for 3.3 miles roundtrip
-
----
-
 ## Fun Friday - shuffle board sprints
 
 ### Warmup
@@ -49409,27 +44703,6 @@ Reps are per team member
 1 man Sled dog a block 20yds back to Individual side while rest of team bear crawls back
 
 Repeat. Team with most blocks wins.
-
----
-
-## Frozen Hustle
-
-### Warmup
-
-SSH
-WMH
-Goof Balls
-Old Man Stretch
-
-### Thang
-
-Runners: Explore the beautiful parking lot of the middle school. After each lap, complete 10 pushups and 10 squats.
-Total Distance: 5K
-Ruck through surrounding area.
-
-### Mary
-
-Stretch
 
 ---
 
@@ -49922,22 +45195,6 @@ Little Baby Crunches (Q’s count)
 - Legs Extended
 - Legs Halfway
 - Feet Planted
-
----
-
-## A Prompt Backblast
-
-### Warmup
-
-- Light Stretching
-
-### Thang
-
-- ~3 mile Ruck
-
-### Mary
-
-- Skipped for time
 
 ---
 
@@ -50848,18 +46105,6 @@ COR & NOR
 
 ---
 
-## Ruck
-
-### Warmup
-
-stretching
-
-### Thang
-
-rucking
-
----
-
 ## Backblast
 
 ### Warmup
@@ -51241,21 +46486,6 @@ Finished with some different sprints
 key tappers- 25
 Big boy sit ups-25
 Close grip merkins- 15
-
----
-
-## Super Bowl Ruck!
-
-### Warmup
-
-Imperial Walkers
-Learning to Phelps
-Toe Touches
-Willie Mays Hays
-
-### Thang
-
-Rucked approximately 4 miles
 
 ---
 
@@ -51914,26 +47144,6 @@ Rinse, repeat till PAX complete their round
 
 ---
 
-## The weather didn't hold
-
-### Warmup
-
-LEARNING TO PHELPS
-WILLIE MAYS HAYS
-BENT OVER STRETCH
-RIGHT OVER LEFT
-LEFT OVER RIGHT
-
-### Thang
-
-RUCK
-
-### Mary
-
-RUCK
-
----
-
 ## Let’s Move
 
 ### Warmup
@@ -52362,18 +47572,6 @@ PAX Selected.  Did BBSU - 40, Alphabet, Heels to Heaven
 
 ---
 
-## CGM
-
-### Warmup
-
-OYO
-
-### Thang
-
-3 mile, 4 mile or out and back ruck
-
----
-
 ## Come get your Phil - MABA Addition
 
 ### Warmup
@@ -52617,22 +47815,6 @@ Mosie
 - LBCs
 - High Plank
 - Big Boy Situps
-
----
-
-## Backblast
-
-### Warmup
-
-5 burpees
-
-### Thang
-
-Rucked cautiously through the mean streets of Manchester. Stopped several times along the route and did 5 burpees at each stop.
-
-### Mary
-
-10 burpees
 
 ---
 
@@ -53296,18 +48478,6 @@ Part of BD
 
 ---
 
-## Seventh Day   < Sunday >   Ruck
-
-### Warmup
-
-Ernie Mays Hayes, calf stretching.
-
-### Thang
-
-Rucked for 2.5 miles in about 40 minutes.
-
----
-
 ## Climb the Block Tower
 
 ### Warmup
@@ -53350,30 +48520,6 @@ Ladder style BD similar to Mondays Burp-Day Party Part 1, but 2 stations were re
 3. 5+10+15+20
 
 95 burpees total per round
-
----
-
-## GP Ruck/Run Convergence
-
-### Warmup
-
-- Runners moseyed to tennis courts
-- Stretch OYO
-- Ruckers took to the road and then headed up the hill to upper parking lot. Traversed the frozen field and headed down to tennis courts. Looped back up and continued ruck to Weidman Road. Turned around and then back to upper parking lot. Yet another traversing of frozen field and finsih at flags.
-- No Mary
-
-### Thang
-
-The Run
-
-- 2 hill sprints with Missey back down to tennis courts
-- Began ascending the park heading on road towards entrance turning on road to upper lot and making a loop until time
-
-The Ruck
-
-### Mary
-
-- not today
 
 ---
 
@@ -53677,40 +48823,6 @@ An additional 1:30 of burpees!
 
 ---
 
-## Rucking for Strength
-
-### Warmup
-
-Grass Grabbers
-Harry Flamingoes
-Old Man Stretch
-
-### Thang
-
-2.5 mile ruck
-
-### Mary
-
-Skipped for time.
-
----
-
-## Another Cold BD
-
-### Warmup
-
-SSH
-Willy Mayes Hayes
-Toe touch
-Arm circles
-
-### Thang
-
-10 min burpee emom timer (115ish)
-30 min ruck
-
----
-
 ## Backblast
 
 ### Warmup
@@ -54008,25 +49120,6 @@ AMRAP for 25 minutes
 
 ---
 
-## Tuesday Ruck Day
-
-### Warmup
-
-15 side straddle hops to get the blood flowing
-Calve stretch
-
-### Thang
-
-With the trail frozen over PAX rucked around nearby neighborhood and back for a 2.48 mile Ruck.
-
-### Mary
-
-Stretch OYO
-Willie Mayes Hayes
-Calves stretch
-
----
-
 ## We're having a heat wave...
 
 ### Warmup
@@ -54091,24 +49184,6 @@ Finished with sprints from merkin position and on backs
 25 piano tappers on own
 10 big boy sit-ups on own
 5 burpees on own
-
----
-
-## SLT Monthly Beatdown/Ruck - January
-
-### Warmup
-
-- 5 to 1 Motivators
-- Prisoner Good Mornings
-- Old Man Toe-Touches
-
-### Thang
-
-25Minute EMOM Burpees
-
-### Mary
-
-NO - rushed to get to 5:30 #AO beatdown
 
 ---
 
@@ -54396,18 +49471,6 @@ Finished with some different sprints
 
 ---
 
-## Sunday Neighborhood Ruck
-
-### Warmup
-
-SSH, Learning to Phelps.
-
-### Thang
-
-Due to bitter cold conditions and the icy snd snow covered state of Rock Hollow Trail, we  avoided the trail, stayed on the cleared roads and Rucked through the nearby neighborhood, traveling with Rucks about 2.45 miles in about 40 minutes at a brisk 16:40 pace.
-
----
-
 ## To Burpee or not to Burpee
 
 ### Warmup
@@ -54445,14 +49508,6 @@ Following the 15 minutes we broke up into groups of 4 and went to the Mountain. 
 Flutter Kicks (in cadence x20)
 LBC (15 OYO)
 Flutter Kicks (in cadence x10)
-
----
-
-## It’s a beautiful day in the neighborhood
-
-### Thang
-
-PAX completed either a 2mi ruck or 3.5mi run featuring 4 big hills.
 
 ---
 
@@ -54559,7 +49614,6 @@ Alternating women's rap songs and 90's rock. On female hip hop songs we burpee o
 20 dips
 20 crunches
 
-Burpee when she says "ooh nah nah"
 14 total
 
 Don't Stop the Music - Rihanna
@@ -55125,32 +50179,6 @@ thang ran through Mary
 
 ---
 
-## Time to take an adventure
-
-### Warmup
-
-Arm Circles
-Arm Stretched
-Leg stretches
-
-### Thang
-
-Make sure to log your 5 burpees
-
-Did not go down zombie because it believe would be too slick
-
-Had 2 sandbags to where we would switch between PAX every 90 seconds at start then upped to 2 min. 30 seconds
-
-Rucked for 48 min (24 min out, 24 min back)
-
-Provided route we will go and at every corner the 12 would come back for the 6.
-
-### Mary
-
-None
-
----
-
 ## Backblast
 
 ### Warmup
@@ -55420,14 +50448,6 @@ LBC & BB Sit Ups & Flutter Kicks
 
 ---
 
-## Monday Evening Ruck
-
-### Thang
-
-Rucked 2.43 miles in 47 minutes
-
----
-
 ## Rocky IV Training Scene
 
 ### Warmup
@@ -55535,14 +50555,6 @@ Bonus MARY: 10 more burpees!
 
 ---
 
-## Sunday - Ruck in the Snow
-
-### Thang
-
-Pax of 6 headed over to Rock Hollow trailhead and began. Rucked 1.5 miles out and back, (total of 3), in about 54 minutes. A pace of 18:01 in  some still deep, crunchy (3-5 inch), snow.
-
----
-
 ## Do You Wanna Build a Snowman?
 
 ### Warmup
@@ -55589,24 +50601,6 @@ Following the 15 minutes we broke up into groups of 4 and went to the Mountain. 
 Flutter Kicks (in cadence x20)
 LBC (15 OYO)
 Flutter Kicks (in cadence x10)
-
----
-
-## Snow Run/ruck
-
-### Warmup
-
-Goofballs
-5 burpees
-WMH
-Old Man
-5 burpees
-Downward Dog
-
-### Thang
-
-Run the pirate ship route: 15 burpees at each end of the ship.
-PAX was awarded the power to distribute 5 burpees at will.
 
 ---
 
@@ -55833,23 +50827,6 @@ ROUND #5 (80 Burpees total)
 ### Mary
 
 25 - 4 count Flutter Kicks with Chest Press
-
----
-
-## Never let them know your next move
-
-### Warmup
-
-5-1 motivators IC
-Grass Grabbers
-Arm circles hands up and hands down - 20 IC
-10 burpees
-
-### Thang
-
-Bench press circuit lifting heavy 4-6 reps , 15 alternating dumbbell curls, 20 big boy sit-ups, 10 burpees ( 3 rounds)
-
-Ruck back to the Q.
 
 ---
 
@@ -56214,14 +51191,6 @@ Old man stretch and OYO stretches
 
 ---
 
-## How about a nice Ruck in the Snow?
-
-### Thang
-
-Pax moseyed over to Rock Hollow trailhead and began.  Rucked 2.3 miles in about 45 minutes. A pace of 19:35 in the, (6-10” deep), snow.
-
----
-
 ## Backblast
 
 ### Warmup
@@ -56449,17 +51418,6 @@ Shovel Snow
 
 ---
 
-## FIA Overwatch Ruck
-
-### Thang
-
-Ruck around #AO while FIA did their thing.
-Only 2.1 miles due to shorter FIA workout - 37 min ruck.
-Crisp 25 degrees
-4mph breeze
-
----
-
 ## Sat rotation where it all started- Picklejar
 
 ### Warmup
@@ -56501,26 +51459,6 @@ Merkins (with a partner, one holding coupons)
 ### Mary
 
 25 burpees.
-
----
-
-## Find the Path
-
-### Warmup
-
-- Prisoner good morning
-- Downward dog
-- Elephant walk
-- Plank
-- Worlds greatest stretch
-
-### Thang
-
-PAX led a run through Bluebird. Some burpees and hills may have been included. Q led a ruck around #AO and through Bluebird park.
-
-### Mary
-
-Flutterkicks
 
 ---
 
@@ -56863,22 +51801,6 @@ if you didn't run twice in the relays you did 60 burpees during this BD for MABA
 
 ---
 
-## 43 Foot Ruck
-
-### Warmup
-
-Light stretches,  25 burpees
-
-### Thang
-
-Rucked just under 2 miles while PAX takes turns w/ Farmer Carry and Rifle Carry a coupon for 43 paces.
-
-### Mary
-
-25 burpees
-
----
-
 ## A pain is a pain
 
 ### Warmup
@@ -57137,22 +52059,6 @@ Squats and Manmaker Merkins
 Dying Cockroaches 10 IC
 Heels to heaven 20 IC
 Flutter Kicks 20 IC
-
----
-
-## The Eve of a New Day
-
-### Warmup
-
-Core Principles
-
-### Thang
-
-3.0 mile chase of PAX and PAX
-
-### Mary
-
-one today
 
 ---
 
@@ -57510,18 +52416,6 @@ Bear Trap to Station 6
 
 Station 6:
 Merkins
-
----
-
-## 7th Day <Sunday> Ruck Day
-
-### Warmup
-
-stretching until everyone showed up.
-
-### Thang
-
-Rucked over 6.25 miles in about 01:53:12, average pace of 16:32
 
 ---
 
@@ -57902,28 +52796,6 @@ LBCs
 
 ---
 
-## Christmas Continues
-
-### Warmup
-
-Grass Grabbers
-Willie Mays Hays
-Open the Gates
-Close the Gates
-Imperial Walkers
-
-### Thang
-
-2ish mile ruck through the neighborhood, with a stop halfway through at a field to pick up Q Christmas votives.  PAX lunge walked to a light, performed 15 merkins at the light before grabbing it, and lunge walked back.
-
-### Mary
-
-Mountain Climbers
-Slow Mountain Climbers
-Mountain Climbers
-
----
-
 ## A bro-split Christmas
 
 ### Warmup
@@ -58109,43 +52981,6 @@ Pivoted to the shelter because of rain and a skunk, who was loitering at the spo
 ### Mary
 
 More Stretching
-
----
-
-## Christmas Ruck
-
-### Warmup
-
-- stretch OYO
-
-### Thang
-
-- 2.3mi ruck w/ two stops
-- First stop: plank while Q read Isaiah 9:1-6 (“The people who walked in darkness have seen a great light...”)
-
-### Mary
-
-- on maternity leave
-
----
-
-## Let’s Rucking GO!
-
-### Warmup
-
-early volunteer work
-
-- :five:rounds-10 merkins, 10 dips, 10 squats & 10 SSHs
-- Yoga stretches
-- Little baby arm circles/reverse/seal claps lead by PAX
-
-### Thang
-
-Rucked down Zombie Trail and back ~ 2.52 miles
-
-### Mary
-
-Stretch on your own.
 
 ---
 
@@ -58428,26 +53263,6 @@ in the Thang
 
 ---
 
-## 7th Day<Sunday>Ruck Day
-
-### Thang
-
-Sunday Morning Ruck, 5.55 miles at 1:29 hr/min
-
----
-
-## Ruck - FIA overwatch
-
-### Thang
-
-Ruck while M did her FIA Thang. At #AO
-
-1Hour
-3.32 miles
-113 bpm avg heartrate
-
----
-
 ## 'Twas the Saturday before Christmas
 
 ### Warmup
@@ -58604,22 +53419,6 @@ Cobra
 
 - Freddie Mercuries IC (x20)
 - LBCs QC (x10)
-
----
-
-## Holiday Run/Ruck Koffeklach
-
-### Warmup
-
-a few SSH and some stretching
-
-### Thang
-
-run from Panera at 141 and Clayton down Clayton rd to Longview Farm Park and back.
-
-### Mary
-
-stretch
 
 ---
 
@@ -59216,18 +54015,6 @@ Travel between 5 stations = lunge walks with coupon. Travel in a  shape
 ### Mary
 
 Stretching & mobility: world's greatest stretch, pigeon, down dog & cobra, deep squat with upward arm reach
-
----
-
-## Rock Hollow Ruck
-
-### Warmup
-
-Abe Vigodas.
-
-### Thang
-
-Ruck out and back on Rock Hallow Trail for 3.6 miles in 60 minutes at 17 minute/mile pace. Good #AO and time ITG PAX & PAX.
 
 ---
 
@@ -59985,35 +54772,6 @@ Batwings
 
 ---
 
-## Lewis and Clark
-
-### Warmup
-
-- Toe touches
-- Right over left
-- Left over Right
-- Deep Squat
-- Right hand to the sky
-- Left hand to the sky
-- Worlds Great Stretch
-
-Let’s Go.
-
-### Thang
-
-Pax split. One group rucked east. One group followed Q west.
-YCH led an expedition into the unknown. To wit; a weighted trail mosey through the park in 90 second intervals (roughly). At that mark 10 squats (and plank) for the PAX to catch up. Two miles loop. One big a hill.
-Bonus-Dips & Derkins along the way.
-
-### Mary
-
-- Penguin Tappers
-- Walrus Tappers
-- Reverse LBC
-- Climb (pull) the rope
-
----
-
 ## Working Wednesday
 
 ### Warmup
@@ -60172,14 +54930,6 @@ Workout: coupon exercise then travel to next parking row where you do five burpe
 ### Mary
 
 Pass the Fist bump. Plank position, passed the fist bump around the circle.
-
----
-
-## Tuesday Morn Zombie Ruck
-
-### Thang
-
-We rucked 3.52 miles in 60 minutes.
 
 ---
 
@@ -60494,14 +55244,6 @@ Run 1 Lap
 
 ---
 
-## Monday Night Ruck at #ao_mousetrap
-
-### Thang
-
-3.08 mile ruck in 56:46 minutes and PAX
-
----
-
 ## Back at The Way
 
 ### Warmup
@@ -60530,20 +55272,6 @@ double time back to flags
 ### Mary
 
 6 count burpee waterfall (each PAX counted out 1 six count burpee)
-
----
-
-## Round and Round
-
-### Warmup
-
-- stretch OYO
-
-### Thang
-
-- Run or ruck PAX’s Rock Loop (.8m)
-- Repeat until told last lap
-- Laps around lot until 6 is in
 
 ---
 
@@ -60577,22 +55305,6 @@ Exercises:
 ### Mary
 
 30 Sec Plank immediately to 30 Sec Plank Jacks immediately to 30 Sec Mountain Climbers
-
----
-
-## Creve Couer Lake Run & Ruck
-
-### Warmup
-
-Willie Mays Hayes, Abe Vigodas and various other stretches.
-
-### Thang
-
-Most Ran a lap counter clockwise around Creve Couer Lake clocking about 3.65 miles at various paces from slow to fast. PAX & PAX Rucked a bit along the north shore clockwise around toward the west and back. Fun times for all!
-
-### Mary
-
-LBC, Big Boy Sit-ups, some other stuff.
 
 ---
 
@@ -60734,15 +55446,6 @@ rinse and repeat till Mary
 ### Mary
 
 40 4-count mountain climbers
-
----
-
-## Lunch ruck and BD
-
-### Thang
-
-25 minute Ruck along the Missouri River, covered 1.70 miles,
-Finished off the workout with 40 reps of squats and taint scrapers, using the 30 lb weighted Ruck
 
 ---
 
@@ -61366,14 +56069,6 @@ Travel from baseline: Coupon lunge walk to 100 yard line. Do (25) Merkins, (50) 
 
 ---
 
-## Ruck at #mousetrap
-
-### Thang
-
-30 minute ruck around #AO
-
----
-
 ## Post Stuffing, Pre Christmas Cookies Calorie Burn
 
 ### Warmup
@@ -61489,22 +56184,6 @@ Next we mosied back to Logan Park to the lights
 We hadb11s
 Started with 10 curls, travel was riffle carry with ing walk, 1 burpee, and then travel was riffle carry.
 We completed 5 rounds.
-
----
-
-## The Bridge and Tunnel Crowd
-
-### Warmup
-
-Piano Tappers
-Hairy Flamingos
-Various stretches
-Goofballs
-
-### Thang
-
-4.25 ish mile loop down the nice paths by 100, over some bridges, finishing with a Deion and then Jailbreak up the hill to the crosswalk.
-Ruckers rucked 2.8 miles down some of the same paths.
 
 ---
 
@@ -61765,14 +56444,6 @@ PAX completed 3 rounds, picked up the six
 hello dolly
 freddie mercury
 merkin waterfall
-
----
-
-## Tuesday Morning Ruck
-
-### Thang
-
-Tuesday morning ruck to the train tracks and back.
 
 ---
 
@@ -62068,22 +56739,6 @@ For second round, we substituted Wheel Barrels or Walruses for Crab Walk.
 ### Mary
 
 Adults - 25 Merkins
-
----
-
-## Longview Loop
-
-### Warmup
-
-SSH, Abe Vigoda, Lunge Hold, Willie Mays Hayes, Down Dog
-
-### Thang
-
-Runners followed a ~4.1 mile route via Longview Farm Park, north on Mason, Principia cross country trails, and back via Clayton. ~9:30 pace and no man left behind. Glad to have a group of ruckers out as well!
-
-### Mary
-
-light stretching
 
 ---
 
@@ -62397,23 +57052,6 @@ Round it out with some stretching
 
 ---
 
-## Ruck & QSource
-
-### Warmup
-
-Learning to Phelps 10 IC
-Abe Vigodas 10 IC
-
-### Thang
-
-Rucked through the neighborhood taking turns with the 50# sandbag. One small twist, paused for a few minutes for each guy to do two sandies (blockee with sandbag).
-
-### Mary
-
-none
-
----
-
 ## Game on
 
 ### Warmup
@@ -62687,14 +57325,6 @@ Football- Move to two 25 yard lines and to one end zone doing exercises on the w
 ### Mary
 
 Stretch on own
-
----
-
-## Tuesday Ruck on Zombie Road ?‍♂️
-
-### Thang
-
-Morning ruck down Zombie Trail,
 
 ---
 
@@ -63173,22 +57803,6 @@ check image. Tabata style workout. Started and ended with a light jog.
 
 ---
 
-## What the Ruck?
-
-### Warmup
-
-quick stretch OYO
-
-### Thang
-
-2.29 mile ruck from the flag down the trail to Garden Valley Ct and back to the school.
-
-### Mary
-
-None
-
----
-
 ## Fail Forward
 
 ### Thang
@@ -63220,18 +57834,6 @@ Run 3 laps with partner
 
 Dying Cockroaches 10 IC
 Little Baby Crunches (LBC) 10 IC
-
----
-
-## Ratigan's Slide
-
-### Warmup
-
-Stretching while disclaimers given
-
-### Thang
-
-2+ mi ruck at a cookin' pace
 
 ---
 
@@ -63466,18 +58068,6 @@ Various stretches, including squat + reach for sky, world's greatest stretch, pi
 
 ---
 
-## The Road Not Taken
-
-### Warmup
-
-Mosey around the parking lot and stretch OYO
-
-### Thang
-
-Ruck down Zombie Road.  Audible called and the road not taken skipped
-
----
-
 ## Happy Tuesday
 
 ### Warmup
@@ -63576,35 +58166,6 @@ PAX Abs
 - 20 leg raises
 - 30 toe touches
 - 90 second plank
-
----
-
-## Noon Ruck
-
-### Thang
-
-2+ mile noon ruck
-
----
-
-## Air Force PT Test
-
-### Warmup
-
-- Goofballs
-- Mountain climbers
-- Downward dog
-- Worlds greatest stretch
-- Arm & shoulder stretches
-
-### Thang
-
-- Rotated for 1 min of merkins and 1 min big boy sit ups. Q read  Air Force Instructions on proper form for each prior.
-- Tracked results in Google Doc here for comparison purposes. You can input your results into  to see how you scored based on age. Make sure to change your gender and age range. We’ll do this again so use it as a baseline to improve in key areas.
-
-### Mary
-
-no time for that nonsense today
 
 ---
 
@@ -64109,14 +58670,6 @@ Round #5
 
 ---
 
-## Noon Ruck
-
-### Thang
-
-35 min. For a Noon Ruck of 2.16 miles and 100 weighted ruck bench step ups
-
----
-
 ## Choices and Priorities
 
 ### Warmup
@@ -64254,8 +58807,6 @@ Continents, Exercises, and Travel Moves:
 
 o   Exercises: 25 Merkins, 12 Wide-Arm Merkins, 12 Diamond Merkins
 o   Departure: Bear Crawl
-
-2. South America
 
 o   Exercises: 25 Big Boy Sit-ups, 25 Flutter Kicks, 12 Leg Raises
 o   Departure : Lunge Walk
@@ -64911,22 +59462,6 @@ None
 
 ---
 
-## SLT Halloween Ruck
-
-### Warmup
-
-Stretching OYO
-
-### Thang
-
-Ruck down into the haunted Zombie Trail
-
-### Mary
-
-Fist bumps all around
-
----
-
 ## Tuesday arms, Thursday legs
 
 ### Warmup
@@ -64987,26 +59522,6 @@ Station 5: Full Body
 1. “Mummy Twist” Spine Stretch
 2. Vampire Reach – Old man stretch, slow to touch toes - repeat 3 times.
 4. Coffin Crunch Child’s Pose
-
----
-
-## Lunch Ruck
-
-### Thang
-
-46 minute/3.08 mile ruck at Riverwoods Park & Trail
-
----
-
-## ?? Halloween Ruck ??
-
-### Warmup
-
-Stretching oyo while disclaimers were given
-
-### Thang
-
-~2+ mile ruck around the neighborhood in the rain. TClaps to PAX for wearing a costume.
 
 ---
 
@@ -65137,41 +59652,6 @@ ran up hill to 100
 
 ---
 
-## Rucktober
-
-### Warmup
-
-in cadence
-
-- Abe Vigodas
-- Harry Flamingos
-- Hamstring stretch
-- Opening the Gates
-
-### Thang
-
-Ruck around the Roux with periodic exercise
-
-- Ruck
-- Bernie up big hill and mosey down x 2
-- Ruck
-- Lung walk for a few
-- Ruck
-- Step ups x 30
-- Ruck
-- Reverse lunge walk from basketball court edge to the parking lot opening
-- Ruck
-- Chair squats at small “zen” section
-- Ruck
-
-### Mary
-
-- big boy sit-ups x 30
-- LBC’s x 50
-- Flutter Kicks x 100
-
----
-
 ## Leg Day on Hump Day
 
 ### Warmup
@@ -65239,33 +59719,6 @@ Both partners perform 1 rep of the first exercise, then the partners travel at t
 ### Mary
 
 Waterfall of Boats and Canoes (& Hoes)
-
----
-
-## Official Launch of #ao_Zombie_ridge
-
-### Warmup
-
-- Leg Stretch
-- Grass Grabbers
-- Willie Mays Hayes
-- Pretzels
-
-### Thang
-
-Rucked about 1.85 miles behind and around Ridge Meadows School through neighboring areas to backyard of Q.  Circled up and did following exercises:
-Coupon (20 each)	Body weight (20)
-Curls	                     No Surrenders
-Bent over Rows	       Reverse Lunges
-Overhead Press	      Monkey Humpers
-LM Pulls - R
-LM Pulls - L	             Plank Jacks
-Goblet Squats	       Merkins
-Taint Scrapers	       Lunges
-
-### Mary
-
-Ruck 0.25 miles back to Ridge Meadows parking lot.
 
 ---
 
@@ -65936,18 +60389,6 @@ Each Team has to complete reps by Powers of 2 of following various exercises usi
 
 ---
 
-## Ruck & QSource
-
-### Warmup
-
-n/a - we got straight to rucking
-
-### Thang
-
-parkway south with a lap on the track and back
-
----
-
 ## Thursday Throwdown
 
 ### Warmup
@@ -66148,14 +60589,6 @@ PAX took turns selecting and leading exercises and travels on a 25 yd field
 ### Mary
 
 lead by PAX
-
----
-
-## Rucking Rock Hollow
-
-### Thang
-
-3.49 mile ruck
 
 ---
 
@@ -67187,22 +61620,6 @@ Completed the cycle - each set of exercises and MOT - twice.
 
 ---
 
-## Tuesday Ruck at Rock Hollow Trail
-
-### Warmup
-
-none
-
-### Thang
-
-3.60 mile ruck on the trail.
-
-### Mary
-
-none
-
----
-
 ## Guess Who’s Back!
 
 ### Warmup
@@ -67333,8 +61750,6 @@ Cherry Pickers and Lemon Squeezers 10 IC
 ### Thang
 
 Four PAX of F3
-
-1. Genesis: In The Beginning
 
 Bear Crawl travel -> 10 air squats -> jailbreak
 Lunge Walk travel -> 10 air squats -> jailbreak
@@ -67666,36 +62081,6 @@ The “almost” Impossible Mile Challenge. Modified to 0.8 mile challenge for t
 
 ---
 
-## Round the Roux
-
-### Warmup
-
-In cadence
-
-Abigotas
-Stretching
-SSH
-
-### Thang
-
-Ruck around the Roux (1 mile)
-Bernie Sanders up the big hill by track
-Curls
-Lawn mower pulls
-Rows
-Alternating side squats
-Goblet squats
-
-### Mary
-
-Rosalita’s
-Penguin tappers
-Lbc
-Ww2 sit-ups
-World greatest stretch
-
----
-
 ## Border wars - Korean Edition
 
 ### Warmup
@@ -67716,18 +62101,6 @@ You could challenge an opponent in Zone 3. Winner keeps/gets flag. Loser owes 10
 ### Mary
 
 American Hammers (in cadence), Alphabet Soup (at own pace)
-
----
-
-## Ruck, Run, Ride for The Covering House
-
-### Thang
-
-~1hr ruck, run or ride
-
-- 4m ruck
-- 6.4m run
-- 18m ride
 
 ---
 
@@ -67899,20 +62272,6 @@ Cone 3
 
 ---
 
-## It’s a beautiful day for a BD!
-
-### Warmup
-
-Willy Mays Hays
-Toe touches
-Piano tappers
-
-### Thang
-
-3 mile ruck around Principia Campus
-
----
-
 ## There will be running
 
 ### Warmup
@@ -67929,14 +62288,6 @@ OYO: Curls, Overhead Press, Tricep Press, BBS, Chest Press IC
 Repeat X6
 
 Total Run: 2 Miles
-
----
-
-## Ruck For The Covering House
-
-### Thang
-
-2.62m ruck
 
 ---
 
@@ -68051,14 +62402,6 @@ hand release merkins, ballerina squats, burpees, carolina dry docks, dips on gua
 
 ---
 
-## Ruck for The Covering House
-
-### Thang
-
-2.55m ruck
-
----
-
 ## WVW!
 
 ### Warmup
@@ -68146,22 +62489,6 @@ not today
 
 ---
 
-## Rockhollow Trail Ruck
-
-### Warmup
-
-none
-
-### Thang
-
-3.70 mile ruck on the trail and kept a 16:14 mile pace.
-
-### Mary
-
-none
-
----
-
 ## Babler 5k for The Covering House
 
 ### Warmup
@@ -68171,24 +62498,6 @@ Mostly Leg stretches and Poorly executed yoga poses.
 ### Thang
 
 3.3 mile Run to the gas station and back to Arkham
-
----
-
-## Ruck or Run for The Covering House
-
-### Warmup
-
-stretch OYO
-
-### Thang
-
-Run: lap around The Rock, down Dougherty Ferry to Big Bend and back, lap around The Rock for a total of 4 - 4.5 miles depending  on group.
-
-Ruck: rucked around The Rock 2.12m
-
-### Mary
-
-not today
 
 ---
 
@@ -68484,14 +62793,6 @@ Bring Sally Up
 
 ---
 
-## Covering House Kickoff Ruck
-
-### Thang
-
-3.44m ruck at Queeny Park in almost exactly an hour
-
----
-
 ## Iron Pax Week 4
 
 ### Warmup
@@ -68766,22 +63067,6 @@ MAUL’S BACKYARD BURPEE BEATDOWN – IPC 2024 – Week 4
 Led by TheBeav
 
 - American Hammers
-
----
-
-## SLT Leadership Ruck
-
-### Warmup
-
-PAX on their Own
-
-### Thang
-
-3 Mile-ish Ruck
-
-### Mary
-
-None
 
 ---
 
@@ -69087,24 +63372,6 @@ Suicides
 Plank In/Outs
 Around the Worlds
 Boat and Canoe Waterfall
-
----
-
-## Spirit-StL Ruck @ Rock Hollow Trail
-
-### Warmup
-
-Baby arm circles
-Pretzels
-Stretching/Bending/Toe Touches/Overhead
-
-### Thang
-
-Ruck out and back about 3.0 miles in 44 minutes about 16:40 min/mile pace. 30lb sandbag carried and shared amoung PAX during travel.
-
-### Mary
-
-Final 1/4 mile of Ruck uphill.
 
 ---
 
@@ -69496,26 +63763,6 @@ A lot of flutter kicks
 
 ---
 
-## Ruck at Launch of #ao_orbit!
-
-### Warmup
-
-- Abe Vigoda
-- Willie Mays Hayes
-- SSH
-- Lunges with big arm circles
-- High knee skips
-
-### Thang
-
-Simultaneously #AO PAX completed 3.5 mile (+/-) run.
-
-### Mary
-
-Not today
-
----
-
 ## IPAX Week 3 Denton Sandwich
 
 ### Warmup
@@ -69817,24 +64064,6 @@ None
 
 ---
 
-## Contentment in the Gloom
-
-### Warmup
-
-Willy Mays Hays
-Thai Fighters
-
-### Thang
-
-Pre-ruck back exercises:
-5 negative pull-ups
-15 lawnmower pulls (each side)
-25 bent over rows
-
-1.5ish mile ruck through the mean streets of Manchester
-
----
-
 ## Backblast
 
 ### Warmup
@@ -70044,18 +64273,6 @@ In lieu of additional core work, we wrapped with stretching:
 
 ---
 
-## Spirit Rock Hollow Ruck
-
-### Warmup
-
-Ruck-Squats, Willy Mays Hayes
-
-### Thang
-
-Ruck out and back for 3.5 miles total in 58 minutes, about 16:30 min/mile pace.
-
----
-
 ## IronPax week 3
 
 ### Warmup
@@ -70198,28 +64415,6 @@ Everyone grabbed a sand bag and we headed out up the hill to Logan. Stopped alon
 
 BBSU 40 OYO
 Flutter Kicks 15 IC
-
----
-
-## Start your day off the right way
-
-### Warmup
-
-Grass grabbers
-Willy Mays Haus
-Learning to Phelps
-
-Pre Thang 5 round EMOM 5 reps adding one each round with vests/ruck sacks
-
-Thrusters
-Curls
-Man made merkins
-
-### Thang
-
-2.4 mile ruck through Governor Bates Trail
-
-Ran long, so skipped Mary.
 
 ---
 
@@ -70779,23 +64974,6 @@ No Mary
 
 ---
 
-## Ruck and Q Source
-
-### Warmup
-
-- SSH
-- Grass Grabbers
-
-### Thang
-
-1.93 Mile Ruck
-
-### Mary
-
-Light Stretching
-
----
-
 ## Beach Bum
 
 ### Warmup
@@ -71089,47 +65267,6 @@ Worlds worst side straddle hops. Q was sleep deprived or something.
 ### Mary
 
 Skipped
-
----
-
-## Pay the Cost to be the Boss
-
-### Warmup
-
-7:1 motivators
-Learning to Phelps
-Willie Mayes Hayes
-Open the Gates
-
-### Thang
-
-3 Stations and travel
-
-Station 1
-Bernie all the way up the hill to the Logan sign. Perform 20 Burpees, mosey back to South Entrance.
-30 Thrusters
-30 Bonnie Blair’s
-30 flutter kicks (hard way).
-Mosey with coupon to station 2
-
-Station 2
-After travel perform the following:
-30 curls
-30 skull crushers
-30 goblet squats
-Grab a sandbag and run to volleyball courts at the far end/top of Logan campus.
-
-Station 3 (in front of volleyball courts)
-30 sandbag squats
-30 sandbag overhead press
-30 sandbag Merlin pull thrus
-Finish the Logan Mile with your sandbag/ruck
-
-### Mary
-
-30 American Hammers (in cadence)
-30 LBCs (in cadence)
-Sandbag plank hold
 
 ---
 
@@ -71776,22 +65913,6 @@ Hairy Flamingos during core principles, mission, etc.
 EMOM at the Gravel Pit stairs:
 4 bent-over rows at bottom, run up the stairs, 4 merkins at top, run down.
 PAX completed 37 rounds
-
----
-
-## Tuesday Spirit Ruck
-
-### Warmup
-
-Walk around Parking Lot
-
-### Thang
-
-RUCK out and back for total of 3.9 miles over 50 minutes.
-
-### Mary
-
-We each walked home in opposite directions.
 
 ---
 
@@ -72465,17 +66586,6 @@ Everyone please enter your times!!!!
 
 ---
 
-## Evening Ruck
-
-### Thang
-
-Ruck around Wildwood Community Park.
-Each wore pack or vest &gt; 20lbs.-40lbs.
-2.25 ~ 50 minutes.
-Great evening, it was sunny evening hike around the Park at a good pace.
-
----
-
 ## Hump day stroll.
 
 ### Warmup
@@ -72596,18 +66706,6 @@ PAX rotated through each station completing a different exercise during each rou
 ### Mary
 
 Pickles to the sky IC (and double time )
-
----
-
-## Tuesday Morning Spirit Ruck
-
-### Warmup
-
-Rucked to Trailhead
-
-### Thang
-
-Ruck 3.7 miles over 50 minutes
 
 ---
 
@@ -72736,10 +66834,6 @@ Buy in carry suitcases around parking lot
 30 thrusters
 30 skull crushers
 30 goblet squats
-
-### Mary
-
-NA
 
 ---
 
@@ -73260,16 +67354,6 @@ not today
 
 ---
 
-## Evening Ruck
-
-### Thang
-
-Ruck around Wildwood Community Park.
-Each wore pack or vest > 20lbs.
-3.48 miles ~ 60 minutes.
-
----
-
 ## Summer Concert Series Volume II moved indoors due to weather concerns...
 
 ### Warmup
@@ -73484,32 +67568,6 @@ Hanging Knee Up
 
 ---
 
-## Ruck It Out
-
-### Warmup
-
-- Abigotas
-- Willy Mayes Hayes
-- Hairy Flamingos
-- Hamstring Stretch
-
-### Thang
-
-- Step Ups
-- Stairs
-- Bernie up the big hill
-
-### Mary
-
-in cadence
-
-- Flutter Kicks
-- Hello Dollies
-- Swimmers
-- Hillbilly Walkers
-
----
-
 ## Ghost of IronPAX Past
 
 ### Warmup
@@ -73601,25 +67659,6 @@ Finish 3 rounds
 
 Flutter Kicks IC
 Planks into Broga
-
----
-
-## Backblast
-
-### Warmup
-
-Toe touches
-21 side straddle hope IC (because Harrison Burton won Daytona)
-
-### Thang
-
-Ran to B&amp;B Theater and back.
-
-Return to flag
-
-### Mary
-
-Walked back to the cars from the top of the neighborhood
 
 ---
 
@@ -73852,8 +67891,6 @@ Team 1 was victorious with the PAX walk off home run.
 
 ### Warmup
 
-Mah na mah na
-
 - Goofballs mixed with push ups
 
 Cupid Shuffle
@@ -74071,53 +68108,6 @@ none, included in thang
 
 ---
 
-## GrowRuck Training
-
-### Warmup
-
-Goofballs  20 IC
-Abe Vigodas 10 IC
-Piano Tappers 10 IC
-Old Man Hang stretches 3 types 10 IC each
-
-### Thang
-
-Group 1 went beast mode and tried to move it all in 1 trip. Great effort guys!
-
-Blockees 40
-Curls 60
-Thrusters 40
-Bent over Rows 40
-Overhead Press 40
-Merkins 80
-BBSU 80
-V Ups 60
-
-### Mary
-
-none
-
----
-
-## Ruck and Qsource
-
-### Warmup
-
-- Willy Mayes Hayes IC
-- Leg swings 10 each
-- Learning to Phelps IC
-- Downward dog into cobra on Q
-
-### Thang
-
-Pax walked to Parkway South HS and then around through Queensbridge onto Meramec station back to the outlet. Great QSOURCE talk about Persuasion.
-
-### Mary
-
-Plank until 6:15 (about a 3 minute plank)
-
----
-
 ## Backblast
 
 ### Warmup
@@ -74180,16 +68170,6 @@ We then mosey’d over to the pavilion where we performed 50 dips and 25 step-up
 ### Mary
 
 Crunches
-
----
-
-## Evening Ruck
-
-### Thang
-
-Ruck around Wildwood Community Park.
-Each wore pack or vest &gt; 20lbs.
-2.64 miles ~ 49 minutes.
 
 ---
 
@@ -74909,23 +68889,6 @@ Frisbee Goal Competition ish
 
 ---
 
-## Retake aka Fatsack Friday!
-
-### Warmup
-
-Deon Sanders up from the south entrance to the cross walk
-20 smart jacks
-grass grabbers
-goofballs
-Willie mayes hayes
-mosey back to south entrance
-
-### Thang
-
-Part 2: Carry Heavy S&^%
-
----
-
 ## Neymar’s 41 BD Bdays Bash
 
 ### Warmup
@@ -75031,22 +68994,6 @@ PAX and PAX led an exercise of their choice at the bottom of the hill next to ou
 
 ---
 
-## Ruck & QSource
-
-### Warmup
-
-- Imperial Walkers
-- Open the Gates
-- Piano Tappers
-- Downward Dog
-- Old Man Stretch
-
-### Thang
-
-Boy Band
-
----
-
 ## Get Your Pump On
 
 ### Warmup
@@ -75120,18 +69067,6 @@ Time under Tension-TUT (3 count for each movement)
 - Low plank lateral crawls to superman
 - Low plank bird dogs to superman
 - Bird dogs
-
----
-
-## Wildwood Ruck
-
-### Thang
-
-Ruck around Wildwood Community Park.
-Each wore pack or vest &gt;20lbs.
-2.49 miles ~ 45 minutes.
-
-Great evening,  slightly cooler temps, easy hike around the Park at a good pace.  Getting easier every week. Good #1st-f and #2nd-f while our M’s got in a good FiA workout.
 
 ---
 
@@ -75987,23 +69922,6 @@ Plank Waterfall
 
 ---
 
-## Ruck &amp; Q
-
-### Warmup
-
-- PAX stretched OYO
-- We moved dozens of what we now call “the Outlet coupon” which is more of a retaining wall landscaping brick that weighs circa 60 lbs or more. After walking the first set up the hill we elicited PAX’s truck which still proved challenging to complete. This was a request from the Journey to help with water retention issues but also double for a good workout.
-
-### Thang
-
-with the time remaining of ~20 mins we did two laps rucking around the parking lot passing the 40 lbs sandbag
-
-### Mary
-
-each PAX picked an ab exercise for the others to perform while he maxed reps on the pull up bar. Got through two rounds.
-
----
-
 ## There's a first time for everything.
 
 ### Warmup
@@ -76052,18 +69970,6 @@ Speed interlude: 2 rounds quick curbs step ups: 2 minutes and 1 minute
 ### Mary
 
 5 mins: bbsu, American hammers, etc.
-
----
-
-## Wednesday Evening Ruck
-
-### Thang
-
-2.77 miles ~ 50 minutes.
-Ruck around Wildwood Community Park.
-Each wore pack or vest &gt;20lbs.
-
-Great evening,  cooler temps, great hike around the Park, and great <#C037MGE3PC4|> as always!
 
 ---
 
@@ -76990,14 +70896,6 @@ Coupon lunge walk 100 yards
 
 ---
 
-## Ruck on Rock Hollow Trail
-
-### Thang
-
-Started at Ridge Meadow and rucked at a good pace for 25 minutes out. Traversed one down tree and then was stopped by a second that totally covered the trail. No chainsaw was rucked in so we turned around and did the other 25 minutes back at a strong pace.
-
----
-
 ## 3 years and counting
 
 ### Warmup
@@ -77632,18 +71530,6 @@ Return to flags
 
 ---
 
-## Wednesday Evening Ruck
-
-### Thang
-
-2.45 miles ~ 45 minutes.
-Ruck around Wildwood Community Park.
-Each wore pack or vest &gt;20lbs.
-
-The Man is a beast!
-
----
-
 ## Summer Concert Series
 
 ### Warmup
@@ -77808,16 +71694,6 @@ Just shy of 2 full rotations for the PAX
 "Ring of Fire" PAX in a tight circle holding squat passing the coupon x3.
 
 "Ring of Fire" PAX in a tight circle holding squat with coupon, overhead press x3, x5, x3.
-
----
-
-## Ruck on Rock Hollow Trail
-
-### Thang
-
-Started at Ridge Meadows School,
-Ruck out and back on Rock Hollow Trail
-3.83 miles total in approx. 64 minutes.
 
 ---
 
@@ -78576,26 +72452,6 @@ Fry like bacon
 
 ---
 
-## Tuesday
-
-### Warmup
-
-- 10 - Grass Grabbers
-- 10 - Wilie Mays Hayes
-- 15 - 4 Count Bat Wings
-- 15 - Pretzels
-- 15 - Cherry Pickers
-
-### Thang
-
-- PAX Rifle Carried their coupons from the flags to the far dock on the pond.
-
-### Mary
-
-- 15 - 4 Count Bat Wings
-
----
-
 ## Up in the morning with the rising sun....
 
 ### Warmup
@@ -78607,29 +72463,6 @@ Toe touches
 ### Thang
 
 Ran to Mousetrap and back
-
----
-
-## Rock Hollow Trail “Ridge” Ruck
-
-### Warmup
-
-Good mornings - 4 count 5x
-4 count squats - 5x
-Stretch Right elbow - 10 count
-Stretch Left elbow - 10 count
-
-### Thang
-
-Started at Ridge Meadows School,
-Ruck out and back on Rock Hollow Trail
-2.54 miles total in approx. 43 minutes.
-
-### Mary
-
-Willie Mays Hays - 4 count, 3x each leg
-
-- 7/20/24 CSAUP #ao_gravel_pit
 
 ---
 
@@ -78810,25 +72643,6 @@ Ran laps on the track with exercise at each 200m interval. First and last 200m o
 ### Mary
 
 Single Leg RDL - IC - 10 each leg
-
----
-
-## Ruck or Run or Both
-
-### Warmup
-
-stretch OYO
-
-### Thang
-
-Either ruck or run the Rocky BD loop (~.75, .8,  .9 m…depends who you ask)
-
-PAX was the undisputed champion today, completing the most laps, with seemingly more in reserve
-
-### Mary
-
-- flutter kicks
-- PAX crunch-o-Rama
 
 ---
 
@@ -79029,22 +72843,6 @@ Mountain Climbers IC x 10
 
 ---
 
-## grueling, relentless whupass
-
-### Warmup
-
-10 burpees / WGS
-
-### Thang
-
-team bag drag relay + squat intervals + bear crawl
-
-### Mary
-
-quadrophenia / WGS
-
----
-
 ## Backblast
 
 ### Warmup
@@ -79099,30 +72897,6 @@ Round 4: No Cheat Merkins - Run/Mosey - Burpees
 ### Mary
 
 No Mary - Time ran out.
-
----
-
-## Billy’s Ruck
-
-### Warmup
-
-7 burpees &amp; quick stretch OYO
-
-### Thang
-
-The Billy
-
-- Burpees (7)
-- Incline Merkins (10)
-- Lunges (20)
-- LBCs (23)
-- Yoga pose
-
-We did three rounds of the Billy. During this time PAX rotated onto the pull-up bar to help build our upper body strengths.
-
-### Mary
-
-skipped
 
 ---
 
@@ -79253,18 +73027,6 @@ Curls/Thrusters
 Merkins/Bonnie Blairs (Easy)
 
 No Mary due to time
-
----
-
-## Wednesday Evening Ruck
-
-### Warmup
-
-Stretching
-
-### Thang
-
-2.37 miles 44 minute Ruck around Wildwood Community Park.  Each wore pack >20lbs.
 
 ---
 
@@ -79600,42 +73362,6 @@ Flutter kicks
 Penguin tappers
 LBCs
 Rope climbers
-
----
-
-## Monday Let’s Go
-
-### Warmup
-
-- Abigotas
-- Little Baby Arm Circles
-- Piano tappers
-- Hairy Flamingos
-- Calf stretch
-
-### Thang
-
-trigger workout
-
-- Run from pavilion to corner and back (trigger)
-- Jump rope
-- Squats
-- Curls
-- OH Press
-- Bulgarian Split squats
-
-Coupon ruck behind gov building to other pavilion
-
-- 50 step ups
-
-Coupon ruck back to starting pavilion
-
-### Mary
-
-- Coupon Big Boy Sit-ups IC
-- Penguin tappers IC
-- Flutter Kicks to failure/time
-- LBC crunches
 
 ---
 
@@ -80024,43 +73750,6 @@ run in the rain
 
 ---
 
-## 1776 Was Not Just a Ruck In The Park
-
-### Warmup
-
-Old Man Hangs to warm us up
-Bald Eagle Wings 10 IC
-Soft Pretzels 10 IC
-1 burpee
-7 merkins
-7 squats
-6 bbs
-
-### Thang
-
-Carnival Rides
-PAX rotated between carnival rides on this ~sunny~ 4th of July. Rides consisted of:
-Nathan’s Hotdog Eating Contest (dumbbell curls)
-Strong Man Competition (pull up bar)
-Carousel (squat twists)
-Ferris Wheel (coupon raises)
-Bobbing for Apples (good mornings)
-Funnel Cakes (pretzels)
-Bumper Cars (suicides)
-
-Born in the USA - PAX Springsteen
-Surfin’ USA - Beach Boys
-R.O.C.K. in the USA - John Cougar Mellencamp
-Living in the USA - PAX Miller Band
-Back in the USA - Green Day
-
-### Mary
-
-Mosey in the rain
-Flutter Kicks and Boats and Canoes IC to introduce PAX to more F3 exicon
-
----
-
 ## Happy 4th of July!
 
 ### Warmup
@@ -80182,14 +73871,6 @@ People's choice moves: around the horn, each PAX leads one move
 one minute of corpse pose
 
 RECOVER-RECOVER
-
----
-
-## Evening Random Ruck
-
-### Thang
-
-1.88 miles 35 minute Ruck around Wildwood Community Park.  Each wore 30lb vest or  Pack.
 
 ---
 
@@ -80700,46 +74381,6 @@ At bottom of hill near the end, PAX Bernie Sandered with coupon about half way t
 
 LBCs
 Boats and canoes
-
----
-
-## Echoes in Eternity
-
-### Warmup
-
-- Goofballs 20 IC
-- Willie Mays Hays 10 slow
-- Abe Vigodas 10
-- Learning to Phelps 10 IC
-- Bat Wings 10 IC
-
-### Thang
-
-5 Stations each with a travel and a stationary exercise. Partners switch the exercise when the traveler returns. Rotate stations when the partner sandbag run finishes their lap around the track
-
-Station 1 (rotate when the sled in station 2 returns)
-Tire sledgehammer
-Baggies or Blockies
-
-Station 2
-Sled pull or sled push
-Burpees
-
-Station 3
-Strongman bag carry
-Battle rope
-
-Station 4
-Ruck Sack sandbag drags
-Burpees
-
-Station 5
-Sandbag partner lap
-
-### Mary
-
-LBCs IC
-Single Leg pulses IC
 
 ---
 
@@ -81322,22 +74963,6 @@ Travels were bear crawl one way, crab walk back
 
 ---
 
-## Ruck AND Run
-
-### Thang
-
-10 minutes of rucking with a pause in forward progress to walk backwards up Mt. Mandelbaum before going back down and continuing on our way
-
-Back where we started, we dropped the weight and began a one mile run, some were able to go closer to 1.5m
-
-Back at Mt. Mandelbaum with rucks:
-
-- Descended normally, ascended backwards
-- Descended, dropped weight (some kept theirs ) and ascended in a sprint, repeated this once
-- Final ascent was backwards with weight
-
----
-
 ## Backblast
 
 ### Warmup
@@ -81661,8 +75286,6 @@ When sled returns, person who pulled sled removed harness and helped the next gu
 
 Exercises performed each round were picked by the PAX in this manner:
 
-else:
-
 ### Mary
 
 - Welsh dragons to 6
@@ -81957,36 +75580,6 @@ No time today!
 
 ---
 
-## The Gun Show
-
-### Warmup
-
-Learning to Phelps
-Abe Vigodas
-
-Arm Circles Forward/Arm Circles Backwards/Pretzels/Seal Claps
-
-Mosey to Picnic Benches: 30 dips, 20 incline Merkins, Mosey back
-
-### Thang
-
-4 stations with 4 exercises in the station. Count off PAX by 4s. PAX go to their respective stations. 50 secs of exercise 10 seconds for transition. PAX rotate within the station till all PAX have performed each exercise within station, then all PAX rotate to a new station until they have all completed all the stations.
-Station 1: 25lb Dumbbell Curls, 12lb dumbbell side raises, Diamond Merkins, Squats
-Station 2: 20lb Dumbbell Hammer Curls, 10lb kettlebell front raises, Dips, Big Boy Sit Ups
-Station 3: 50lb Sandbag Curls, 30lb Ruck Weight Upright Row, CPRs, Lunges
-Station 4: Curls, Skull Crushers, Lawnmower Pulls, Penguins
-
-Mosey to Picnic Benches: 30 Dips, 15 decline Merkins, 20 Dips Mosey back
-
-20 curls (IC)
-
-### Mary
-
-15 World War III Sit Ups OYO
-Waterfall Plank Merkins
-
----
-
 ## with purpose
 
 ### Warmup
@@ -82097,22 +75690,6 @@ Same as above, but reach out as far as you can – 2x each arm
 Box Cutters - 15
 
 Recover-Recover
-
----
-
-## Just A Ruck
-
-### Warmup
-
-Quick intro disclaimer/CPR/principles/mission/credo
-
-### Thang
-
-2.12m ruck and passed a 40# bag around
-
-### Mary
-
-Not today
 
 ---
 
@@ -82510,14 +76087,6 @@ Hamstring stretch and upper torso stretch
 
 ---
 
-## Summer Ruck Site Recon 2
-
-### Thang
-
-~4 miles 68 minute round trip.
-
----
-
 ## You Know What Your Getting
 
 ### Warmup
@@ -82815,22 +76384,6 @@ Set up 5 cones about 10-15 yards apart (3 parking spaces).  1st cone is home bas
 
 ---
 
-## Ruck the Roux
-
-### Warmup
-
-MOUNTAIN MAN POOPERS IC
-GRASS GRABBERS IC
-CALF STRETCH
-LEARNING TO PHELPS IC
-LBAC IC
-
-### Thang
-
-Ruck around the park with periodic stops for exercises. See attached image for path and exercises along the way.
-
----
-
 ## Ultimate Adventures
 
 ### Warmup
@@ -83089,35 +76642,6 @@ Single straight leg pulses 15 each side.
 
 ---
 
-## A Black Diamond Beatdown
-
-### Warmup
-
-Imperial Walker
-Grass Grabbers
-Willie Mayes Hayes
-Quad stretch 20 count
-Open the gates
-Arm circles
-
-### Thang
-
-Pick your Poison PAX
-Pax was given a list of exercises ranging from 50-100 reps per exercise, roughly grouped by body area. When each pax completed an exercise, they had to complete a travel before moving on to the next exercise.
-Travels: PAX
--Suitcase carry to end of the parking lot and back
--Rifle carry to the end of the parking lot and back
--Sandbag drag about 40 yards in the field and back (note that this was harder before the cords sheared off the straps on the 30 lbs ruck sack).
--Run out and back 1/4ish mile on the track.
-See replies ’s Gauntlet of Pain. Highlights include: 100 skull crushers, 50 burpees, 100 curls, 50 Thrusters, and 50 split squats. The Pax made it through about half before Mary.
-
-### Mary
-
-Flutter Kicks
-Guantanamo’s
-
----
-
 ## Thursday Grind
 
 ### Warmup
@@ -83222,18 +76746,6 @@ Side crawl hither and thither
 Rest of PAX rotated with different versions of squats, push ups and ab moves. Switched up the moves as each PAX tackled the bar. Went around twice, second time Q requested two slow negatives on the bar.
 
 Plank-a-rama and recovery stretch
-
----
-
-## Heigh-Ho It's Off to Ruck We Go
-
-### Warmup
-
-- Stretch OYO
-
-### Thang
-
-- Q went right instead of left, waded through wet grass, dodged a few semis, wandered through neighborhoods, and finished with a 2+ mile ruck.
 
 ---
 
@@ -84313,40 +77825,6 @@ High Low Planks IC x 10
 
 ---
 
-## Help is here
-
-### Warmup
-
-Learning to phelps
-Willie mayes hayes
-Cross over arms and behind the head stretches
-5 to 1 motivators
-
-### Thang
-
-1 HIM carried 100lb ruck sack while the other 2 farmer carried 2 coupons each.  Traveled 25 feet and completed below exercises at each stop 1x:
-25 Merkins
-25 lawn mower rows
-25 merkins
-25 lawnmower rows
-20 pull throughs HW
-
-1 HIM carried 100lb ruck sack while the other 2 farmer carried 2 coupons each.  Traveled 25 feet and completed below exercises at each stop 1x:
-20 carolina dry docks
-30 bent over rows
-25 WWIII situps
-30 bent over rows
-25 BBSU’s
-15 lunges HW with your coupons/sack
-30 coupon curls
-10 coupon jumping jacks
-
-No time for Mary
-
-Jeff City BD for the state end of June
-
----
-
 ## Backblast
 
 ### Warmup
@@ -84370,33 +77848,6 @@ Rot Gut, Harry C, Shower House (weighted vest) 45:00 (1/2 mile)
 Gilligan (weighted vest) 48:30
 BigTex 50:50
 Roller Skates 54:25
-
----
-
-## The Murph!!!
-
-### Warmup
-
-- GoofBalls - IC
-- PianoTappers - IC
-- SSHs - IC
-- Monkey Humpers - IC
-- Mountain Man Poopers - IC
-
-PAX Rucked from Flags up to Starting Point .25 Miles
-
-### Thang
-
-The Murph!
-1 Mile Run To #ao_arkham
-100 Pullups
-200 Merkins
-300 Squats
-1 Mile Run back to THE #ao_mousetrap, Ruck/Walked back to Flags
-
-### Mary
-
-NAAAAH! We got in enough this morning.
 
 ---
 
@@ -84795,23 +78246,6 @@ Squat Hold
 Pickle Pounders
 
 Team 2 won the match 9-5.  Full PAX did 20 jump squats to certify the result.
-
----
-
-## Ruck and Q Source
-
-### Warmup
-
-- Grass Grabbers
-- Piano Tappers
-
-### Thang
-
-- 2.9 mile ruck
-
-### Mary
-
-- Skipped for Time
 
 ---
 
@@ -86151,24 +79585,6 @@ See thread
 
 ---
 
-## Ruck and Q Source
-
-### Warmup
-
-- Grass Grabbers
-- Piano Tappers
-- Batwings
-
-### Thang
-
-- 2.6 mile ruck
-
-### Mary
-
-- Shoulder Stretches
-
----
-
 ## The Middle
 
 ### Warmup
@@ -86898,18 +80314,6 @@ Station Work: Timer is Suitcase Carry around parking islands (round 2 switched t
 
 ---
 
-## Summer Ruck Site Recon
-
-### Thang
-
-30 Minute out and back down the Rock Hollow Trail Head.
-
-### Mary
-
-Light stretching
-
----
-
 ## It’s gonna be May
 
 ### Warmup
@@ -87093,43 +80497,6 @@ Planks with rocking forward and side to side on Q's call x2
 
 ---
 
-## in Honor of Jason Richards
-
-### Warmup
-
-SSH IC
-Learning to Phelps IC
-Willy Mays Hayes IC
-Abe Vigoda IC
-
-### Thang
-
-Each man had a turn with the pole or push exercise while the other guys did sandbag exercises. At the end of each round we ran a park lap with a burden.
-
-Sled pulls with new sled
-Sandbag Bent over rows
-Run a lap with strong man sandbag
-
-Sled pushes
-Baggies (blockees with sandbag)
-Run a lap with 50# suitcase weights
-
-Bag drags with ruck on
-Man maker merkins
-Run a lap with strong man bag
-
-Sled pulls
-Burpee bag toss overs
-Run a lap with suitcase weights
-
-### Mary
-
-Freddy Mercurys 20 IC
-LBCs 20 OYO, hold at top for 1 count
-Dying Cockroaches 15 IC
-
----
-
 ## A moment of silence as unfortunate news was shared today.  Prayers to and for many this evening!
 
 ### Warmup
@@ -87276,38 +80643,6 @@ PAX held plank or Al Gore while 2 PAX came to middle and performed pull-ups merk
 
 ---
 
-## Best of the Outlet Saturday Beatdown
-
-### Thang
-
-(1) 50 Merkins (Our cheif weapon!)
-(2) 25 Merkins, 50 LBC IC (Our 2 weapons!)
-(3) 15 Merkins, 25 LBC IC, Gallop with coconuts 1 lap (Our 3 weapons!)
-(4) 10 Merkins, 15 LBC IC, Killer Murder Bunnies to the light post and coupon carry back (Our 4 weapons)
-
-In form with the Knights Who Say Ni —  we then performed Standing Imperial Walkers for 25 reps of 4-count IC
-
-To commemorate the Kilimanjaro Expedition from S1E9 —  PAX performed Mountain Climbers 25 (hard way) OYO followed by Blockees 10 OYO
-
-We ended Thang 1 with murder bunnies in form with this clip from the Holy Grail on Killer Bunnies
-
-Punk Sprints
-
-### Mary
-
-300 Abs including 300 reps to help us get chiseled like the men off the movie 300. We often try these at #ao_outlet to push ourselves beyond a typical Mary.
-
-- 50 American hammers (25 four-count)
-- 25 side crunches on your right side OYO
-- 25 side crunches on your left side OYO
-- 50 situp reach-ups (25 four-count)
-- 50 hi/low scissors (25 four-count)
-- 25 leaning knee drives to the right OYO
-- 25 leaning knee drives to the left OYO
-- 50 wiper planks (25 four-count)
-
----
-
 ## Pain and Suffering
 
 ### Warmup
@@ -87406,29 +80741,6 @@ Rifle Carry back to point A
 
 ---
 
-## GTL    (AKA MURPH & GROWRUCK TRAINING)
-
-### Warmup
-
-Abe Vigodas IC (x10)
-Grass grabbers IC (x10)
-SSH Burpees IC (x20)
-
-### Thang
-
-1 mile run (2 laps of inner ring) - goal is 9 minutes. Grab something heavy and pick up the six. The planned route was as mapped below…some construction re-routed us to more like 0.6 mile laps so 1.2 miles total.
-
-AMRAP BBSUs 2:00
-AMRAP hand release merkins 2:00
-
-1 mile run (2 laps of inner ring) - goal is 9 minutes. Grab something heavy and pick up the six.
-
-### Mary
-
-None.
-
----
-
 ## Roll The Dice-  Vegas Baby!
 
 ### Warmup
@@ -87481,18 +80793,6 @@ Travel: Coupon Carry
 10 Blockies than a partner run with your coupon around the park and then 1 partner squat. Pick up your partner on your back and squat him.
 
 No Mary
-
----
-
-## Ruck
-
-### Thang
-
-Rucked
-
-### Mary
-
-Light stretches: Toe Touches, arm stretches, hollywoods
 
 ---
 
@@ -88318,27 +81618,6 @@ Low/hi planks to Bring Sally Up
 - 10 Coupon ground to overhead
 
 No Mary
-
----
-
-## Time For (Talking About) Work  (RUCK/QSOURCE)
-
-### Warmup
-
-10 x Willie Mays Hayes IC
-10 x Goofballs IC
-10 x Pretzels IC
-
-### Thang
-
-Neighborhood ruck of approx. 1.8 miles.
-
-- PAX can't help you with the calls about your car's extended warranty. That's another guy.
-
-### Mary
-
-10 x ABC Deadbugs IC JOIN THE SWARM
-10 x American Hammers IC
 
 ---
 
@@ -89255,22 +82534,6 @@ Little baby crunches
 Little baby side crunches, each side
 
 COR, NOR
-
----
-
-## Ruck and Q Source
-
-### Warmup
-
-Stretching OYO
-
-### Thang
-
-3.1 Mile Ruck down south as far as Big Bend
-
-### Mary
-
-No Mary Ran Late
 
 ---
 
@@ -90713,24 +83976,6 @@ Count A Rama = 12
 
 ---
 
-## The Bank Take1
-
-### Warmup
-
-25 6-count Burpees
-
-### Thang
-
-“The Bank GrowRuck Training”
-Part1: 5 x [3 MIN 6-12 Goblet Squat + 10 LH/RH Row]
-Part2: ‘Nickels and Dimes’ – 10 MIN EMOM 5 Pull-ups / 10 Push-ups
-
-### Mary
-
-Jog w Monkey Humpers.
-
----
-
 ## Defend the Wall
 
 ### Warmup
@@ -91108,20 +84353,6 @@ After the 8/3's Q gave a 10-ct - reminded PAX the intent of the Groiners is to b
 After the 4 / 7s, Q gave a 10-ct -  reminded PAX about good form for these last 3 rounds. SWITcHEd out The Groiners for Coupon Deadlifts. Again good form over speed.  Keep the Coupons close to your bodies and clean press in to the Thruster / OH Press.   And, we continued to the final Round of 1 / 10s.
 
 RECOVER RECOVER called - and noted time RIGHT AT 6:00a!  VERY NICE, PAX!!!
-
----
-
-## Ruck& Q Source
-
-### Warmup
-
-Goofballs IC
-GRASS Grabbers IC
-Opening the Gate IC
-
-### Thang
-
-Ruck around the neighborhood.
 
 ---
 
@@ -91988,22 +85219,6 @@ Stations:
 
 ---
 
-## Ruck and Q Source
-
-### Warmup
-
-Pickup Ruck
-
-### Thang
-
-3 mile Ruck, 15 minute mile pace
-
-### Mary
-
-Quad stretches
-
----
-
 ## Guaranteed CPA Beatdown
 
 ### Warmup
@@ -92527,26 +85742,6 @@ High Low Planks IC x 15
 
 ---
 
-## Earn the Ruck
-
-### Warmup
-
-5/10 Smurfivators
-
-### Thang
-
-Pt1: 3 lap fartlek (mosey, 50%, 100%) around the lot
-
-Pt2: ruck passing 40# sandbag, light jog for the last few minutes
-
-Total mileage today around 2.8m!
-
-### Mary
-
-None today
-
----
-
 ## Stroll Through the Woods...  or Tour of Chesterfield City Park
 
 ### Warmup
@@ -92920,27 +86115,6 @@ Pax moved to their six for a round of LBCs. In consecutive 30 second increments,
 - legs at 90 degrees
 - legs at 45 degrees
 - legs up and knees bent
-
----
-
-## A Different Kind of Challenge (RUCK/QSource)
-
-### Warmup
-
-10 x Willie Mays Hayes IC
-10 x Grass-Grabbers IC
-
-### Thang
-
-Rucking to #AO and back "The Rouxp?"
-
-PAX took turns carrying   for 2-minute intervals
-
-### Mary
-
-10 x ABC Deadbugs IC, hashtag join the swarm
-15 x Flutter Kicks IC
-1:00 "Pilates Hold" (on 6, one leg extended, other leg tucked under extended knee, 30 secs each leg)
 
 ---
 
@@ -93950,23 +87124,6 @@ For Fun- Jailbreak the hill, Mosey down
 
 ---
 
-## Go Ruck Fitness Test
-
-### Warmup
-
-- Grass Grabbers
-- Willie Mays Hayes
-- Side Straddle Hops
-- Little Baby Arm Circles
-
-### Thang
-
-2 Mile Run
-2 Minutes of Mirkins
-2 Minutes of Big Boy Sit-Ups
-
----
-
 ## Arkham Squares
 
 ### Warmup
@@ -94399,40 +87556,6 @@ PAX &amp; PAX also get bonus points for Mario Jumps.
 
 Peter Parkers to Single Leg Flutter Kicks (right leg)
 Parker Peters to Single Leg Flutter Kicks (left leg)
-
----
-
-## March Madness Begins!
-
-### Warmup
-
-- 10 - Grass Grabbers
-- 10 - Prisoner Good Mornings
-- 15 - Bat Wings
-- 15 - Pretzels
-- 20 - Cherry Pickers
-
-### Thang
-
-Pax each wore a 20 lb Weighted vest or Rucksack for the duration of the beatdown. Psycho PAX doubled down with a 40 lb ruck.
-Pax Farmer Carried Two Coupons each, 1/3rd of a mile up the hill leading to an open area of land, on a hill just above the pond
-Pax stopped half way and did curls incadence while we waited for the 6.
-
-- 5 - LawnMower Pulls The Hard Way
-- Drag two coupons up the hill on ropes
-- 3 Blockbusters Halfway up the Hill
-- 5 - Thrusters at the Top of the Hill
-- Drag both coupons down the hill on ropes
-- Bernie Sanders up the Hill
-- Mosey Down the Hill - Pick Up the Six
-- PAX rinsed and repeated this circuit 3 times
-
-PAX Farmer Carried Two Coupons 1/3rd of a mile back down the hill to the pavilion.
-
-### Mary
-
-- 25 - 4 Count Flutter Kicks with Coupon Chest Press in Cadence
-- 51 - 4 Count Panic Attacks in Cadence
 
 ---
 
@@ -95270,22 +88393,6 @@ Slow Mountain Climbers
 
 ---
 
-## The Rouck
-
-### Warmup
-
-push-ups and world greatest stretch
-
-### Thang
-
-Ruck to #ao_roux w a sandbag + squats
-
-### Mary
-
-4MIN Tabata flutter kick
-
----
-
 ## Backblast
 
 ### Warmup
@@ -95653,30 +88760,6 @@ Team 1 took a triumphant 4-2 victory, clearly benefitting who had more first-han
 Imperial Walkers
 Hillbilly Walkers
 Slow Hold Mountain Climbers
-
----
-
-## A Little Walk
-
-### Warmup
-
-- Slow 10sec toe touches x 3
-- Copperhead Squats in cadence
-- OYO Leg stretches
-
-### Thang
-
-Rucked around park with vest and coupon with exercises at various points
-
-- Abigotas
-- Step through lunges
-- Lawnmower Pulls
-- Arm hangs
-
-### Mary
-
-- Standing zombie walkers
-- Imperial Walkers
 
 ---
 
@@ -96382,47 +89465,6 @@ Pickle pounders IC
 
 ---
 
-## No one never said it’s going to be easy!
-
-### Warmup
-
-Goof Balls 20 IC
-Grass Grabbers 10 IC
-Willie Mays Hayes 10 IC
-LBACS 10 IC
-RLBACS 10 IC
-Grady Corns 10 IC
-Moroccan Night Clubs 50 IC
-
-### Thang
-
-Sand Bag Runs
-PAX paired up and took turns running up the road carrying sand bags and doing an exercise. While the one PAX was doing the sand run the other PAX was doing a stationary exercise.
-
-Sand Bag Rounds consisted of
-20 Sand Bag Toss Overs
-30 Rows
-30 Curls
-30 Skull Crushers
-10 Sand Bag Toss Overs
-
-Stationary Exercises switched between
-BBSU/Merkins
-Squats/Lunges
-
-PAX rucked around the campus.
-
-### Mary
-
-Flutter Kicks 4ct 10 IC
-Penguin Tappers 4ct 10 IC
-WW3 Sit Ups 10 IC
-Flutter Kicks 4ct 10 IC
-Penguin Tappers 4ct 10 IC
-WW3 Sit Ups 1 IC
-
----
-
 ## post-Superbowl atonement
 
 ### Warmup
@@ -96546,24 +89588,6 @@ _Coupon Mosey Back to Shovel Flag_
 - Prophet Isaiah Pacheco’s Eagle Wings
 - Chiefs are never underdogs (fire hydrants)
 - Chilling with Mahomies (grounding exercise). Pax was very zen afterward. Loved it
-
----
-
-## Backblast
-
-### Warmup
-
-Stretch OYO during intro
-
-### Thang
-
-3 lap guardian run on Rocky loop w/ last lap reversed direction.  Person in front carried 30# bag for first lap, 40# for second two. Then slower group did half lap w/ bag and faster group ran ~1 mile.
-
-### Mary
-
-Slower group did merkin waterfall to five and flutter kicks IC till faster group returned
-
-COR, NOR:
 
 ---
 
@@ -97282,42 +90306,6 @@ Triple Bears
 
 ---
 
-## Training Day
-
-### Warmup
-
-Pax moseyed to South entrance sign, put on running arm bands, and deon snaders to cross walk halfway up the hill.
-At crosswalk we picked up the six and did a couple warm up exercises:
-Learning to Phelps IC
-Willie Mayes Hayes IC (slow)
-Moseyed back to south entrance
-
-### Thang
-
-Fitness Test
-1 mile run for time Heading NORTH up the steeper hill. Pax could track there time and were told to shoot for 9-10 given the 500 ft elevation change.
-Hand release merkins AMRAP in two minutes, goal should be 50 plus. Track on chit sheet if desired
-BBSUs AMRAP in two minutes, goal should be 50 plus.  Track on chit sheet if desired.
-Q has the last three months of stats for the PAX. Will post this week.
-
-Sandbag Circuit
-6 stations AMRAP at each station for 3 minutes (Q adjusted to 2 minutes after having some timer issues).
-
-Pull Ups
-Blockees
-Sandbag Press
-Sandbag Rows
-Curls
-Sandbag pull sprints. 25 yards out and back (sandbag 40 lbs attached to ruck sack 30 lbs plate).
-Sandbag run (Pax ran a 0.3 mile lap around the track with the sandbag)
-All pax completed one turn at each station.
-
-### Mary
-
-Captain Thors (in hoor of our new NoCo region). Pax did 6 doubling the American Hammers at the top per each BBSU e.g. 2 Sit Ups=4 American hammers. 3 Sit Ups=6 American hammers
-
----
-
 ## BROGA
 
 ### Warmup
@@ -97785,33 +90773,6 @@ Mosey around park
 
 ---
 
-## Be a Great Teammate 30/30
-
-### Warmup
-
-10 minute pre-ruck before BD
-Willy Mayes Hayes
-Arm Circles
-Grass Grabbers
-Learning to Phelps
-
-### Thang
-
-With a shortened BD, we did 3 exercises followed by a mosey up the hill and an exercise at the top, repeated 3 times:
-Coupon Lunges
-Curls
-Chest Press
-Travel, Squats
-HR Merkins
-Hello Dolly
-Travel, SSH
-Shoulder Press
-BBS
-Around the World
-Travel, HR Merkins
-
----
-
 ## We Have Liftoff - Stable
 
 ### Warmup
@@ -97950,16 +90911,6 @@ Mosey back to parking lot & circle up. PAX completed 50x burp-o-rama IC on 6 sec
 ### Mary
 
 None. Or maybe the 50 count-o-rama burpees were the Mary?
-
----
-
-## SLOC Orienteering @ Poker-O - Round Two in reverse
-
-### Thang
-
-7 flags/checkpoints (CP’s) were hidden throughout West Tyson and each held a bag with random playing cards. With your eyes closed pick a card at random and proceed to all 7 CP’s. When finished; there are two possible winners; the shortest time on the route or the best hand of cards.
-We took the course in reverse to make it exciting and to ensure the PAX PAX made it in safely.  Everyone took a turn finding a heading, looking for the easiest way to get to the next CP.
-EVERYONE was looking forward to the PLC gathering at Wally’s.
 
 ---
 
@@ -99936,18 +92887,6 @@ Alternated Merkins with Big Boy Sit ups and Flutter Kicks
 
 ---
 
-## Backblast
-
-### Thang
-
-We rucked along 141 access road and took the first left then another left in the neighborhoods to get back to 141 but closer to the Big Bend exit. During the ruck each person got 2 mins with the sandbag. After each round of passing the sandbag we stopped for 10 burpees or 20 squats for those with actual ruck sack backpacks. In total we made it through 4 rounds for a total of 40 burpees.
-
-### Mary
-
-Skipped
-
----
-
 ## Return of the Coupons
 
 ### Warmup
@@ -101231,10 +94170,6 @@ Station 6=Sandbag run around parking lot
 Went to small hill and did merkins (1) at bottom of hill, bear crawled to top and did burpees (11). Pax got through about 5 rounds before running out of time.
 Burpee total=approx. 75
 
-### Mary
-
-NA
-
 ---
 
 ## New Year burpee bash
@@ -101374,22 +94309,6 @@ Freddy Mercurys IC x 10
 Plank Jacks IC x 10
 Flutter Kicks IC x 10
 High Low Planks IC x 10
-
----
-
-## New Year’s Rick
-
-### Warmup
-
-12 Burpees
-
-### Thang
-
-we rucked.
-
-### Mary
-
-12 Burpees
 
 ---
 
@@ -102084,31 +95003,6 @@ Minute 1: 25 Step-Ups
 Minute 2: 25 Merkins
 Minute 3: 25 Jump Squats
 Minute 4: 25 Big Boy Sit-ups
-
----
-
-## The Obstacle IS the Way
-
-### Warmup
-
-Goofballs 20 IC
-Abe Vigodas 10 IC
-Learning to Phelps 11 IC
-SSH 20 IC
-Mosey with coupon to big hill
-
-### Thang
-
-the Pièce de résistance
-Pair up, Stations 5 minutes each station. Heavy implements at each station. P1 assaults the hill with the implement while P2 does the coupon exercise. We improvised and added a couple stations as we had fantastic turnout
-
-Log Rolls / Curls
-Ruck sack Sandbag drags / Bent Over Rows
-Tire Flips / 10 Lawnmower &amp; 10 Merkins
-Pallet Pulls / OH Press
-Strongman Burden Carry / Skull Crushers
-Sandbag drags / cheat press
-Bear crawl up, crawl bear down / pax choice coupon work
 
 ---
 
@@ -102834,26 +95728,7 @@ PAX stayed in a circle. Everyone does the same constant movement while one membe
 - 25 4-count LBCs IC
 - 30 sec low plank
 
-- Ride of the Valkyries, Richard Wagner
 - Beethoven's 5th Symphony, movement 1 Allegro Con Brio
-
----
-
-## Ruck or Stableman
-
-### Warmup
-
-Stretch OYO and 5 burpees for the ruckers
-
-### Thang
-
-2.1m ruck with the last .25 being lunges…40# sandbag was also passed around for 10 of us
-
-PAX and PAX completed the stableman, awesome work!
-
-### Mary
-
-Not today
 
 ---
 
@@ -103569,21 +96444,6 @@ See Diagram
 ### Mary
 
 - Paired Up - Perfect Push-Ups with "fives" with your partner, instead of shoulder taps - 25 per partner set
-
----
-
-## Let’s Go Camping
-
-### Warmup
-
-5 to 1 Smurfivators (IC)
-Grass Grabbers (IC)
-Learning to Phelps (IC)
-Pretzels (IC)
-
-### Thang
-
-No Time for Mary
 
 ---
 
@@ -105252,27 +98112,6 @@ PAX circle up and hold high plank. Take turns going around the circle and each H
 
 ---
 
-## Serving The Man on Your Left &amp; Right
-
-### Warmup
-
-SSH 20 IC
-Abe Vigodas 10 IC
-Willy Mays Hayes 10 IC slow
-Goofballs 20 IC
-
-### Thang
-
-Station 1 - 120# Sandbag partner runs to the bridge and back. Bag may not touch the ground till done. PAX especially loved PAX suggestion to individually carry the heavy bag.
-
-Station 2 - Monster Tire flips / 10 lawnmowers each, 10 merkins. Switch on return of tire flipper.
-
-Station 3 - Ruck sandbag drags / Sandbag bent rows. Switch on return of dragger.
-
-Station 4 - Sandbag throws (3 ways - press throw, side throw, overhead backwards) / Baggies (blockees with sandbag). Switch on return of thrower.
-
----
-
 ## Burn the Bird
 
 ### Warmup
@@ -105589,26 +98428,6 @@ Windshield wipers IC
 
 ---
 
-## Mid-Month(ish) Ruck(ish)
-
-### Warmup
-
-Stretch OYO
-Smurf Jacks
-
-### Thang
-
-Ruck Colorado style to far corner of upper lot, 10 burpees OYO, then back down around the Rocky Run for a loop and a half(ish)
-
-### Mary
-
-Smurf Jacks
-Boats and Canoes
-
-COR, NOR:
-
----
-
 ## Journey WC Men’s Retreat
 
 ### Warmup
@@ -105779,31 +98598,6 @@ Each round a different song with different exercises
 
 - Flower 'Merkins
 - Up position when Sally's up, down position when Sally's down
-
----
-
-## We Lift Heavy Sh$t!
-
-### Warmup
-
-Bat Wings 11 IC
-Copperhead Squats 10 IC
-Abe Vigodas 10 IC
-Willy Mays Hayes 10 IC
-
-### Thang
-
-Station 1 - Heavy Sandbag partner lap, 10 sandbag squats each. Bag may not touch the ground till done. (trigger to rotate stations)
-
-Station 2 - Log carries - because we had some no shows, we skipped this station. Switch on return of log carry.
-
-Station 3 - Monster Tire flips / 10 lawnmowers each, 10 merkins. Switch on return of tire flipper.
-
-Station 5 - Sandbag throws (3 ways - press throw, side throw, overhead backwards) / Baggies (blockees with sandbag). Switch on return of thrower.
-
-### Mary
-
-None
 
 ---
 
@@ -106608,54 +99402,6 @@ Blood on the risers (star jumps and no surrenders )
 
 ---
 
-## Chad x challenge  (modified)
-
-### Warmup
-
-Downward Dog
-Hairy Flamingos
-Grass Grabbers
-Learning to Phelps
-
-### Thang
-
-Chad1000x (modified)
-
-Chad1000X Hero Workout
-1,000 box step-ups completed as a team, partner, or individual for time.
-
-3 OPTIONS:
-
-1. Slick/Beginner // No rucksack. You pick the height of the step-ups.
-2. Standard/Intermediate // 30#/20# rucksack. You pick the height of the step-ups.
-3. Expert // 45# rucksack. Use 20" box for step-ups.
-
-“Even while serving as a SEAL, Chad took time to scale up to the Expert version. There is zero shame in starting Slick, or with Standard weight, or in sharing the steps with a friend.”
-
-We modified as needed for level and time constraints.
-PAX completed AMRAP of step ups on picnic bench seats (19” high) in 30 minutes. Weighted Vest were optional.
-
-At 30 mins Pax were told to finish to the next 100. When yo finish find someone and pick up their six till all close out at a round hundred.
-
-Results:
-PAX 600
-PAX 400
-PAX 700
-PAX 700
-PAX 800
-PAX 600
-PAX 600
-PAX 600
-PAX 500
-PAX 600
-Gravel Pit total 6100
-
-### Mary
-
-Waterfall leg lifts - 4 rounds
-
----
-
 ## A visit from Melva’s cousin
 
 ### Warmup
@@ -106912,28 +99658,6 @@ Recover to Mary.
 `Flutter Kicks IC`
 `DOS Error QC`
 `Walrus tappers IC`
-
----
-
-## Veteran’s Day is almost here
-
-### Warmup
-
-4-1 Motivators
-Grass Grabbers IC x 12
-High Knees IC x 20
-Old Man Hamstring Stretch OYO
-Stretching OYO
-
-### Thang
-
-We attempted ‘The Chad 1000”
-
-The WOD was performed on the bleacher steps at #ao_the_way. Due to the Q’s lack of time management, none of the PAX completed the 1000 step-ups. PAX was top of the leaderboard with 715 step-ups. Most of the PAX was in the 600 range.
-
-### Mary
-
-20 Flutter kicks in cadence
 
 ---
 
@@ -107788,25 +100512,6 @@ Pax set up shop in soggy small hill leading up from storm run off? Pax were to d
 ### Mary
 
 COR/NOC
-
----
-
-## Monday Morning Live Part 1
-
-### Warmup
-
-SSH
-
-Teams were to list the top 6 cast members during the beatdown with scores compiled at the end.
-
-### Thang
-
-Group 1: 2 Laps of Parking Lot w Sandbag + Ruck | Group 2: Failure Circuit - Alternate and Repeat.
-
-### Mary
-
-Push-Ups and Lunges while Teams determined Cast Members, Lunges, 10 6-Count Burpee.
-Despite cutting our last distance in half, it's possible we did 1 lunge too many: please keep stretching and walk around today.
 
 ---
 
@@ -109199,24 +101904,6 @@ Finished early so we started a set of 11's with blockees and no surrenders with 
 ### Mary
 
 Flutter kicks IC x25
-
----
-
-## Mid-Month Ruck
-
-### Warmup
-
-Stretch OYO during intro, disclaimer
-
-### Thang
-
-2.35 mile ruck
-
-### Mary
-
-Not today
-
-COR, NOR:
 
 ---
 
@@ -110774,25 +103461,6 @@ Disc Golf Putting in teams of 3 each stroke is 5 reps of the card drawn [Max 20 
 
 ---
 
-## Logan Park Black Ops / IronPax week 4
-
-### Warmup
-
-SSH, Copperhead Squat, Stretch
-
-### Thang
-
-2023 IronPax Week 4, so awful.
-
-### Mary
-
-NA
-Results: Lots of site-exploration and awesome times today; see attached.
-Note that this workout is titled: _"We are not professionals"_ and that is facts. IronPax workouts are about doing hard things together and celebrating when they are done. They are not necessarily about building aerobic capacity, strength and longevity so take a couple minutes and apologize to your body today with some shoulder and hip stretches.
-PAX: other Notable updates for the database:
-
----
-
 ## TUT & HIIT Tabata
 
 ### Warmup
@@ -112179,22 +104847,6 @@ Round #2
 ### Mary
 
 - Two Rounds of Guantanamo Bay
-
----
-
-## Backblast
-
-### Warmup
-
-- PAX stretched OYO while Q went through principles, disclaimer, etc.
-
-### Thang
-
-2 mile ruck following the run loop from Sasquatch
-
-### Mary
-
-Ring of Fire to 4
 
 ---
 
@@ -115144,7 +107796,6 @@ Bear trap to next station
 10 Vup With coupon
 Lunge Wal to end
 Pax did SSH, Plank, Merken or other until all got through.
-Wash -Rinse-Repeat
 
 ---
 
@@ -116542,28 +109193,6 @@ Mosey to the top of the hill and jump in the pool
 (Rick Flare)
 
 Recover Recover Recover
-
----
-
-## SASQUATCH!!
-
-### Warmup
-
-moving coolers and coupons from the shelter to a couple shady picnic tables
-
-### Thang
-
-Run 2 miles or Ruck 1.2 miles
-PAX led an EMOM BD with CPRs, merkins, and ab stuff
-Run 2 miles or Ruck 1.2 miles
-PAX led a TABATA style BD with merkins, rows, curls, and sphinx merkins
-Run 2 miles or Ruck 1.2 miles
-Run 2 miles or Ruck 1.2 miles
-PAX led an active recovery BD with arm circles, stretching, and a handful of burpees
-Run 2 miles or Ruck 1.2 miles
-PAX led a BD alternating stretching and plyometrics, finishing with a meditative relaxation
-
-COR, NOR:
 
 ---
 
@@ -120179,10 +112808,6 @@ Guantanamo
 
 ## Forwards and Backwards
 
-### Warmup
-
-Nah
-
 ### Thang
 
 Full lap around the park.  Pax Deioned up every hill on the run.  Quads on
@@ -122820,14 +115445,6 @@ no time for that nonsense today
 
 ---
 
-## pre-ruck
-
-### Thang
-
-Rucked the park before the beatdown - you have an amazing AO here.
-
----
-
 ## Backblast
 
 ### Warmup
@@ -122897,33 +115514,6 @@ Then 2 layup races, pax did goofballs until it was their turn to go.
 We repeated several rounds because the Roux Men are Ballers!
 
 Closed with 3 games of knockout- when knocked out started with SSH, as each pax was knocked out they changed the exercise.
-
----
-
-## GrowRuck Training Event (GTE) Sampler
-
-### Warmup
-
-SSH 50 IC
-Grass grabbers 10 IC
-Piano Tappers 10 IC
-Little Baby Arm Circles 10 IC
-
-### Thang
-
-PT Test - mini version
-Hand Release Merkins - minimum 21 in 1 minute (Standard is min 42 in 2 mins)
-BBSU - min 25 in 1 min (Standard is min 50 in 2 mins)
-½ Mile Run (Standard is 2 miles in 18:30)
-
-PAX counted off in 3s and split into 3 platoons: Alpha , Bravo , Charlie . Everyone put on a ruck or weight vest and each platoon had one of the following heavy implements. We set out rucking through the parking lot and platoons rotated to a different implement each 5 minutes. In GTE form, everything came with us so others had heavy bags in addition.
-
-- Log carry - 2 pax at a time, rotate as needed
-- Tractor tire carry - awkward to carry but fun
-- Pallet carry with heavy bags on it
-- Others carrying heavy bags
-
-Each platoon headed to the football field and one Pax from each platoon had a ruck sack on, and a heavy sand bag was tethered by climbing rope.  Pax jail break 30 yards dragging the heavy bag, turn around and head back, hand off the ruck sack to platoon mate who jail breaks.
 
 ---
 
@@ -125521,21 +118111,6 @@ American Hammers
 
 ---
 
-## Relentless Forward Progress/Mario Kart
-
-### Thang
-
-Start by running the path around the lake.  Stop at the first dock for 20 merkins.  Next comes the choice of the High Road vs the Low Road.  High road involves a hill climb and descent and slightly longer route, while low road entails flat path plus a 20 diamond merkin dock station.  The two roads converge and we stop at the fire hydrant for 20 plank jacks.  Next stop is through PAX Gauntlet where you have to dodge protective hissing mama geese and their goslings to the castle pavilion, where you do 20 hand release merkins, then head up 2 stair cases to the picnic bench pavilion.  20 Derkins gets you to the end of Lap 1.
-Lap 2 is the same except you get to do all the activities with a ruck. The last few in get to bypass the ruck in order to catch up with the gunners PAX and PAX, who eventually held hands and crossed the finish line together to share the win.
-Lap 3 we ditched the ruck and switched to air squats at the stations.
-Lap 4 ruck up and repeat.
-
-If you pass another one of the PAX on the path, they have to stop and do 3 burpees, so there is some strategy at play to avoid the extra work/time penalty.
-
-Mary was performed by committee, with flutter kicks, Sharon Stones, LBCs, and an obnoxiously long plank
-
----
-
 ## Backblast
 
 ### Warmup
@@ -125603,46 +118178,6 @@ Total - 100 thrusters and 100 burpees.
 ### Mary
 
 Merkin waterfall to 5
-
----
-
-## Green Light
-
-### Warmup
-
-`7-1 Motivators`
-`Monkey Humpers`
-`Seal Jacks`
-`Bat Wings`
-
-### Thang
-
-`pt 1`
-`Take the Hill`
-&gt; `~PAX place coupons randomly at cones placed up the hill`
-&gt; `~Start at bottom of the hill`
-&gt; `~All pax start running the hill, as PAX come to coupons, the first PAX to a coupon, pick it up and bring to the top. Max 2 coupons per PAX.`
-&gt;
-&gt; `pick up six at the top`
-&gt;
-`pt 2 - At the flag`
-`Cherry pop`
-&gt; `-4 goblet squats-4 straight leg deadlifts`
-&gt; `-inchworm out to 4 mountain climber merkins`
-&gt; `-inchworm back to 4 rows`
-&gt; `-4 shoulder press`
-&gt; `-10 SSH`
-
-### Mary
-
-`Flutter Kicks - IC`
-`DOS Error - QC`
-`Windows Vista Screensaver - QC`
-
-:clipboard:COR, NOR
-
-1. Grow Ruck This weekend, with King-builder on Saturday, Friday night 'party' before GrowRuck
-2. Great work on filling Q's MEN!!! Let's keep this momentum going
 
 ---
 
@@ -127710,62 +120245,6 @@ Guantanamo Bay
 
 ---
 
-## Midnight Rambler Ruck
-
-### Warmup
-
-SSH x 29 more days until GTE!!!!
-Copperhead squats
-Bat Wings
-
-### Thang
-
-Midnight Rambler Ruck
-PAX were counted off and split into 2 Platoons.
-11 in each to start the night off.
-Q took the “Even” Platoon and PAX took the “Odd” Platoon.
-
-12am - Get to know the PAX, state your name and how you got your F3 name.
-
-2am - GrowRuck Pro Tips led by those HIM who have completed a GTE.
-
-3am - Talking Points Cards
-
-4am - both Platoons merged along with some more ruckers and we conquered this CSAUP ready for GTE in 29 days.
-
----
-
-## Backblast
-
-### Warmup
-
-SSH /Monkey Humpers/ Learning to Phelps / Teams of Six Burpee Wave
-
-### Thang
-
-Teams of 6
-
-- 300 Burpees
-- .25Mile | 100 Pushups | .25Mile | 100 Pushups &amp; 100 Jump Squats |.25Mile | 100 Pushups |.25Mile
-- Hill Travel: Mosey Down &amp; Bernie Sanders up
-- Bag-drag Madness with increasing pushups over and under a destroyed barrier
-
-### Mary
-
-300 Sit-ups
-
-- F3 PAX Launched by PAX in 2017. In 2020, 12 AO's and 1 Region. In 2023, 12+ Regions and 100+AOs
-- This is because of each and every PAX who steps up, Qs, EHs, etc. The strength of F3 is in the PAX
-- Ronda offers some perspective and says a few nice things about outgoing Nantan PAX
-- Rescued People, Rescue People-The Stakes are too high for Men to keep getting _it_ wrong
-
-- Challenged the PAX to never underestimate the power of an invitation.  Let's continue to knock often, invite in love, &amp; give away what we've been fortunate enough to have received.
-
-Please
-by PAX
-
----
-
 ## Friday Fun
 
 ### Warmup
@@ -127978,21 +120457,6 @@ Ended up with about 1.5 miles ran.
 
 Merkin waterfall to 5
 5-1 abdivators
-
----
-
-## The Infinity Season Part 2: The War on Lonelines.
-
-### Thang
-
-Triangle stations 45 seconds on, 10 second transition for 30 minutes.
-
-- Standards for Hand Release Push-ups and Sit-ups started at Grow Ruck and went higher:horse:
-- Other movements included 45 second unbroken KB swing, Heavy Jump Rope, 100 lb. Squat
-
-### Mary
-
-Bonhomme Buffaloes Peewee Football hill sprints.
 
 ---
 
@@ -128277,8 +120741,6 @@ Copperhead Squats IC with an audible on arm swings
 Grass Grabbers IC
 
 ### Thang
-
-A trip to Egypt
 
 Partnered up in twos.  Did A series of exercises in pyramid form (up to 6 for each exercise) and mixed with static holds while partner was performing exercise.
 
@@ -128807,14 +121269,6 @@ Alphabet abs. Probably the worst display of knowing the alphabet by adults ever.
 
 ---
 
-## Streak to the Diamond
-
-### Thang
-
-GTE 36 Prep….Ruck from the #ao_the_streaker to #ao-black-diamond-eureka via the Arbors and Hill Top.  While rucking the PAX passed sand bags back and forth (4.83 miles).
-
----
-
 ## Adapt
 
 ### Warmup
@@ -128860,47 +121314,6 @@ PAX completed 3 rounds!
 
 ---
 
-## “Tomorrow ladies, we gunna start the hard stuff.”
-
-### Warmup
-
-SSH x 36 (36 days till GrowRuck)
-Piano Tappers x 12 lead by PAX
-Learning to Phelps x 12 maybe? lead by PAX
-
-### Thang
-
-The Hard stuff
-1st Round: Round ends when both PAX do travel/static.
-PAX 1 - carries sandbag to light, x 36 SSH, travel back.
-PAX 2 does AMRAP curls.
-2nd round: Round ends when both PAX do travel/static.
-PAX 1 - carries sandbag to light x2, x 26 SSH, travel back.
-PAX 2 does AMRAP coupon squats.
-3rd round: Round ends when both PAX do travel/static.
-PAX 1 carries sandbag to light x3, x 10 SSH, travel back.
-PAX 2 does AMRAP chest press.
-Halftime: Round ends when both PAX do travel/static.
-PAX 1 deons to light, side shuffles back (switching to other side at middle light).
-PAX 2 does AMRAP x-factors.
-4th round: Round ends when both PAX do travel/static.
-PAX 1 carries sandbag to light x3, 5 M climbers (hard way) travel back.
-PAX 2 does AMRAP skull crushers.
-5th round: Round ends when both PAX do travel/static.
-PAX 1 carries sandbag to light x2, 5 M climbers (hard way), travel back.
-PAX 2 does AMRAP overhead press.
-6th round: Round ends when both PAX do travel/static.
-PAX 1 carries sandbag to light, 5 M climbers (hard way), travels back.
-PAX 2 does AMRAP bent rows.
-
-RECOVER to the flags
-
-### Mary
-
-Hold plank for a very long 60 count
-
----
-
 ## Backblast
 
 ### Warmup
@@ -128938,29 +121351,6 @@ PAX called out an exercise. Rolled two dice (if doubles they had to run on their
 ### Mary
 
 Rotated 10 reps and exercise called by Pax member
-
----
-
-## Why don't you just make 10 louder?
-
-### Warmup
-
-SSH x 37 (37 days till GrowRuck)
-Mosey to the Poop Deck and back
-Piano Tappers x 10
-
-### Thang
-
-2 rounds of 11s on the Coupon Graveyard, handpicked from the "Tupperware of Pain" by PAX &amp; PAX
-Round 1: Merkins &amp; Jump Squats, traveling via Bear Crawl (Q modified to Jailbreak about 1/2 way through)
-Round 2: Bent Over Rows &amp; Burpees, traveling via Jailbreak
-
-RECOVER to the flags
-
-### Mary
-
-X-Factors x 20
-Canoes &amp; Hammers
 
 ---
 
@@ -129086,41 +121476,6 @@ Completed 8 rounds
 
 - Boats/Canoes
 - American Hammers
-
----
-
-## These Are Not The Tata’s You Are Looking For
-
-### Warmup
-
-SSH x 38
-Little Baby Arm Circles forwards / reverse
-Willie Mays Hays
-Grass Grabbers
-
-### Thang
-
-Tatas (Tabata Timer Abuse)
-3 minutes rounds, alternating between two exercises for 30 seconds each
-
-Round 1: Goofballs &amp; Mountain Climbers
-Round 2: Bonnie Blairs &amp; Merkins
-Round 3: Grave Diggers &amp; Bench Dips
-Round 4: Coupon Squats &amp; Bent Over Rows
-Round 5: No Surrenders &amp; We Are Not Worthy's
-Bonus Round (because the #ao_the_pickle_jar is way more badass than #ao_wet_willy): Curls &amp; Overhead Press
-
-RECOVER to the flags
-
-### Mary
-
-X-Factors
-Canoes &amp; Hammers
-
-Bonus Mary - popcorn style (sorry, didn't jot down who called these)
-Freddie Mercury's
-Burpees OYO x12
-3-2-1 Merkins
 
 ---
 
@@ -129387,7 +121742,6 @@ Soundtrack included:
 
 - Animals, by PAX
 - Good Vibrations, by Marky Mark and the PAX
-- Let's Go Blues, by The Urge - tribute to PAX
 
 ### Mary
 
@@ -129663,28 +122017,6 @@ Dice were rolled 9 times. Team 2 definitely had the worse luck.
 
 ---
 
-## Ruckaround
-
-### Warmup
-
-SSH 33IC
-learning to Phelps
-SSH 34IC
-Willy Mays Hays
-SSH 50+
-
-### Thang
-
-We Ruckedaround  shooting for 1.5 Miles
-
-### Mary
-
-Boats and Canoes
-Rope Climbers
-Boats and Canoes
-
----
-
 ## 100 Lbs and releasing
 
 ### Warmup
@@ -129728,34 +122060,6 @@ Recover run around track
 So our main hill doesn't find out about our side hill
 
 - 11s - coupon rows bottom and Bobby Hurley's at top (the hard way)
-
----
-
-## Taking the Leap
-
-### Warmup
-
-Light jog to the end of the parking lot
-Lt. Dan
-Karaoke x 2
-Little baby arm circles
-
-### Thang
-
-Hill work, left Sandbags at the top of the hill
-Buy-in at the bottom:  3 Ruck merkins
-Buy-in at the top:  3 burpees (Ruck on or off)
-
-Rd 1:  Crawl Bear up to the top. 20 deadlifts, crawl Bear back down
-Rd 2:  Deion up to the top, 20 Squats, Deion down
-Rd 3:  Sprint up the hill, 20 Thrusters, Sprint down
-Rd 4:  Crawl Bear up to the top. 20 taint scrapers, crawl Bear back down
-
-### Mary
-
-ran out if time
-
-RECOVER • RECOVER
 
 ---
 
@@ -129895,40 +122199,6 @@ Jailbreak
 
 ---
 
-## Shamrock Shakeup
-
-### Warmup
-
-`8to1 Motivators`
-`Abe Vigodas IC`
-`3to1 Motivators`
-`Foot Touches IC`
-`3to1 Motivators`
-`Arm Stretches IC`
-`8to1 Motivators`
-
-### Thang
-
-`Irish Jig - 20 seconds each side`
-`Shamrock Shuffle : cone to cone (keep low, chest up)`
-`Leprechaun Run : rotate out hips, lift knees high`
-`Jump over the Pot O'Gold : land toe to heal softly`
-
-`Leprechaun march around the trap`
-
-### Mary
-
-`Lucky Horseshoe ABS : squeeze feet together, abs tight and HOLD! QC`
-`DOS Error 83 - QC`
-`PAX delight : 10 Goofballs OYO`
-
-:clipboard:COR, NOR
-
-1. Grow Ruck in April
-3. Saturday BD at ARKHAM this TOMORROW/Saturday!!!!
-
----
-
 ## Happy St. Patrick's Day
 
 ### Warmup
@@ -129954,35 +122224,6 @@ Calf Raises (inward, straight, outward toe positions)
 Dips
 Rope Climbers
 Sumo Squats
-
----
-
-## HERO WOD : MASON
-
-### Warmup
-
-Grass Grabber’s
-Bat Wings
-SSH x 44 days till GrowRuck
-Worlds Greatest Stretch
-
-### Thang
-
-AMRAP starting at the Poop Deck
-Buy In - Mosey up to the entrance of the parking lot and back to the Poop Deck.
-Burpees x 3
-Merkins x 12
-Step Ups x 23
-Taint Scrapers x 34
-
-Most made it 4 rounds, PAX was cruising at the 12 position and finished 5 rounds. Great work by all today!!
-
-### Mary
-
-PAX led us in Hello Dollys
-LBCs
-PAX led us in Freddie Mercurys
-Flutter Kicks
 
 ---
 
@@ -130033,47 +122274,6 @@ Freddie Mercury’s x 15
 Flutterkicks x 15
 Rosalitas x 15
 Penguin Tappers x 15
-
----
-
-## Exploring the Oaks of Twin (Fenton/Valley Park "Black Diamond" Blackops  #4)
-
-### Warmup
-
-Goofballs x30
-Side Straddle Hops x43
-Willie Mays Hays x10
-Little Baby Arm Circles forwards/reverse x10 ea.
-
-### Thang
-
-The number of the day was 51 (todays date is 3/17... 3 x 17 = 51)
-
-Running between 3 stations in the park: top of the stairs, gazebo at the west end, and the basketball court (instead of the hill)
-
-51 reps each time you stopped at a station. 1st round was 51 reps of a single exercise. 2nd round was 34 of the first exercise, 17 of a second. 3rd round was 17 reps of the first exercise, 17 of the second and 17 of a 3rd.
-
-Almost all PAX finished all 3 rounds, some made it back to the 2nd round at the top of the stairs before we recovered to the playground for Mary.
-
-Top of the stairs:
-1st: Side Straddle Hops x51
-2nd: Side Straddle Hops x34 &amp; Burpees x17
-3rd: Side Straddle Hops x17, Burpees x17 &amp; Lunges x17 each leg
-
-1st: Dips x51
-2nd: Dips x34 &amp; Derkins x17
-3rd: Dips x17, Derkins x17 &amp; Step-ups x17 each leg
-
-Basketball court:
-Bear Crawl the length of the court and back each time, then:
-1st: Deadlifts x51
-2nd: Deadlifts x34 &amp; Thrusters x17
-3rd: Deadlifts x17, Thrusters x17 &amp; Lateral Hops over heavy x17
-
-### Mary
-
-Pax did a 120 count Plank position, doing a Merkin each time you counted _while_ 2 Pax did Swerkins on the swings. Swapped 2 Pax on the Swerkins every 30 count.
-Canoes &amp; Hammers (alternating between Canoe position and American Hammers at Q's direction)
 
 ---
 
@@ -130514,105 +122714,6 @@ Crunchy Frog IC x 10
 
 ---
 
-## Pi Day or Pie Day?
-
-### Warmup
-
-- 5:1 Motivators
-- Grady Corn
-- Piano Tappers
-- 5:1 Motivators
-- PAX count off for order of a part of the Thang.
-
-### Thang
-
-- Field set up as a giant Pie with six slices.
-- PAX #1 to wear a ruck with 30# plate that has a pallet attached to it with a chain.
-- PAX travels one full lap around the pie
-- When finished, PAX #2 takes his place
-- Repeat until all PAX have completed a lap
-- All remaining PAX start in the middle at the F3 flag.
-- Follow instructions on cardboard markers for as long as it takes for all PAX to make the pallet lap.
-- Station 1
-
-▪︎ Travel to Station = murder bunnies
-▪︎ Exercise = 25 Overhead Press
-▪︎ Travel from Station to middle = resurrection bunnies
-▪︎ 5 blockees
-
-- Station 2
-
-▪︎ Travel to Station = Bear Crawl
-▪︎ Exercise = 25 Merkins
-▪︎ Travel from Station to middle = Crawl Bears
-▪︎ 5 Blockees
-
-- Station 3
-
-▪︎ Travel to Station = Lunge Walk with Coupon
-▪︎ Exercise = 25 CPRs
-▪︎ Travel from Station to middle = Reverse Lunge Walk with Coupon
-▪︎ 5 Blockees
-
-- Station 4
-
-▪︎ Travel to Station =  Forward Crabwalk
-▪︎ Exercise = Bobby Hurleys
-▪︎ Travel from Station to middle = Backward Crabwalk
-▪︎ 5 Blockees
-
-- Station 5
-
-▪︎ Travel to Station = Bear Trap Right Foot
-▪︎ Exercise = Taint Scrapers
-▪︎ Travel from Station to middle = Bear Trap Left Foot
-▪︎ 5 Blockees
-
-- Station 6
-
-▪︎ Travel to Station = Inch Worm
-▪︎ Exercise = No Surrenders
-▪︎ Travel from Station to middle = Jailbreak
-▪︎ 5 Blockees
-
-### Mary
-
-- Sharon Stones
-- Mountain Climbers - Lead by PAX
-- American Hammers (no coupon)
-
----
-
-## Botched Barbera
-
-### Warmup
-
-`Movie Stars IC`
-`Foot touches IC`
-`6 to 1 Motivators IC`
-
-### Thang
-
-- `20 Pull-Ups`
-- `30 Merkins`
-- `40 BBS`
-- `50 Air Squats`
-- `Pick up six with SLOW jog around the field, from goalpost to goalpost.`
-- `Repeat .. got through a solid 3 rounds!`
-
-_`Suggested mod for pull-ups: 40 BORows`_
-
-### Mary
-
-`DOS Error QC`
-
-:clipboard:COR, NOR
-
-1. Grow Ruck in April
-3. Saturday BD at ARKHAM this Saturday!!!!
-
----
-
 ## musiq
 
 ### Warmup
@@ -130844,32 +122945,6 @@ Hold Plank position while listening to “Keep ‘em on They Toes”
 
 ---
 
-## A Warrior's ~Run~ March
-
-### Warmup
-
-- SUMO Walkers - IC!  13 ct.
-- Presenting Arms! (Like warming up Serena's Back - but, come on! We're Men! Q demonstrated - in a squat position we will rotate at the waste like Serena's But we will Present Forearm Strikes!  - IC - 13 CT
-- Put them all together 1count (H.W.) ea. - performed (badly) 3 sets - IC.
-
-### Thang
-
-Shields Up!  For this morning, our Coupons are our Shields.  We will be going on a Mosey (not a ruck - slow and easy, not a Run) with our Shields.  Standard formation - 2 single file lines - Shields over head.  Or, Modifcation, Farmer Carry your Shield.  We are going out to talk aobut the  5 Lies the Jester tries to tell us!
-
-_NOW, LET'S GOO!!! SHIELDS UP!_
-_5.  Stop Five - PAX mosied down to the lower valley of the Roux dooown into the low lands to the Theatre of Pain. On the Pad, Q proclaimed LIE FIVE: You're not a Bad Guy.   all LIES! Lies the Jester(s) tells us to keep us in his/her grasp!  Static Air Squat (b/c no wall was here) w/ Shields Wall held. Q counted, IC for 13.   Finish off with 5 Navy Seal Burpees!
-
-Laignappe:  WELSH HARES!  Q explained then demonstrated. We will perform this final Mosey to then UP Trinity Hill.   Welsh Hares are like the Welsh Dragon... but, are as such:  2 Murder Bunnies + 1 (HW) Shoulder Taps + 1 Plank Jax, then 2 Murder Bunnies + add 1 to each Shoulder Taps and Plank Jax increasing by one each round Until we all get to the Top!
-
-### Mary
-
-- _LITTLE BABY FLUTTER CRUNCHES!  (look it up in the Exicon) We all found out they SUCK!   Imagine Doing Flutter Kicks WHILST doing LBCs YEP!!!   IC!!!_
-- _BODIES HIT THE FLOOR!    Q misses...no, noone misses this!  DUring song by Drowning Pool, We hold a PLANK.  When we hear him COUNT - we MERKIN!  When we hear "Let the Bodies hit the Floor" we either DONKEY KICK or Plank Jack. Here we go!!! Modify as Necc._
-
-_RECOVER, RECOVER!_
-
----
-
 ## Work, Work, Work, Work…
 
 ### Warmup
@@ -130894,14 +122969,6 @@ Round 5 - Baggies (Blockees but with a sandbag)
 Round 6 - Crawl Bear down levee, Deion back up
 Round 7 - sandbag lateral lunge with high pull
 Round 8 - crawl bear down levee, Deion back up
-
----
-
-## GOOD OLE GREENSFELDER RUCK-ABOUT
-
-### Thang
-
--Skid Mark
 
 ---
 
@@ -130989,7 +123056,6 @@ Round 3:
 20 Gorilla Smashers
 Piggy Back Ride down
 10 partner AB Push Downs
-Piggy Back ride back
 
 Round 4:
 20 Handcuff Curls
@@ -131319,31 +123385,6 @@ LBC
 
 ---
 
-## Training for GTE
-
-### Warmup
-
--WGS
--LTP - IC 16
--Used car lots
-
-### Thang
-
-Four sandbags (3 - 60lbs and a 40lbs)
-
-Went down the trail stoping for ruck mosey and exercises:
-Squats
-
-2.6 miles of travel.
-
-### Mary
-
-Used car lots.
-
-Recovery recover
-
----
-
 ## Piecing it All Together
 
 ### Warmup
@@ -131592,43 +123633,6 @@ Flutter Kicks IC
 LBCs IC
 Leg Lifts IC
 BBSU - 10 OYO
-
----
-
-## The Humble Bundle
-
-### Warmup
-
-`5to1 Motivators IC`
-`Arm Stretches IC`
-`Movie Stars IC`
-`5to1 Motivators IC`
-`Foot Touches IC`
-
-### Thang
-
-- `Leave coupons, mosey to track.`
-- `Track has 4 cones`
-- `Start/Stop cone with a timer. Halfway between South track bend`
-- `Start Bear Crawl cone. Start of first, East straight-away`
-- `Start Deion Sanders cone. Halfway between North track bend`
-- `End Deion Sanders cone. End of second West straight-away`
-- `Half PAX complete one lap for time. 2nd Half help record times (use chalk, board, pencil.. something`
-- `Each PAX must attempt to beat their first time.`
-
-`Return to flag for Q time killers`
-
-### Mary
-
-`Penguin Tappers IC`
-`DOS Error QC`
-`Movie Stars IC`
-`Hockey warmup stretch IC`
-
-:clipboard:COR, NOR
-
-1. Grow Ruck in April
-2. HEROES Care special BD and Coffeteria at WetWilly this Saturday! Look for Clown-car opportunity.
 
 ---
 
@@ -132016,40 +124020,6 @@ Ran a 5K!
 
 ---
 
-## “55 More”
-
-### Warmup
-
-SSH x IC 50 on the 3 count
-5 Burpees
-
-### Thang
-
-GrowRuck training - 55 more days
-2 Minute Drill
-
-- hand release merkins
-- Big boy sit ups
-
-Rucks On
-Bottom of the Levee!
-
-AMRAP
-Phase 1
-
-Ruck Squats x 25
-Bear Crawl Up
-Flutter Kicks x 25
-5 Burpees
-
-Phase 2
-AMRAP
-Taint Scrape Ruckers x 25
-Deion Sanders Up
-Merkins x 10
-
----
-
 ## Bounce Back Monday
 
 ### Warmup
@@ -132301,14 +124271,6 @@ Latter: 5, 10, 15, 20
 
 ---
 
-## #ao_the_den pre Ruck
-
-### Thang
-
-Rucked a Rucking 5K
-
----
-
 ## Backblast
 
 ### Warmup
@@ -132405,34 +124367,6 @@ wearing weighted vest
 
 ---
 
-## Life is Like a Box of Chocolate
-
-### Warmup
-
-Little mosey
-Little baby arm circles (Fwd, back, front, above)
-Stretched out legs and neck on your own
-Curls 4 the girls
-Lawn mower pulls
-Overhead press
-Reverse tricep extension
-
-### Thang
-
-Crab walked to the first bench
-
-Grabbed a sandbag and rope then headed to the bottom of the hill
-
-Ruck dragged a sandbag up the hill. Each person did it once. While waiting, PAX did copper head squats.
-
-Next round, PAX paired up and put one carribiner on both ends of the rope and attached to the bottom of the ruck. In the middle of the rope, sat a sandbag where the rope was through one of the handles. Idea was to share the load but be competitive and pull the sandbag up simultaneously. If one partner went faster, the sandbag would shift towards the other person who wasn’t leading.
-
-### Mary
-
-Inch worm (Pax planked on the curb. Guy at the end did a push up and moved to the other end until we hit our destination)
-
----
-
 ## Tri….Fail….Tri Again
 
 ### Warmup
@@ -132478,62 +124412,6 @@ PAX ran a 3.5 mile tempo run along the river while being stared at by the friend
 
 Dynamic exercises in line:
 Tip to tip, Karaokes, high knees, karaoke, butt kicks, high knees, and other PAX’s dynamic stretch.
-
----
-
-## Get back up again
-
-### Warmup
-
-`5 to 1 Motivators IC`
-`Abe Vigodas IC`
-`Foot Touches QC`
-`Arm Stretches IC`
-
-### Thang
-
-`_Tibata :_ 20 s ON, 10 s REST`
-`SSH`
-`Jungle Bois`
-`Merkins`
-`Mtn Climbers`
-`Squat Jump – Run Back`
-`Air Squats`
-`Freddy Mercuries`
-`Plank Hold`
-`Burpees`
-`Reverse Lunges`
-`High Knees`
-`Diamond Merkins`
-`Side Plank Up Downs– Right Side`
-`Side Plank Up Downs– Left Side`
-`Forward backward coupon jumps`
-`Left right coupon jumps`
-`Cossack Squats –Right Leg`
-`Cossack Squats –Left Leg`
-`Down Dog Taps`
-`Push Up Climbers`
-`Bonnie Blairs`
-`Burpee Tuck Jumps`
-`Broad Jumps`
-
-`- Run up the MouseTrap Hill with Coupon`
-`-Whale Dance at the cross walk, at the top of the hill and at the cross walk on the way down!`
-`-Get to the top of the hill and back to the flag as quickly and safely as you can with your block.`
-`-Bockees at the Flag to pick up the six. Whale dance party when 6 is in! It was a fantastic party!`
-`-Slow count Squats IC`
-
-`Whale Dance: Balance on your belly on your block for a 5 count.`
-
-### Mary
-
-`DOS Error QC`
-`Flutter Kicks IC`
-
-1. Grow Ruck in April
-3. Saturday Rotating BD at MouseTrap.
-4. PAX VQ This Friday at the Trap!
-5. PAX VQ Next Friday at the Trap!
 
 ---
 
@@ -132833,39 +124711,6 @@ The greatest waste of our natural resources is the number of people who never ac
 
 ---
 
-## SPIRIT SLT BLACKOPS BEATDOWN - KISS &amp; TELL
-
-### Warmup
-
-- Willie Mays Hayes IC
-- High Knees IC
-- Grass Grabbers IC
-- Butt Kickers IC
-- LTP IC
-
-### Thang
-
-PAX worked through 2 rounds of the following (1st round - Ruck stays on, 2nd round - No ruck)
-
-K - 10 Kraken Burpees
-S - 30 Sandbag Clean &amp; Press
-S - 40 Sandbag Squats
-
-&amp; - Mosey down parking lot with sandbag &amp; back
-
-T - 10 Triple Bears (4 Ct.)
-E - 20 Elevator (aka Upright) Rows
-L - 30 Lay Down &amp; Get Up
-L - 40 Lawnmower Rows (EW)
-
-Mosey down parking lot with sandbag &amp; back
-
-### Mary
-
-Various Leg Holds IC
-
----
-
 ## Feels Like the First Time
 
 ### Warmup
@@ -132900,33 +124745,6 @@ Rifle Carry, CPRs
 LBCs 20 IC
 LBC position single leg pulses 8 each side
 Pfifer Scissors 20 IC
-
----
-
-## CrossFit 23.2 meets GrowRuck
-
-### Warmup
-
-- Armageddon IC
-- Merkins IC
-- BigBoi Sit Ups IC
-- Run One Lap
-
-### Thang
-
-PAX completed the following ladder up and then back down in time allowed… running one lap in between movements, first run w/ ruck, next without, alternating…
-
-- 5 OHS w/Ruck
-- 10 Thrusters w/Ruck
-- 15 Ruckees
-- 20 ManMakerMerkins
-- 25 Curls
-- 30 Chest Presses
-- 35 Flutter Kicks
-
-### Mary
-
-included within
 
 ---
 
@@ -133145,35 +124963,6 @@ Tabata Timer :2.5 min upper body 2.5 minute lower body
 
 ---
 
-## The Challenge
-
-### Warmup
-
-World's Greatest Stretch
-Deep Squat
-Elevator Merkins
-
-### Thang
-
-PAX rucked until we made it to bridge
-
-Round 1
-8 minute AMRAP
-
-- 5 Ruck Merkins
-- 10 Ruck High Pulls
-- 15 Ruck Squats
-
-PAX then rucked a little further
-
-Round 2
-8 minute Ruck OH hold
-
-- When PAX rested they had to 3 Burpees
-- Each additional rest added +1 Burpee from last rest.
-
----
-
 ## Moments that Matter
 
 ### Warmup
@@ -133314,41 +125103,6 @@ Superman
 - Rick flair
 
 COR &amp; NOR
-
----
-
-## Carnival of Carnage
-
-### Warmup
-
-`Foot Touches QC`
-`5 to 1 Motivators IC`
-`Movie Stars QC`
-`Worlds greatest stretch IC`
-`5 to 1 motivators IC`
-
-### Thang
-
-(from stablemen challenges)
-
-- `At First Mouse Trap small circle with ledge`
-- `20 Coupon Squats`
-- `20 Box Jumps`
-- `20 Coupon Lunges HW`
-- `20 Bonnie Blairs HW`
-- `At Second Mouse trap larger circle`
-- `Walk in a squat position holding coupon around circle`
-
-▪︎ `(alternative is Lieutenant Dans)`
-
-- `Bear Crawl around circle`
-- `Put coupon back in the small circle and run to the top of the MouseTrap hill (all the way to 109) there will be a cones there, pick one up and bring it back to the flag. Return To Start for another Round!`
-
-`Everyone got through 2 rounds!`
-
-### Mary
-
-`Ran out of time so everyone stretched out during COR/NOR`
 
 ---
 
@@ -133726,29 +125480,6 @@ Numbered off in two groups. Played flag/touch football. Scoring a touchdown defe
 
 Flutter kicks
 Scuba steve
-
----
-
-## Rub Down’s Rucktacular Rampage (modified)
-
-### Warmup
-
-Mosey
-Learning to Phelps
-Willy Mays Hays
-Concrete Grabbers
-
-### Thang
-
-Had to modify original BD for another time due to count and no sandbags.
-
-PAX rucked w/ 45-50 lbs The Levee trail.
-1/2 Mile ruck - 8 Bodybuilders
-1/2 Mile ruck - rucks off, 20 thrusters, 20 BBSU
-1/2 Mile ruck - 20 front squats
-1/2 Mile ruck - Rifle Carry ruck until we couldn’t any more.
-Rucks back on.
-Total Ruck approximately 2.6 miles
 
 ---
 
@@ -134290,43 +126021,6 @@ Downward Dog Calf Stretch
 
 ---
 
-## Who likes TATAs?
-
-### Warmup
-
-Running in place while Q shared core principles, mission and disclaimer
-Bat Wings x 10 each
-Willie Mays Hayes
-
-### Thang
-
-TATAs, in this case, stood for Tabata Timer Abuse. A normal tabata timer alternates between periods of work and rest. Instead, we “work, work, work, work, work” (ala Rihanna). 3 minute rounds, alternating between two exercises performed in 30 second increments, no rest between.
-
-Round 1:
-Goofballs:Mountain Climbers
-1 minute coupon ruck
-
-Round 2:
-Bonnie Blairs:Merkins
-Coupon ruck to Poop Deck
-
-Round 3:
-Grave Diggers:Bench Dips
-
-Round 4:
-Coupon Squats:Lawnmower Pulls
-Coupon ruck back to the flags
-
-Round 5:
-No Surrenders:We Are Not Worthy’s
-
-### Mary
-
-X-Factors IC x 20
-American Hammers IC x 15
-
----
-
 ## Backblast
 
 ### Warmup
@@ -134434,14 +126128,6 @@ Wash / Rinse / repeat
 
 High Low Plank
 Boat Canoes
-
----
-
-## Ruck and Ruck
-
-### Thang
-
-PAX rucked 4.26 miles down the Al Foster trail. 2 sandbags went along on the adventure and PAX took turns carrying them. Here is some interesting reading about the area and how it's claimed to be haunted.
 
 ---
 
@@ -134866,30 +126552,6 @@ Triangle Lift’s ??? (Face down make a triangle w/ hands, knees bent w/toes tog
 
 ---
 
-## GTE PT Training
-
-### Warmup
-
-Grass Grabbers
-SSH
-World’s Greatest Stretch
-SSH
-Bat Wings
-
-### Thang
-
-GTE PT Training
-2 minute Drill
--Hand Release Merkins
--BBSU
-Goal of 40 reps or more
-
-2 mile run - goal of 18 minutes
-
-1 mile Ruck with heavies passed around.
-
----
-
 ## It’s always better when it’s wet
 
 ### Warmup
@@ -134990,37 +126652,6 @@ ROUND 6
 300 x flutter kicks
 Rifle carry
 (cut short for time)
-
----
-
-## Balance
-
-### Warmup
-
-`3 to 1 Motivators IC`
-`Foot Touches QC`
-`Arm Stretches QC`
-
-### Thang
-
-(from stablemen challenges)
-`Mike Tyson Push-Ups : how many in 10 minutes`
-
-`Fran+ (15 minutes)`
-
-- `21 thrusters and coupon jump overs`
-- `15 thrusters and coupon jump overs`
-- `9 thrusters and coupon jump overs`
-- `15 thrusters and coupon jump overs`
-- `21 thrusters and coupon jump overs`
-
-`Run around Parking Lot for last couple minutes`
-
-### Mary
-
-`DOS Error QC`
-`Freddy Mercury's IC`
-Shake it out!
 
 ---
 
@@ -135432,40 +127063,6 @@ Run until you Puke-Pax run of the 1 mile loop
 
 ---
 
-## Being Prepared for _GTE36
-
-### Warmup
-
-- Goofballs - IC
-- Opening the Gates (Q demonstrated) - IC
-- Copperhead Squats - IC
-
-### Thang
-
-PAX told to Pair Up and line up along the Parking lot looking down "the runway"  Q quickly dropped a set of lights about 40yds out past the 1st Light Pole._
-_We will be doing a set of drills comprised of a no weight mosey to the light pole, 20yds out, then back followed by a COUPON Mosey out to the back (40yd Lights)  THEN complete an exercise (13 is the Count), Coupon Mosey back!_
-_ONE RULE!  each Pair of Partners HAS to stay together. Has to!  Got to go Potty?!  Your Partner goes with you (Just... like GrowRuck)  Stay together. Go fast, go slow... go together._
-
-- Round 1:  Lunge Walks out Lunge Walk back; Rifle Carry out - drop and do Partnering 1-Man Bands for 13 ct. - Rifle Carry Back!
-- Round 2: Bear Crawls out Crawl Bears Back; Farmer Carry (with all your heavies!, Sandbags, coupons, etc.) Farmer Carry Back!  PAX JailBreak out to back 40 lights for No Surrenders!  13 Ct.  Jailbreak Back!
-- Round 3:  Lt. Dan's out, Lt. Dan's Back; Murder Bunnies!!! out to back 40; Resurection Bunnies back in!
-
-10 count Given to PAX while reminding PAX why Disclaimers are important. Why its important to get out here early so we can be prepared to plan for PAX safety (ie. site hazards, lighting, etc. )
-
-For a Bucket Brigade: PAX passed their coupons down the line to stack them. Bit of a competition to see whose wall was completed first. The 3rd and Final pass was... Q line creating the Tallest stack of Coupons! Taller than_ PAX _and_ PAX!_
-Recover that - lets push these coupons (safely aside for Mary)
-
-### Mary
-
-Line of Fire (yeah, kinda like the Ring of Fire... but in a Line facing a partner.)  PAX got it... its a WAVE!_
-
-1. Big Boi SitUps with a high-5 to our partners - 4 rounds up and down till there was some unity in the Wave!
-2. Plank Positions for Planking T-Claps, up and down the line. halt!
-
-_RECOVER, RECOVER!_
-
----
-
 ## Backblast
 
 ### Warmup
@@ -135541,32 +127138,6 @@ BONUS because we had 30 seconds left: 20 Pistol Squats EW
 
 ---
 
-## Levee Forge
-
-### Warmup
-
-Mosey to the end of the parking lot and back
-Willy maze haze
-Little baby arm circles (Fwd / Bck)
-Curls for the girls
-Lawn mower pull (Each side)
-Overhead press
-Neck rolls
-
-### Thang
-
-Numbered off in groups of two
-
-Group 1 headed down the trail with rucks, sandbags, kettle bells, and anything heavy. Did 1 mile total
-
-Group 2 stayed by the flag and did Armor building complex. 3-1-4 Three cleans, one press, four squats every minute until the other group got back and then the groups switched. Each group was around 17 ish rounds.
-
-### Mary
-
-Formed groups of four. One group of three. Ruck rigged sandbag pull about 80 yards.
-
----
-
 ## Backblast
 
 ### Warmup
@@ -135596,32 +127167,6 @@ Formed groups of four. One group of three. Ruck rigged sandbag pull about 80 yar
 ### Mary
 
 - Misc. PAX selected core exercises
-
----
-
-## Ruck and Mumble
-
-### Thang
-
-BTW, they do lock the man gate into Route 66…
-
----
-
-## Ruck It
-
-### Thang
-
-Strap up and let’s ruck
--Up the always spicy Rockwood Arbor Drive
--To the “Dog Park”
--Stop for 11’s with Merkins, squats, bear crawls, and lunge walks
--Ruck the remainder of the loop and back to start
-2.5 ish miles total
-
-### Mary
-
-PAX led us in core 11’s
--Big boi sit ups (BBSU)
 
 ---
 
@@ -135881,33 +127426,6 @@ Mountain Climbers IC x 10
 
 ---
 
-## Stride
-
-### Warmup
-
-`6 to 1 Motivators IC`
-`Movie Stars IC`
-`Foot Touches QC`
-`6 to 1 Motivators IC`
-
-### Thang
-
-`~In the field~ On the court, All coupons at one cone. PAX in center of rectangle of cones do BBSs IC (keep running count total) while one PAX does Good Morning lift with a coupon, then carries it to the next cone, then comes back to the cone to repeat for each coupon until they are all moved. PAX repeats until he moves the coupons ~ALL the way around the cones~ to 2 cones. When done, trades places with next PAX.`
-
-`14 good mornings each PAX`
-`~385 BBS each PAX`
-
-`After all PAX had a turn moving all blocks to each cone the next part of the thang involved the TRACK, however we had a few more than planned so we all had our fill of BBS!!! IT WAS AWESOME!`
-
-### Mary
-
-`DOS Error QC`
-`Arm Stretches QC`
-`Old-man stretches IC`
-`Shake it out!`
-
----
-
 ## Are you tough?
 
 ### Warmup
@@ -135953,26 +127471,6 @@ OH press / bench press
 
 5-1 Motivators
 3- 1 Abd-ivators
-
----
-
-## A River Runs through it
-
-### Warmup
-
-5 to 1 motivators
-Grass Grabbers – 12
-Little Baby Air Circles (forwards and backwards) – 12
-Learning to Phelps– 12
-
-### Thang
-
-With Ruck: Walk ¼ mile, then Run ¼ mile
-Total Distance: 3 miles
-
-### Mary
-
-Stretching exercises
 
 ---
 
@@ -137320,32 +128818,6 @@ Downward Dog's
 
 ---
 
-## SLT Beatdown
-
-### Warmup
-
-Mosseyed to end of parking lot, to pavilion, then back to starting point.
-SSH
-Curls 4 the girls
-Lawn mower pulls
-Overhead ruck press
-Learning to Phelps
-Reverse curl
-
-### Thang
-
-Started at the beginning of the path and crab walked to pavilion (Ruck in front) then lunges on the way back. (Q failed miserably on these, will need to work on before GTE)
-
-Numbered off in groups of 2. One person did air squats at the bottom of the hill while partner either deon sanders up the hill or bear crawl (Alternated travel between rounds, 5 rounds). Once at the top, sandbag clean and toss down hill and pulled back up with rope attached to ruck. Rotated partners each round to pair up with someone new.
-
-Brought equipment back up top and each member grabbed a sandbag to carry for over half a mile down the levee trail
-
-### Mary
-
-2 minutes of Big Boy Sit-ups. Goal was over 40 which everyone achieved.
-
----
-
 ## The cold won’t stop us
 
 ### Warmup
@@ -137561,27 +129033,6 @@ Round out 1 mile of total nosey
 
 ---
 
-## “Did that Thang!”
-
-### Warmup
-
-SSHs
-
-### Thang
-
-At the base of the Levee we took on a portion of “Wayland” Hero WOD
-
-2 Rounds:
-
-10 Burpees
-Bear Crawl Up
-10 Burpees
-crawl Bear down
-8 Burpees
-87 air squats
-
----
-
 ## Harder, Faster, Stronger
 
 ### Warmup
@@ -137624,27 +129075,6 @@ Penguin Tappers
 LBCs
 
 (Burpies Total 115)
-
----
-
-## Ruck City
-
-### Thang
-
-2.7 miles of Rucking with some GTE principles embedded
--Flag always up front
--Team gear (Sandbags) by the flag when we stop for PT
--Battle buddy line of sight always
-
-Desired learning out come in addition to ^
--Sandbag transfer on the move (Team)
--Sandbags towards the front, set the pace
-
-2.7 miles of a Rucking good time with stops for some squats, merkins, OH press, and 8 CT Body Builders
-
-### Mary
-
-8 CT Body Builders
 
 ---
 
@@ -138528,39 +129958,6 @@ RECOVER • RECOVER
 
 ---
 
-## Short but ~Sweet~ Hard (TWSS)
-
-### Warmup
-
-Dynamic
-20 yard jog/20 yard Deion back
-20 yard skip/20 yard backward skip back
-20 yard walking lunge with rotation/20 yard knee pulls back
-20 yard leg scoops/20 yard side lunge back
-
-### Thang
-
-Part 1: Burpee EMOM 10 x 5 = 50
-
-Part 2: Partner up bottom of hill
-Partner 1 offset carry both rucks 20 yards - 5 burpees - offer carry back
-Partner 2 - Cardio Merkins
-Complete 2 rounds each
-
-The Hill
-Partner 1 squats with both rucks while partner 2 bear crawls up hill - 5 burpees - crawl bear down.
-Switch and complete 2 rounds each
-
-Ran out of time before we could do crab walks with ruck and Louganis.
-
-### Mary
-
-Rucks on. 5 minute EMOM
-5-6 ruck burpees per minute for 5 minutes
-Total burpee count for BD = 95-100
-
----
-
 ## Back to the grind
 
 ### Warmup
@@ -138631,25 +130028,6 @@ No Plank or Al Gore today, go back out for your brothers and let’s finish toge
 ### Mary
 
 Incorporated in the beatdown.
-
----
-
-## A Rainbow Ruck:rainbow:
-
-### Warmup
-
-Arm Circles
-Willey Mays Hays
-High knees
-Bend over and touch your toes.
-
-### Thang
-
-The PAX rucked around the school, and then through the Arbors neighborhood. All while using Teamwork by pulling a wagon with 5 coupons in it.  We started by rucking around the school up to Brewster rd. Took a left and went up to the pavillion. Where we performed 30 dips on the picnic benches. We then took a left on Shawnee Veiw CT. , and rucked up to the round-a-bout where we performed 40 Squats. PAX then took a right on to Wyman Ridge Rd., and went all the way around to the mailbox parking lot where we performed 20 Merkins. PAX then continued up the hill on Wyman Ridge Rd. Back up to Shawnee Veiw CT. Where we took a left back down to the pavilion on Brewster rd. Once at the pavillion the PAX again used the picnic benches to perform 20 Derkins. We then continued back down Brewster to the school where it all began.  The wagon with 5 coupons in it actually made it the whole way. We were not 100% sure of that when we took off.
-
-### Mary
-
-Not enough time today.
 
 ---
 
@@ -138953,30 +130331,6 @@ If No Match, Exercises from the following List:
 
 ---
 
-## RED PILL / BLUE PILL
-
-### Warmup
-
-- Grass Grabbers - IC
-- Willy Mayes Hayes - IC
-- Learning to Phelps - IC
-- Quad Pulls - On Own
-
-### Thang
-
-While wearing 20 lb vest/ruck, PAX completed the following:
-
-- Tackle the Mountain OR 30 Burpee Pullups
-- Lap around track + 30 Merkins OR Suicide Ladder w/ 3 Kraken Burpees upon each return trip
-- Obamas OR 30 180 Jump Squats (hard way)
-- 2 minute plank OR 15 Seated Single-Leg Tea Bags (hard way)
-
-Rinse &amp; repeat.
-
-PAX made it through 3 rounds
-
----
-
 ## Success Through Clarity LANGUAGE (F2)
 
 ### Warmup
@@ -139125,48 +130479,6 @@ Shrimp, pushups (merkens), moguls (double baby bears), jail break!
 ### Mary
 
 Peer-led choice (5x)
-
----
-
-## GrowRuck Training-Cart Path Style
-
-### Warmup
-
-Monkey Humpers
-Grass Grabbers
-SSH
-Bat Wings
-
-### Thang
-
-GrowRuck Training
-
-PAX rucks on front
-Crab Walk towards the pavilion - 25 yards
-
-2X
-Crawl Bear Down the Levee
-Army Crawl up the Levee
-
-Finished with Bernie Sanders back up
-
-2 minute drill
-Flutter Kicks
-Hand Release Merkins
-BBSU
-
-Rucks On plus 2 60lb sandbags
-Rucked 1.2 miles while rotating the sandbags
-
-### Mary
-
-PAX - Pigeon Stretch
-PAX - Harry Rockettes
-PAX - Suzanne Summers
-PAX - Imperial Walkers
-PAX - Ric Flair
-
-Recover/recover
 
 ---
 
@@ -139484,48 +130796,6 @@ Defeat Shrines, acquire runes, complete burpees: 10 every 3 minutes for 60 minut
 
 ---
 
-## Backblast
-
-### Warmup
-
-SSH:burpee 20:10 x5
-
-### Thang
-
-“Jack Skellington” WOD modified
-
-Everything  but the burpees with vest/ruck/slick
-
-Q asked questions for PAX to think on while doing various exercises then our rest between rounds was answering said questions.
-
-What makes your mad?
-
-- 50 BIG  boy Sit-Ups
-
-- 50 Push-Ups
-
-something you need to say to someone, when are you going to say it?
-
-- 50 Air Squats
-
-what is something someone has told you that you still use today
-
-- 50 4-Count Mountain Climbers
-
-- 50 4-Count SSH
-
-when was the last time you told someone you care about how much you care
-
-- 50 4-Count Flutter Kicks
-
-MABA Count: 100
-
-### Mary
-
-Broga while answering last question!
-
----
-
 ## Another Brick In The Wall
 
 ### Warmup
@@ -139647,32 +130917,6 @@ Train came through during lunges round so we used our 15 second recovery period 
 
 Captain Thors 6:24
 PAX led us in Crucifixes
-
----
-
-## WEEPING &amp; GNASHING OF TEETH
-
-### Warmup
-
-- Willie Mays Hays IC
-- SSH IC
-- Grass Grabbers IC
-- High Knees IC
-- But Kickers IC
-- LBAC/R IC
-
-### Thang
-
-While wearing 20 lb vest/ruck, PAX completed the following:
-
-- Trip up Devil's Mountain &amp; Back
-- 40 Merkins
-- 5 Burpees
-- Trip around the track w/ Sandbag
-- 40 Sandbag Squats
-- 5 Sandbag Burpees
-
-PAX made it through 3 rounds (40/30/20)
 
 ---
 
@@ -139854,14 +131098,6 @@ Mosey
 ### Mary
 
 105 Count Leg Lift
-
----
-
-## Streaker to Black Diamond and Back
-
-### Thang
-
-Yes, we got a boyband this time
 
 ---
 
@@ -140066,26 +131302,6 @@ Round 3: 30 Curl+Press! - lunge walk to wall.  10 burpees.  Mosey back.  Repeat 
 Round 4: Bent-over Rows - lunge walk to wall.  10 burpees.  Mosey back.  Repeat twice.
 
 Round 5: Lawn mowers (10 each arm) - lunge walk to wall.  10 burpees.  Mosey back.  Repeat twice.
-
----
-
-## Saturday! Stay on a Roll
-
-### Warmup
-
-Hairy Rockettes, Knee Pulls, High Knees, Quad Pulls, Butt Kickers, Neck Stretch, Standng leg lifts - front and side, Leg Kicks, SSH, Lap around track
-
-### Thang
-
-Station 1-  3 Pax play Rollers… 1v 1 while loser of last round does number of burpees from the losing rolls
-
-Station 2- 4 Pax Modified Rollers with Exercise Dice…. 2v2 with losers of last round doing exercise dice the other team rolled.
-
-Trigger group - 2PAX travelled together to light on far side of school.  One way was running other way was carrying three heavy items (ruck, sandbag, and coupon ).  When they return, they push two pax from each station to the next.
-
-### Mary
-
-None
 
 ---
 
@@ -140980,34 +132196,6 @@ Boat &amp; Canoe (on our 6, boat=legs &amp; arms tucked in, canoe=legs &amp; arm
 
 ---
 
-## Combat Standard!
-
-### Warmup
-
-Imperial Walkers IC
-Hairy Rockettes IC
-Lap with Stops for Piano Tappers and Learning to Phelps IC
-
-### Thang
-
-"Combat Standard" from Chadd Wright (3 of 7 project)
-20lb Vest or Ruck
-
-~25 Front Squats~     50 Step ups
-
-4 Laps (1.33 miles)
-
-100 Burpee Pull-Ups
-
-Patrol Out:
-4 Laps Modified to 3 for some PAX due to time
-
-### Mary
-
-Do Better:
-
----
-
 ## Unlock the Rock
 
 ### Warmup
@@ -141271,36 +132459,6 @@ Run around far median and back
 
 ---
 
-## DISRUPTION
-
-### Warmup
-
-grass grabbers
-Monkey Humpers
-Bat wings
-Mosey
-
-### Thang
-
-GrowRuck PT training
-2 minute timer each exercise, 3 Pax did one, 2 the other, then switch.
-
-Round 1
-Hand Release Merkins
-Sandbag Cleans
-
-Round 2
-Big Boy Sit Ups
-Plank Up/Downs
-
-Round 3
-1 Mile Run for time - goal 10 minutes.
-Happy to report all of the PAX reached the goal!
-
-Recover / Recover
-
----
-
 ## MABA Monday
 
 ### Warmup
@@ -141469,38 +132627,6 @@ _PAX-PICK You pick your Burpee Count and try to maintain that number throughout 
 
 ---
 
-## GrowRuck PT with 2.0
-
-### Warmup
-
-Grass Grabbers
-Harry Rockettes
-Bat Wings
-Copperhead Squats
-
-### Thang
-
-GrowRuck PT Training
-Round 1
-2 minute Timer AMRAP
-Partner 1 - Hand Release Merkins
-Partner 2 - 60lb sandbag deadlifts
-Then switch
-
-Round 2
-2 minute timer AMRAP
-Partner 1 - BBSU
-Partner 2 - plank up downs
-Then switch
-
-Round 3
-2 Mile Run - goal is 18 minutes
-Finished in about 24, got some work to do before April!!!
-
-Recover / recover
-
----
-
 ## Resolution, Revelation, Epiphany Insurrection
 
 ### Warmup
@@ -141556,42 +132682,6 @@ Rinse/repeat
 ### Mary
 
 - Guantanamo
-
----
-
-## PLANT, GROW, SERVE!
-
-### Warmup
-
-Mixed in the Disclaimer..._
-
-- High Knees W/ Disruption! (On Q's RAAANDOM call "Get Down!" will be shouted.  This is the PAX' que to Pump Out a Burpee!) DISCLAIMER! Modify as Neccessary. We arent here to impress anyone. Modify as Neccessary. Do a Squat or another modification. You be You. You know you're limitations.
-- Learning to Phelps - IC
-- SSHs (Side Straddle Hops). Special Note on CADENCE. Follow the Q's Cadence (and speed) Dont go Fast if the Q's Cadence is slow. THIS IS INTENTIONAL. Builds discipline. w/o Discipline there can not be Freedom (Jocko Willink) IVC, (In Varying Cadence)
-
-### Thang
-
-PAX counted off (looked like more than 21!) 25 at the time Quick! Listen Up! Looking out at the field laidout...
-Need half of the PAX to pick the YELLOW Team on the other end and half to pick the RED team.  GO!  Figure it OUT!!!
-
-GOAL:  Each side will crank out their Plant, Grow, AND SERVE ! Each Round._
-
-Round One:  PLANT - 13 Grave Diggers, GROW - 13 Jungle Boi Squats,  SERVE - Two-Man Farmer Carry WITH Their Coupons and KAREN/IT between them. Drop off their Coupons in the CENTER (20yds) then Farmer Cary KAREN/IT back. This Farmer Carry Continues to the next Two-Men until ALL COUPONS have made it to the Center. WHILE THIS SERVE is Happening, all other PAX are getting in their MABA Burpees!  Your Pace. OR, Modify as neccessary._
-
-_(10-Count is implicately given while Q explains each next round)_
-
-Round Three: PLANT - 13 Lawn Mower Pulls (EW, figure it out!), 13 _______________, SERVE - Two-Man Rifle Carry our Coupons BACK to the Center forming a Singlefile Line.   _Continues to the next Two-Men until ALL COUPONS have made it back. WHILE THIS SERVE is Happening, all other PAX are getting in their MABA Burpees!  Your Pace. OR, Modify as neccessary.  LAST Order of Business:  Someone from each Team Needs to get KAREN AND CHIP (yes! His name is CHIP!) to back end of the Coupon LineUp._
-
-_Great Work Men!  Now... for the Finale!_
-
-_RECOVER for a Rapid Fire MARY.
-_WITH COUPONS! PAX Started in a PLANK Position. We'll do an exercise, then Q yelled Roll-Back!  On to our SIX. Then Roll back Forward.  LET'S GO!_
-
-- _Mountain Climbers - IC - Roll-Back!_
-- _One-Man  Bands! - IC - ROLL-BACK (Forward to Plank)_
-- _5 BLOCKEES!  OYO - LOG'EM for MABA! - ROLL-BACK!_
-- _Commando Thors!! 1:4 ratio, Q demonstrated. 1 BBSUP for every 4 American Hammers. On Command. we dont start the next till Q calls it. We may or may not have done 4:16 ... or 5:20!
-- LAST EXERCISE:   1 BiG Boi GET UP!  EXERCISE!
 
 ---
 
@@ -141653,63 +132743,6 @@ Ran 1 lap
 `Blockees IC`
 `Flutter Kicks IC`
 `Penguin Tappers IC`
-
----
-
-## SUBSTITUTE TEACHER
-
-### Warmup
-
-5-1 Burpee motivators
-Bat Wings
-Grass grabbers
-
-### Thang
-
-With 95 lb sandbag in front pax lined up and walked to playground pavilion across the Ao. We handed it back to last man then run to Front. Repeat.
-
-Train whistle!  Prison Burpee!!
-
-Once to pavilion. We did the “Mrs Mattman” who as a sub used a whistle to quiet the class.
-8 rounds emom timer.
-3 burpee buy in then 2 rounds of;
-Dips
-Bulgarian lunges
-Hand release merkins
-Curtsey lunges
-
-Pax lined up in a plank and we did 5 back and forth pull throughs w/ sandbag
-
-5 rounds of 1 minute walk sit and 10 burpees.
-
-Back to pavilion w/ sandbag ruck. Q dropped on exchange so 10 burpees.
-
-### Mary
-
-5-1 Abdivators
-1 minute star gaze recovery.
-
----
-
-## Baby steps!
-
-### Warmup
-
-Progressive Burpees for 10 minutes. 1 burpee first minute, 2 burpees second minute, etc.
-
-During some of the down time did various stretches, exercises, and explained PT for GTE
-
-### Thang
-
-Theme is baby steps. Did half of what the PT for GTE requires
-
-No Rucks for PT
-
-1 minute of hand release merkins ( Target was 20 but keep going if you hit it)
-
-1 minute big boy sit ups (Target was 20 but keep going if you hit it
-
-PAX then moved to the beginning of the trail and did one mile run (Beginning of second parking lot and back) Target was 9 minutes
 
 ---
 
@@ -142297,22 +133330,6 @@ Re the Burpees; that's what 112 feels like. There will be a few early Saturday e
 
 ---
 
-## Arbors Ruck (Streaker to Black Diamond and back)
-
-### Thang
-
-The PAX rucked through The Arbors and headed for the Black Diamond. Made it there and did a loop around the track and then headed back.
-
----
-
-## Saturday travel day
-
-### Thang
-
-New adventure ruck for some Saint Charles f3 boys out exploring new places!
-
----
-
 ## STANDARD (Last BD of the Year)
 
 ### Warmup
@@ -142604,28 +133621,6 @@ Pax 2: jailbreak and 5 burpees
 
 Pax 1: 200 OHP
 Pax 2: jailbreak and 5 burpees
-
----
-
-## Ruck the New Years Eve Eve Eve!
-
-### Warmup
-
-WGS!
-LTP - 14
-WNWs - 10
-UCLs - 10
-
-### Thang
-
-Thrusters
-Squats
-
-### Mary
-
-LTP IC - 10
-WGS
-Captain Thors 7/28
 
 ---
 
@@ -143107,8 +134102,6 @@ His eyes, how they twinkled, his dimples how merry.
 
 He told the PAX to do 10 CPR’s so we don’t get wary.
 
-His cheeks were like roses, his nose like a cherry.
-
 His droll little mouth was drawn up like a bow.
 
 So PAX suggested we do 15 COUPON ROWS so let go
@@ -143252,29 +134245,6 @@ pull card do exercise and then run 200m
 ### Mary
 
 skip will do at home
-
----
-
-## Ruck Skating
-
-### Warmup
-
-Grass Grabbers
-Harry Rockettes
-Back stretch
-SSH
-
-### Thang
-
-PAX rucked down the snowy trail stopping along the way to complete Squats, Merkins, SSH, Imperial Walkers, flutter kicks.
-
-### Mary
-
-LBCs
-PAX’s cabaret hip stretch??
-Freddie Mercuries
-
-Recover/recover
 
 ---
 
@@ -143433,22 +134403,6 @@ Time allowed for 7 rounds
 
 leg kick stretch to reverse lunges IC
 trunk twist w/coupon IC
-
----
-
-## Ruck to Embrace the Suck
-
-### Thang
-
--As the clock struck 5:30 we started moving with a walking disclaimer of
-basically: “You’re here of your own free will” “You did this to you”
--Rucked around the Arbors
-
-### Mary
-
-Multiple Boy Band Attempts to get it “just right”
-
-Recover, Recover:
 
 ---
 
@@ -143807,7 +134761,6 @@ Run Run Rudolph
 Last Christmas
 (4:23) CPRs
 (4:28) Side-Tri-Rise each arm
-Sleigh Ride
 (3:06) coupon curls
 Jingle Bell Rock
 (2:10) Taint scrapers
@@ -144138,36 +135091,6 @@ Q was trying to help everyone to have Brad PAX abs.
 
 ---
 
-## 2 Year F3 Versary part I
-
-### Warmup
-
-- 5 To 1 Motivators
-- Grass Grabbers
-- SSH
-- arm circles
-- Grady Corn
-- Learning to Phelps
-
-### Thang
-
-1-Burden Carries to lot: pax were split into groups of 3.  One Carry’s all the rucks and shares what is their burden. After each swap the group does 10 burpees.
-
-2-Tabata timer. 10 minutes. Each minute start w/ 5 HR merkins w/ ruck and remaining time squat/curl/press
-
-3-Tabata timer. 10 minutes. This time it’s 5 upright rows then overhead lunges. Pivoted last 5 rounds to curtsey lunges.
-
-4-Indian ruck run back to flag. Pax rifle Carrie’s, last one in line mosey to front and say “onward” and next one goes.
-
-### Mary
-
-- leg raises
-- Lemon squeezes
-- Freddie Mercuries
-- LBCs
-
----
-
 ## Kingbuilder
 
 ### Warmup
@@ -144402,7 +135325,6 @@ K-KB Swings (Sandbag)
 
 D-Deadlift (Sandbag)
 A-Alternating Merkins (on sandbag)
-M-Morning Wood
 O-Over the shoulder (Sandbag)
 N-No Surrenders
 1 Lap
@@ -144543,30 +135465,6 @@ Exercises are as follows- Stay by flag and do 100 Curls, Mosey to Dreyer Ave Str
 ### Mary
 
 Flutter Kicks
-
----
-
-## Ruck 101
-
-### Warmup
-
-- 5 To 1 Motivators
-- Grass Grabbers
-- Willy Mays Hays
-- 400 m Jog
-- Grady Corn
-
-### Thang
-
-15 min/mile Ruck approx 3 miles with weighted vests and sandbag carry.
-In middle of ruck 2,4,6,8,10,12 Merkins Ascending order alternate to 12,10,8,6,4,2 weighted air squats in descending order. Ruck back.
-
-### Mary
-
-- Piano tappers
-- Reverse Cruches
-- Baby Crunches
-- V Ups
 
 ---
 
@@ -145149,28 +136047,6 @@ American Hammers IC 30
 
 ---
 
-## Tough Guy Tour Part 4: Break the Levee
-
-### Warmup
-
-Squats and a quick trip to the bridge and back.
-
-### Thang
-
-"DOOM III"
-
-- 5 x 3 min intervals: Heavy Squat 45 seconds, 10R/10L 1 hand row
-- 5 x 3 min intervals: Medium Dead lift 45 seconds, 15 no jump burpee
-- 10 min EMOM: Alt 10 1 hand alt elevated push-ups / 10 lunges
-
-### Mary
-
-Sand bag race!
-
-until next time take care.
-
----
-
 ## It's Monday, let's get to work
 
 ### Thang
@@ -145253,36 +136129,6 @@ Team 2 edged out Team 1 in points despite one member causing negative points (no
 ### Mary
 
 Popcorn style: All pax took a turn and called out an exercise.
-
----
-
-## Ruck Canned Food Drive Take 2!
-
-### Warmup
-
-SSH
-Pickle Pounders
-Pickle Hops
-
-### Thang
-
-Dora workout
-Round 1
-Stationary exercise:300 squats (total between you and your partner)
-Travel: Bear Crawl up hill, Clean and push sandbag down the hill. Sandbag was attached to a rope so then you would have to pull it up the hill.
-
-Round 2
-Stationary exercise 200 CPRs total
-Travel: Same as round 1
-
-Round 3
-Stationary exercise: 50 blockees total
-Travel: Same as round 1 and 2
-
-### Mary
-
-Imperial Walkers
-Goofballs
 
 ---
 
@@ -145440,18 +136286,6 @@ W - Jump Rope; Mountain Climbers; Bicycles (Freddie Mercuries)
 ### Mary
 
 Flutter Kicks - IC
-
----
-
-## A rucking good time
-
-### Warmup
-
-Get ups, SSH
-
-### Thang
-
-Rucking at a respectable pace. 30 rep sets of squats every 10th of a mile and the occasional fartlek sprints.
 
 ---
 
@@ -146153,54 +136987,6 @@ Run another lap
 
 ---
 
-## Backblast
-
-### Thang
-
-"Full Body GrowRuck Prep"
-
-- 5 x 3 min intervals: Heavy Squat 45 seconds, 10R/10L 1 hand row
-- 5 x 3 min intervals: Medium Dead lift (dumbbells)  45 seconds, 10 no jump burpee, 10 KB swing
-- 10 min EMOM: ~1-5 Pull-ups, 10 1 hand elevated push-ups: left (odd minutes) right (even minutes)
-
-### Mary
-
-Stairclimber! PAX!
-
----
-
-## Ruck around the clock
-
-### Warmup
-
-Abe Vigodas IC
-Grady Corn IC
-Copperhead Squats IC
-Grass Grabbers IC
-SSH IC
-
-### Thang
-
-1 min each Tabata: Lt Dans, Merkins, Willy Mays
-5 min Ruck
-1 min each Tabata: Chest Press, Curls, Rowers
-5 min Ruck
-1 min each Tabata: Lt Dans, Merkins, Tree Pose
-5 min Ruck
-1 min each Tabata: Chest Press, Curls, Rowers
-5 min Ruck
-1 min each Tabata: Lt Dans, Merkins, Quad Stretches
-5 min Ruck
-1 min each Tabata: Chest Press, Curls, Rowers
-
-### Mary
-
-Big Boy Sit Ups IC
-Flutter Kicks IC
-Sparky Stretch
-
----
-
 ## Skiddy needs to Q!
 
 ### Warmup
@@ -146599,31 +137385,6 @@ Station 2 (Coupon Work)
 
 Each pax picked a workout then a song played and we did that movement when the phrase played
 Chess press, merkins, CPR, Squats, Bonnie Blairs, American Hammers, Plank Jacks, Overhead Press, LBC
-
----
-
-## Mater's Back
-
-### Warmup
-
-SSH IC
-Piano tappers IC
-WGS oyo
-Arm circles IC
-
-### Thang
-
-PAX rucked up and shared a sandbag the equivalent of a teenager. Rucked for 4 mins, then stopped to do 1 min of various exercises (dips, squats, shoulder tap merkins, more squats)
-
-At parking lot, PAX did 10 mucho legos (narrow squat, normal squat, wide squat) travel to end of cones via lunges, Bolt 45 squats, lunges back.
-To cap it off, PAX did bear crawl up the levee then 10 pickle pounders then mosey down hill.
-
-Recover to flag
-
-### Mary
-
-13 pickle pointers
-16 American Hammers
 
 ---
 
@@ -147146,50 +137907,6 @@ Sharon Stones IC
 
 ---
 
-## Backblast
-
-### Warmup
-
-Treadmill. 1 round of squats (probably not enough)
-
-### Thang
-
-"Full Body GrowRuck Prep"
-
-- 5 x 3 min intervals: Heavy Squat 45 seconds, 10R/10L 1 hand row
-- 5 x 3 min intervals: Medium Dead lift (dumbbells)  45 seconds, 10 no jump burpee, 10 KB swing
-- 10 min EMOM: ~1-5 Pull-ups, 10 1 hand elevated push-ups: left (odd minutes) right (even minutes)
-
-### Mary
-
-Treadmill cool down.
-Result: A great big clean facility that had refreshingly large crowd for pre-5AM: a vast upgrade rusty sweat stain with the equipment that predates all of the branches of science.
-
----
-
-## Sandbag Chase
-
-### Warmup
-
-SSH-33
-Willy Mays Hayes
-SSH-33
-GrassGrabbers
-SSH-34
-Learning to Phelps
-Little baby arm Circles forward and back
-
-### Thang
-
-Good ole fashioned sandbag chase.
-One pax took off running with ruck and sandbag. Other 2 PAX did 5 burpees and ran down the sandbag, then rotate sandbag carrier.  Did some sandbag burpees and lots of step-up’s along the way.
-
-### Mary
-
-Rope- Climbers
-
----
-
 ## Monday Motivation
 
 ### Warmup
@@ -147447,33 +138164,6 @@ Run to Light and Back
 Pax each took turns sharing some things they were grateful that happened this year during the rounds.
 
 Extra Credit: PAX led us in Abrivators
-
----
-
-## Turkey Day Burn!
-
-### Warmup
-
-Willy maze haze
-Grass grabbers
-Copper head squats
-Bat wings Front, back, forward, above
-Moroccan night clubs
-Cherry pickers
-
-### Thang
-
-PAX rucked up and headed to the trail. Rucked about 3 miles and did various exercises. Ran up a hill or two from time to time.
-
-### Mary
-
-Had Mary under the bridge to get out of the rain for a bit.
-
-Flutter kicks with ruck.
-American hammers with ruck
-LBCs
-Big boy sit ups with ruck
-Penguin tappers
 
 ---
 
@@ -147784,34 +138474,6 @@ Guantanamo’s
 
 ---
 
-## SOMETHING YOU'LL BE THANKFUL FOR.... WHEN IT'S OVER
-
-### Warmup
-
-- Willie Mays Hays IC
-- High Knees IC
-- Butt Kickers IC
-- World's Greatest Stretch IC
-
-### Thang
-
-- PAX wore weighted vests/rucks and completed a 5K that involved scaling Devil's Mountain twice, 2 laps around Berry Park, and a trip to the Hilltop stop sign &amp; back.
-
-Once completed, PAX began sandbag work on the following:
-
-- 100 Sandbag Chest Press
-- 100 Sandbag Bent Over Rows
-- 100 Sandbag Squats
-- 10 Sandbag 20 Yard Suitcase Carries
-
-Every 60 seconds, a timer went off and PAX  owed 1 sandbag burpee before continuing work on the above reps_
-
-### Mary
-
-Not today
-
----
-
 ## Hamburglar Helper
 
 ### Warmup
@@ -147989,45 +138651,6 @@ Mountain climbers
 
 ---
 
-## 5 + 5 + 11
-
-### Warmup
-
-SSH x 20 IC
-Goofballs x 20 IC
-Grass Grabbers x 10 IC
-Batwings x 15 IC
-
-### Thang
-
-Rifle carry to pavilion
-5 Stations about 20 yards apart along top of levee
-Station 1 - 20 Merkins
-Murder Bunny to Station 2
-Station 2 - 20 Curls
-Resurrection Bunny to Station 3
-Station 3- 20 Skull Crushers
-Beartrap right to Station 4
-Station 4 - 20 Bent Over Rows
-Beartrap left to Station 5
-Station 5 - 20 Overhead Press
-
-Jailbreak down hill
-3 Burpees
-Bernie Sanders up hill
-Rinse and Repeat x 5
-
-Ruck on
-Rifle Carry to start of trail
-11's on the trail
-Thrusters at start of trail
-Cone 500 ft away
-Reverse lunges (Hard way)
-Made it through 7 Thrusters and 4 Lunges
-Finished up with 8 Thrusters on the way back
-
----
-
 ## Mogadishu Mile +EC
 
 ### Warmup
@@ -148055,45 +138678,6 @@ Approximately 1 yard of Caterpillar Crawls
 Sandbag Toss/Shuttle run the width of the field
 
 Recover, Recover:
-
----
-
-## CANned You Dig It?!
-
-### Warmup
-
-Goofballs
-Learning to Phelps
-Piano Tappers
-Runners Stretch
-
-### Thang
-
-Really long progressive shuttle run with 10 lights placed approximately 20 yards apart each.
-
-- Run to first light, 10 burpees, run back
-- Run to 2nd light, 20 dry docks, run back
-- Run to 3rd light, 30 merkins, run back
-- 4th light - 40 Bobby Hurleys
-- 5th light - 50 shoulder taps
-- 6th light - 60 Squats
-- 7th light - 70 Bonnie Blair’s (EW)
-- 8th light - 80 LBCs
-- 9th light - 90 High Knees
-- 10th light - 100 SSH
-- Every time you run back to beginning you had to do 10 OH presses or 10 coupon Swings or 10 Curls before heading back out. Q made those calls to switch on the fly
-
-With a little extra time today, everyone got to finish all 10 stations and some did a little extra.
-
-### Mary
-
-Everyone got a chance to lead
-PAX led single leg windshield wipers
-PAX led pigeon stretch
-PAX led skull crushers
-PAX led mountain climbers
-PAX led flutter kicks
-PAX led heels to Heaven
 
 ---
 
@@ -148288,41 +138872,6 @@ Mosey around the circle drive
 
 ---
 
-## The Joker and the Thief
-
-### Warmup
-
-Goofballs
-GrassGrabbers
-SSH
-Willy Mays Hays
-Learning to Phelps
-SSH
-
-### Thang
-
-PAX into Groups of 2
-Two dice.  Die 1- Equipments needed, Die 2- Route
-1- Slick
-2- Vest/ruck
-3- Sandbag
-4- Coupon
-5- Vest + Sandbag
-6- Repeat previous roll
-
-1-      Berry Loop
-2,4,6 Forby Hill
-3,5-   To the Horse Farm
-
-Each pax took turns rolling the dice for their team.
-
-### Mary
-
-Caterpillar walk
-Penguin tappers
-
----
-
 ## Successful Teams are No Accident
 
 ### Warmup
@@ -148507,39 +139056,6 @@ Station 4:
 ### Mary
 
 6 to 1 Abtivators
-
----
-
-## Remembering Carter
-
-### Warmup
-
-5:1 Motivators
-Piano Tappers IC
-Siagon Squat Hold
-
-Buy in:
-Ruck .5miles with Ruck+Sandbag
-
-### Thang
-
-10 Rounds:
-11 Sandbag Push Press
-14 Sandbag Bent over Rows
-19 Slick Squats
-60 yard run
-
-60 yards because running the bases was his favorite thing to do
-
-Extra Credit:
-Sandbag Clean and Toss out n backs
-
-Buy out:
-.5 mile Ruck + Sandbag back to flag
-
-### Mary
-
-8 ct Bodybuilders IC
 
 ---
 
@@ -149135,55 +139651,6 @@ Chad x1000 WOD
 
 ---
 
-## Chad1000x 2022
-
-### Warmup
-
-SSH
-Copperhead Squats
-Runners Stretch
-Pigeon Stretch
-Piano Tappers
-Bonus Burpees x 10
-
-### Thang
-
-Chad1000x - 1000 step ups OYO
-PAX could wear a vest, ruck, or complete the step ups slick with no weight.
-
-Modifications could be made to the height of the step if needed and other exercises were also offered to reduce the number of step ups if needed so that everyone could participate. Modifications included air squats, incline merkins, and lunges.
-
-PAX encouraged each other along the way, picked up the 6 to make sure we all completed the work, and listened to some Marky Mark and Nickelback among others to keep everyone lighthearted through this tough challenge.
-
----
-
-## Chad 1000x
-
-### Warmup
-
-Side Straddle Hops
-Knee Pulls
-Grady Corn
-Willie Mays Hays
-
-### Thang
-
-Chad 1000x!!!
-
-3 OPTIONS:
-
-1. Slick // No rucksack. You pick the height of the step-ups.
-2. Standard // 30#/20# rucksack. You pick the height of the step-ups.
-3. Expert // 45# rucksack. Use 20" box for step-ups.
-
-“Even while serving as a SEAL, Chad took time to scale up to the Expert version. There is zero shame in starting Slick, or with Standard weight, or in sharing the steps with a friend.”
-
-### Mary
-
-Not Today
-
----
-
 ## Veteran's Day Chad 1000x
 
 ### Thang
@@ -149296,30 +139763,6 @@ Willie Mays Hays
 Flutter Kicks
 Rosalitas
 LBCs
-
----
-
-## Lunging the Levee
-
-### Warmup
-
-9-1 motivators
-Calf Stretch
-Wounded Pigeon
-Cross over Hammy Stretch
-LBAC
-
-### Thang
-
-Tabata Ruck 4-:45
-
-Ruck for 4 min
-Lunge 45 seconds
-50lb Sand Bag Passed amongst PAX
-
-### Mary
-
-Wounded Pigeon
 
 ---
 
@@ -149869,54 +140312,6 @@ Guantanamo Bay
 
 ---
 
-## Springing Forward
-
-### Warmup
-
-Monkey Humpers
-grass grabbers
-Bat wings
-
-### Thang
-
-Rucks on and Coupons up - forward march
-Rifle carry position down to Mt. PAX
-
-MT. PAX
-Bear Crawl with rucks on up
-Mosey down
-Deion Sanders up with ruck and coupon
-Mosey down
-
-First Bench
-Rucks on Coupon Overhead Squats x 10
-
-Second bench
-Rucks only squats x 25
-
-Open Field
-Rucks off
-Murder Bunny down the field 50 yards
-Bear Traps back to trail
-Taint Scrapers x 20
-
-Rucks on and coupons up
-To the top of the Levee
-CPRs x 10
-
-PAX left coupons and rucked down half way and back.
-Picked up coupons and headed back for Mary.
-
-### Mary
-
-Lounge Acts featuring PAX
-LBCs
-Rosalitas
-
-Recover / Recover
-
----
-
 ## Real Men Dance
 
 ### Warmup
@@ -150416,44 +140811,6 @@ Q added 2 Twists:
 ### Mary
 
 Nope.  Q called "Uncle"
-
----
-
-## Jump baby!
-
-### Warmup
-
-Abe Vigodas
-5-1 Merkin Motivators
-Lounge Act (20 per leg/side)
-Bear Mer Taps
-
-### Thang
-
----- ROUND 1 ----
-Jump Rope 2 Minutes (15 sec rest)
-Cleans 30 Sec (30 sec rest)
-3 sets
----- ROUND 2 ----
-Jump Rope 2 Minutes (15 sec rest)
-Burpee SB Jumps 30 Sec (30 sec rest)
-3 sets
----- ROUND 3 ----
-Jump Rope 2 Minutes (15 sec rest)
-Snatch 30 Sec (30 sec rest)
-3 sets
----- ROUND 4 ----
-Jump Rope 2 Minutes (15 sec rest)
-Shoulder Toss 30 Sec (30 sec rest)
-3 sets
-
-Ruck (Didn't get to short on time)
-
-### Mary
-
-Zelenkys (Basically American Hammers)
-Back Planks
-Fox Holes
 
 ---
 
@@ -151006,43 +141363,6 @@ One man bands 10 IC
 
 ---
 
-## Maniac Monday Mayhem!
-
-### Warmup
-
-Mosey to second bridge and back
-Willy maze haze
-Grass grabbers
-Goof balls
-
-### Thang
-
-Part 1
-8 rounds (Continuous rotation)
-Station 1: Pull sandbag (60 Ibs) up hill
-Station 2: Pull sandbag (100 Ibs) across field
-Station 3: Al Gore or Plank
-
-Part 2 Ruck WOD
-4 rounds (With Ruck)
-10 merkins
-20 squats
-10 merkins
-20 ruck swings
-
-1 minute rest between rounds.
-
-PAX had time for a short ruck
-
-### Mary
-
-Done under bridge on way back
-American Hammers
-Flutter kicks
-Hello Dollys
-
----
-
 ## Zombie Zoo!
 
 ### Warmup
@@ -151394,29 +141714,6 @@ PAX circled up with coupons for:_
 ### Mary
 
 - 10 burpees OYO (_+10 burpees = 150_)
-
----
-
-## Thirsty Thursday
-
-### Warmup
-
-5:1 Motivators
-Bat Wings IC x 15
-Goofballs IC x 20
-
-### Thang
-
-11's on the hill
-Thrusters at the bottom
-Bernie Sanders Up
-Pay the Piper halfway up: 3 Burpees
-Shoulder Tap Merkins at the top
-Bearcrawl down the hill (modified to Crawlbear about halfway through)
-
-### Mary
-
-Ran out of time
 
 ---
 
@@ -151820,41 +142117,6 @@ WORLDS GREATEST STRETCH. - 4 CT, IC.
 
 ---
 
-## Monster Monday
-
-### Warmup
-
-Monkey Humpers
-5-1 Merkin Motivators
-Copperhead Squats
-Bat Wings
-
-### Thang
-
-At the Parking Lot the following beatdown was completed:
-
-5 Burpee Buy In before each exercise
-Round 1 - Overhead Press x 25
-Round 2 - BBSU x 50
-Round 3 - 40ish Yard Dash
-Round 4 - CPRs x 20
-Round 5 - 40ish Yard Dash
-Round 6 - ruck squats x 40
-Round 7 - 40ish Yard Dash
-
-$Cash Out$ - jump over ruck burpees x 10
-
-Rucked back to Flag
-
-### Mary
-
-LBCs
-Pickle Pointers
-Pickle Pounders ( just made sense)
-Rosalitas
-
----
-
 ## Case of the Mondays
 
 ### Warmup
@@ -151898,26 +142160,6 @@ Flutter Kicks
 Plank High/Lows
 LBC's
 1 Minute "Recovery" - Bleacher run
-
----
-
-## Saturdays at Streaker are the Best
-
-### Warmup
-
-hairy rockettes, knee pulls and high knees, quad pulls and butt kickers, old man stretch (to be renamed soon), groiners, pigeons, copperhead merkins, copperhead squats
-
-### Thang
-
-PAX numbered 1-5.  #1-3 played Rollers.  2 of the three played a round with the loser swapping the place of he person sitting out.  If you are sitting out you roll the dice and perform the exercise until the next round is over.  Extra penalties were added throughout which substituted the exercises for kraken burpees.
-
-#4-5 grabbed a weight (sandbag, ruck, or vest) and completed one lap around the school (.75mi) OYO.  When returning, swap spots with one of the 3 playing Rollers.
-
-Everyone got two laps in.  At the end we did one round all play of Rollers with 3 losers having to throw on weight for one trip around the track (.2mi).
-
-### Mary
-
-3 Prison Burpees
 
 ---
 
@@ -152333,40 +142575,6 @@ Rinse and repeat
 ### Mary
 
 flutter kicks and Damn you scuba steve
-
----
-
-## Backblast
-
-### Warmup
-
-Run down to bridge and back
-Willy maze haze
-Learning to Phelps
-Grass grabbers
-
-### Thang
-
-50 donkey kicks (HW)
-25 donkey jumps (HW)
-25 fire hydrants (HW)
-
-Deon sanders 2x up hill
-
-WOD:
-80 ruck squats
-60 sit ups
-40 ruck overhead squats
-20 ruck sit ups overhead
-
-1.25 mile ruck to finish up
-
-### Mary
-
-Flutter kicks
-Penguin rappers
-Side crunches with ruck
-Freddy mercuries
 
 ---
 
@@ -152959,32 +143167,6 @@ In Cadence
 
 ---
 
-## No Surprises / October Tribe WOD: Mog Mile
-
-### Warmup
-
-SSH and Stretches
-
-### Thang
-
-October Tribe WOD: Mog Mile
-Buy In: 73 Sandbag Squats - (Ruck + Sandbag)
-2 Sets:
-18 Sandbag Cleans
-18 Sandbag Sit Ups
-18 Sandbag Overhead Throws
-18 Sandbag Burpee + Deadlift
-18 Sandbag Walking Lunges
-18 Sandbag Shoulder to Shoulder Press
-Cash Out: 1 mile “Mog Mile” Ruck - (Ruck + Sandbag) [modified to half mile for time]
-
-Significance of Numbers:
-73 US Soldiers wounded
-18 US Soldiers who were killed
-2 Black Hawks shot down
-
----
-
 ## Leave Right: LDP: Schooling (Q4.2)
 
 ### Thang
@@ -153514,40 +143696,6 @@ Big Boi Sit Ups
 ### Mary
 
 5 to 1 Abdivators
-
----
-
-## The Hills Have Eyes
-
-### Warmup
-
-Grass Grabbers
-5-1 Motivators
-Bat Wings
-
-### Thang
-
-PAX headed to the bottom of the Levee to prepare for 11’s.
-
-Round 1 of the 11’s
-Bottom Merkins
-Bear crawl up
-Top Squats
-Crawl back down
-
-PAX rucked up and headed down the trail.
-Next stop was about half way to the baseball fields on the top path.
-
-Round 2 of the 11’s commenced.
-
-Bottom - Bobby Hurrle’s
-Bear crawl up
-Top - Burpees
-Crawl Bear down
-
-Rucked back to the parking lot.
-
-Out of time - no Mary today.
 
 ---
 
@@ -154131,43 +144279,6 @@ Big Boi Sit Ups
 
 ---
 
-## Rucktober!
-
-### Warmup
-
-SSH
-Willy maze haze
-Learning to Phelps
-Grass grabbers
-
-### Thang
-
-3 stations
-
-Station 1
-Sandbag (60) at bottom of the hill. Each member of the PAX had to pull it up the hill which was attached to a rope and carabiner. Then PAX member had to pull it back down and reset for the next person. While someone was pulling the sandbag, the rest of the PAX did plank jacks
-
-Round 2:
-
-Another sandbag pull down and back with the 100 Ib sandbag. PAX did merkins ( recommended without rucks ) until everyone cycled through.
-
-Round 3
-
-Wheelbarrow set up at the beginning of the path (by where we plant the flag) with rocks and coupons in it. Had to do 15 shrugs then go to the end of the path. Do 15 more shrugs then head back to the beginning of the path.
-
-PAX did plank or different version of abs exercises while waiting
-
-PAX grabbed the 60 Ib sandbag and went on a ruck down the levee trail.
-
-### Mary
-
-Flutter kicks
-Hello Dollies
-LBCs
-Penguin tappers
-
----
-
 ## Free to Lead
 
 ### Warmup
@@ -154626,40 +144737,6 @@ Also Every 5 Minutes 5 Kracken Burpees
 ### Mary
 
 none
-
----
-
-## Rub Down’s First Rucking Q
-
-### Warmup
-
-- SSH
-- Learning to Phelps
-- Grass Grabbers
-- Willy Mays Hays
-
-### Thang
-
-PAX partnered up (glad we had even numbers)
-Rd 1
-Exercise 1 - offset carry two rucks (one high, one low) approx. 25 yards switching hands at turnaround point.
-Exercise 2 - mini coupons lateral raises
-
-Rd 2
-Exercise 1 - Rifle Carry ruck 25 yards and back
-Exercise 2 - Plank position alternating row with mini coupons
-
-Round 3: Rucks on
-4x4s - 4 Rounds
-4 merkins, 4 mountain climbers, 4 triple bears, 4 plank jacks
-
-Q then called an audible and PAX rucked 2 miles together and had some #2nd-f time to catch up on life.
-
-### Mary
-
-Low on time so just one exercise
-
-- Hello dolly crunches x 15 IC
 
 ---
 
@@ -155488,14 +145565,6 @@ After a 5th...long, awkward silence... (will Q call for another???)
 
 ---
 
-## Sunday Ruck- Al Foster Trail
-
-### Thang
-
-Started Garmin watch 10 mins late.
-
----
-
 ## IronPax Week 4-
 
 ### Warmup
@@ -155936,43 +146005,6 @@ V-Ups and Monster Crunches
 100 Big Boy Sit-ups
 50 Jump Rope
 1 mile run
-
----
-
-## Gone Fish'n for New Ways to Accelerate
-
-### Warmup
-
-SSHs - IC
-Goofballs - IC
-(TRYING THIS New THANG out!) The F3 HAKA!
-&gt; consists of 3 Exercises: (_Each was given a Purpose &amp; a Name)_
-&gt;
-
-- Sumo Walkers (We are STABLE) - Q demo’d as similar to Hill-Billy Walkers but in a low squat movement
-- Shields-Up! (STRONG as One) - like Warming up Serena's Back but hands hitting our Forearms With strength
-- For the Sky-Q (Lifting Each other UP - That's Living the 3rd!) - alternating Forward Lunges with Hands raising up to the Sky.
-
-Did each above IC. Then put them together  IC - 3X
-
-### Thang
-
-PAX went on a Ruck with TWO Implements!  The  on a 35ft, 1" Nylon Boat Rope AND Q 70# Ruck Sandbag.   Took the levee trail.  Goal was to make 3 stops and try out this New Tool of Acceleration.
-
-Stop One:  .75 miles in we rucked up to the top of the levee.
-Ea. of us took turns Casting the HOOK down the sloped levee and pulling it back up. (Fun Fact:  the Hook weighs about 20lbs. ) We did this 3 times while the partner performed OH Presses with the Sandbag AMRAP-style till the other was done Casting.  Once each of us had a chance to Cast the Hook and pull it back we continued the Ruck along the top of the levee.
-
-Stop Two: another .75 miles we Did the Same Casting and pulling back up while the partner performed Deadlifts with the Sandbag. Once each of us had a chance to Cast the Hook and pull it back 3Xs we continued the Ruck, heading back to the parking lot, but first heading down the levee to take the sidewalk path back.
-
-Continued Ruck back to Flags.
-
-### Mary
-
-(With Rucksack or Weighted Vest)
-
-- One-Man Bands IC
-- Mountain Climbers IC
-- American Hammers IC
 
 ---
 
@@ -156495,19 +146527,6 @@ Pax Started at #ao_the_den  Q mapped a route that showed 5.4 miles…. It was ab
 
 ---
 
-## Willy 2 Wally 2 Willy Ruck-tacular
-
-### Warmup
-
-Goofballs, copperhead squats, Willy Mays Hays,
-SSH, Grass Grabbers, Worlds Greatest Stretch
-
-### Thang
-
-As an active recovery from a tough IronPax week, PAX rucked (all with some kind of weight) from Wet Willy to Wally’s and back. Just a little under 3 miles.
-
----
-
 ## winter is coming
 
 ### Warmup
@@ -156777,36 +146796,6 @@ After the 5th round, run another 400M
 Note: Each round contains 7 exercises (for a total of 114 reps) which you will complete 5x (114 reps x 5 rounds = 570 reps). After the 5th round you will run another 400M to complete the 571st rep.
 
 Total running = 1.5 miles
-
----
-
-## Backblast
-
-### Warmup
-
-Ruck down the path almost to the bridge.  1st stop did 20 SSH, continued ruck then Arm Circles, rucked back to the flags.
-
-### Thang
-
-3 rounds, run up &amp; down the hill after each round.
-
-15 Ruck Thrusters
-15 Ruck BBSU
-15 Bent Over Rows
-15 Dead Lifts
-
-Part deux: 3 rounds, ruck down and back up the hill. At top do with ruck/vest on (pax freed to lead with or without ruck):
-B – burpees 5x
-L – lunges 10x HW
-M – merkins 20x
-P – plank jacks 25x
-S – squats 30x
-
-### Mary
-
-Flutter Kicks IC 10
-LBC IC 15
-Dying Cockroaches IC 10
 
 ---
 
@@ -157349,24 +147338,6 @@ The PAX learned the hard way to never attempt 100 burpees after running a 5k. We
 
 ---
 
-## Monday Funday!
-
-### Warmup
-
-Willy Maze Haze
-Grass Grabbers
-Various stretches
-Quads
-Lunges
-
-### Thang
-
-Pax Rucked up and set out on the trail. 45 seconds of mosey followed by 2 minutes active recovery.
-
-Distance 3.5 miles
-
----
-
 ## It takes two to tango
 
 ### Warmup
@@ -157401,14 +147372,6 @@ Flutter Kick
 Superman
 Heels to Heaven
 Elbow Plank
-
----
-
-## Ruck from The Streaker to Black Diamond and back to The Streaker.
-
-### Thang
-
-Rucked from #ao_the_streaker  to  #ao-black-diamond-eureka  with  1 lap around  the Black Diamond track, and back to #ao_the_streaker.
 
 ---
 
@@ -157773,40 +147736,6 @@ Starting at the center cone (cone 1):
 3. 5 ManMakers in middle. Rifle carry to cone 4 and perform 20 Overhead Triceps Extensions. Farmer carry back to center.
 4. 5 ManMakers in the middle. Rifle carry to cone 5 and perform 25 KB Swings. Farmer carry back to center.
 5. 5 ManMakers in the middle. Rifle carry to cone 6 and perform 30 Curls. Farmer carry back
-
----
-
-## “Active Recovery”
-
-### Warmup
-
-Grass Grabbers
-Willy Mays Hays
-Albatross wings with pretzels
-Gumbos
-Partner arm behind the back stretch
-
-### Thang
-
-Ruck down past the bridge.
-“Mt. PAX”
-Bear crawl up - mosey down x 4
-
-Ruck to parking lot
-Worlds Greatest Stretch
-Super mans
-90/90
-Deep squat holds
-
-Ruck back to base, out of time!
-
----
-
-## Prayer Walk
-
-### Thang
-
-Q forgot Sandbag.
 
 ---
 
@@ -158563,8 +148492,6 @@ Once complete with 9 rounds, take 1 lap around Berry Park track (no sandbag).  P
 ### Warmup
 
 SSH, Learning to Phelps, Shoulder Stretching, Grass Grabbers
-
-Like all Duke beatdowns, music is always an important part and given the recent news on the other side of the pond, we rocked out to Her Majesty - QUEEN.
 
 ### Thang
 
@@ -159359,16 +149286,6 @@ Murder Rabbits
 
 ---
 
-## 4:30 AM 5K Run   AND   5AM  Ruck from The Streaker to Black Diamond and back to The Streaker.
-
-### Thang
-
-4:30am 5k Run: PAX and PAX completed 3.15 miles in nearby area surrounding #ao_the_streaker.
-
-5:00am Ruck: PAX joined us for a Ruck from #ao_the_streaker to #ao-black-diamond-eureka with 1 lap around the Black Diamond track, and back to #ao_the_streaker.
-
----
-
 ## Ozark Adventure Triatholon
 
 ### Thang
@@ -159779,36 +149696,6 @@ Lbc/hip trusters
 
 ---
 
-## Backblast
-
-### Warmup
-
-- 5:1 Motivators
-- WMH
-- Shoulder Press Stretch
-- 5:1 Motivators
-
-### Thang
-
-- PAX  mosey with coupons to bottom of Gherkin's Ridge where a circle of stations were set up.
-- Ten Stations
-- Station 1 - Timer - Drag a pallet with a standard coupon set on it, by the chain attached to it, up the hill and around the cone at the top of the hill and back down, TWICE.  While PAX at this station is doing his task, all others do as many reps as possible until he finishes.
-- Station 2 - Curls
-- Station 3 - Coupon Press - Heavy Coupon
-- Station 4 - Taint Scrapers
-- Station 5 - Coupon Press
-- Station 6 - CPRs
-- Station 7 - Weighted Ruck Press
-- Station 8 - Blockees with Heavy Coupon
-- Station 9 - Overhead Press
-- Station 10 - PAX Press
-
-### Mary
-
-- Multiple call outs to the PAX in attendance for some ab exercises
-
----
-
 ## Week 0 - Practice Baby
 
 ### Warmup
@@ -159908,34 +149795,6 @@ Pick up six, record times
 ### Mary
 
 Picked up the 6 for the Mary
-
----
-
-## Backblast
-
-### Warmup
-
-"Grass Grabber sandwich"
-Grass Grabbers IC- 20
-Windmills IC- 20
-Seal Claps IC- 20
-Grass Grabbers IC- 20
-
-### Thang
-
-Pax took off (ruck on) with coupons to the hill
-3 Rounds:
-(Ruck on) Start at bottom with 5 Thrusters with coupons, mosey to top, and do 5 Merkins, Bernie Sanders down and plank the 6 each round;
-
-Pax took off again to the main lot with coupons, when we arrived we dropped our coupons, ruck, and then proceeded to start next round of lot work:
-20 Presenting Simbas with ruck
-10 Bonnie Blair's (hard way)
-We grabbed our gear to mosey to the other end of lot:
-We were able to finish 3 full rounds before grabbing our gear and heading back to base
-
-### Mary
-
-Danger Zone!!!! SSH, and each time you hear "danger zone" drop down to a Burpee
 
 ---
 
@@ -160738,20 +150597,6 @@ For the Irish Revolution and Fight for Irish Freedom We did 3 Exercises:
 
 ---
 
-## Covering House Miles Continue!
-
-### Thang
-
-3 bikers and 1 Rucker. Goal is miles!
-PAX 10.27 miles
-PAX 10 miles
-PAX 16
-PAX 3.04
-
-Way to finish the week, at the Levee, out strong gentlemen!
-
----
-
 ## Out n Back
 
 ### Warmup
@@ -160991,37 +150836,6 @@ Pax lined up in plank position and passed 25 golf balls one at a time from a box
 
 ---
 
-## Covering House Miles Continue!
-
-### Thang
-
-3 bikers and 1 Rucker. Goal is miles!
-PAX 8.61 miles
-PAX  8.61 miles
-PAX 13 miles:bicyclist:
-PAX 13 miles
-PAX 3.62 miles
-
-Way to get after it PAX and crew! That storm rolled in pretty quickly!
-
-Look for the pre blast tomorrow. Same thing different evening. Plan to get done around 8ish and end at Bobby's for some 2nd F
-
----
-
-## Shieldlock minus
-
-### Thang
-
-Tried to focus on pulling movements today so we all did with ruck or sandbag or kettlebell some good moves
-Upright Rows
-One Arm Rows - (Lawnmower pulls)
-Standing skullcrushers
-Over the shoulder toss
-Burpees
-OH Press
-
----
-
 ## Build to 100!!
 
 ### Warmup
@@ -161055,34 +150869,6 @@ Q added 2 Twists:
 
 Crucifixion - held various positions for 3 mins
 Q called "Uncle"
-
----
-
-## CAN-AM TRIBUTE
-
-### Warmup
-
-4-1 Merkin Motivators - 40 merkins total
-Bat Wings - 28 IC count for each forward, reverse, seal clap and overheads. 56 x 2
-
-### Thang
-
-Stopped at the boat ramp for the beatdown
-C - curls x 56
-A - American Hammers x 56
-N - No surrender lunges x 56
-A - Air squats x 56
-M - Merkins x 56
-
-Once completed continued the ruck. Stopped at the Levee basin, Jailbreak to the top.
-Ruck back to the flag.
-Stopped for a group bearcrawl up the levee.
-
-### Mary
-
-One Man Bands x 28
-Rosalitas x 28
-Total of 56
 
 ---
 
@@ -161290,20 +151076,6 @@ Exercises:
 
 ---
 
-## Covering House Miles Continue!
-
-### Thang
-
-3 bikers and 1 Rucker. Goal is miles.
-PAX TBD miles
-PAX 6.91 miles
-PAX 10 miles:bicyclist:
-PAX 3.53 miles
-
-Look for the pre blast tomorrow. Same thing different evening. Miles! Miles! Miles!
-
----
-
 ## Streaker 5K @ 4:30 (Day 4)
 
 ### Thang
@@ -161402,22 +151174,6 @@ End - 35 Coupon Squats
 ### Mary
 
 Supermans &amp; Fludder Kicks
-
----
-
-## Covering House Miles Continue!
-
-### Thang
-
-3 bikers and 1 Rucker. Goal is miles.
-PAX 11 miles
-PAX 7.76 miles
-PAX 13 miles:bicyclist:
-PAX 3.52 miles
-
-Always a pleasure gentlemen!
-
-Look for the pre blast tomorrow. Same thing different evening. Miles! Miles! Miles!
 
 ---
 
@@ -161687,54 +151443,11 @@ Modified due to time got thru 9th grade and then jumped to 12th grade
 
 ---
 
-## Covering House Miles!
-
-### Thang
-
-Two bikers and 1 Rucker. Goal is miles.
-PAX 14.3 miles
-PAX 9.7 miles bike
-PAX 5.24 miles
-
-Always a pleasure gentlemen!
-
-Look for the pre blast tomorrow. Same thing different evening. Miles! Miles! Miles!
-
----
-
 ## Streaker 5K @ 4:45 AM
 
 ### Thang
 
 The PAX set out from #ao_the_streaker and looped down around the industrial park and back up to the middle school to get roughly 3.4-ish miles in. We saw PAX and PAX zipping around on their bikes while we used our legs the old-fashioned way to log miles like real men
-
----
-
-## Roll Out
-
-### Warmup
-
-GrassGrabbers
-Willy mays Hays
-Knee Pulls
-Quad stretch
-SSH
-
-### Thang
-
-Pax rucked to a hill up to the Levee,
-One man ran everyone else did :
-Squat hold
-Squats
-Hops
-Everyone ran up the hill , and continued rucking.
-
-### Mary
-
-LBC
-Penguins Flappers
-Super Mans
-Crucifixion
 
 ---
 
@@ -161778,14 +151491,6 @@ PAX Rifle Carry around the Track. If you have to rest or drop your coupon do 3 B
 - American Hammers - IC
 - King Kong Planks - IC
 - 5 Big Boy GetUps - on Qs call (get down, then get up!)
-
----
-
-## 5k Run + 10k Ruck
-
-### Thang
-
-In support of The Covering House Challenge, Most of the PAX started at 4:30am and got in a full 5k run or more. PAX started around 4:15 and ran a little over 6 miles for a 10k! The PAX ran their laps around the long loop of Lion's Park.
 
 ---
 
@@ -161838,8 +151543,6 @@ FUN FACT: ONLY 2 of the men out here this morning have played this Game - BOCCE 
 - Q kicked us off with tossing the first target die and Rep die.
 - Team that gets their die closest to the target gets to PICK THE MOSEY and their DIE determines All PAX exercise with the GREEN DIE determining the count/time.
 - Played several rounds with, whats seems like Team PAX winning most of the tosses (because of PAX deadly accuracy!
-
-Back to our regularly scheduled program: We finished up with a few more tosses, taking us down to the hillside of the Site where we did our excercises either upward or downward of the slope! YEAAAH!!!
 
 Final Toss called with us aiming back for the Flags!
 
@@ -162217,61 +151920,6 @@ Two stations set about 25 yards apart. PAX would perform exercise at one with a 
 80 Penguin Tappers EW
 Had to skip 90 in order to finish
 100 SSH- Mosey
-
----
-
-## Lift a Burden from Your Shoulders
-
-### Warmup
-
-Grass Grabbers, Copperhead Squats, Burpees OYO x 5
-
-### Thang
-
-We geared up with ruck sacks and coupons and moved to the bottom of the levee just below the flag.  We started with modified ground pounders (deadlift starting position and added the tricep reverse) followed by 3 steps up the hill.  Repeat ground pounders and three steps until we reached top of levee.  We repeated the same exercise in reverse to bottom of levee.  Finally, we charged to top of hill with coupons to end Thang 1.
-
-We lined up at the first set of cones and partnered up.  While one PAX completed an exercise the team member moseyed to end of lot and back with both rucks / sandbags.  We switched so that both partners completed the exercise and mosey.  The PAX continued exercising until his partner returned.  Everyone planked waiting for the 6 before moving to the next round.
-
-1. Merkins
-2. Bobby Hurleys
-3. Carolina Dry Docks
-
-We geared up and rucked back, climbing up the levee at east end of boat ramp parking lot.
-
-### Mary
-
-No time for Mary but we all have six pack abs already
-
----
-
-## After 2 Years!
-
-### Warmup
-
-8-1 motivators
-LBAC's forward and reverse IC
-Grassgrabbers ICx10
-Imperial Walkers
-
-### Thang
-
-To start, PAX headed to corner of parking lot with coupons and 1 one RUCK sack
-At this corner we would do an exercise based on a playing card that each HIM pulled.  The focus was on Legs.  PAX choice on # of REPS.
-After the exercise we would mosey to the opposite corner and do an Upper exercise.
-Again, a HIM would pull a playing card that would indicate the exercise.
-
-It is important to mention that the entire time, we kept a RUCK ON or IN THE AIR (approximate weight of 45 lbs)
-Each HIM would trade off the weight and help the other man out when needed!
-
-Standing Lunge, Mosey to opposite corner
-Merkin, Mosey back to start
-Monkey Humper, Mosey TOC
-Incline Merkin, Mosey BTS
-Backward Lunge, Mosey TOC
-Arm Circle, Mosey BTS
-Squat, Mosey TOC
-Derkin, Mosey BTS
-Low, Slow Squat....Head back to the Flag for Mary
 
 ---
 
@@ -162942,14 +152590,6 @@ Leg Lifts
 
 ---
 
-## Back from the Beach Run
-
-### Thang
-
-Just .  Searched for the rucking PAX then just kept going!
-
----
-
 ## 1
 
 ### Warmup
@@ -163398,39 +153038,6 @@ Round 2 - _We Go Together from “Grease”_
 ### Mary
 
 PAX was begging for more Barry Manilow so the Q decided to play "Can't Smile Without You". While listening to this audio masterpiece the PAX did LBS's for the songs duration. Th
-
----
-
-## Gas station ready!
-
-### Warmup
-
-Willie Mayes Hayes IC
-Learning to Phelps IC
-SSH IC
-Saigon Squat Holds IC
-
-### Thang
-
-Ruck up
-Partner up
-Grab Sandbag
-Move .7 miles to checkpoint 1
-
-WOD
-1 Partner does 2 laps on Parking lot
-Other Partner begins WOD
-AMRAP
-13 Sandbag Man Makers
-13 Ruck Lunges
-13 Sandbag Get ups
-13 Ruck Push ups
-Wash, rinse, repeat for awhile
-
-### Mary
-
-Ruck Flutter Kicks IC
-Ruck One man bands IC
 
 ---
 
@@ -164050,27 +153657,6 @@ Freddie Mercuries IC
 
 ---
 
-## Do hard things, get 1% better
-
-### Warmup
-
-Grass grabbers
-BatWings
-
-### Thang
-
-Ruck as far as we can go, rotating who has the 60 lb sandbag each round. Perform the following every 5 minutes:
-
-- 10 lunges
-- 15 merkins
-- 20 squats
-
-### Mary
-
-One man bands
-
----
-
 ## 11s on the Beach!
 
 ### Warmup
@@ -164090,14 +153676,6 @@ LBAC/R
 ### Mary
 
 Victory lap down the beach and back
-
----
-
-## Sunday Ruckaroo (Streaker to Black Diamond &amp; Black Diamond back to Streaker)
-
-### Thang
-
-The PAX rucked through the Arbors and Hilltop to #ao-black-diamond-eureka and completed 1 lap around the track and then headed back to #ao_the_streaker. PAX completed about 4.82 miles!
 
 ---
 
@@ -164647,34 +154225,6 @@ Flutter kicks PAX
 ### Mary
 
 waterfall merkins 1-5 which was fitting bc we finished in A huge downpour!
-
----
-
-## Let's Ruck!
-
-### Warmup
-
-- Opening the Gates - IC
-- Tipper Gores (adapted from a post at#ao_mousetrap_wildwood w/ PAX - IC
-- Side lunges - IC
-- Grady Corn
-- Warming up Serena’s Back - IC
-
-### Thang
-
-Q noted PAX’s Ruck Master Challenge -#3 Part 1 is a 2mile Challenge for time. So, today our goal is to ruck out on the trail with Q’s 70# sandbag for the added suck. Time will be noted. We will then ruck back and try to pick it the pace to beat that Time.
-(At 1mile we took an active recover and did 15 air squats with rucks - iC)
-
-- We all took turns carrying the sandbag
-- Mile 1 time: 17:04
-- Mile 2 time: 16:40
-
-### Mary
-
-PAX Mosey to Pavilion for a few Mary exercises out of the rain.
-
-- 1-Man Bands with our Rucksacks - IC
-- American Hammers w/ Rucks - IC
 
 ---
 
@@ -165253,28 +154803,6 @@ Ran a Pre-Beatdown 5K
 
 ---
 
-## LFG!
-
-### Warmup
-
-LBAC
-Grady Corn
-Grass grabbers
-7-1 motivators
-Learning to Phelps
-
-### Thang
-
-2.5 Mile Ruck - incorporated dips, inclined Merkins, air squats, Louganis’ and leg lifts.
-
-### Mary
-
-Old man stretch
-Back should stretch - L/R
-Across body should stretch - L/R
-
----
-
 ## Know Your Impact
 
 ### Warmup
@@ -165365,31 +154893,6 @@ Recover-Recover
 ### Thang
 
 The PAX completed 10 Burpees every minute for 10 minutes totalling 100 Burpees.
-
----
-
-## Backblast
-
-### Warmup
-
-Q focused on and reinforced proper sequence of commands and cadence.
-
-- Grass Grabbers - IC  immmediately transitioning in to
-- Willy Mays Hayes - IC
-- Copperhead Squats - IC
-
-### Thang
-
-Part I
-PAX mosied over to the Parking garage for a 3-man GrowRuck trainer. Ea. Team of 3 will be split in one man on bottom, one on top, &amp; one running from bottom to top to tag out. (Q will blend in).  Timer set for 10 mins for this AMRAP. Let's see how many rounds we can get in.
-
-- Bottom - GrowRuck standard push up (Merkin) - full range!
-- Top - sit-ups (bbsu)
-
-Recover after 10mins.
-
-Part II- who left this 70# Sand bag up here?!
-PAX formed a single line for an Indian run mosey around the top deck . Man in front carrying the sand bag gets relieved by the man running up to front. all 10 plus a bonus two accelerating the 12 with a sandbag jailbreak!
 
 ---
 
@@ -165781,50 +155284,6 @@ Crunches
 Plank
 
 COR + NOR: check
-
----
-
-## Back in Action
-
-### Warmup
-
-Grass Grabbers
-Monkey Humpers
-5-1 Merkin Motivators
-Abe Vigodas
-
-### Thang
-
-PAX rucks on moseyed down the trail to the bottom of the Levee.
-
-5's (like 11’s but reduced for time)
-Bottom Of the levee - ruck Merkins
-Jailbreak up
-Top of the levee - ruck squats
-Plank for the 6
-
-Started the ruck on top of the levee.
-There we did ruck on bear crawls as follows.
-First round - 30 count IC
-1 minute ruck rest
-Second round - 20 count IC
-1 minute ruck rest
-Third round - 15 count IC
-We had reached the turnaround point.
-On the way back we completed the following:
-
-First round- 30 ruck squats
-Second round - 30 hand release ruck merkins
-Third round - 30 ruck squats
-Fourth round - 30 hand release ruck merkins
-
-Finished rucking the trail back to parking lot.
-
-### Mary
-
-Flutter Kicks
-Rosalitas
-Absolutions
 
 ---
 
@@ -166317,39 +155776,6 @@ Exercises:
 - Mountain Climbers
 
 After the shot was made, both teams jailbreak to the ball and performced the exercise. The closer to the pin wins. Winning team, 10 reps. Losing team, 20 reps. One member from each team per round had to be the Caddy (Sandbag) and a member from the other team had to be the card girl (Ice Mule Cooler w/ waters for afterwards) who had to make their way to the ball too.
-
----
-
-## "Leg's for Day's"
-
-### Warmup
-
-Seal claps IC- 15
-Overhead claps IC- 15
-Grass Grabbers IC- 15
-Side straddle hops IC- 15
-
-### Thang
-
-Entire BD try to keep your coupon off the ground, if it must drop, then ALL PAX must perform 5 ruck on copperhead Merkins at end of BD/before Mary, and will increase by 5 each time; encouraged PAX to take on extra load between each other to avoid penalty;
-
-Ruck until large hill (with path): PAX go up hill with coupon, ruck on, and deion sanders down; then 15 air squats ruck on w/coupon; complete 3 rounds;
-
-Mosey to parking lot: use every cone for each movement until complete round is made/end of lot;
-
-At each cone:
-Thrusters with coupon- 5
-Mosey to next
-Thrusters with coupon - 5
-Lunges to next
-
-Mosey back to hill from lot and complete another 2 rounds of previous work, PAX helped pick up the 6 on Air Squats reps and hill climb;
-
-Great work by everyone picking up the 6, and pushing each other throughout, that's what it's all about men!!
-
-### Mary
-
-Big boy sit ups for time- 3 minutes
 
 ---
 
@@ -167246,51 +156672,6 @@ Hello Dolly’s
 
 ---
 
-## Let’s Rucking Go!
-
-### Warmup
-
-Willy maze haze
-Learning to Phelps
-Arm circles forward, backwards, front, overhead
-
-In the middle of arm circles a train came through, so the PAX immediately halted and did hand release merkins until it past and it was a long one!
-
-### Thang
-
-PAX went on a ruck.
-Stopped at the hill by Bobbys, bear crawl up, Deon Sanders down.
-
-Then the real fun started
-
-Interval training with rucks, coupons, and one sandbag.
-
-2 minutes jailbreak/mosey followed by 1 minute of rifle carry
-
-Did this until we got to the first parking lot.
-
-Various rounds of activities that scaled the length of the parking lot. You either did the exercise with the coupon or sandbag. Rotated the sandbag accordingly.
-
-Round 1 - 5 blockees followed by 20 curls for the girls then did lunges for the travel every other pylon
-
-Round 2 - 5 blockees followed by lawn mower pulls (10 each arm) then did lunges for the travel every other pylon
-
-Round 3 - 5 blockees followed by 12 CPRs then did lunges for the travel every other pylon
-
-Round 4 - 5 blockees followed by 10 bent over rows then did lunges for the travel every other pylon
-
-Round 5 - 5 blockees followed by 10 (perfect form) squats then did lunges for the travel every other pylon.
-
-PAX then did a good paced ruck back to Bobby's hill. Then did bear crawl up, deon sanders down.
-
-Headed back to the flag.
-
-### Mary
-
-30 flutter kicks
-
----
-
 ## Blackjack for a Six Pack
 
 ### Warmup
@@ -167341,20 +156722,6 @@ Tabata Stations (45s on, 10s rest)
 ### Mary
 
 - To celebrate the 6 laps that the racers of the Ballwin triathlon will do today, we did 6 bear crawl loops around the pool
-
----
-
-## Streaker to Den, Den to Streaker
-
-### Thang
-
-The PAX completed a 9 mile ruck from #ao_the_streaker to #ao_the_den, stopped for a quick bathroom break and started the trip back. PAX accomplished the 5.6 in remembrance of our friend PAX and kept pushing because we had it in us. Covered many topics and learned a lot more about each other. What happens on West Main Street stays at West Main Street
-
-### Mary
-
-Boy Band: Check!
-
-PAX can you comment with the Boy Band and a screenshot of the Strava?
 
 ---
 
@@ -167630,31 +156997,6 @@ Station 6 supermans
 
 ---
 
-## Kickball Take 2
-
-### Warmup
-
-Plank, SSH, Squats
-
-### Thang
-
-Rally Round The Richard: Mountain Climbers and Pull-ups
-
-_ Batter carries sandbag
-_ Rest of the dugout does 2-1-3 (Lunges, Jump, Squat) every 20 seconds
-_ Fielding team must do Navy Seal Burpee every 20 seconds (creates errors)
-
-Rally Round The Richard: Mountain Climbers and Pull-ups
-
-### Mary
-
-Monkey Roll Showdown
-Results: Another PJ Victory across the furthest known reaches of space. Plenty of hard work and hustle especially in the face of Dr Richard, who is a worthy adversary.
-
-"The more you learn, the less you know" doesn't just hold true to the origin of the universe, _almost everyone_ of age around you is better than you at something; get over yourself, acknowledge their expertise and then learn from them.
-
----
-
 ## Backblast
 
 ### Warmup
@@ -167778,20 +157120,6 @@ First PAX on each team to complete the current exercise grabs a partner, jail br
 50 OHP
 50 Curls
 REPEAT
-
----
-
-## SPEED RUN
-
-### Warmup
-
-Willy Mays Hays IC
-Grass Grabbers IC
-Abe Vigoda IC
-
-### Thang
-
-Super simples got on the levee and the goal was to cover as much distance as possible.  45 seconds of running, 2 minutes of rucking until we made it back.  Completed 3.5 miles just in time.
 
 ---
 
@@ -168382,33 +157710,6 @@ Also the band THE SWORD is freaking awesome.
 
 ---
 
-## "The Man Maker"
-
-### Warmup
-
-Copperhead Merkins IC: 10
-Grass Grabbers IC: 10
-Copperhead Squats IC: 10
-
-### Thang
-
-PAX started rucking with ten minute timer on;
-
-Each park bench encountered we did inclined ruck on merkins, increasing by 1 with each bench (totalled at 15 by end)
-
-Upon every ten minute timer end PAX would complete each round and increase reps by 10; AMRAP;
-
-10- Indian overhead presses
-10- bent over rows
-10- thrusters
-10- ruck on air squats
-
-### Mary
-
-None (there's no time!!!!)
-
----
-
 ## Circle Up Monday
 
 ### Warmup
@@ -168491,20 +157792,6 @@ officially pouring - pivoted to under pavilion and group Q calling exercises ble
 - Curls
 - Plank pull through coupon
 - Burpees
-
----
-
-## The Allenton Loop
-
-### Thang
-
-The PAX rucked 5.08 miles through unknown territory just south of 44 across Allenton Bridge.
-
-Also, the PAX saw a dead Possum. It wasn't playing dead, it was definitely dead.
-
-### Mary
-
-BOYBAND: Nailed it 100%.
 
 ---
 
@@ -168888,25 +158175,6 @@ Planks IC
 Bird Dogs IC
 V-Ups IC
 Little baby crunches IC
-
----
-
-## Day One or One day
-
-### Warmup
-
-Abe Begotas
-Learning to phelps
-Willie mays hays
-
-### Thang
-
-_Ruck for 3 miles or so_
-At each bench Merkins, Squats (15x20)
-
-### Mary
-
-Freddy Mercuries and dying cock roaches
 
 ---
 
@@ -169345,42 +158613,6 @@ Partner beatdown
 
 ---
 
-## Stars and Stripes
-
-### Warmup
-
-Bat Wings
-Monkey Humpers
-Grass Grabbers
-Calf stretch
-Calf raise
-
-### Thang
-
-10 — Jailbreaks with Rucks on up the levee, mosey back down.
-
-“Route 66”
-Rucked down the trail with some tourist traps along the way.
-Stop 1
-10 x Decline Merkins with rucks on
-15 x Incline Merkins with rucks on
-20 x ruck squats
-Stop 2
-10 x Decline merkins with rucks on
-Stop 3
-15 x Incline Merkins with rucks on
-Stop 4
-20 x ruck squats
-
-Times Square at the parking lot
-2 minute GrowRuck PT drill
-AMRAP Hand Release merkins in 2 minutes
-AMRAP BBSU in 2 minutes
-
-Ruck back to the !
-
----
-
 ## Backblast
 
 ### Warmup
@@ -169698,36 +158930,6 @@ Superman Holds, Coupon Hold with Rosalitas and PAX took us out with American Ham
 
 ---
 
-## GTE Training:school_satchel:
-
-### Warmup
-
-Hillbilly Rockettes w/ ruck IC
-SSH w/out ruck IC
-Grass Grabbers w/ ruck IC
-Butt kickers w/ ruck IC
-
-- Get your battle buddy, then into formation
-- Then out from the pavilion and into the PAX came Cadre Yodel
-
-Gear check: lots of missing gear, resulting in various exercises. Do Better!
-
-### Thang
-
-PT Test - PROPER FORM IS A MUST
-42 Merkins in 2 minutes
-52 BBSU in 2 minutes
-2 mile run in 18 minutes
-Some of us failed portions of the testing - Do Better!
-
-Battle Buddies grabbed 1 sandbag to share for the ruck. Got in about .5 mile before needing to circle up.  We did not adhere to the credo toward the end of the ruck as we left Ten Forty and PAX and their massive sandbag behind. Do better!
-
-### Mary
-
-Not today
-
----
-
 ## Train Town, USA
 
 ### Warmup
@@ -170040,28 +159242,6 @@ Recover Recover Called after approx 90 mins of work.
 
 ---
 
-## No Sandbaggin this morning!
-
-### Warmup
-
-Willie Mays Hays X 10
-GrassGrabbers X 10
-SSH X 30
-Bat Wings X 20
-
-### Thang
-
-PAX stayed circle around the flag with at least 50 pound sandbag, rucks or vests and completed the following for time.
-1/3 mile run, 30 Sandbag Pull Through Merkins, 1/3 mile run with Sandbag, 30 Sandbag Curls, 1/3 mile run, 30 Knees to Sandbag, 1/3 mile run with Sandbag, 30 Sandbag Overhead Press, 1/3 mile run, 30 Sandbag Squats, 1/3 mile run with Sandbag, 30 Sandbag Burpee Jumpovers and finish off with another 1/3 mile run.
-
-Times: PAX with 29:01, PAX with 30:35, PAX 32:15, PAX with 33:43, PAX with 34:00 and bringing up the six PAX with 36:12!
-
-### Mary
-
-Superman Holds IC, Gas Pumper Flutter Kicks W/Sandbag then each HIM led an exercise of their choosing.
-
----
-
 ## Burpee Ball V2.0
 
 ### Warmup
@@ -170280,35 +159460,6 @@ In Cadence
 
 ---
 
-## "Did someone say GrowRuck?"
-
-### Warmup
-
-Side straddle hops: 10
-Pickle pounders: 10
-Monkey humpers: 10
-
-### Thang
-
-PAX then rucked with sandbag and switched upon each park bench until we hit the main lot at a good pace;
-
-AMRAP: Divided lot into 4 points;
-Point 1: Start with 10 ruck off burpees, ruck on and crab walk to next point;
-
-Point 2: Ruck on, 5 hand release merkins, then rifle carry halfway to 3rd point and do 5 air squats, return to rifle carry;
-
-Point 3: 5 presenting Simba's with ruck, then ruck on crab walk to the next point;
-
-Point 4: 10 thrusters with ruck, and into rifle carry until halfway mark then into 5 air squats, and back to rifle carry;
-
-We were able to make it through 3 full rounds before heading back (wtg men), while switching sandbag again at park benches;
-
-### Mary
-
-Willie Mays Hayes: 15
-
----
-
 ## Live the Mission
 
 ### Warmup
@@ -170391,47 +159542,6 @@ Recover-Recover
 
 ---
 
-## GoRuck Tribe June “Stirling” Hero  WOD
-
-### Warmup
-
-SSH (silent cadence)
-Wille Mayes Hayes (silent cadence)
-Grass Grabbers (silently lost count)!
-
-### Thang
-
-GoRuck Tribe-June Stirling HERO WOD
-
-8 Rounds 30lb Ruck
-Max Rep Push Ups
-74 Lunges
-
-221 final count merkins
-
-### Mary
-
-Is when the fire dies down what the f&amp;ck you gonna do
-Damn it feels good to be a gangsta” -Geto Boys
-
----
-
-## Star Ruck!
-
-### Thang
-
-At TJ Wings the PAX ate, drank, and got off our feet as we divided up tickets for the raffle. Following PAX were the lucky winners drawn by Q M.
-
-PAX Whiskey 1 (Willet)
-PAX Whiskey 2 (Long Branch)
-PAX Whiskey 3 (Makers)
-PAX GTE Supply Bag
-PAX Wizard GTE Supply Bag
-
-PAX PAX PAX PAX &amp; PAX
-
----
-
 ## Friday funday to start the weekend.
 
 ### Warmup
@@ -170467,36 +159577,6 @@ R4
 10 pull-ups
 
 No time for Mary.
-
----
-
-## Backblast
-
-### Warmup
-
-5-1 motivators
-
-### Thang
-
-Ruck pick up litter and merkin
-Started at playground.  Picked up about 132 pieces of litter so averaged among PAX so we did 22 merkins each.
-
-Next parking lot.  32 pieces of litter = 32 merkins
-
-Next mosied up the hill to 100.  13 pieces of litter = 13 merkins
-
-Next jogged trail to pavilion at the back of the park.  18 pieces of litter = 18 merkins
-
-Next walked to parking lot.  6 pieces of litter = 6 merkins.
-
-In total:
-Picked up over 200 pieces of litter.  We did make a difference
-91 merkins
-
-### Mary
-
-Heels to Heaven IC
-LBC
 
 ---
 
@@ -170749,37 +159829,6 @@ Only had time for one round due to the 11-1 motivators and bear crawl/crawl bear
 
 Triple Bears IC x11
 Absolutions IC x11
-
----
-
-## UNBROKEN
-
-### Warmup
-
-Side Straddle Hops IC
-Learning to Fly IC
-Monkey Humpers IC
-
-### Thang
-
-6 platoons of 6- PAX PAX PAX PAX PAX
-PAX had 1 minute to fill in. Didn't make it. 10 burpees. Cadres weren't happy
-
-1-Started w/ tabata timer in platoon lines. 10 minutes w/ 3  Thrusters to start on the minute then alternate between Zercher squats w/ rucks off and hand release merkins rucks on for remaining time
-
-2-Platoons headed to trail w/ 2 sandbags each of various weights. Shortly on trail casualties occurred. Each platoon was tasked with carrying casualty, sandbags, rucks to the lot 1/2 mile away. We swapped 3x along the trail.
-
-3-Lot work by PAX 6 stations each Platoon was tasked with completing the # of exercises listed x6 as a group
-20 merkins
-15 presenting simbas
-10 head shoulders knees and toes
-squats
-hand release merkins
-Got through 3 each then needed to head back. Pivot!
-
-### Mary
-
-PAX led PAX in 4 rounds of side straddle hops IC along w/ 10 burpees
 
 ---
 
@@ -171139,64 +160188,6 @@ COR + NOR: check
 
 ### Warmup
 
-- Willie Mays Hays IC
-- Grass Grabbers IC
-- LBAC/LBACR IC
-- High Knees IC
-- Butt Kickers IC
-
-### Thang
-
-PAX wore 30 lb ruck/vest and started off with 1 lap around #ao-black-diamond-eureka track (approx. 1/3 of a mile).
-
-Once PAX completed lap, started work on the following exercises (must be completed in order)
-
-- 100 Ruck Thrusters
-- 100 Flutter Kicks (HW) w/ Ruck Overhead
-- 100 Ruck Pull Through Merkins (EW)
-- 50 Burpee Ruck Jump Overs
-
-Every 6 minutes from the start, a timer would go off indicating PAX must stop reps where they are and complete another lap around track wearing their ruck/vest.  Pick back up on the reps when you complete lap.  Record finishing time upon completing the 50 burpee ruck jump overs (see times in comment thread).
-
-_Soundtrack = Big Bootie Mix Vol. 13_
-
-### Mary
-
-Not today!
-
-Looking forward to a couple of VQs!
-
----
-
-## Backblast
-
-### Warmup
-
-Goofballs IC
-Monkey Humpers IC
-Warming Up Serena's Back IC
-DANGER ZONE!  - to the iconic song _Danger Zone. YHQ_ explained how it works:  throughout song we all perform Side Straddle Hops (SSHs). When Kenny Loggins sings "_Danger Zonge..." we all will perform a Copperhead (or Cockpit ) squats._
-
-Recover (Q explained this is called at the end of each part of the workout)
-
-### Thang
-
-Round 1:  Merkins / BBSUps / Mosey - warm-up run around the whole Awakening Statue making the lap wide...
-Round 2: Merkins / BBSUps / Mosey - Mosey picked by PAX, RIFLE Carry around the Big hand of the statue, then back.
-Round 3: Merkins / BBSUps / Mosey - Mosey by PAX
-(PAX encouraged to mix up their Merkins - Declines, Inclines, OR Mike Tysons!  Q demonstrated the M.T. classic)
-10Count Given by PAX
-Round 4: Merkins / BBSUps / Mosey - Mosey by PAX - Jail Break! Around the Foot (stopping to high-5 the Big Toe) and back.
-
-10Count Given by PAX
-Lagniappe (Bonus Round): _A favorite of Many... and few.  BEAR BRAWLS_
-
----
-
-## Backblast
-
-### Warmup
-
 7-1 Motivators
 Willie Mayes-Hayes
 Bat Wings
@@ -171303,39 +160294,6 @@ LBCs IC-x10
 
 ---
 
-## "It's Laundry Day"
-
-### Warmup
-
-5:1 motivators
-LBAC- 15
-Grass Grabbers- 15
-
-### Thang
-
-Ruck on PAX took off to first stop:
-
-Factoid #1: In 1858 Harrison Smith attained the first patent for the Rotary Washing Machine
-Ruck on Air Squats IC: 18
-Ruck on Merkins IC: 5
-Ruck on Big Boy sit-ups: 8
-
-PAX then hustled to 2nd stop:
-
-Factoid #2: In 1933 Proctor and Gamble produced the first ever liquid synthetic laundry detergent called "Dreft"
-Ruck on Air Squats IC: 19
-Rifle carry Rucks around main lot
-Rucks off Squat-Thrust- 33
-
-PAX hoofed it to 3rd stop:
-
-Number of PAX determined our count, OYO Al Gore the 6
-Ruck on Air Squats: 10
-Ruck on Merkins: 10
-Ruck on Forward Lunges: 10
-
----
-
 ## Backblast
 
 ### Warmup
@@ -171365,32 +160323,6 @@ Ruck on Forward Lunges: 10
 - PAX - Freddie Mercuries
 - PAX - Imperial Walkers
 - PAX - Plank
-
----
-
-## Backblast
-
-### Warmup
-
-Opening the Gates IC
-Goofballs IC
-Imperial Walkers IC
-
-### Thang
-
-Work today, with the weather will be touch and go… planned a series of 2 Exercises in preparation for GrowRuck and the 38 Special Beatdown tomorrow, PAX will do an AMRAP for 1min. Each Merkins, then BBSUs then a Mosey.
-
-Performed multiple rounds.
-
-Following round Mosies they weather settled down and we were able to get out and get some Runs In around the park. This lengthened times allowed us to dig a little deeper and share our WHYs and more personal motivations for staying in F3.
-
-Recover called and we made our way back to the Pavilion for Mary.
-
-### Mary
-
-Partnered up for some paired T-claps.
-
-2. T-clap Partner BBSUPs
 
 ---
 
@@ -171681,38 +160613,6 @@ Flutter kicks IC
 Freddy Mercury s IC
 
 COR + NOR: check will attach.
-
----
-
-## Thirsty Thursday
-
-### Warmup
-
-Worlds Greatest Stretch Follow Q’s lead
-Learning to Phelps IC - 12
-
-### Thang
-
-Ruck to other parking lot taking heavy thangs.
-
-Three sets of
-30 Thursters with ruck or w/ a heavy
-20 Ruck or heavy rows
-10 Ruck on merkins
-Lt. Dans for width of the parking lot w/ ruck on.
-Plank or pick up the six
-
-Bonus round
-30 air squats
-20 merkins
-
-Ruck back to flags
-
-### Mary
-
-Stretches:
-Wayne and graths extra slow
-Learning to Phelps
 
 ---
 
@@ -172258,60 +161158,6 @@ American Hammers  IC 17
 
 ---
 
-## Monday Morning Mayhem!
-
-### Warmup
-
-5:1 motivators
-Learning to Phelps
-Arm circles forward and reverse
-Seal clap
-Overhead clap
-Willy maze haze
-
-### Thang
-
-Hill 1
-
-Went to bottom of hill by parking lot with little and big red (approximately 60 and 80 pound sandbags)
-
-Bear crawl up , crawl bear down
-Pax then did sandbag tosses up the hill , deon sanders down
-Jailbreak up the hill and stayed.
-
-Grabbed the sandbags and headed to the next hill.
-
-Hill 2 (By Bobby's Place)
-
-Bear crawl up , crawl bear down
-Sandbag toss up . Deon sanders down with sandbags.
-Jailbreak up , deon sanders down.
-
-Grabbed sandbags and headed to next hill.
-
-Hill 3 (By the trail as it goes up the levee)
-
-Bear crawl up , crawl bear down
-Sand bag toss up the hill , deon sanders down
-Jailbreak up the hill. Grabbed sandbags and rucked the long way down the levee.
-
-Turned around and headed back towards the flag.
-
-Hill 4 (Bobby's hill take 2)
-Bear crawl up , crawl bear down
-Climbed the hill with sandbag , deon sanders down
-Jailbreak up the hill , deon sanders down.
-
-Headed back to the flag for marry.
-
-LBCs 15 IC
-Big boy sit ups 10 IC
-Freddy mercuries 20 IC
-Flutter kicks 25 IC
-Penguin tappers 30 IC
-
----
-
 ## Backblast
 
 ### Warmup
@@ -172341,22 +161187,6 @@ Roll Over, Mary - just Tois!_
 _2) Comando Thors _ This is a 1:4 Sit Up: American Hammer exercise ending each with a HOOOLD! Q will signal the release at a random time. then DOWN for the next count. We did up to 4:16s ROLL OVER!
 
 3. Mountain Climers IC (26ct).
-
----
-
-## Ruck and Chatter
-
-### Warmup
-
-5:1 motivators
-Willie Mayes Hayes
-Concrete Grabbers
-Knee Pulls
-Baby arm circles
-
-### Thang
-
-Ruck or carry a sandbag
 
 ---
 
@@ -172742,36 +161572,6 @@ PAX completed the following (and were able to break up the reps however they wan
 - Penguin Tappers
 
 Looking forward to a couple of VQs!
-
----
-
-## Potluck Ruck
-
-### Warmup
-
-Copperhead Squats
-Grass Grabbers
-Grady Corn
-
-We started the ruck and explained the Thang as we went.
-
-### Thang
-
-We used a 90 sec tabata timer with a 90 sec interval.  Q brought a wonderful list of exercises (some with ruck on, some with ruck off, some moving, some stationary) numbered 1-25.  The PAX took turns picking a random exercise from the list.  We completed an exercise (which could also be a simple ruck), followed by a 90 second ruck, followed by the next selected exercise.  The choices included (completed in bold):
-
-1. Ruck
-2. Mosey
-3. Squats
-4. Merkins
-5. Piston Squats
-6. Taint Scrapers
-7. Rifle Carry
-
-### Mary
-
-Rosalitas IC
-Flutter Kicks IC
-BBS
 
 ---
 
@@ -173355,7 +162155,6 @@ Heel Taps
 
 ### Warmup
 
-Albatross Wings-a bunch of them
 Grass Grabbers X 3,000
 Mosey
 
@@ -173407,40 +162206,6 @@ The WARDEN must set a new coupon movement/static hold pairing (pick from a list 
 The ESCAPEE must set a new mode of travel, distance, or end of jailbreak movement for the next round.
 
 Repeat Prison Yard --&gt; Jailbreak sequence as time allows
-
----
-
-## Chaos before the storm
-
-### Warmup
-
-Imperial Walkers
-Harry Rockettes
-Copperhead Squats
-Albatross Wings
-
-### Thang
-
-Rucks on!
-PAX headed down the trail with a little chaos planned along the way.
-When the timer went off PAX stopped and performed exercises as called out by Q.
-
-Stop 1 - ruck on Merkins x 20
-Stop 2 - ruck on squats x 20
-Stop 3 - ruck on Merkin Combo
-
-- Kick out merkins x 5
-- Navy Seal merkins x 5
-- standard merkin x 5
-
-Stop 4 - ruck on squats x 20
-Stop 5 - ruck on Hand Release merkins x 40
-Stop 6 - ruck on squats x 20
-Stop 7 - ruck on Incline merkins x 15
-
-### Mary
-
-10 Slick Burpees
 
 ---
 
@@ -173918,28 +162683,6 @@ Group one made it around 3 laps. Close to 2 miles with exercise according to wat
 
 ---
 
-## June-sunny and summer days!
-
-### Warmup
-
-7 to 1 motivators
-12-  grass grabbers
-12- LBAC
-12-learning to phelps
-
-### Thang
-
-Rucked/ran - 2.3 miles total along Meramec River trail.
-Stopped 6 total times for exercise breaks
-3 of the 6 stops we did: 12 curls, 20 chest presses, 12 lawn mower pulls (each arm) and 20 paint scrapers with ruck sacks.
-3 of the 6 stops we did: 12 dips, 20 sit ups, 12 merkins and 20 squats with ruck sacks.
-
-### Mary
-
-12- freddie mercurys
-
----
-
 ## The Forge- The Dance
 
 ### Warmup
@@ -174348,60 +163091,6 @@ Got through about 8-10 rounds.
 
 ---
 
-## INAUGURAL BLACKOPS BLACK DIAMOND BEATDOWN
-
-### Warmup
-
-- Willie Mays Hays IC
-- Grass Grabbers IC
-- Butt Kickers IC
-- High Knees IC
-- LBAC/LBACR IC
-- Dab Straddle Hops IC
-
-### Thang
-
-A variation of the NWA GTE (Growruck Training Exercise) PT Test.  Cones were approx. 100 yards apart from each other on the main field at Berry Park.  PAX were told they had 46 minutes to complete 22 rounds of:
-
-Run down 100 yards
-10 burpees
-Run back 100 yards
-
-### Mary
-
-NOT TODAY
-
----
-
-## THE MURPH
-
-### Warmup
-
-- Willie Mays Hays IC
-- Grass Grabbers IC
-- Hairy Rockettes IC
-- Butt Kickers IC
-- High Knees IC
-- Learning to Phelps IC
-
-### Thang
-
-THE MURPH
-
-- 1 Mile Run
-- 100 Pull-Ups
-- 200 Merkins
-- 300 Squats
-- 1 Mile Run
-
-While wearing 20 lb vest/ruck_
-
-### Mary
-
-NOT TODAY
-
----
-
 ## The Murph
 
 ### Warmup
@@ -174743,32 +163432,6 @@ Q had to modify for time and started middle school without repeating elementary 
 
 PAX led us in Imperial Walkers IC
 PAX led us in SSH IC
-
----
-
-## BROKEN PEICES
-
-### Warmup
-
-Side Straddle Hops
-Bat Wings
-Copperhead Squats
-Harry Rockettes
-Side straddle hops
-
-### Thang
-
-Crawl bear down hill then bear crawl to flags by river. 10 minutes on the minute rotate between Zercher Squats and Hand release merkins
-
-Jailbreak up hill to Indian ruck run to parking lot. PAX rifle carry when last in line ruck on jailbreak to front continue.
-
-11’s -Thrusters and Ruck big boy sit ups. Got a little past half way then recover. Travel was at first overhead ruck lunges then pivot to rifle carry. Didn't finish stopped at 6 am.
-
-Straight Indian run back to flags. Picked up pace at end by jailbreak weave. No rifle carry. Great push at end.
-
-### Mary
-
-2 minutes of Turkish get ups w/ Ruck
 
 ---
 
@@ -175314,43 +163977,6 @@ Dying Cockroaches 12 IC
 
 ---
 
-## Conquer the M3 Challenge
-
-### Warmup
-
-Moving quick so we can get those Miles in
-Grass Grabbers
-Monkey Humpers
-Bat Wings
-
-### Thang
-
-Rucks on and started down the trail, Q explained that the M3 May Challenge was and what we are going to tackle today
-First Stop at the first set of park Benches
-
-- Ruck ON Incline Merkins x 15
-- Ruck ON Decline Merkins x 15
-
-Second Stop - 11's on the Levee
-
-- Merkins at the bottom x 55
-- Mosey UP
-- BBSU at the top x 55
-
-Third Stop at the baseball fields
-
-- Hand Release Merkins x 40
-- BBSU x 40
-
-Rucks ON headed back to base. 2 miles completed
-
-### Mary
-
-BBSU x 15
-Flutter Kicks x 20
-
----
-
 ## Changing Plans
 
 ### Warmup
@@ -175793,39 +164419,6 @@ Pick up the 6
 
 ---
 
-## Backblast
-
-### Warmup
-
-10:1 merkin motivators (When we got to 5, went back to 10 and knocked them out all at once)
-Willy Maze Haze
-LBCs. Forward, Back, Front, Above
-
-### Thang
-
-PAX lined up on the hill. 10 times up and down. Goal was to do it within 6 minutes.
-
-PAX then went on a ruck with some cargo.
-
-Went to the parking lot and assembled 12 or 14 (can't remember) coupons onto a ladder.
-
-Used carabiners to connect 4 sand bags. 1 : 45, 1 : 60,  1 : 80, and 1 : 100.
-
-Rucked to the first hill by Bobby's. PAX then bear crawled up the hill. And bear crawled down (Not crawl bear!)
-
-Continued to ruck to the second hill past the second bridge. Bear crawled up and got down however you could to be safe. Little steeper of a hill!
-
-Rucked a little farther then turned back around. When we got to the second bridge, PAX was allowed to un clip sandbags.
-
-Got back to the parking lot.
-
-### Mary
-
-Flutter kicks (31 IC)
-Freddy Mercuries (10 IC)
-
----
-
 ## Let’s go Blues !!!
 
 ### Warmup
@@ -175959,14 +164552,6 @@ P- Overhead Press
 15 Dying Cochroaches IC
 20 LBCs IC
 20 Flutter Kicks IC
-
----
-
-## Talk shop
-
-### Thang
-
-what more can you ask for besides catching up on life and scrolling through the neighborhood before a beatdown.
 
 ---
 
@@ -176212,54 +164797,6 @@ After Round 2; spiderman crawl up hill, 5 burpees, spiderman crawl down hill
 - Flutter kicks
 - Boat on the water (a.k.a. Hollow Rocks)
 - 50 LBCs
-
----
-
-## Surprise Surprise
-
-### Warmup
-
-Motivators 5:1
-Copperhead Squats
-Grass Grabbers
-
-We started the ruck and explained the Thang as we went.
-
-### Thang
-
-We used a 60 sec tabata timer with a 60 sec interval.  Q brought a wonderful list of exercises (some with ruck on, some with ruck off, some moving, some stationary) numbered 1-25.  The 2 PAX took turns picking a random exercise from the list.  We completed an exercise (which could also be a simple ruck), followed by a 1 minute ruck, followed by the next selected exercise.  We made it through a majority of the exercises, worked pretty well IMHO.  The choices included (completed in bold):
-
-1. Ruck
-2. Medicine Ruck
-3. Mosey
-4. Squats
-5. Ruck
-6. Presenting Simba
-7. Flying Squirrels
-8. Merkins
-9. Piston Squats
-10. Burpees
-11. Ruck
-12. Calf Raises
-13. Taint Scrapers
-14. Rifle Carry
-15. One Armed Curls
-16. CPRs
-17. Ruck
-18. Tricep Extensions
-19. Rifle Carry Mosey
-20. U Pick’em
-21. Lt. Dans
-22. Ruck
-23. Mosey
-24. Burpees IC x 8
-25. Goofballs
-
-### Mary
-
-Rosalitas IC
-Flutter Kicks IC
-BBS
 
 ---
 
@@ -176749,14 +165286,6 @@ You need 4 wins to advance each round. PAX did 4 merkins together as Q called do
 
 ---
 
-## ShieldLock Retreat Ruck
-
-### Thang
-
-Doing HIM stuff down on the Farm
-
----
-
 ## coniglietti assassini/coniglietti della risurrezione
 
 ### Warmup
@@ -177075,30 +165604,6 @@ Toe stretch
 
 ---
 
-## Ruckin Monday
-
-### Warmup
-
-Hamstring stretch, Left then right
-Slow Monkey Humpers
-5-1 Motivators
-Baby Arm Circles to big (fwd/backward)
-5-1 Motivators again
-
-### Thang
-
-_-- 1st Session -- 50 yards do this (2 HIMs travel while 2 do stationary work, then flip)_
-Travel  -------    Stationary (until other group back)
-Sandbag toss  -------   AirSquats
-Sandbag Clean then throw fwd (over and over) ---- Merkins
-Ruck Lunges  ----  Log raises with sandbag on forearms entire time
-
-Rucks On! Down the Levee we go and almost washed away!  2.46 miles total.
-
-Took Boy Band on encroaching waters of trail path.
-
----
-
 ## TPC1: The Tasmanian Pain Coaster / The Patch Ceremony
 
 ### Warmup
@@ -177306,61 +165811,6 @@ Guantanamo
 
 ---
 
-## Rendezvous Au Roux
-
-### Warmup
-
-Piano Tappers
-Gumbo's Gates
-Copperhead Squats
-Albatross Wings
-
-### Thang
-
-Foundations of the Roux
-Pax counted off, remember your number as we will go in order answering questions at each “Foundation” aka pavilion.  Today is not about speed of the rep but form and working together.
-
-Foundation #1 (Main pavilion)
-Question - Why did you get your F3 name?
-
-Work: (with Rucks, or sandbags or coupons when appropriate)
-
-- Squats x 20
-- SSH x 20
-- One leg Romanian Dead Lifts x 20 HW
-- Burpees x 10
-- Pickle Splinters x 20
-- Calf Raises x 20
-
-Mosey - load up rucks and sandbags, headed to the lower pavilion.
-Stopped at the “hill” BearCrawl Up and Crawl Bear down.
-
-Foundation #2
-Question - what is your favorite and least favorite F3 exercise?
-
-Work:
-
-- Derkins x 20
-- Wacky Jacks x 20
-- Incline Merkins x 20
-- Prison Burpees x 10
-- Overhead Press x 20
-- Prison Burpees x 10
-
-Mosey - bags and rucks loaded up and head up to the Track Pavilion.
-
-Foundation #3
-Question - what is a hobby of your outside of F3?
-
-Work:
-
-- Ruck / coupon Flutter Kicks x 20
-- SSH x 20
-- BBSU x 20
-- American Hammers x 20
-
----
-
 ## NIN
 
 ### Warmup
@@ -177503,70 +165953,6 @@ X = 50 Calf Raises
 Y = 15 Jump Squats
 Z = 50 Little Baby Crunches
 3 = 3 Prison Burpees
-
----
-
-## Hard things In the Rain!
-
-### Warmup
-
-Hillbilly Walkers - IC
-Copper head Squats - IC
-Aaaabe Vegodas - nice and slow - IC
-Lil Baby Arm Circles (forward and backwards) IC
-
-### Thang
-
-5 Exercises that we performed in a cycle with the Rucking StepUps!  Two Full Cycles completed. Here's the 5 Sets done - ALL with our Rucksacks Donned!
-
-1. Mountain Climbers (for You Chad!)
-2. Navy Seal Merkins (ooooh yeah)
-3. No Surrenders (b/c thats what we do!)
-4. Mike Tyson Merkins (Q demonstrated) Why?  B/c Tyson was a badass!
-5. Presenting Simbas!  with our Ruck Sacks.
-
-On second round, Q Pivoted and decided that in lieu of Presenting SImbas we all would perform Lt. Dan's together out to the Pavilion and run the 20 StepUps (HW) together then Dion Sanders, carefully, back.
-
-Recover called for MARY
-
-### Mary
-
-With our Ruck Sacks and that glorious rain sprinkling on top of us!
-
-- One-Man Bands - IC
-- American Hammers - IC
-- Big Boy Sit Ups - IC
-- Finisher (without Rucks) - Big Boy Getups!  5 together on Q count.
-
----
-
-## Midweek tour of the Awakening
-
-### Warmup
-
-SSH
-Goofballs
-LBAC forward and back. Overhead and seal claps
-Piano tappers
-
-### Thang
-
-At the memorial step ups with ruck for one song. Next exercise was dips.
-
-From there we rucked to the amphitheater for the following exercises.
-
-Squats
-Merkins
-Calf raises
-
-In between each exercise we bear crawled, crawl beared, and crab walked before we rucked a lap around the amphitheater for 3 rounds
-
-Back to the flags for Mary
-
-### Mary
-
-American hammers with ruck
-Flutter kicks with ruck
 
 ---
 
@@ -177908,34 +166294,6 @@ Winning Team's Choice!_
 
 ---
 
-## The Iron Horse
-
-### Warmup
-
-Abe vigodas
-Copperhead squats
-Monkey Humpers
-5-1 Merkin Motivators
-
-### Thang
-
-Rucks On! Down the Levee we go! With Stops along the way. 1.5 miles total.
-
-Record #1 - one of two players to hit 40 doubles and 40 home runs in the same season, 3 separate times. The other was Albert Pujols.
-
-2 sets of the following:
-40 - ruck curls round 1 and lawn mower pulls round 2.
-40 - ruck squats both rounds.
-Bear Crawl up the Levee, crawl bear down
-
-Record #2 - 2,130 consecutive games played.
-21 - Burpees
-30 - BBSU
-
-23 man maker merkins
-
----
-
 ## Quick Draw ABCS!!!
 
 ### Warmup
@@ -178192,14 +166550,6 @@ Round 3 - Beastmode for heavy coupons via PAX PAX PAX
 
 ---
 
-## Solo Ruck: Pre QSource
-
-### Thang
-
-Solo 1.5 Mile ruck around The Pickle.  Reread QSource material and pondered ideas from the great unknown.  Get after it.  STAY HARD!
-
----
-
 ## Backblast
 
 ### Warmup
@@ -178316,27 +166666,6 @@ Willie Mays Hays IC
 
 American Hammer IC
 Penguin Tappers IC
-
----
-
-## Sharing is Sandbagging
-
-### Thang
-
-Partner up and grab a sandbag
-Traveling an unknown distance. Rotate sandbag without stopping or touching the ground. Penalty-5 burpees
-
-Fall of Baghdad WOD
-34 rounds with Ruck on
-1 Sandbag Cluster (Clean and Thruster)
-3 Merkins
-5 Mountain Climbers (HW)
-
--Short travel to parking lot
-With Ruck:
--1 Partner holds a plank while other partner jailbreaks the perimeter of the parking lot
-
-Final Ruck home with partner and Sandbags
 
 ---
 
@@ -178486,14 +166815,6 @@ Led off with a quick Rifle Carry mosey to DG practice hole at disc golf course t
 Now that it was a little lighter we had a better view of hole #1 in front of us. One at a time, had all Pax throw their discs down the fairway of hole 1 as far as they could towards the basket, noting where it landed. More heckling ensued. Then jailbreak as a group to your coupon to figure out who was closest . Once determined, then all Pax crabwalked the rest of the way with disc to the hole 1 basket. Encouraged others that finished early to pick up the 6 and bring home a fellow Pax. PAX and PAX difference was too close to call, so both were co-winners of the longest drive. As a cherry on top, with hole 1 being downhill there is only one way back. Full jailbreak back up the sneakily long ascent to the practice tee box for Mary.
 
 Knockout Game/Mary:
-
----
-
-## Ruck: Pre BD
-
-### Thang
-
-1.5 Mile Solo Ruck around The Pickle.  Met up w/ Gumbo for an additional Pickle Mile.  Conversed about our 24hr BD experience, upcoming Grow Ruck, and weighted vests.  Get after it.  Stay Hard!
 
 ---
 
@@ -178764,51 +167085,6 @@ Pre-Mary: Plank circuit
 Hurdlers Stretch each leg
 Butterfly Stretch
 Sit and Reach
-
----
-
-## The Levee wont break will you
-
-### Thang
-
-_-- 1st Session -- 20-30 yrds with cones_
-Travel                --          Stationary (at each EOT)
-Sand bag toss   --   20 - AirSquats
-Single Arm Carry   --   20 - Merkins
-Ruck Lunges   --    20 - Log raises
-
-Run to Bench &amp; Back (20 bench sits)
-
-_-- 2nd Session --_
-Hill Work   --    Stationary (at each EOT)
-Bernie sanders   --    20 - Ruck Press
-Bear Crawl   --    20 - Merkins
-Bernie sanders   --    10 - Dead lifts SB
-Bear Crawl   --    20 - Taint scrapers
-
-Run to Bench &amp; Back (bench push ups 20)
-
-_-- 3rd Session -- 20-30 yrds with cones (at each EOT)_
-Travel   --    Stationary
-Sand bag toss   --    20 - SSH w/ ruck
-Rifle carry SB   --    20 - Mountain Climbers
-
-### Mary
-
-Pickle Pointers with ruck on hips
-Plank hold
-
----
-
-## We like to do a little rucking.
-
-### Warmup
-
-Nah
-
-### Thang
-
-Rucked through the Arbors for 2.2 miles and made sure all of the PAX were sleeping well in their fart sacks, which it looked like they were. BTW, PAX your new sofa looks great
 
 ---
 
@@ -179246,14 +167522,6 @@ Run Around Parking Lot
 
 ---
 
-## 3 mile GRT Ruck
-
-### Thang
-
-3 Miles as part of GRT with heavier base weight
-
----
-
 ## Pickle Jar Games
 
 ### Warmup
@@ -179353,14 +167621,6 @@ PAX led
 PAX -Penguin tappers
 PAX - Heels to heaven
 Bonus round, guess the song Weird Al parodied, “All about the Pentiums” =1 Penalty Prison Burpee
-
----
-
-## Solo Ruck
-
-### Thang
-
-1.5 Mile Pre BD Ruck Around The Roux.  Get after it.  Stay Hard!
 
 ---
 
@@ -179568,70 +167828,6 @@ PAX completed 4 rounds and in rounds 3 and 4 each egg counted for double the rep
 Freddy Mercury's: Survived 26
 Worlds Greatest Stretch: 4 count on each side
 Jaba The Hutt: 2 mins
-
----
-
-## Easter Sunday BlackOps- Carry The Cross
-
-### Warmup
-
-Willie Mayes Hayes IC
-Grass Grabbers IC
-
-### Thang
-
-The PAX wore ruck sacks or weighted with at least 20lbs. The PAX Rucked in the neighborhood nearby the elementary school.the PAX  ran at a slow pace while stopping at each house we passed to do 3 burpees. We passed 22 houses during our ruck for 1.23 miles and 66 burpees.
-
-Recovery:
-
-### Mary
-
-15 Big Boy Situps
-12 Flutter Kicks
-
----
-
-## Shared Suffering and Unloading Burdens
-
-### Warmup
-
-SSH x 39
-Learning to Phelps x 15
-Willy Mays Haze x 10
-Worlds Greatest Stretch
-
-### Thang
-
-PAX performed exercises that represented going down and getting back up/ascending or being lifted up in reps of 39.
-After each set of 39, murder bunny to next set of lights, 3 burpees, murder bunny back, start next round of 39
-Exercises in order: Thrusters, HR Merkins, No Surrenders, Grave Diggers, Mountain Climbers, Calf Raises, Get Ups, Presenting Simba, JB Squats
-
-### Mary
-
-Heels to Heaven x 14
-Merkin Waterfall - 1 each around circle until 90
-
-“It is finished” (in place of recover recover today)
-
----
-
-## Shieldlock Beatdown GRT
-
-### Warmup
-
-Quick chat about the challenge and get moving
-
-### Thang
-
-Piestewa WOD
-Hold Water in your mouth throughout the entire workout like Apache Run.
-6 Rounds
-400m Ruck
-7 “Double Push Up” Get Ups with Ruck On
-
-### Mary
-
-Spit out the water and comment on the strange difficulty of this exercise.
 
 ---
 
@@ -179885,44 +168081,6 @@ Thrusters
 ### Mary
 
 Rope Climbers IC
-
----
-
-## As In GROWRUCK, We are AS ONE!
-
-### Warmup
-
-Harry Rockettes - IC
-Piano Tappers - IC
-Imperial Walkers - IC
-LBACs IC - each way
-OPEN THE GATES - Q latest Warmup includes 1 Leg Knee Raise, then swing it open and outward with your hip, then down. Thats 1 Count. Alternate Legs each count.
-
-### Thang
-
-A GrowRuck-Style "Indian Ruck" (Indian style) - PAX in Pairs, lined up in 2 Single File Lines. TIGHT, as in a Platoon for GrowRuck. We will Mosey down to the underpasses WITH their Coupons in the RIFLE CARRY position (as much as Possible). Partners in Front of Line will _Double-Time it_ about 15-20 yards ahead of the PAX and perform a Leg Exercise with their Coupons until the Group catches up and passes them... they will file in at the Rear and Communicate "NEXT!"  Mosey took us down the Sidewalk following under the OverPasses along the River.
-
----
-
-## Shield Lock Ruck
-
-### Thang
-
-3 miles exactly in 1 hour
-Along the way:
-25 zercher squats
-25 curls
-25 press
-
-Each member of shield lock rucked 1/2 Mile with all 3 rucks. This to symbolize sharing of each other's burdens and during that time each of us shared.
-
----
-
-## 3/4 Shieldlock Ruck
-
-### Thang
-
-Rucked around The Pickle offering candor where applicable.
 
 ---
 
@@ -180310,63 +168468,6 @@ Run to Newport Beach and back
 
 ---
 
-## Better Late Than Never (Roll the dice take a chance)
-
-### Warmup
-
-6-1 Motivators
-Hamstring Stretch IC
-
-### Thang
-
-Ruck Run (Indian style) just past underpass then due to lightning went under 141 overpass for protection and rest of workout.
-
-Various ruck exercises determined by the roll of the DICE.
-Each PAX member rotated the chance of rolling the dice to see what fate we had for that exercise.
-Then rotated to next for another roll.
-After 4 rolls Ruck Jog 30 yards and back
-Do it again over and over for an hour.
-(Squats, lunges, cpr, press, sit ups, side straddle hops, etc with reps or duration depending on the roll)
-
-### Mary
-
-Dying Cockroach 11 IC
-Cockroach Resurection 10 IC
-Flutter Kicks with coupon 10 IC
-
----
-
-## CHICKEN LITTLE WOD
-
-### Warmup
-
-- Grass Grabbers IC
-- Willie Mays Hayes IC
-- LBAC IC
-- Learning to Phelps IC
-- SSH IC
-- 2 Lap Mosey
-
-### Thang
-
-Chicken Little WOD
-
-24 minute AMRAP (suggested while wearing 20 lb vest/ruck)
-
-- 24 Merkins
-- 24 Big Boy Sit-ups
-- 24 Burpees
-- 200m run
-
-### Mary
-
-- American Hammers IC
-- Flutter Kicks IC
-- Penguin Taps IC
-- Freddie Mercuries IC
-
----
-
 ## Adult Recess!
 
 ### Warmup
@@ -180383,89 +168484,6 @@ Team that got the point each round gets to throw the target Di and call the Mose
 ### Mary
 
 - Worlds Greatest Stretch- 5CT IC
-
----
-
-## T-E-X-A-S
-
-### Warmup
-
-7x1 Motivators
-Grass Grabbers
-Copperhead squats
-
-The PAX took their coupon/ruck and moseyed to Big Bend Country.
-
-1. Big Bend Country (Far Pavilion): The most remote area in the state &amp; home to Big Bend National Park.
-
-Colt 45’s—Rifle Carry—Triceps Dips
-Goblet Squats—Rifle Carry—Plank Jacks
-PAX Coupon moseyed to Prairies &amp; Lakes
-
-2. Prairies &amp; Lakes (Field): Region consisting of the DFW Metroplex.
-
-Burpees—Bear Crawl Coupon Drags
-Coupon Press—Bear Crawl Coupon Drags
-PAX left their coupons/rucks &amp; moseyed to the Piney Woods.
-
-3. Piney Woods (Pavilion): Land of multiple forests &amp; Caddo Lake. Go visit Texarkana while you're here.
-
-Decline Merkins—Bonnie Blairs
-Incline Merkins—Stepups
-PAX moseyed to the South Texas Plains
-
-4. South Texas Plains (Concrete Court): Here in the South Texas Plains, you will find The Alamo, as well as, the Mission Trail.
-
-SSH—Continuous Mosey—SSH
-JB Squats—Walking Lunges—JB squats
-PAX moseyed to Hill Country
-
-5. Hill Country (Hill): Beautiful rolling countryside filled with historic towns. The state capital (Austin) can be found here.
-
-Bear Crawl up the hill &amp; Crawl Bear Down
-Jailbreak to the top of the hill
-PAX moseyed to the Gulf Coast
-
-### Thang
-
-Q took the PAX on an epic road trip across the great state of Texas to visit the 7 regions of the Lone Star State. Tabata-style beatdown (1 minute of activity—25 seconds off).
-
-### Mary
-
-We finished our trip along the Gulf Coast, with over 350 miles of coastline, the PAX visited South Padre &amp; Galveston.
-Flutter Kicks (IC)
-BBSU (IC)
-
----
-
-## E.H Shackleton
-
-### Warmup
-
-9-1 Motivators
-Imperial Walkers IC
-1 lap around the parking lot in the snow
-
-### Thang
-
-Shackleton's Challenge
-Pairs complete the movement while the rest of the PAX continues with rounds of the exercise until it is their turn.
-
-Round 1
-Movement: Suicide sprint
-Exercise: 5 burpees, 10 Big Boy Sit Ups
-
-Round 2
-Movement: Carry 80lb sandbag, 40lb ruck, and 2 coupons down and back
-Exercise: 5 Bonnie Blairs HW, 10 Merkins
-
-Round 3
-Movement: Bear Hops (Bear crawl to line, then bunny hop to the next, repeat to the end of the parking garage)
-Exercise: 5 Thrusters, 10 Curls
-
-### Mary
-
-Green Sally
 
 ---
 
@@ -180642,8 +168660,6 @@ Alternating Circle of Burpees x7 rounds
 
 ### Thang
 
-Setup
-
 - Four cones were set up equidistant (about 10 yards) from one another.
 - Cone 1 had Glowsticks with exercises the PAX selected written on them.
 - Cone 2 had 14 various coupons of different shapes, sizes, and weights
@@ -180734,37 +168750,6 @@ Q had to modify for time and skipped 5th grade graduation (bear crawl) as well a
 ### Mary
 
 Not today!
-
----
-
-## Backblast
-
-### Warmup
-
-Learning to Phelps
-Willy maze haze
-Grass grabbers
-Neck rolls
-
-### Thang
-
-Pax went on a ruck
-Stopped at the hill by Bobby's place
-Bear crawled up, Deon Sanders down
-
-Rucked to the bench, did 10 perfect form squats. Low and slow!
-
-Rucked to another bench, did 15 good dips.
-
-Down the path, we stopped and did 10 perfect form squats again.
-
-Rucked more down the path and stopped to do hand release merkins and Big boy sit ups. 2 minutes each, target was 40 of each exercise.
-
-Went down the levee and rucked all the way back to the beginning of the trail.
-
-Found another bench and did 15 more dips.
-
-Rucked back to the flag.
 
 ---
 
@@ -180915,28 +168900,6 @@ Curl Press, Chest Press, Skull Crushers, Overhead Press, Derkins, Coupon Dips an
 ### Mary
 
 PAX led dying cockroaches and PAX led heels to heaven with a leg lift at the top...
-
----
-
-## Exploring with Zombies
-
-### Thang
-
-- Ruck up and down hill
-- Run up and down hill
-- Couple rounds of Pull-ups, sit-ups, squats
-
-### Mary
-
-- Much needed Yoga stretching
-
----
-
-## Willy to Wally Ruck
-
-### Thang
-
-3 miles in just under 45 minutes. Took 21 minutes to get there and about 23:30 to get back. Looking forward to doing it again soon.
 
 ---
 
@@ -181217,57 +169180,6 @@ Results: A healthy does of whup-a$$ for Monday and another ferocious victory: in
 
 ---
 
-## Backblast
-
-### Warmup
-
-By PAX
-Grass Grabbers IC
-Imperial Walkers IC
-Something Else IC
-Bat Wings IC
-
-### Thang
-
-PAX Took us to the hill and led us in a circuit of Suck that looked a little something like this
-Jailbreak up-Deion Down paired with Ruck exercises at the bottom of the hill
--Curls
--Rows
--Squats
--More Jailbreaks
-
-PAX led the PAX towards the trail and up to the Levee alternating Ruck Shuffles and Caffeinated Ruck Pace
-Stopped for a few circles of Pain including:
--Merkins IC
--Squats IC
--Flutter Kicks IC
--Chest Press IC
--Swallowing a bug mid-cadence
-Rucked back to StartEx for more fun
-
-Back to the Hill:
-Crawl Bear down
-Squats OYO
-Bear Crawl Up
-
-Head to Benches:
-Dips x25 OYO
-Step Ups x15 (HW)
-
-Back to Hill:
-Deion Down the Hill
-Merkins IC
-Jailbreak Up Hill
-
-### Mary
-
-A few Stretches
--Forward Fold
--Downward Dog
--Deep Sumo Squat
-
----
-
 ## Super (Sweats) Sets
 
 ### Warmup
@@ -181299,14 +169211,6 @@ Round 4
 Minute 1- 10 Flying Squirrels (some modified to Burpees)
 Minute 2-  Minute 2-  15 LBCs &amp; 15 Flutter Kicks
 Completed 5 sets of each Super set
-
----
-
-## Chasing Faster Men
-
-### Thang
-
-Lesson-learned… take a sucky situation and turn it in to an opportunity to Push harder than you thought you would or could AND lock shields with another man to push through together… to the end!
 
 ---
 
@@ -181419,54 +169323,6 @@ Switched
 
 1 HIM did 25 heel touches while partner planked
 Switched
-
----
-
-## Saturday Sizzler
-
-### Warmup
-
-Grass Grabbers IC
-Willie Mayes Hayes IC
-Learning to Phelps IC
-6:1 Motivators
-Downward Dog IC
-Sumo Squat holds IC
-
-### Thang
-
-Wear a vest or ruck if so inclined (Q went with 20lb vest)
-Plenty of Sandbags and coupons lined up ready for sandbag carry or farmer carry
-
-1 Lap
-50 yard Sandbag carry or Farmer Carry
-5 Burpees
-5 Rows
-
-2 Laps
-100 yard Sandbag carry or Farmer Carry
-10 Burpees
-10 Rows
-
-3 Laps
-150 yard Sandbag carry or Farmer Carry
-15 Burpees
-15 Rows
-
-4 laps
-200 yard sandbag carry or farmer carry
-20 Burpees
-20 Row
-
-5 laps
-250 yard Sandbag carry or Farmer carry
-25 Burpees
-25 Rows
-
-### Mary
-
-Downward Dog
-Forward Fold
 
 ---
 
@@ -181637,36 +169493,6 @@ PAX 2: TQ on leg, LBCs
 
 ---
 
-## Just a walk.... in the park....
-
-### Warmup
-
-- Run up hill and then to the end of the parking lot and back
-- Bent over hamstring stretch
-- Right leg/Left leg PAX assisted quad stretch
-- 7 to 1 motivators
-
-### Thang
-
-- With rucks on - (5) Bernie Sanders up the levee hill and mosey down
-- Rucked to bridge on trail and then began an Indian Run with rucks on until we reached the end of the first parking lot (about 3/4 mile)
-- (40) Hand release merkins
-- (40) Big boy situps
-- (25) Ruck curls
-- (15) each arm lawn mower pulls
-- Rucks back on and returned on same path with Indian Run back to bridge and then rucked backed to flag
-
-### Mary
-
-- High plank
-- Left arm plank
-- Right arm plank
-- Penguin taps
-- X-Factors
-- Flutter kicks
-
----
-
 ## Backblast
 
 ### Thang
@@ -181760,48 +169586,6 @@ X Factors
 Flutter Kicks
 Hammer Crunch
 Leg Lifts
-
----
-
-## Backblast
-
-### Warmup
-
-Abe vagoda
-High knees
-Butt kicks
-Learning to fly
-Learning to land
-
-### Thang
-
-Core lift focus: Legs/Back
-Tabata 45 on 30 off get at least 11 reps good form x3 sets each for at least 33 reps per exercise!
-
-Squats
-Deadlift
-Lunges
-
-Part 2: Go Ruck Tribe WOM (workout of the month)
-
-Harrison WOD-15 min AMRAP
-
--3 sandbag hang cleans (coupon upright row)
--3 sandbag press (shoulder press)
--6 weighted Merkins
--12 sit ups ruck/coupon on front
-
-Jail break 4 corners PAX choice in exercise
-Q chose burpees and PAX chose the quantity of 5
-PAX chose 25 LBCs
-PAX chose bear crawl to bathrooms and back to shovel flag
-
-### Mary
-
-Q new favorite Mary is on your 12 (prone) position
-
-Superman rows
-Australian sweat angels
 
 ---
 
@@ -182100,93 +169884,6 @@ Catfish crawl to first cone and bear crawl back with plank or Al Gore for 6
 
 Boats and canoes…listen carefully
 Captain Thors up to 5
-
----
-
-## Relay for ~Life~ Bruno
-
-### Thang
-
-Exercises performed around the track - Rifle carry, Blockees, BBSitups, Merkins, and we also did a few burpees.
-
-Mosey back to the flags and did 5 burpees to end the BD.
-
----
-
-## When the Levee Breaks, We got to MOVE!
-
-### Warmup
-
-Grass Grabbers IC
-Imperial Walkers IC
-Bat Wings IC
-
-### Thang
-
-Rucks On - started down the trail
-
-1st Stop - Boulder Bash - PAX picked a nice size boulder under the bridge and were prepared for action
-Boulder Curls x 20
-Boulder Over Head Press x 20
-Continue Ruck
-
-2nd Stop
-Bear Crawl up the side of the Levee, mosey back down to trail
-Continue Ruck
-
-3rd Stop
-Bench Work
-Incline Merkins with Ruck x 15
-Squats with Ruck x 25
-Continue Ruck
-
-4th Stop
-GTE PT Test
-Hand Release Merkins x 40 under 2 minutes
-BBSU x 40 under 2 minutes
-Continue Ruck
-
-5th Stop
-Ruck Sprint in the Outfield
-Continue Ruck
-
-6th Stop
-Bench Work
-Incline Merkins with Ruck x 15
-Squats with Ruck x 25
-Continue Ruck
-
-7th Stop
-Bench Work
-Incline Merkins with Ruck x 15
-Squats with Ruck x 25
-
-Total Ruck Distance = 1.97 miles
-
-### Mary
-
-Flutter Kick with Ruck overhead IC
-LBCs IC
-
----
-
-## SPIRIT
-
-### Warmup
-
-GrassGrabbers
-Piano Tappers
-Goofballs
-
-### Thang
-
-Ruck around the neighborhood, stopping to do some exercise decided by a dive.
-
-### Mary
-
-Each pax rolled the dice for an exercise.
-
-Ended mixing it up and adding some burpees!
 
 ---
 
@@ -182514,50 +170211,6 @@ Travel to Station #1 — Coupon Bunny Hop (Long jumps while holding coupon)
 
 Plank Sparring — PAX partnered up and tried to disarm their partner by going for their arms. This quickly devolved into playing Pattycake because of the concrete. Did this for 1 minute.
 Atlas Pass — Found new partners and passed a coupon around their waists to one another for 1 minute.
-
----
-
-## CADRE LINUS
-
-### Warmup
-
-SSH IC
-Copperhead Squats IC
-Grady Corn IC
-Grass Grabbers IC
-
-### Thang
-
-PHASE 1:  Gear Check
-Ruck plate and rifle carry it down back
-water and food bear crawl down back
-putting on and off ruck in proper position on ground 10 seconds each or merkins
-
-Phase 2: PT
-40 HR merkins
-40 big boy sit ups
-40 squats w/ Ruck
-20 merkin ruck pull through
-
-Phase 3: Travel
-PAX went on a Ruck Indian Run.
-
-PAX started at trailhead. Rifle carry the ruck. PAX in back put ruck on and moseyed to front of line. Once in rifle carry position Next one goes. 10 second timer from start to finish. No talking.
-
-Phase 4: PT part 2
-25 Thrusters
-25 curls
-25 upright rows
-15 1 arm rows each arm
-20 merkin ruck pull throughs
-
-Phase 5:  travel
-Same as previous travel
-
-### Mary
-
-American hammers
-Plank hold w/ ruck 1 minute
 
 ---
 
@@ -183072,66 +170725,6 @@ Mosey around little Tree
 - Big boy sit ups w/Coupons 10ct
 - American Hammers w/Coupon 9ct
 - Hello Dolly’s 10ct
-
----
-
-## Hang on Tight!
-
-### Warmup
-
-High Knees IC x 10
-Butt Kicks IC x 10
-Bat Wings IX x 10
-Grass Grabbers IC x 10
-Carolina Dry Docks IX x 10
-
-### Thang
-
-Rucks on and move to trailhead to pick up the heavies.
-
-DORA
-
-- Partner 1 holds a Kettlebell while partner 2 sand bag tosses down and back. Flapjack. Continue for 10 minutes.
-- Partner 1 performs sandbag curls while partner 2 carries kettlebell down and back. Flapjack. Continue for 10 minutes.
-- Partner 1 maintains front leaning rest while partner 2 carries the kettlebell while performing sandbag tosses down and back. Flapjack. Continue for 10 minutes.
-- Partner 1 performs kettlebell swings while partner 2 rifle carries sandbag down and back. Flapjack. Continue for 10 minutes.
-
-### Mary
-
-Flutter kicks (holding ruck) IC x 20
-American Hammers IC x 10
-
----
-
-## ShieldLock Beatdown GoRuck Tribe  (better late than never)
-
-### Warmup
-
-Goodballs IC
-Willie Mayes Hayes IC
-LTP IC
-Grass Grabbers IC
-
-### Thang
-
-Harrison WOD
-15 Min AMRAP
-3 Sandbag Hang Clean
-3 Sandbag Press
-6 Ruck Push Ups
-12 BBSU with ruck on chest
-
-Fall of Baghdad WOD
-2000m Ruck
-34 Rounds
-1 Sandbag Cluster
-3 Ruck Push-ups
-5 Mountain Climbers
-2000 M ruck
-
-### Mary
-
-nah
 
 ---
 

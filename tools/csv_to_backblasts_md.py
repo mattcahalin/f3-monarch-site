@@ -99,9 +99,16 @@ def to_md(lines):
     return '\n\n'.join(blocks)
 
 
+# Left out of the generator: whole AOs by Slack channel id, and any ruck in the parts the site shows.
+EXCLUDE_AOS = {
+    'C03185U8VS6',   # Zombie Ridge (ruck AO)
+}
+# "ruck" not preceded by another letter (so "_ruck_" counts, "truck" and "Thunderstruck" don't), plus GoRuck/GrowRuck.
+RUCK = re.compile(r'(?:\bgo|\bgrow)[\s-]*ruck|(?<![a-z])ruck', re.I)
+
 rows = list(csv.reader(io.open(SRC, encoding='utf-8-sig', newline='')))
 hdr = rows[0]
-bi, di = hdr.index('backblast'), hdr.index('bd_date')
+bi, di, ai = hdr.index('backblast'), hdr.index('bd_date'), hdr.index('ao_id')
 seen, recs = set(), []
 stats = collections.Counter()
 for r in rows[1:]:
@@ -110,9 +117,13 @@ for r in rows[1:]:
     if r[bi] in seen:
         stats['duplicate'] += 1; continue
     seen.add(r[bi])
+    if r[ai] in EXCLUDE_AOS:
+        stats['excluded_ao'] += 1; continue
     p = parse(r[bi])
     if not ''.join(p['thang']).strip():
         stats['no_thang'] += 1; continue
+    if RUCK.search(' '.join([p['backblast'] or ''] + p['warmup'] + p['thang'] + p['mary'])):
+        stats['ruck'] += 1; continue
     recs.append((r[di], p))
 recs.sort(key=lambda x: x[0], reverse=True)
 
