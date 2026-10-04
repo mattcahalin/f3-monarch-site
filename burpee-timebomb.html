@@ -331,7 +331,7 @@
     'Carolina Dry Docks', 'Derkins', 'Diamond Merkins', 'Hand-Release Merkins', 'Incline Merkins', 'Merkins', 'Peter Parkers', 'Ranger Merkins', 'Werkins',
     'American Hammers', 'Big Boys', 'Flutter Kicks', 'Freddy Mercurys', 'Hello Dollys', 'LBCs', 'Plankorama', 'Protractor', 'Rosalitas',
     'Air Squats', 'Al Gore', 'Bobby Hurleys', 'Bonnie Blairs', 'Hillbillies', 'Imperial Stormtroopers', 'Monkey Humpers',
-    'Burpees', 'Groiners', 'Side Straddle Hops', 'Smurf Jacks',
+    'Groiners', 'Side Straddle Hops', 'Smurf Jacks',
   ];
   const TRAVELS = ['Bear Crawls', 'Lunge Walks', 'Murder Bunnies', 'Farmer Carry', 'Rifle Carry', 'Burpee Broad Jumps'];
   const CAT_LABEL = { group: 'Group Burpees', solo: 'Solo Burpees', travel: 'Group Travel' };
@@ -340,6 +340,8 @@
   const $ = (id) => document.getElementById(id);
   const game = $('game');
   const pick = (arr) => arr[Math.floor(Math.random() * arr.length)];
+  // Burpees come up 1 time in 5; otherwise any other exercise from the list.
+  const pickExercise = (arr) => (Math.random() < 0.2 ? 'Burpees' : pick(arr));
   const burpees = (n) => `${n} Burpee${n === 1 ? '' : 's'}`;
 
   // ---------- settings ----------
@@ -435,7 +437,7 @@
       return { cat, main: burpees(n), sub: 'The whole PAX. Bomb holder counts them out.' };
     }
     if (cat === 'solo') {
-      const n = pick(COUNTS), ex = pick(EXERCISES);
+      const n = pick(COUNTS), ex = pickExercise(EXERCISES);
       return { cat, main: `You: ${burpees(n)}`, sub: `The rest of the PAX: ${ex} until you finish.`, ex };
     }
     const tr = pick(TRAVELS);
@@ -491,7 +493,7 @@
     audio(); // unlock audio on the user's tap
     const [lo, hi] = FUSES[readSettings().fuse];
     duration = (lo + Math.random() * (hi - lo)) * 1000;
-    fuseEx = readSettings().fuseEx ? pick(FUSE_EXERCISES) : null;
+    fuseEx = readSettings().fuseEx ? pickExercise(FUSE_EXERCISES) : null;
     $('fuse-ex').textContent = fuseEx || '';
     $('fuse-ex-box').hidden = !fuseEx;
     elapsed = 0;
