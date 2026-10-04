@@ -70,6 +70,10 @@
 
   /* Glossary */
   .glossary-term { color: var(--navy-mid); }
+  .glossary-entry { scroll-margin-top: 90px; border-radius: 8px; }
+  .glossary-entry.term-flash { animation: termFlash 2.4s ease-out; }
+  @keyframes termFlash { 0%, 40% { background: #fff3c4; box-shadow: 0 0 0 8px #fff3c4; } 100% { background: transparent; box-shadow: 0 0 0 8px transparent; } }
+  @media (prefers-reduced-motion: reduce) { .glossary-entry.term-flash { animation: none; background: #fff3c4; } }
   .glossary-category { font-family: 'Oswald', ui-sans-serif, system-ui, sans-serif; }
 
   /* Glossary accordion */
@@ -250,18 +254,18 @@
         </button>
         <div class="glossary-accordion-panel px-5 pb-6">
         <div class="grid md:grid-cols-2 gap-x-10 gap-y-6">
-          <div><p class="font-bold glossary-term">F3</p><p class="text-sm mt-1" style="color:#1a3a5c;">Stands for Fitness, Fellowship, and Faith (defined broadly as belief in a purpose higher than oneself).</p></div>
-          <div><p class="font-bold glossary-term">1st F (Fitness)</p><p class="text-sm mt-1" style="color:#1a3a5c;">The physical workout component that gets men out of bed.</p></div>
-          <div><p class="font-bold glossary-term">2nd F (Fellowship)</p><p class="text-sm mt-1" style="color:#1a3a5c;">The social bonds, conversations, and community built before, during, and after workouts.</p></div>
-          <div><p class="font-bold glossary-term">3rd F (Faith)</p><p class="text-sm mt-1" style="color:#1a3a5c;">Community leadership, philanthropy, and pushing men to serve others and be better leaders.</p></div>
-          <div><p class="font-bold glossary-term">HIM (High Impact Man)</p><p class="text-sm mt-1" style="color:#1a3a5c;">A dedicated member who leads by example in his family, workplace, and community.</p></div>
-          <div><p class="font-bold glossary-term">PAX</p><p class="text-sm mt-1" style="color:#1a3a5c;">The participants or members attending an F3 workout (short for &ldquo;passengers&rdquo; or &ldquo;people&rdquo;).</p></div>
-          <div><p class="font-bold glossary-term">FNG (Friendly New Guy)</p><p class="text-sm mt-1" style="color:#1a3a5c;">A newcomer attending their first F3 workout who receives an official nickname at the end of the session.</p></div>
-          <div><p class="font-bold glossary-term">Q / QIC (Q-in-Charge)</p><p class="text-sm mt-1" style="color:#1a3a5c;">The member leading and instructing the workout for that day.</p></div>
-          <div><p class="font-bold glossary-term">Site Q</p><p class="text-sm mt-1" style="color:#1a3a5c;">The volunteer responsible for overseeing a specific workout location.</p></div>
-          <div><p class="font-bold glossary-term">The M</p><p class="text-sm mt-1" style="color:#1a3a5c;">A member's spouse or significant other.</p></div>
-          <div><p class="font-bold glossary-term">2.0</p><p class="text-sm mt-1" style="color:#1a3a5c;">A member's child.</p></div>
-          <div><p class="font-bold glossary-term">YHC (Your Humble Correspondent)</p><p class="text-sm mt-1" style="color:#1a3a5c;">How a leader refers to himself when writing up the Backblast summary.</p></div>
+          <div id="term-f3" class="glossary-entry"><p class="font-bold glossary-term">F3</p><p class="text-sm mt-1" style="color:#1a3a5c;">Stands for Fitness, Fellowship, and Faith (defined broadly as belief in a purpose higher than oneself).</p></div>
+          <div id="term-1st-f" class="glossary-entry"><p class="font-bold glossary-term">1st F (Fitness)</p><p class="text-sm mt-1" style="color:#1a3a5c;">The physical workout component that gets men out of bed.</p></div>
+          <div id="term-2nd-f" class="glossary-entry"><p class="font-bold glossary-term">2nd F (Fellowship)</p><p class="text-sm mt-1" style="color:#1a3a5c;">The social bonds, conversations, and community built before, during, and after workouts.</p></div>
+          <div id="term-3rd-f" class="glossary-entry"><p class="font-bold glossary-term">3rd F (Faith)</p><p class="text-sm mt-1" style="color:#1a3a5c;">Community leadership, philanthropy, and pushing men to serve others and be better leaders.</p></div>
+          <div id="term-him" class="glossary-entry"><p class="font-bold glossary-term">HIM (High Impact Man)</p><p class="text-sm mt-1" style="color:#1a3a5c;">A dedicated member who leads by example in his family, workplace, and community.</p></div>
+          <div id="term-pax" class="glossary-entry"><p class="font-bold glossary-term">PAX</p><p class="text-sm mt-1" style="color:#1a3a5c;">The participants or members attending an F3 workout (short for &ldquo;passengers&rdquo; or &ldquo;people&rdquo;).</p></div>
+          <div id="term-fng" class="glossary-entry"><p class="font-bold glossary-term">FNG (Friendly New Guy)</p><p class="text-sm mt-1" style="color:#1a3a5c;">A newcomer attending their first F3 workout who receives an official nickname at the end of the session.</p></div>
+          <div id="term-q-qic" class="glossary-entry"><p class="font-bold glossary-term">Q / QIC (Q-in-Charge)</p><p class="text-sm mt-1" style="color:#1a3a5c;">The member leading and instructing the workout for that day.</p></div>
+          <div id="term-site-q" class="glossary-entry"><p class="font-bold glossary-term">Site Q</p><p class="text-sm mt-1" style="color:#1a3a5c;">The volunteer responsible for overseeing a specific workout location.</p></div>
+          <div id="term-the-m" class="glossary-entry"><p class="font-bold glossary-term">The M</p><p class="text-sm mt-1" style="color:#1a3a5c;">A member's spouse or significant other.</p></div>
+          <div id="term-2-0" class="glossary-entry"><p class="font-bold glossary-term">2.0</p><p class="text-sm mt-1" style="color:#1a3a5c;">A member's child.</p></div>
+          <div id="term-yhc" class="glossary-entry"><p class="font-bold glossary-term">YHC (Your Humble Correspondent)</p><p class="text-sm mt-1" style="color:#1a3a5c;">How a leader refers to himself when writing up the Backblast summary.</p></div>
         </div>
         </div>
       </div>
@@ -273,17 +277,17 @@
         </button>
         <div class="glossary-accordion-panel px-5 pb-6" hidden>
         <div class="grid md:grid-cols-2 gap-x-10 gap-y-6">
-          <div><p class="font-bold glossary-term">AO (Area of Operations)</p><p class="text-sm mt-1" style="color:#1a3a5c;">The physical venue where the workout takes place (e.g., a park, parking lot, or field).</p></div>
-          <div><p class="font-bold glossary-term">Backblast (BB)</p><p class="text-sm mt-1" style="color:#1a3a5c;">A written report posted online summarizing the workout details, attendance, and highlights.</p></div>
-          <div><p class="font-bold glossary-term">Coffeteria / Beerteria</p><p class="text-sm mt-1" style="color:#1a3a5c;">Gathering for coffee (morning) or beverages (evening) immediately following the workout to build community.</p></div>
-          <div><p class="font-bold glossary-term">CSAUP (Completely Stupid And Utterly Pointless)</p><p class="text-sm mt-1" style="color:#1a3a5c;">An endurance event or extra-tough challenge designed to test grit and build camaraderie (e.g., a multi-hour night ruck or marathon).</p></div>
-          <div><p class="font-bold glossary-term">Downrange</p><p class="text-sm mt-1" style="color:#1a3a5c;">Attending an F3 workout in a different city or region while traveling.</p></div>
-          <div><p class="font-bold glossary-term">Fartsack / Fartsacking</p><p class="text-sm mt-1" style="color:#1a3a5c;">Staying in bed instead of waking up to work out.</p></div>
-          <div><p class="font-bold glossary-term">HC (Hard Commit)</p><p class="text-sm mt-1" style="color:#1a3a5c;">A firm promise or confirmation that you will show up to a scheduled workout.</p></div>
-          <div><p class="font-bold glossary-term">Mumble Chatter</p><p class="text-sm mt-1" style="color:#1a3a5c;">Casual talking, banter, or lighthearted complaining during a workout to build morale.</p></div>
-          <div><p class="font-bold glossary-term">Post</p><p class="text-sm mt-1" style="color:#1a3a5c;">Showing up and participating in a workout.</p></div>
-          <div><p class="font-bold glossary-term">Shovel Flag</p><p class="text-sm mt-1" style="color:#1a3a5c;">An American flag or regional banner mounted on a shovel, stuck into the ground to mark the workout starting point.</p></div>
-          <div><p class="font-bold glossary-term">The Gloom</p><p class="text-sm mt-1" style="color:#1a3a5c;">The dark, pre-dawn hours when morning F3 workouts take place.</p></div>
+          <div id="term-ao" class="glossary-entry"><p class="font-bold glossary-term">AO (Area of Operations)</p><p class="text-sm mt-1" style="color:#1a3a5c;">The physical venue where the workout takes place (e.g., a park, parking lot, or field).</p></div>
+          <div id="term-backblast" class="glossary-entry"><p class="font-bold glossary-term">Backblast (BB)</p><p class="text-sm mt-1" style="color:#1a3a5c;">A written report posted online summarizing the workout details, attendance, and highlights.</p></div>
+          <div id="term-coffeteria-beerteria" class="glossary-entry"><p class="font-bold glossary-term">Coffeteria / Beerteria</p><p class="text-sm mt-1" style="color:#1a3a5c;">Gathering for coffee (morning) or beverages (evening) immediately following the workout to build community.</p></div>
+          <div id="term-csaup" class="glossary-entry"><p class="font-bold glossary-term">CSAUP (Completely Stupid And Utterly Pointless)</p><p class="text-sm mt-1" style="color:#1a3a5c;">An endurance event or extra-tough challenge designed to test grit and build camaraderie (e.g., a multi-hour night ruck or marathon).</p></div>
+          <div id="term-downrange" class="glossary-entry"><p class="font-bold glossary-term">Downrange</p><p class="text-sm mt-1" style="color:#1a3a5c;">Attending an F3 workout in a different city or region while traveling.</p></div>
+          <div id="term-fartsack-fartsacking" class="glossary-entry"><p class="font-bold glossary-term">Fartsack / Fartsacking</p><p class="text-sm mt-1" style="color:#1a3a5c;">Staying in bed instead of waking up to work out.</p></div>
+          <div id="term-hc" class="glossary-entry"><p class="font-bold glossary-term">HC (Hard Commit)</p><p class="text-sm mt-1" style="color:#1a3a5c;">A firm promise or confirmation that you will show up to a scheduled workout.</p></div>
+          <div id="term-mumble-chatter" class="glossary-entry"><p class="font-bold glossary-term">Mumble Chatter</p><p class="text-sm mt-1" style="color:#1a3a5c;">Casual talking, banter, or lighthearted complaining during a workout to build morale.</p></div>
+          <div id="term-post" class="glossary-entry"><p class="font-bold glossary-term">Post</p><p class="text-sm mt-1" style="color:#1a3a5c;">Showing up and participating in a workout.</p></div>
+          <div id="term-shovel-flag" class="glossary-entry"><p class="font-bold glossary-term">Shovel Flag</p><p class="text-sm mt-1" style="color:#1a3a5c;">An American flag or regional banner mounted on a shovel, stuck into the ground to mark the workout starting point.</p></div>
+          <div id="term-the-gloom" class="glossary-entry"><p class="font-bold glossary-term">The Gloom</p><p class="text-sm mt-1" style="color:#1a3a5c;">The dark, pre-dawn hours when morning F3 workouts take place.</p></div>
         </div>
         </div>
       </div>
@@ -295,21 +299,21 @@
         </button>
         <div class="glossary-accordion-panel px-5 pb-6" hidden>
         <div class="grid md:grid-cols-2 gap-x-10 gap-y-6">
-          <div><p class="font-bold glossary-term">AYG (All You Got)</p><p class="text-sm mt-1" style="color:#1a3a5c;">Sprinting or giving maximum effort.</p></div>
-          <div><p class="font-bold glossary-term">Ball of Man (BOM)</p><p class="text-sm mt-1" style="color:#1a3a5c;">Huddling up shoulder-to-shoulder or taking a knee at the end of the COT for a brief closing thought or prayer.</p></div>
-          <div><p class="font-bold glossary-term">Beatdown (BD)</p><p class="text-sm mt-1" style="color:#1a3a5c;">The main 45-to-60-minute boot-camp style workout.</p></div>
-          <div><p class="font-bold glossary-term">COR (Count-o-rama)</p><p class="text-sm mt-1" style="color:#1a3a5c;">Counting the total number of men present at the end of the workout.</p></div>
-          <div><p class="font-bold glossary-term">COT (Circle of Trust)</p><p class="text-sm mt-1" style="color:#1a3a5c;">The closing gathering where announcements, personal reflections, support requests, or prayers are shared.</p></div>
-          <div><p class="font-bold glossary-term">Coupon</p><p class="text-sm mt-1" style="color:#1a3a5c;">Any heavy object used as a weight during exercises&mdash;most commonly a standard 8-inch concrete cinder block.</p></div>
-          <div><p class="font-bold glossary-term">IC (In Cadence)</p><p class="text-sm mt-1" style="color:#1a3a5c;">Performing exercises together while the leader counts the tempo out loud.</p></div>
-          <div><p class="font-bold glossary-term">Mary</p><p class="text-sm mt-1" style="color:#1a3a5c;">The dedicated abdominal/core portion near the end of the workout.</p></div>
-          <div><p class="font-bold glossary-term">Modify</p><p class="text-sm mt-1" style="color:#1a3a5c;">Adjusting an exercise to fit your current fitness level or physical limitations (&ldquo;Modify as needed, not as wanted&rdquo;).</p></div>
-          <div><p class="font-bold glossary-term">Mosey</p><p class="text-sm mt-1" style="color:#1a3a5c;">A light jog used to move the group from one station or area to another.</p></div>
-          <div><p class="font-bold glossary-term">NOR (Name-o-rama)</p><p class="text-sm mt-1" style="color:#1a3a5c;">Going around the circle at the end where everyone states their real name, age, and F3 nickname.</p></div>
-          <div><p class="font-bold glossary-term">OYO (On Your Own)</p><p class="text-sm mt-1" style="color:#1a3a5c;">Completing a set number of exercise repetitions at your own individual pace.</p></div>
-          <div><p class="font-bold glossary-term">The Six</p><p class="text-sm mt-1" style="color:#1a3a5c;">Your backside/rear, or the group running at the back of the pack. &ldquo;Picking up the six&rdquo; means stronger runners loop back so no man is left behind.</p></div>
-          <div><p class="font-bold glossary-term">The Thang</p><p class="text-sm mt-1" style="color:#1a3a5c;">The main section of the workout (circuits, intervals, hill runs, or routines).</p></div>
-          <div><p class="font-bold glossary-term">Warm-a-Rama</p><p class="text-sm mt-1" style="color:#1a3a5c;">The 5-minute dynamic warm-up at the beginning of the workout.</p></div>
+          <div id="term-ayg" class="glossary-entry"><p class="font-bold glossary-term">AYG (All You Got)</p><p class="text-sm mt-1" style="color:#1a3a5c;">Sprinting or giving maximum effort.</p></div>
+          <div id="term-ball-of-man" class="glossary-entry"><p class="font-bold glossary-term">Ball of Man (BOM)</p><p class="text-sm mt-1" style="color:#1a3a5c;">Huddling up shoulder-to-shoulder or taking a knee at the end of the COT for a brief closing thought or prayer.</p></div>
+          <div id="term-beatdown" class="glossary-entry"><p class="font-bold glossary-term">Beatdown (BD)</p><p class="text-sm mt-1" style="color:#1a3a5c;">The main 45-to-60-minute boot-camp style workout.</p></div>
+          <div id="term-cor" class="glossary-entry"><p class="font-bold glossary-term">COR (Count-o-rama)</p><p class="text-sm mt-1" style="color:#1a3a5c;">Counting the total number of men present at the end of the workout.</p></div>
+          <div id="term-cot" class="glossary-entry"><p class="font-bold glossary-term">COT (Circle of Trust)</p><p class="text-sm mt-1" style="color:#1a3a5c;">The closing gathering where announcements, personal reflections, support requests, or prayers are shared.</p></div>
+          <div id="term-coupon" class="glossary-entry"><p class="font-bold glossary-term">Coupon</p><p class="text-sm mt-1" style="color:#1a3a5c;">Any heavy object used as a weight during exercises&mdash;most commonly a standard 8-inch concrete cinder block.</p></div>
+          <div id="term-ic" class="glossary-entry"><p class="font-bold glossary-term">IC (In Cadence)</p><p class="text-sm mt-1" style="color:#1a3a5c;">Performing exercises together while the leader counts the tempo out loud.</p></div>
+          <div id="term-mary" class="glossary-entry"><p class="font-bold glossary-term">Mary</p><p class="text-sm mt-1" style="color:#1a3a5c;">The dedicated abdominal/core portion near the end of the workout.</p></div>
+          <div id="term-modify" class="glossary-entry"><p class="font-bold glossary-term">Modify</p><p class="text-sm mt-1" style="color:#1a3a5c;">Adjusting an exercise to fit your current fitness level or physical limitations (&ldquo;Modify as needed, not as wanted&rdquo;).</p></div>
+          <div id="term-mosey" class="glossary-entry"><p class="font-bold glossary-term">Mosey</p><p class="text-sm mt-1" style="color:#1a3a5c;">A light jog used to move the group from one station or area to another.</p></div>
+          <div id="term-nor" class="glossary-entry"><p class="font-bold glossary-term">NOR (Name-o-rama)</p><p class="text-sm mt-1" style="color:#1a3a5c;">Going around the circle at the end where everyone states their real name, age, and F3 nickname.</p></div>
+          <div id="term-oyo" class="glossary-entry"><p class="font-bold glossary-term">OYO (On Your Own)</p><p class="text-sm mt-1" style="color:#1a3a5c;">Completing a set number of exercise repetitions at your own individual pace.</p></div>
+          <div id="term-the-six" class="glossary-entry"><p class="font-bold glossary-term">The Six</p><p class="text-sm mt-1" style="color:#1a3a5c;">Your backside/rear, or the group running at the back of the pack. &ldquo;Picking up the six&rdquo; means stronger runners loop back so no man is left behind.</p></div>
+          <div id="term-the-thang" class="glossary-entry"><p class="font-bold glossary-term">The Thang</p><p class="text-sm mt-1" style="color:#1a3a5c;">The main section of the workout (circuits, intervals, hill runs, or routines).</p></div>
+          <div id="term-warm-a-rama" class="glossary-entry"><p class="font-bold glossary-term">Warm-a-Rama</p><p class="text-sm mt-1" style="color:#1a3a5c;">The 5-minute dynamic warm-up at the beginning of the workout.</p></div>
         </div>
         </div>
       </div>
@@ -321,15 +325,15 @@
         </button>
         <div class="glossary-accordion-panel px-5 pb-6" hidden>
         <div class="grid md:grid-cols-2 gap-x-10 gap-y-6">
-          <div><p class="font-bold glossary-term">Carolina Dry Dock</p><p class="text-sm mt-1" style="color:#1a3a5c;">A pike push-up with hips held high in a V-shape, lowering your head toward the ground to target the shoulders.</p></div>
-          <div><p class="font-bold glossary-term">Derkin (Decline Merkin)</p><p class="text-sm mt-1" style="color:#1a3a5c;">A push-up with your feet elevated on a bench, curb, or wall to increase upper-chest intensity.</p></div>
-          <div><p class="font-bold glossary-term">Diamond Merkin</p><p class="text-sm mt-1" style="color:#1a3a5c;">A push-up with your hands touching to form a diamond shape under your chest to isolate the triceps.</p></div>
-          <div><p class="font-bold glossary-term">Hand-Release Merkin</p><p class="text-sm mt-1" style="color:#1a3a5c;">A push-up where you lower all the way down, lift your hands completely off the ground for a split second, and push back up.</p></div>
-          <div><p class="font-bold glossary-term">Incline Merkin</p><p class="text-sm mt-1" style="color:#1a3a5c;">A push-up with your hands elevated on a bench or curb to lighten the load.</p></div>
-          <div><p class="font-bold glossary-term">Merkin</p><p class="text-sm mt-1" style="color:#1a3a5c;">A standard push-up.</p></div>
-          <div><p class="font-bold glossary-term">Peter Parker</p><p class="text-sm mt-1" style="color:#1a3a5c;">A plank or push-up where you bring your knee out to the side toward the same-side elbow.</p></div>
-          <div><p class="font-bold glossary-term">Ranger Merkin</p><p class="text-sm mt-1" style="color:#1a3a5c;">A push-up performed with hands placed close to the ribs and elbows pinned tightly against the sides.</p></div>
-          <div><p class="font-bold glossary-term">Werkin (Wide Merkin)</p><p class="text-sm mt-1" style="color:#1a3a5c;">A push-up performed with hands set significantly wider than shoulder-width apart.</p></div>
+          <div id="term-carolina-dry-dock" class="glossary-entry"><p class="font-bold glossary-term">Carolina Dry Dock</p><p class="text-sm mt-1" style="color:#1a3a5c;">A pike push-up with hips held high in a V-shape, lowering your head toward the ground to target the shoulders.</p></div>
+          <div id="term-derkin" class="glossary-entry"><p class="font-bold glossary-term">Derkin (Decline Merkin)</p><p class="text-sm mt-1" style="color:#1a3a5c;">A push-up with your feet elevated on a bench, curb, or wall to increase upper-chest intensity.</p></div>
+          <div id="term-diamond-merkin" class="glossary-entry"><p class="font-bold glossary-term">Diamond Merkin</p><p class="text-sm mt-1" style="color:#1a3a5c;">A push-up with your hands touching to form a diamond shape under your chest to isolate the triceps.</p></div>
+          <div id="term-hand-release-merkin" class="glossary-entry"><p class="font-bold glossary-term">Hand-Release Merkin</p><p class="text-sm mt-1" style="color:#1a3a5c;">A push-up where you lower all the way down, lift your hands completely off the ground for a split second, and push back up.</p></div>
+          <div id="term-incline-merkin" class="glossary-entry"><p class="font-bold glossary-term">Incline Merkin</p><p class="text-sm mt-1" style="color:#1a3a5c;">A push-up with your hands elevated on a bench or curb to lighten the load.</p></div>
+          <div id="term-merkin" class="glossary-entry"><p class="font-bold glossary-term">Merkin</p><p class="text-sm mt-1" style="color:#1a3a5c;">A standard push-up.</p></div>
+          <div id="term-peter-parker" class="glossary-entry"><p class="font-bold glossary-term">Peter Parker</p><p class="text-sm mt-1" style="color:#1a3a5c;">A plank or push-up where you bring your knee out to the side toward the same-side elbow.</p></div>
+          <div id="term-ranger-merkin" class="glossary-entry"><p class="font-bold glossary-term">Ranger Merkin</p><p class="text-sm mt-1" style="color:#1a3a5c;">A push-up performed with hands placed close to the ribs and elbows pinned tightly against the sides.</p></div>
+          <div id="term-werkin" class="glossary-entry"><p class="font-bold glossary-term">Werkin (Wide Merkin)</p><p class="text-sm mt-1" style="color:#1a3a5c;">A push-up performed with hands set significantly wider than shoulder-width apart.</p></div>
         </div>
         </div>
       </div>
@@ -341,15 +345,15 @@
         </button>
         <div class="glossary-accordion-panel px-5 pb-6" hidden>
         <div class="grid md:grid-cols-2 gap-x-10 gap-y-6">
-          <div><p class="font-bold glossary-term">American Hammer</p><p class="text-sm mt-1" style="color:#1a3a5c;">Sitting in a boat-pose position with feet lifted, holding a weight or clasping hands, and rotating the torso to touch the ground on each side.</p></div>
-          <div><p class="font-bold glossary-term">Big Boys</p><p class="text-sm mt-1" style="color:#1a3a5c;">Full sit-ups starting flat on your back with arms extended overhead, sitting all the way up to touch your feet.</p></div>
-          <div><p class="font-bold glossary-term">Flutter Kicks</p><p class="text-sm mt-1" style="color:#1a3a5c;">Lying on your back with hands under your glutes, keeping legs straight while alternating small up-and-down kicks.</p></div>
-          <div><p class="font-bold glossary-term">Freddy Mercury</p><p class="text-sm mt-1" style="color:#1a3a5c;">Bicycle crunches performed lying flat on your back, cycling your legs while reaching the opposite elbow to the opposite knee.</p></div>
-          <div><p class="font-bold glossary-term">Hello Dolly</p><p class="text-sm mt-1" style="color:#1a3a5c;">Lying on your back with legs straight, opening and closing them horizontally in a scissor motion.</p></div>
-          <div><p class="font-bold glossary-term">LBC (Little Baby Crunch)</p><p class="text-sm mt-1" style="color:#1a3a5c;">A quick, controlled ab crunch with knees bent at 90 degrees and fingertips behind the ears.</p></div>
-          <div><p class="font-bold glossary-term">Plankama (or Plank-a-rama)</p><p class="text-sm mt-1" style="color:#1a3a5c;">Holding standard planks while alternating variations (e.g., side planks, shoulder taps, or leg lifts).</p></div>
-          <div><p class="font-bold glossary-term">Protractor</p><p class="text-sm mt-1" style="color:#1a3a5c;">Lying on your back while the leader calls out leg-elevation angles (e.g., 30&deg;, 45&deg;, 90&deg;) for static core holds.</p></div>
-          <div><p class="font-bold glossary-term">Rosalita</p><p class="text-sm mt-1" style="color:#1a3a5c;">Lying flat on your back, raising both legs straight up to a 90-degree angle, opening them wide, and bringing them back together.</p></div>
+          <div id="term-american-hammer" class="glossary-entry"><p class="font-bold glossary-term">American Hammer</p><p class="text-sm mt-1" style="color:#1a3a5c;">Sitting in a boat-pose position with feet lifted, holding a weight or clasping hands, and rotating the torso to touch the ground on each side.</p></div>
+          <div id="term-big-boys" class="glossary-entry"><p class="font-bold glossary-term">Big Boys</p><p class="text-sm mt-1" style="color:#1a3a5c;">Full sit-ups starting flat on your back with arms extended overhead, sitting all the way up to touch your feet.</p></div>
+          <div id="term-flutter-kicks" class="glossary-entry"><p class="font-bold glossary-term">Flutter Kicks</p><p class="text-sm mt-1" style="color:#1a3a5c;">Lying on your back with hands under your glutes, keeping legs straight while alternating small up-and-down kicks.</p></div>
+          <div id="term-freddy-mercury" class="glossary-entry"><p class="font-bold glossary-term">Freddy Mercury</p><p class="text-sm mt-1" style="color:#1a3a5c;">Bicycle crunches performed lying flat on your back, cycling your legs while reaching the opposite elbow to the opposite knee.</p></div>
+          <div id="term-hello-dolly" class="glossary-entry"><p class="font-bold glossary-term">Hello Dolly</p><p class="text-sm mt-1" style="color:#1a3a5c;">Lying on your back with legs straight, opening and closing them horizontally in a scissor motion.</p></div>
+          <div id="term-lbc" class="glossary-entry"><p class="font-bold glossary-term">LBC (Little Baby Crunch)</p><p class="text-sm mt-1" style="color:#1a3a5c;">A quick, controlled ab crunch with knees bent at 90 degrees and fingertips behind the ears.</p></div>
+          <div id="term-plankama" class="glossary-entry"><p class="font-bold glossary-term">Plankama (or Plank-a-rama)</p><p class="text-sm mt-1" style="color:#1a3a5c;">Holding standard planks while alternating variations (e.g., side planks, shoulder taps, or leg lifts).</p></div>
+          <div id="term-protractor" class="glossary-entry"><p class="font-bold glossary-term">Protractor</p><p class="text-sm mt-1" style="color:#1a3a5c;">Lying on your back while the leader calls out leg-elevation angles (e.g., 30&deg;, 45&deg;, 90&deg;) for static core holds.</p></div>
+          <div id="term-rosalita" class="glossary-entry"><p class="font-bold glossary-term">Rosalita</p><p class="text-sm mt-1" style="color:#1a3a5c;">Lying flat on your back, raising both legs straight up to a 90-degree angle, opening them wide, and bringing them back together.</p></div>
         </div>
         </div>
       </div>
@@ -361,13 +365,13 @@
         </button>
         <div class="glossary-accordion-panel px-5 pb-6" hidden>
         <div class="grid md:grid-cols-2 gap-x-10 gap-y-6">
-          <div><p class="font-bold glossary-term">Air Squats</p><p class="text-sm mt-1" style="color:#1a3a5c;">Standard bodyweight squats performed with proper depth and hips breaking parallel.</p></div>
-          <div><p class="font-bold glossary-term">Al Gore</p><p class="text-sm mt-1" style="color:#1a3a5c;">Holding a static squat position at a 90-degree angle with arms extended forward (a nod to &ldquo;standing still&rdquo; like a statue).</p></div>
-          <div><p class="font-bold glossary-term">Bobby Hurley</p><p class="text-sm mt-1" style="color:#1a3a5c;">A jump squat where you reach down to touch the ground with one hand, then explode upward into a jump while reaching high with the other.</p></div>
-          <div><p class="font-bold glossary-term">Bonnie Blair</p><p class="text-sm mt-1" style="color:#1a3a5c;">Alternating reverse jumping lunges (jumping side to side into a lunge position).</p></div>
-          <div><p class="font-bold glossary-term">Hillbilly</p><p class="text-sm mt-1" style="color:#1a3a5c;">A standing march bringing the knee up diagonally while touching the opposite elbow to it with hands behind the head.</p></div>
-          <div><p class="font-bold glossary-term">Imperial Stormtrooper (IST)</p><p class="text-sm mt-1" style="color:#1a3a5c;">Standing upright, kicking one straight leg high while reaching the opposite hand out to touch the toes.</p></div>
-          <div><p class="font-bold glossary-term">Monkey Humpers</p><p class="text-sm mt-1" style="color:#1a3a5c;">Standing in a wide stance, grabbing your ankles or calves, and raising and lowering your hips to work the glutes and hamstrings.</p></div>
+          <div id="term-air-squats" class="glossary-entry"><p class="font-bold glossary-term">Air Squats</p><p class="text-sm mt-1" style="color:#1a3a5c;">Standard bodyweight squats performed with proper depth and hips breaking parallel.</p></div>
+          <div id="term-al-gore" class="glossary-entry"><p class="font-bold glossary-term">Al Gore</p><p class="text-sm mt-1" style="color:#1a3a5c;">Holding a static squat position at a 90-degree angle with arms extended forward (a nod to &ldquo;standing still&rdquo; like a statue).</p></div>
+          <div id="term-bobby-hurley" class="glossary-entry"><p class="font-bold glossary-term">Bobby Hurley</p><p class="text-sm mt-1" style="color:#1a3a5c;">A jump squat where you reach down to touch the ground with one hand, then explode upward into a jump while reaching high with the other.</p></div>
+          <div id="term-bonnie-blair" class="glossary-entry"><p class="font-bold glossary-term">Bonnie Blair</p><p class="text-sm mt-1" style="color:#1a3a5c;">Alternating reverse jumping lunges (jumping side to side into a lunge position).</p></div>
+          <div id="term-hillbilly" class="glossary-entry"><p class="font-bold glossary-term">Hillbilly</p><p class="text-sm mt-1" style="color:#1a3a5c;">A standing march bringing the knee up diagonally while touching the opposite elbow to it with hands behind the head.</p></div>
+          <div id="term-imperial-stormtrooper" class="glossary-entry"><p class="font-bold glossary-term">Imperial Stormtrooper (IST)</p><p class="text-sm mt-1" style="color:#1a3a5c;">Standing upright, kicking one straight leg high while reaching the opposite hand out to touch the toes.</p></div>
+          <div id="term-monkey-humpers" class="glossary-entry"><p class="font-bold glossary-term">Monkey Humpers</p><p class="text-sm mt-1" style="color:#1a3a5c;">Standing in a wide stance, grabbing your ankles or calves, and raising and lowering your hips to work the glutes and hamstrings.</p></div>
         </div>
         </div>
       </div>
@@ -379,13 +383,13 @@
         </button>
         <div class="glossary-accordion-panel px-5 pb-6" hidden>
         <div class="grid md:grid-cols-2 gap-x-10 gap-y-6">
-          <div><p class="font-bold glossary-term">Bear Crawl</p><p class="text-sm mt-1" style="color:#1a3a5c;">Moving forward on all fours with hands and feet on the ground, keeping knees hovered just above the grass.</p></div>
-          <div><p class="font-bold glossary-term">Burpee</p><p class="text-sm mt-1" style="color:#1a3a5c;">Standard 4-step exercise: squat, kick feet back to a plank, perform a push-up, jump feet back in, and jump vertically with hands overhead.</p></div>
-          <div><p class="font-bold glossary-term">Crab Walk</p><p class="text-sm mt-1" style="color:#1a3a5c;">Sitting on the ground, lifting your hips up using your hands and feet behind you, and traveling forward or backward.</p></div>
-          <div><p class="font-bold glossary-term">Gorilla Walk</p><p class="text-sm mt-1" style="color:#1a3a5c;">Bending deep into a low squat, placing hands on the ground in front, and hopping your feet forward to meet your hands in a wide stance.</p></div>
-          <div><p class="font-bold glossary-term">Groiner</p><p class="text-sm mt-1" style="color:#1a3a5c;">Starting in a high plank position, jumping both feet forward so they land wide on the outside of your hands, then jumping back to a plank.</p></div>
-          <div><p class="font-bold glossary-term">Side Straddle Hop (SSH)</p><p class="text-sm mt-1" style="color:#1a3a5c;">Standard jumping jacks.</p></div>
-          <div><p class="font-bold glossary-term">Smurf Jacks</p><p class="text-sm mt-1" style="color:#1a3a5c;">Jumping jacks performed entirely while staying low in a partial squat position.</p></div>
+          <div id="term-bear-crawl" class="glossary-entry"><p class="font-bold glossary-term">Bear Crawl</p><p class="text-sm mt-1" style="color:#1a3a5c;">Moving forward on all fours with hands and feet on the ground, keeping knees hovered just above the grass.</p></div>
+          <div id="term-burpee" class="glossary-entry"><p class="font-bold glossary-term">Burpee</p><p class="text-sm mt-1" style="color:#1a3a5c;">Standard 4-step exercise: squat, kick feet back to a plank, perform a push-up, jump feet back in, and jump vertically with hands overhead.</p></div>
+          <div id="term-crab-walk" class="glossary-entry"><p class="font-bold glossary-term">Crab Walk</p><p class="text-sm mt-1" style="color:#1a3a5c;">Sitting on the ground, lifting your hips up using your hands and feet behind you, and traveling forward or backward.</p></div>
+          <div id="term-gorilla-walk" class="glossary-entry"><p class="font-bold glossary-term">Gorilla Walk</p><p class="text-sm mt-1" style="color:#1a3a5c;">Bending deep into a low squat, placing hands on the ground in front, and hopping your feet forward to meet your hands in a wide stance.</p></div>
+          <div id="term-groiner" class="glossary-entry"><p class="font-bold glossary-term">Groiner</p><p class="text-sm mt-1" style="color:#1a3a5c;">Starting in a high plank position, jumping both feet forward so they land wide on the outside of your hands, then jumping back to a plank.</p></div>
+          <div id="term-side-straddle-hop" class="glossary-entry"><p class="font-bold glossary-term">Side Straddle Hop (SSH)</p><p class="text-sm mt-1" style="color:#1a3a5c;">Standard jumping jacks.</p></div>
+          <div id="term-smurf-jacks" class="glossary-entry"><p class="font-bold glossary-term">Smurf Jacks</p><p class="text-sm mt-1" style="color:#1a3a5c;">Jumping jacks performed entirely while staying low in a partial squat position.</p></div>
         </div>
         </div>
       </div>
@@ -397,11 +401,11 @@
         </button>
         <div class="glossary-accordion-panel px-5 pb-6" hidden>
         <div class="grid md:grid-cols-2 gap-x-10 gap-y-6">
-          <div><p class="font-bold glossary-term">Catch Me If You Can</p><p class="text-sm mt-1" style="color:#1a3a5c;">A partner routine where Partner A performs exercises while Partner B moves forward using a designated travel method; Partner A then sprints to catch up and swap roles.</p></div>
-          <div><p class="font-bold glossary-term">Dora (or Dora 1-2-3)</p><p class="text-sm mt-1" style="color:#1a3a5c;">A team-of-two workout where Partner A works on cumulative exercise reps while Partner B runs a set distance, switching off until all target reps are completed.</p></div>
-          <div><p class="font-bold glossary-term">Elevens (11s)</p><p class="text-sm mt-1" style="color:#1a3a5c;">A ladder workout between two physical points. You do 10 reps of Exercise A at Point 1 and 1 rep of Exercise B at Point 2, adjusting counts so the sum always equals 11.</p></div>
-          <div><p class="font-bold glossary-term">Indian Run</p><p class="text-sm mt-1" style="color:#1a3a5c;">A single-file group run where the person at the very back sprints to the front to take the lead.</p></div>
-          <div><p class="font-bold glossary-term">String of Pearls</p><p class="text-sm mt-1" style="color:#1a3a5c;">A workout structure where the group moseys between multiple stops, executing a set of exercises at each station along the way.</p></div>
+          <div id="term-catch-me-if-you-can" class="glossary-entry"><p class="font-bold glossary-term">Catch Me If You Can</p><p class="text-sm mt-1" style="color:#1a3a5c;">A partner routine where Partner A performs exercises while Partner B moves forward using a designated travel method; Partner A then sprints to catch up and swap roles.</p></div>
+          <div id="term-dora" class="glossary-entry"><p class="font-bold glossary-term">Dora (or Dora 1-2-3)</p><p class="text-sm mt-1" style="color:#1a3a5c;">A team-of-two workout where Partner A works on cumulative exercise reps while Partner B runs a set distance, switching off until all target reps are completed.</p></div>
+          <div id="term-elevens" class="glossary-entry"><p class="font-bold glossary-term">Elevens (11s)</p><p class="text-sm mt-1" style="color:#1a3a5c;">A ladder workout between two physical points. You do 10 reps of Exercise A at Point 1 and 1 rep of Exercise B at Point 2, adjusting counts so the sum always equals 11.</p></div>
+          <div id="term-indian-run" class="glossary-entry"><p class="font-bold glossary-term">Indian Run</p><p class="text-sm mt-1" style="color:#1a3a5c;">A single-file group run where the person at the very back sprints to the front to take the lead.</p></div>
+          <div id="term-string-of-pearls" class="glossary-entry"><p class="font-bold glossary-term">String of Pearls</p><p class="text-sm mt-1" style="color:#1a3a5c;">A workout structure where the group moseys between multiple stops, executing a set of exercises at each station along the way.</p></div>
         </div>
         </div>
       </div>
@@ -416,6 +420,21 @@
     btn.setAttribute('aria-expanded', String(!isOpen));
     if (isOpen) { panel.setAttribute('hidden', ''); } else { panel.removeAttribute('hidden'); }
   }
+
+  // Deep links like pax-library.html#term-merkin (used by Burpee Timebomb) open
+  // the collapsed category, scroll to the term, and briefly highlight it.
+  function openGlossaryTerm() {
+    const id = decodeURIComponent(location.hash.slice(1));
+    if (!id.startsWith('term-')) return;
+    const entry = document.getElementById(id);
+    if (!entry) return;
+    const panel = entry.closest('.glossary-accordion-panel');
+    if (panel && panel.hidden) toggleGlossary(panel.previousElementSibling);
+    entry.scrollIntoView({ block: 'center' });
+    entry.classList.remove('term-flash'); void entry.offsetWidth; entry.classList.add('term-flash');
+  }
+  window.addEventListener('hashchange', openGlossaryTerm);
+  window.addEventListener('load', openGlossaryTerm);
 </script>
 
 <!-- OTHER HELPFUL LINKS -->
