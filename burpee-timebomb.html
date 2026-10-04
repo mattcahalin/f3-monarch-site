@@ -250,7 +250,7 @@
     <!-- LIVE -->
     <div class="screen" id="screen-live" hidden>
       <p class="font-display font-bold text-4xl md:text-5xl uppercase mt-6 pulse" style="color:#f4a261;">Pass it!</p>
-      <p class="mt-2" style="color:#a8c8e8;">Hand the phone to the next PAX. Don't get caught holding it.</p>
+      <p class="mt-2" style="color:#a8c8e8;">Got the bomb? Do <b style="color:#e8f4f8;">2 <span id="pass-ex">Burpees</span></b> (the hard way where applicable), then hand it to the next PAX.</p>
       <div id="fuse-ex-box" class="mt-6 rounded-xl px-4 py-4" style="background:rgba(244,162,97,0.1); border:1px solid rgba(244,162,97,0.5);" hidden>
         <p class="text-xs font-bold tracking-widest uppercase" style="color:#f4a261;">Everybody, until it blows</p>
         <p class="font-display font-bold text-3xl mt-1" id="fuse-ex" style="color:#e8f4f8;"></p>
@@ -299,8 +299,9 @@
     <ol class="mt-3 space-y-2 list-decimal pl-5" style="color:#1a3a5c;">
       <li>Circle up the PAX. One phone, screen on, sound up.</li>
       <li>Tap <b>Light the Fuse</b>. The timer is random and hidden.</li>
-      <li>Pass the phone hand to hand. No holding, no tossing (it's somebody's phone).</li>
       <li>While it burns, everyone does the exercise on the screen. Keep going until it blows.</li>
+      <li>Whoever receives the bomb must do <b>2 reps</b> of that exercise (the hard way where applicable) before passing it to the next PAX. If the fuse exercise is turned off, it's 2 burpees.</li>
+      <li>Pass the phone hand to hand. No tossing (it's somebody's phone).</li>
       <li>When it blows, the PAX holding it reads the task out loud. Everyone does it.</li>
       <li>Tap <b>Next Round</b>. The unlucky PAX lights the next fuse.</li>
     </ol>
@@ -496,6 +497,7 @@
     fuseEx = readSettings().fuseEx ? pickExercise(FUSE_EXERCISES) : null;
     $('fuse-ex').textContent = fuseEx || '';
     $('fuse-ex-box').hidden = !fuseEx;
+    $('pass-ex').textContent = fuseEx || 'Burpees';
     elapsed = 0;
     start();
     lockScreen();
