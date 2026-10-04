@@ -239,6 +239,11 @@
           <label class="opt"><input type="checkbox" id="opt-sound" checked><span>Ticking &amp; explosion sound</span></label>
           <label class="opt"><input type="checkbox" id="opt-speedup" checked><span>Ticking speeds up as the fuse burns</span></label>
         </div>
+
+        <p class="mt-5 text-sm font-semibold" style="color:#e8f4f8;">While the fuse burns</p>
+        <div class="mt-2 grid gap-2">
+          <label class="opt"><input type="checkbox" id="opt-fuse-ex" checked><span><b>PAX exercise until it blows</b><br><span class="text-sm" style="color:#a8c8e8;">A random exercise from the PAX Library glossary (upper body, core, lower body, full body)</span></span></label>
+        </div>
       </details>
     </div>
 
@@ -246,6 +251,10 @@
     <div class="screen" id="screen-live" hidden>
       <p class="font-display font-bold text-4xl md:text-5xl uppercase mt-6 pulse" style="color:#f4a261;">Pass it!</p>
       <p class="mt-2" style="color:#a8c8e8;">Hand the phone to the next PAX. Don't get caught holding it.</p>
+      <div id="fuse-ex-box" class="mt-6 rounded-xl px-4 py-4" style="background:rgba(244,162,97,0.1); border:1px solid rgba(244,162,97,0.5);" hidden>
+        <p class="text-xs font-bold tracking-widest uppercase" style="color:#f4a261;">Everybody, until it blows</p>
+        <p class="font-display font-bold text-3xl mt-1" id="fuse-ex" style="color:#e8f4f8;"></p>
+      </div>
       <div class="mt-8 flex gap-3 justify-center">
         <button id="pause" type="button" class="btn-dim font-bold px-5 py-3 rounded-lg">Pause</button>
         <button id="defuse" type="button" class="btn-dim font-bold px-5 py-3 rounded-lg">Defuse (cancel)</button>
@@ -291,6 +300,7 @@
       <li>Circle up the PAX. One phone, screen on, sound up.</li>
       <li>Tap <b>Light the Fuse</b>. The timer is random and hidden.</li>
       <li>Pass the phone hand to hand. No holding, no tossing (it's somebody's phone).</li>
+      <li>While it burns, everyone does the exercise on the screen. Keep going until it blows.</li>
       <li>When it blows, the PAX holding it reads the task out loud. Everyone does it.</li>
       <li>Tap <b>Next Round</b>. The unlucky PAX lights the next fuse.</li>
     </ol>
@@ -315,6 +325,14 @@
   const FUSES = { short: [10, 30], medium: [20, 60], long: [45, 90] };
   const COUNTS = [1, 5, 10];
   const EXERCISES = ['Merkins', 'Squats', 'Side Straddle Hops', 'Curls', 'Rows', 'Taint Scrapers', 'Thrusters', 'Overhead Press'];
+  // PAX Library glossary sections 4-7 (upper body, core, lower body, full body),
+  // minus the travels (Bear Crawl, Crab Walk, Gorilla Walk) since the circle stays put while passing.
+  const FUSE_EXERCISES = [
+    'Carolina Dry Docks', 'Derkins', 'Diamond Merkins', 'Hand-Release Merkins', 'Incline Merkins', 'Merkins', 'Peter Parkers', 'Ranger Merkins', 'Werkins',
+    'American Hammers', 'Big Boys', 'Flutter Kicks', 'Freddy Mercurys', 'Hello Dollys', 'LBCs', 'Plankorama', 'Protractor', 'Rosalitas',
+    'Air Squats', 'Al Gore', 'Bobby Hurleys', 'Bonnie Blairs', 'Hillbillies', 'Imperial Stormtroopers', 'Monkey Humpers',
+    'Burpees', 'Groiners', 'Side Straddle Hops', 'Smurf Jacks',
+  ];
   const TRAVELS = ['Bear Crawls', 'Lunge Walks', 'Murder Bunnies', 'Farmer Carry', 'Rifle Carry', 'Burpee Broad Jumps'];
   const CAT_LABEL = { group: 'Group Burpees', solo: 'Solo Burpees', travel: 'Group Travel' };
   const STORE = 'burpee-timebomb-settings';
@@ -331,6 +349,7 @@
       cats: [...document.querySelectorAll('input[name="cat"]:checked')].map((el) => el.value),
       sound: $('opt-sound').checked,
       speedup: $('opt-speedup').checked,
+      fuseEx: $('opt-fuse-ex').checked,
     };
   }
   function saveSettings() {
@@ -347,6 +366,7 @@
     }
     if (typeof s.sound === 'boolean') $('opt-sound').checked = s.sound;
     if (typeof s.speedup === 'boolean') $('opt-speedup').checked = s.speedup;
+    if (typeof s.fuseEx === 'boolean') $('opt-fuse-ex').checked = s.fuseEx;
   }
   // Never let every task type be unchecked.
   document.querySelectorAll('input[name="cat"]').forEach((el) => {
@@ -355,7 +375,7 @@
       saveSettings();
     });
   });
-  document.querySelectorAll('input[name="fuse"], #opt-sound, #opt-speedup').forEach((el) => el.addEventListener('change', saveSettings));
+  document.querySelectorAll('input[name="fuse"], #opt-sound, #opt-speedup, #opt-fuse-ex').forEach((el) => el.addEventListener('change', saveSettings));
   loadSettings();
 
   // ---------- audio ----------
@@ -428,7 +448,7 @@
   }
 
   // ---------- game state ----------
-  let round = 1, duration = 0, elapsed = 0, startedAt = 0, nextTickAt = 0, timer = null, rollTimer = null, state = 'ready';
+  let round = 1, fuseEx = null, duration = 0, elapsed = 0, startedAt = 0, nextTickAt = 0, timer = null, rollTimer = null, state = 'ready';
   const history = [];
 
   function show(name) {
@@ -471,6 +491,9 @@
     audio(); // unlock audio on the user's tap
     const [lo, hi] = FUSES[readSettings().fuse];
     duration = (lo + Math.random() * (hi - lo)) * 1000;
+    fuseEx = readSettings().fuseEx ? pick(FUSE_EXERCISES) : null;
+    $('fuse-ex').textContent = fuseEx || '';
+    $('fuse-ex-box').hidden = !fuseEx;
     elapsed = 0;
     start();
     lockScreen();
@@ -535,7 +558,7 @@
     li.innerHTML = `<span class="font-display font-bold" style="color:#e63946; min-width:2.2em;">R${round}</span>
       <span><b style="color:#0d1b2a;"></b><br><span class="text-sm"></span></span>`;
     li.querySelector('b').textContent = `${CAT_LABEL[task.cat]}: ${task.main}`;
-    li.querySelector('.text-sm').textContent = task.sub;
+    li.querySelector('.text-sm').textContent = fuseEx ? `${task.sub} While lit: ${fuseEx}.` : task.sub;
     $('log').prepend(li);
     $('log-empty').hidden = true;
     $('reset').hidden = false;
