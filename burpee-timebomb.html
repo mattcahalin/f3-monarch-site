@@ -99,6 +99,7 @@
   #flash { position: fixed; inset: 0; pointer-events: none; z-index: 80; opacity: 0; background: radial-gradient(circle, #fff 0%, #ffd27a 35%, #e63946 75%); }
   #flash.go { animation: flash 0.9s ease-out; }
   @keyframes flash { 0% { opacity: 1; } 100% { opacity: 0; } }
+  .one-liner { font-family: 'Oswald', sans-serif; font-weight: 600; font-style: italic; color: var(--off-white); animation: rise 0.35s ease 0.5s both; }
   .boom-word { font-family: 'Oswald', sans-serif; font-weight: 700; color: var(--ember); text-shadow: 0 0 24px rgba(230,57,70,0.8); animation: slam 0.5s cubic-bezier(.2,1.6,.4,1); }
   @keyframes slam { 0% { transform: scale(3); opacity: 0; } 100% { transform: scale(1); opacity: 1; } }
   .task-card { background: var(--off-white); color: var(--navy); border-radius: 14px; border-top: 6px solid var(--fire); animation: rise 0.35s ease 0.2s both; }
@@ -128,7 +129,7 @@
   .log li:last-child { border-bottom: 0; }
 
   @media (prefers-reduced-motion: reduce) {
-    .lit .bomb-wrap, .lit .bomb .spark, .pulse, .boom-word, .task-card { animation: none !important; }
+    .lit .bomb-wrap, .lit .bomb .spark, .pulse, .boom-word, .one-liner, .task-card { animation: none !important; }
     #flash.go { animation-duration: 0.3s; }
   }
 </style>
@@ -257,6 +258,7 @@
         <div class="mt-2 grid gap-2">
           <label class="opt"><input type="checkbox" id="opt-sound" checked><span>Ticking &amp; explosion sound</span></label>
           <label class="opt"><input type="checkbox" id="opt-speedup" checked><span>Ticking speeds up as the fuse burns</span></label>
+          <label class="opt"><input type="checkbox" id="opt-oneliner" checked><span>Action hero one-liner when it blows</span></label>
         </div>
 
         <p class="mt-5 text-sm font-semibold" style="color:#e8f4f8;">While the fuse burns</p>
@@ -294,6 +296,7 @@
     <!-- BOOM -->
     <div class="screen" id="screen-boom" hidden>
       <p class="boom-word text-6xl md:text-7xl mt-2">BOOM!</p>
+      <p class="one-liner text-xl md:text-2xl mt-2 px-2" id="one-liner" hidden></p>
       <div class="task-card text-left mt-6 p-5 md:p-6" aria-live="assertive">
         <span class="cat-chip" id="task-cat">Group Burpees</span>
         <p class="font-display font-bold text-4xl md:text-5xl mt-3 leading-tight" id="task-main">&nbsp;</p>
@@ -473,6 +476,7 @@
       cats: [...document.querySelectorAll('input[name="cat"]:checked')].map((el) => el.value),
       sound: $('opt-sound').checked,
       speedup: $('opt-speedup').checked,
+      oneLiner: $('opt-oneliner').checked,
       fuseEx: $('opt-fuse-ex').checked,
     };
   }
@@ -490,6 +494,7 @@
     }
     if (typeof s.sound === 'boolean') $('opt-sound').checked = s.sound;
     if (typeof s.speedup === 'boolean') $('opt-speedup').checked = s.speedup;
+    if (typeof s.oneLiner === 'boolean') $('opt-oneliner').checked = s.oneLiner;
     if (typeof s.fuseEx === 'boolean') $('opt-fuse-ex').checked = s.fuseEx;
   }
   // Never let every task type be unchecked.
@@ -499,7 +504,7 @@
       saveSettings();
     });
   });
-  document.querySelectorAll('input[name="fuse"], #opt-sound, #opt-speedup, #opt-fuse-ex').forEach((el) => el.addEventListener('change', saveSettings));
+  document.querySelectorAll('input[name="fuse"], #opt-sound, #opt-speedup, #opt-oneliner, #opt-fuse-ex').forEach((el) => el.addEventListener('change', saveSettings));
   loadSettings();
 
   // ---------- audio ----------
@@ -542,6 +547,104 @@
     og.gain.setValueAtTime(0.9, t); og.gain.exponentialRampToValueAtTime(0.001, t + 1.4);
     o.connect(og).connect(a.destination);
     o.start(t); o.stop(t + 1.5);
+  }
+
+  // ---------- action hero one-liners ----------
+  // `say` is what gets spoken; a trailing BLEEP plays a censor tone where the swear word goes.
+  const BLEEP = {};
+  const ONE_LINERS = [
+    { text: "I'll be back.", say: ["I'll be back."] },
+    { text: 'Let off some steam, Bennett.', say: ['Let off some steam, Bennett.'] },
+    { text: "Remember when I said I'd kill you last? I lied.", say: ["Remember when I said I'd kill you last?... I lied."] },
+    { text: 'Stick around.', say: ['Stick around.'] },
+    { text: 'If it bleeds, we can kill it.', say: ['If it bleeds, we can kill it.'] },
+    { text: "You're a disease, and I'm the cure.", say: ["You're a disease... and I'm the cure."] },
+    { text: 'They drew first blood, not me.', say: ['They drew first blood, not me.'] },
+    { text: 'To survive a war, you gotta become war.', say: ['To survive a war, you gotta become war.'] },
+    { text: "I'm your worst nightmare.", say: ["I'm your worst nightmare."] },
+    { text: 'Yippee-ki-yay, motherf***er.', say: ['Yippee ki yay, mother', BLEEP] },
+    { text: 'Welcome to the party, pal!', say: ['Welcome to the party, pal!'] },
+    { text: "I'm too old for this sh*t.", say: ["I'm too old for this", BLEEP] },
+    { text: "I have come here to chew bubblegum and kick ass... and I'm all out of bubblegum.", say: ["I have come here to chew bubblegum and kick ass... and I'm all out of bubblegum."] },
+    { text: 'Get away from her, you b***h!', say: ['Get away from her, you', BLEEP] },
+    { text: "I ain't got time to bleed.", say: ["I ain't got time to bleed."] },
+    { text: "Dead or alive, you're coming with me.", say: ["Dead or alive, you're coming with me."] },
+    { text: 'Go ahead, make my day.', say: ['Go ahead... make my day.'] },
+  ];
+  let lastLine = -1;
+  function pickOneLiner() {
+    let i;
+    do { i = Math.floor(Math.random() * ONE_LINERS.length); } while (i === lastLine && ONE_LINERS.length > 1);
+    lastLine = i;
+    return ONE_LINERS[i];
+  }
+
+  const speech = window.speechSynthesis;
+  let heroVoice;
+  // Most human-sounding English male voice this device has. Neural/"Natural" voices (Edge),
+  // Enhanced/Premium voices (iPhone, Mac) and Google's voices (Chrome) beat the old robotic ones.
+  const NATURAL = /natural|neural|online|enhanced|premium/i;
+  const MALE_NAMES = /\bmale\b|guy|christopher|davis|andrew|brian|eric|roger|steffan|tony|jason|aaron|evan|nathan|tom|daniel|alex|arthur|oliver|reed|george|david|mark|james|ryan|liam/i;
+  const FEMALE = /female|zira|aria|jenny|michelle|\bana\b|emma|ava|allison|samantha|karen|moira|tessa|victoria|susan|serena|fiona|kate|libby|sonia|hazel|nicky|zoe|joelle|catherine/i;
+  const ROBOTIC = /fred|albert|bad news|bahh|bells|boing|bubbles|cellos|whisper|zarvox|trinoids|junior|ralph|kathy|princess|wobble|organ|jester|superstar|grandpa|grandma|eddy|flo|reed|rocko|sandy|shelley/i;
+  let heroNatural = false;
+  function voiceScore(v) {
+    let n = 0;
+    if (NATURAL.test(v.name)) n += 50;
+    if (/google/i.test(v.name)) n += 20;
+    if (MALE_NAMES.test(v.name)) n += 15;
+    if (/^en[-_]US/i.test(v.lang)) n += 5;
+    if (FEMALE.test(v.name)) n -= 100;
+    if (ROBOTIC.test(v.name)) n -= 60;
+    return n;
+  }
+  function pickVoice() {
+    if (heroVoice !== undefined || !speech) return heroVoice;
+    const voices = speech.getVoices().filter((v) => /^en/i.test(v.lang));
+    if (!voices.length) return null;
+    heroVoice = voices.slice().sort((a, b) => voiceScore(b) - voiceScore(a))[0];
+    heroNatural = NATURAL.test(heroVoice.name) || /google/i.test(heroVoice.name);
+    return heroVoice;
+  }
+  if (speech) speech.addEventListener && speech.addEventListener('voiceschanged', () => { heroVoice = undefined; pickVoice(); });
+
+  // iOS only lets a page talk after it has spoken during a tap, so prime it silently on Light the Fuse.
+  function primeSpeech() {
+    if (!speech) return;
+    try { speech.cancel(); const u = new SpeechSynthesisUtterance(' '); u.volume = 0; speech.speak(u); } catch (e) {}
+  }
+  function bleep() {
+    const a = audio(); if (!a) return;
+    const t = a.currentTime, o = a.createOscillator(), g = a.createGain();
+    o.type = 'sine'; o.frequency.value = 1000;
+    g.gain.setValueAtTime(0.0001, t); g.gain.exponentialRampToValueAtTime(0.35, t + 0.01);
+    g.gain.setValueAtTime(0.35, t + 0.42); g.gain.exponentialRampToValueAtTime(0.0001, t + 0.45);
+    o.connect(g).connect(a.destination); o.start(t); o.stop(t + 0.46);
+  }
+  function speakParts(parts) {
+    if (!parts.length) return;
+    const [part, ...rest] = parts;
+    if (part === BLEEP) { bleep(); setTimeout(() => speakParts(rest), 480); return; }
+    if (!speech) return;
+    const u = new SpeechSynthesisUtterance(part);
+    const v = pickVoice();
+    if (v) { u.voice = v; u.lang = v.lang; }
+    // A little lower and slower reads as tough-guy; pushing pitch further makes any voice sound robotic.
+    u.pitch = heroNatural ? 0.8 : 0.65;
+    u.rate = 0.9;
+    u.volume = 1;
+    u.onend = () => speakParts(rest);
+    speech.speak(u);
+  }
+  function sayOneLiner(line, withSound) {
+    const el = $('one-liner');
+    el.textContent = `\u201c${line.text}\u201d`;
+    el.hidden = false;
+    if (withSound) setTimeout(() => { if (state === 'boom') speakParts(line.say); }, 900);
+  }
+  function hushOneLiner() {
+    $('one-liner').hidden = true;
+    try { speech && speech.cancel(); } catch (e) {}
   }
 
   // ---------- screen wake lock ----------
@@ -614,6 +717,8 @@
 
   function light() {
     audio(); // unlock audio on the user's tap
+    hushOneLiner();
+    if (readSettings().oneLiner && readSettings().sound) primeSpeech();
     const [lo, hi] = FUSES[readSettings().fuse];
     duration = (lo + Math.random() * (hi - lo)) * 1000;
     fuseEx = readSettings().fuseEx ? pickExercise(FUSE_EXERCISES) : null;
@@ -651,6 +756,7 @@
     clearInterval(timer);
     const s = readSettings();
     if (s.sound) boomSound();
+    if (s.oneLiner) sayOneLiner(pickOneLiner(), s.sound);
     try { navigator.vibrate && navigator.vibrate([400, 100, 600]); } catch (e) {}
     const flash = $('flash');
     flash.classList.remove('go'); void flash.offsetWidth; flash.classList.add('go');
@@ -700,6 +806,7 @@
   }
 
   function nextRound() {
+    hushOneLiner();
     round += 1;
     $('round-num').textContent = round;
     show('ready');
