@@ -105,8 +105,25 @@
   @keyframes rise { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: none; } }
   .cat-chip { display: inline-block; font-size: 12px; font-weight: 700; letter-spacing: 0.06em; text-transform: uppercase; padding: 4px 10px; border-radius: 999px; background: var(--fire); color: #fff; }
   .rolling { color: var(--blue-mid); }
-  .ex-link { color: inherit; text-decoration: underline dotted; text-decoration-thickness: 2px; text-underline-offset: 0.18em; }
-  .ex-link:hover { text-decoration-style: solid; }
+  .ex-link { color: inherit; font: inherit; background: none; border: 0; padding: 0; cursor: pointer; text-align: inherit;
+    text-decoration: underline dotted; text-decoration-thickness: 2px; text-underline-offset: 0.18em; }
+  .ex-link:hover, .ex-link[aria-expanded="true"] { text-decoration-style: solid; }
+  .ex-link:focus-visible { outline: 2px solid var(--ember); outline-offset: 2px; border-radius: 3px; }
+
+  /* Exercise how-to bubble */
+  #ex-tip { position: absolute; z-index: 70; width: min(320px, calc(100vw - 24px)); background: var(--off-white); color: var(--navy);
+    border-radius: 12px; border-top: 4px solid var(--ember); box-shadow: 0 12px 32px rgba(0,0,0,0.35); padding: 14px 40px 14px 16px;
+    text-align: left; animation: tipIn 0.15s ease-out; }
+  #ex-tip::before { content: ''; position: absolute; left: var(--arrow-x, 50%); width: 14px; height: 14px; background: var(--off-white);
+    transform: translateX(-50%) rotate(45deg); }
+  #ex-tip[data-side="below"]::before { top: -9px; background: var(--ember); }
+  #ex-tip[data-side="above"]::before { bottom: -7px; }
+  #ex-tip h4 { font-family: 'Oswald', sans-serif; font-weight: 700; font-size: 18px; line-height: 1.2; }
+  #ex-tip p { font-size: 14px; line-height: 1.5; margin-top: 4px; color: var(--navy-mid); }
+  #ex-tip-close { position: absolute; top: 6px; right: 6px; width: 30px; height: 30px; border-radius: 999px; font-size: 20px; line-height: 1; color: var(--navy-mid); }
+  #ex-tip-close:hover { background: rgba(26,58,92,0.08); }
+  @keyframes tipIn { from { opacity: 0; transform: translateY(4px); } to { opacity: 1; transform: none; } }
+  @media (prefers-reduced-motion: reduce) { #ex-tip { animation: none; } }
   .log li { display: flex; gap: 10px; padding: 8px 0; border-bottom: 1px solid rgba(26,58,92,0.12); }
   .log li:last-child { border-bottom: 0; }
 
@@ -312,6 +329,11 @@
 </section>
 
 <div id="flash"></div>
+<div id="ex-tip" role="dialog" aria-labelledby="ex-tip-title" hidden>
+  <button type="button" id="ex-tip-close" aria-label="Close">&times;</button>
+  <h4 id="ex-tip-title"></h4>
+  <p id="ex-tip-body"></p>
+</div>
 
 <!-- FOOTER -->
 <footer style="background:#0d1b2a; border-top:1px solid #1a3a5c;">
@@ -358,17 +380,79 @@
   const pick = (arr) => arr[Math.floor(Math.random() * arr.length)];
   // Burpees come up 1 time in 5; otherwise any other exercise from the list.
   const pickExercise = (arr) => (Math.random() < 0.2 ? 'Burpees' : pick(arr));
-  // Opens in a new tab so the game keeps its state (and auto-pauses while hidden).
+  // Exercise names become buttons that open a how-to bubble (see showTip).
   function exLink(name) {
     if (!GLOSSARY[name]) return document.createTextNode(name);
-    const a = document.createElement('a');
-    a.className = 'ex-link';
-    a.href = `pax-library.html#term-${GLOSSARY[name]}`;
-    a.target = '_blank';
-    a.rel = 'noopener';
-    a.textContent = name;
-    return a;
+    const b = document.createElement('button');
+    b.type = 'button';
+    b.className = 'ex-link';
+    b.dataset.term = GLOSSARY[name];
+    b.setAttribute('aria-haspopup', 'dialog');
+    b.setAttribute('aria-expanded', 'false');
+    b.textContent = name;
+    return b;
   }
+
+  // ---------- exercise how-to bubble ----------
+  // Descriptions come straight from the PAX Library glossary so there's one source of truth.
+  let glossary = null;
+  function loadGlossary() {
+    if (!glossary) {
+      glossary = fetch('pax-library.html')
+        .then((r) => (r.ok ? r.text() : Promise.reject()))
+        .then((html) => {
+          const doc = new DOMParser().parseFromString(html, 'text/html');
+          const map = {};
+          doc.querySelectorAll('.glossary-entry[id^="term-"]').forEach((el) => {
+            const ps = el.querySelectorAll('p');
+            map[el.id.slice(5)] = { title: ps[0]?.textContent.trim() || '', body: ps[1]?.textContent.trim() || '' };
+          });
+          return map;
+        })
+        .catch(() => { glossary = null; return {}; });
+    }
+    return glossary;
+  }
+  loadGlossary();
+
+  const tip = $('ex-tip');
+  let tipFor = null;
+  function closeTip() {
+    if (tip.hidden) return;
+    tip.hidden = true;
+    if (tipFor) tipFor.setAttribute('aria-expanded', 'false');
+    tipFor = null;
+  }
+  async function showTip(btn) {
+    if (tipFor === btn) return closeTip();
+    closeTip();
+    const entry = (await loadGlossary())[btn.dataset.term];
+    // The screen may have changed (e.g. the bomb blew) while the glossary was loading.
+    if (!btn.offsetParent) return;
+    $('ex-tip-title').textContent = entry ? entry.title : btn.textContent;
+    $('ex-tip-body').textContent = entry ? entry.body : "Couldn't load the how-to. Check the PAX Library glossary.";
+    tipFor = btn;
+    btn.setAttribute('aria-expanded', 'true');
+    tip.hidden = false;
+    const r = btn.getBoundingClientRect();
+    const w = tip.offsetWidth, h = tip.offsetHeight, gap = 12;
+    const below = r.bottom + gap + h <= window.innerHeight || r.top - gap - h < 70;
+    const left = Math.min(Math.max(12, r.left + r.width / 2 - w / 2), document.documentElement.clientWidth - w - 12);
+    tip.dataset.side = below ? 'below' : 'above';
+    tip.style.left = `${left + window.scrollX}px`;
+    tip.style.top = `${(below ? r.bottom + gap : r.top - gap - h) + window.scrollY}px`;
+    tip.style.setProperty('--arrow-x', `${Math.min(Math.max(16, r.left + r.width / 2 - left), w - 16)}px`);
+    $('ex-tip-close').focus({ preventScroll: true });
+  }
+  document.addEventListener('click', (e) => {
+    const btn = e.target.closest('.ex-link');
+    if (btn) return showTip(btn);
+    if (!tip.contains(e.target) || e.target.closest('#ex-tip-close')) closeTip();
+  });
+  document.addEventListener('keydown', (e) => {
+    if (e.key === 'Escape' && tipFor) { const b = tipFor; closeTip(); b.focus(); }
+  });
+  window.addEventListener('resize', closeTip);
   const burpees = (n) => `${n} Burpee${n === 1 ? '' : 's'}`;
 
   // ---------- settings ----------
@@ -482,6 +566,7 @@
 
   function show(name) {
     state = name;
+    closeTip();
     ['ready', 'live', 'paused', 'boom'].forEach((s) => { $('screen-' + s).hidden = s !== name; });
     game.classList.toggle('lit', name === 'live');
     $('bomb-wrap').hidden = name === 'boom';
