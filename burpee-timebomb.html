@@ -550,60 +550,27 @@
   }
 
   // ---------- action hero one-liners ----------
-  // `clip` is a recorded voice line in audio/burpee-timebomb/; lines without one (or if it fails to
-  // load) fall back to `say`, spoken by the device's voice. A BLEEP plays a censor tone where the swear word goes.
+  // `say` is what gets spoken; a trailing BLEEP plays a censor tone where the swear word goes.
   const BLEEP = {};
   const ONE_LINERS = [
-    { text: "I'll be back.", clip: 'ill-be-back', say: ["I'll be back."] },
+    { text: "I'll be back.", say: ["I'll be back."] },
     { text: 'Let off some steam, Bennett.', say: ['Let off some steam, Bennett.'] },
-    { text: "Remember when I said I'd kill you last? I lied.", clip: 'kill-you-last', say: ["Remember when I said I'd kill you last?... I lied."] },
-    { text: 'Stick around.', clip: 'stick-around', say: ['Stick around.'] },
-    { text: 'If it bleeds, we can kill it.', clip: 'if-it-bleeds', say: ['If it bleeds, we can kill it.'] },
-    { text: "You're a disease, and I'm the cure.", clip: 'youre-a-disease', say: ["You're a disease... and I'm the cure."] },
+    { text: "Remember when I said I'd kill you last? I lied.", say: ["Remember when I said I'd kill you last?... I lied."] },
+    { text: 'Stick around.', say: ['Stick around.'] },
+    { text: 'If it bleeds, we can kill it.', say: ['If it bleeds, we can kill it.'] },
+    { text: "You're a disease, and I'm the cure.", say: ["You're a disease... and I'm the cure."] },
     { text: 'They drew first blood, not me.', say: ['They drew first blood, not me.'] },
     { text: 'To survive a war, you gotta become war.', say: ['To survive a war, you gotta become war.'] },
-    { text: "I'm your worst nightmare.", clip: 'worst-nightmare', say: ["I'm your worst nightmare."] },
-    { text: 'Yippee-ki-yay, motherf***er.', clip: 'yippee-ki-yay', say: ['Yippee ki yay, mother', BLEEP] },
+    { text: "I'm your worst nightmare.", say: ["I'm your worst nightmare."] },
+    { text: 'Yippee-ki-yay, motherf***er.', say: ['Yippee ki yay, mother', BLEEP] },
     { text: 'Welcome to the party, pal!', say: ['Welcome to the party, pal!'] },
     { text: "I'm too old for this sh*t.", say: ["I'm too old for this", BLEEP] },
     { text: "I have come here to chew bubblegum and kick ass... and I'm all out of bubblegum.", say: ["I have come here to chew bubblegum and kick ass... and I'm all out of bubblegum."] },
     { text: 'Get away from her, you b***h!', say: ['Get away from her, you', BLEEP] },
-    { text: "I ain't got time to bleed.", clip: 'time-to-bleed', say: ["I ain't got time to bleed."] },
-    { text: "Dead or alive, you're coming with me.", clip: 'dead-or-alive', say: ["Dead or alive, you're coming with me."] },
+    { text: "I ain't got time to bleed.", say: ["I ain't got time to bleed."] },
+    { text: "Dead or alive, you're coming with me.", say: ["Dead or alive, you're coming with me."] },
     { text: 'Go ahead, make my day.', say: ['Go ahead... make my day.'] },
-    { text: 'Sit down.', clip: 'sit-down', say: ['Sit down.'] },
-    { text: "Don't fight him, man, he's crazy! He's kicking the post, and the plaster, it's falling down!", clip: 'dont-fight-him',
-      say: ["Don't fight him, man, he's crazy! He's kicking the post, and the plaster, it's falling down!"] },
   ];
-
-  // Recorded clips are decoded into the Web Audio context (unlocked by the Light the Fuse tap),
-  // which phones allow to play later when the bomb blows without another tap.
-  const clipBuffers = {};
-  let clipsLoading = false;
-  function loadClips() {
-    const a = audio();
-    if (!a || clipsLoading) return;
-    clipsLoading = true;
-    ONE_LINERS.filter((l) => l.clip).forEach((l) => {
-      fetch(`audio/burpee-timebomb/${l.clip}.mp3`)
-        .then((res) => (res.ok ? res.arrayBuffer() : Promise.reject()))
-        .then((buf) => new Promise((ok, fail) => a.decodeAudioData(buf, ok, fail)))
-        .then((decoded) => { clipBuffers[l.clip] = decoded; })
-        .catch(() => {});
-    });
-  }
-  let clipSource = null;
-  function playClip(name) {
-    const a = audio(), buf = clipBuffers[name];
-    if (!a || !buf) return false;
-    clipSource = a.createBufferSource();
-    clipSource.buffer = buf;
-    const g = a.createGain();
-    g.gain.value = 1;
-    clipSource.connect(g).connect(a.destination);
-    clipSource.start();
-    return true;
-  }
   let lastLine = -1;
   function pickOneLiner() {
     let i;
@@ -673,16 +640,11 @@
     const el = $('one-liner');
     el.textContent = `\u201c${line.text}\u201d`;
     el.hidden = false;
-    if (withSound) setTimeout(() => {
-      if (state !== 'boom') return;
-      if (!(line.clip && playClip(line.clip))) speakParts(line.say);
-    }, 900);
+    if (withSound) setTimeout(() => { if (state === 'boom') speakParts(line.say); }, 900);
   }
   function hushOneLiner() {
     $('one-liner').hidden = true;
     try { speech && speech.cancel(); } catch (e) {}
-    try { clipSource && clipSource.stop(); } catch (e) {}
-    clipSource = null;
   }
 
   // ---------- screen wake lock ----------
@@ -756,7 +718,7 @@
   function light() {
     audio(); // unlock audio on the user's tap
     hushOneLiner();
-    if (readSettings().oneLiner && readSettings().sound) { primeSpeech(); loadClips(); }
+    if (readSettings().oneLiner && readSettings().sound) primeSpeech();
     const [lo, hi] = FUSES[readSettings().fuse];
     duration = (lo + Math.random() * (hi - lo)) * 1000;
     fuseEx = readSettings().fuseEx ? pickExercise(FUSE_EXERCISES) : null;
