@@ -1,0 +1,579 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-EPR8J7Z71X"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-EPR8J7Z71X');
+</script>
+
+<title>Burpee Timebomb | F3 Monarch STL</title>
+<meta name="description" content="Pass the phone, don't get caught holding the bomb. A hot-potato burpee game for F3 beatdowns.">
+<link rel="canonical" href="https://f3-monarchstl.com/burpee-timebomb.html">
+<link rel="icon" type="image/png" href="images/monarch%20logo.png">
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
+
+<meta property="og:type" content="website">
+<meta property="og:title" content="Burpee Timebomb | F3 Monarch STL">
+<meta property="og:description" content="Pass the phone, don't get caught holding the bomb. A hot-potato burpee game for F3 beatdowns.">
+<meta property="og:url" content="https://f3-monarchstl.com/burpee-timebomb.html">
+<meta property="og:image" content="https://f3-monarchstl.com/images/apps/burpee-timebomb.svg">
+<meta property="og:site_name" content="F3 Monarch STL">
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Oswald:wght@500;600;700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<script src="https://cdn.tailwindcss.com"></script>
+<style>
+  body { font-family: 'Inter', ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, sans-serif; }
+  .font-display { font-family: 'Oswald', ui-sans-serif, system-ui, sans-serif; letter-spacing: -0.01em; }
+
+  a, button, input, select, textarea {
+    transition: color 0.2s ease, background-color 0.2s ease, border-color 0.2s ease, box-shadow 0.2s ease, transform 0.2s ease, opacity 0.2s ease;
+  }
+
+  :root {
+    --navy:      #0d1b2a;
+    --navy-mid:  #1a3a5c;
+    --blue-mid:  #5b8db8;
+    --blue-ice:  #a8c8e8;
+    --off-white: #e8f4f8;
+    --fire:      #e63946;
+    --ember:     #f4a261;
+  }
+
+  .nav-link { color: var(--blue-ice); }
+  .mobile-nav-link { color: var(--blue-ice); padding: 8px 0; border-bottom: 1px solid rgba(26,58,92,0.13); }
+  .nav-link:hover { color: var(--off-white); }
+
+  .btn-primary { background: var(--blue-mid); color: var(--off-white); }
+  .btn-primary:hover { background: var(--blue-ice); color: var(--navy); }
+
+  .dropdown-item { display: block; padding: 10px 16px; color: var(--blue-ice); }
+  .dropdown-item:hover { background: var(--navy); color: var(--off-white); }
+  .dropdown-item + .dropdown-item { border-top: 1px solid rgba(168,200,232,0.15); }
+
+  /* Game panel */
+  #game { background: radial-gradient(ellipse at 50% 35%, #1a3a5c 0%, #0d1b2a 70%); color: var(--off-white); }
+  #stage { scroll-margin-top: 64px; }
+  .btn-fire { background: var(--fire); color: #fff; box-shadow: 0 6px 0 #9d1f2a; }
+  .btn-fire:hover { background: #f04b57; }
+  .btn-fire:active { transform: translateY(4px); box-shadow: 0 2px 0 #9d1f2a; }
+  .btn-dim { background: transparent; color: var(--blue-ice); border: 1px solid rgba(168,200,232,0.4); }
+  .btn-dim:hover { border-color: var(--blue-ice); color: var(--off-white); }
+  .screen[hidden] { display: none !important; }
+
+  .opt { display: flex; align-items: center; gap: 10px; padding: 10px 12px; border-radius: 8px; border: 1px solid rgba(168,200,232,0.3); cursor: pointer; }
+  .opt:has(input:checked) { border-color: var(--ember); background: rgba(244,162,97,0.08); }
+  .opt input { accent-color: var(--ember); width: 18px; height: 18px; flex: none; }
+  .seg { display: grid; grid-template-columns: repeat(3, 1fr); gap: 6px; }
+  .seg label { text-align: center; padding: 10px 4px; border-radius: 8px; border: 1px solid rgba(168,200,232,0.3); cursor: pointer; font-weight: 700; font-size: 14px; }
+  .seg label small { display: block; font-weight: 500; font-size: 11px; color: var(--blue-ice); }
+  .seg input { position: absolute; opacity: 0; pointer-events: none; }
+  .seg label:has(input:checked) { border-color: var(--ember); background: rgba(244,162,97,0.12); color: #fff; }
+  .seg label:has(input:focus-visible), .opt:has(input:focus-visible) { outline: 2px solid var(--ember); outline-offset: 2px; }
+
+  /* Bomb */
+  .bomb { width: min(62vw, 260px); height: auto; display: block; margin: 0 auto; overflow: visible; }
+  .bomb .spark { opacity: 0; transform-origin: 152px 22px; }
+  .lit .bomb .spark { opacity: 1; animation: sparkle 0.12s steps(2) infinite; }
+  @keyframes sparkle { 0% { transform: scale(0.8) rotate(0deg); } 100% { transform: scale(1.25) rotate(25deg); } }
+  .lit .bomb-wrap { animation: shake var(--shake-speed, 0.5s) linear infinite; }
+  @keyframes shake {
+    0%, 100% { transform: translate(0, 0) rotate(0); }
+    25% { transform: translate(calc(var(--shake, 1px) * -1), var(--shake, 1px)) rotate(calc(var(--shake-rot, 0.5deg) * -1)); }
+    50% { transform: translate(var(--shake, 1px), 0) rotate(var(--shake-rot, 0.5deg)); }
+    75% { transform: translate(0, calc(var(--shake, 1px) * -1)) rotate(0); }
+  }
+  .bomb-glow { transition: opacity 0.3s; }
+  .pulse { animation: pulse 1.6s ease-in-out infinite; }
+  @keyframes pulse { 50% { opacity: 0.55; } }
+
+  /* Boom */
+  #flash { position: fixed; inset: 0; pointer-events: none; z-index: 80; opacity: 0; background: radial-gradient(circle, #fff 0%, #ffd27a 35%, #e63946 75%); }
+  #flash.go { animation: flash 0.9s ease-out; }
+  @keyframes flash { 0% { opacity: 1; } 100% { opacity: 0; } }
+  .boom-word { font-family: 'Oswald', sans-serif; font-weight: 700; color: var(--ember); text-shadow: 0 0 24px rgba(230,57,70,0.8); animation: slam 0.5s cubic-bezier(.2,1.6,.4,1); }
+  @keyframes slam { 0% { transform: scale(3); opacity: 0; } 100% { transform: scale(1); opacity: 1; } }
+  .task-card { background: var(--off-white); color: var(--navy); border-radius: 14px; border-top: 6px solid var(--fire); animation: rise 0.35s ease 0.2s both; }
+  @keyframes rise { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: none; } }
+  .cat-chip { display: inline-block; font-size: 12px; font-weight: 700; letter-spacing: 0.06em; text-transform: uppercase; padding: 4px 10px; border-radius: 999px; background: var(--fire); color: #fff; }
+  .rolling { color: var(--blue-mid); }
+  .log li { display: flex; gap: 10px; padding: 8px 0; border-bottom: 1px solid rgba(26,58,92,0.12); }
+  .log li:last-child { border-bottom: 0; }
+
+  @media (prefers-reduced-motion: reduce) {
+    .lit .bomb-wrap, .lit .bomb .spark, .pulse, .boom-word, .task-card { animation: none !important; }
+    #flash.go { animation-duration: 0.3s; }
+  }
+</style>
+</head>
+<body style="background:#ffffff; color:#1a3a5c;">
+
+<!-- NAV -->
+<header class="sticky top-0 z-50 backdrop-blur" style="background:#1a3a5c; border-bottom:3px solid #5b8db8;">
+  <div class="max-w-6xl mx-auto px-4 py-3 flex items-center justify-between">
+    <a href="index.html" class="flex items-center gap-2">
+      <img src="images/monarch%20logo%20transparent.png" alt="F3 Monarch STL Logo" style="width:36px; height:36px; object-fit:contain;">
+      <span class="font-display font-bold text-lg tracking-tight" style="color:#e8f4f8;">F3 MONARCH <span style="color:#a8c8e8;">STL</span></span>
+    </a>
+    <nav class="hidden md:flex gap-6 text-sm font-semibold items-center" style="color:#a8c8e8;">
+      <a href="index.html#fs" class="nav-link">The 3 F's</a>
+      <a href="index.html#aos" class="nav-link">AOs</a>
+      <a href="index.html#meet" class="nav-link">Monarch Region Map</a>
+      <div class="relative" id="more-dropdown">
+        <button type="button" class="nav-link flex items-center gap-1" onclick="document.getElementById('more-menu').classList.toggle('hidden')">
+          More
+          <svg class="w-3 h-3" viewBox="0 0 12 12" fill="none" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M2 4l4 4 4-4"/></svg>
+        </button>
+        <div id="more-menu" class="hidden absolute right-0 mt-3 rounded-lg shadow-lg overflow-hidden" style="background:#1a3a5c; border:1px solid #5b8db8; min-width:180px; z-index:60;">
+          <a href="index.html#contact" class="dropdown-item">Contact</a>
+          <a href="gallery.html" class="dropdown-item">Photo Gallery</a>
+          <a href="pax-spotlight.html" class="dropdown-item">PAX Spotlight</a>
+          <a href="pax-library.html" class="dropdown-item" style="color:#e8f4f8; font-weight:700;">PAX Library</a>
+        </div>
+      </div>
+    </nav>
+    <div class="flex items-center gap-3">
+      <a href="index.html#aos" class="hidden md:inline-block font-bold text-sm px-4 py-2 rounded btn-primary">Find a Workout</a>
+      <button id="menu-toggle" class="md:hidden flex flex-col gap-1.5 p-2" onclick="document.getElementById('mobile-menu').classList.toggle('hidden')" aria-label="Menu">
+        <span style="display:block; width:22px; height:2px; background:#a8c8e8;"></span>
+        <span style="display:block; width:22px; height:2px; background:#a8c8e8;"></span>
+        <span style="display:block; width:22px; height:2px; background:#a8c8e8;"></span>
+      </button>
+    </div>
+  </div>
+  <!-- Mobile menu -->
+  <div id="mobile-menu" class="hidden md:hidden px-4 pb-4 flex flex-col gap-3 text-sm font-semibold" style="border-top:1px solid #1a3a5c;">
+    <a href="index.html#fs" class="mobile-nav-link">The 3 F's</a>
+    <a href="index.html#aos" class="mobile-nav-link">AOs</a>
+    <a href="index.html#meet" class="mobile-nav-link">Monarch Region Map</a>
+    <a href="index.html#contact" class="mobile-nav-link">Contact</a>
+    <a href="gallery.html" class="mobile-nav-link">Photo Gallery</a>
+    <a href="pax-spotlight.html" class="mobile-nav-link">PAX Spotlight</a>
+    <a href="pax-library.html" class="mobile-nav-link" style="color:#e8f4f8; font-weight:700;">PAX Library</a>
+    <a href="index.html#aos" class="text-center font-bold rounded py-2 mt-1 btn-primary">Find a Workout</a>
+  </div>
+</header>
+<script>
+  document.addEventListener('click', (e) => {
+    const dropdown = document.getElementById('more-dropdown');
+    const menu = document.getElementById('more-menu');
+    if (dropdown && menu && !dropdown.contains(e.target)) menu.classList.add('hidden');
+  });
+</script>
+
+
+<!-- PAGE HEADER -->
+<section style="background:linear-gradient(to bottom, #0d1b2a, #1a3a5c); border-bottom:1px solid #1a3a5c;">
+  <div class="max-w-6xl mx-auto px-4 py-10 md:py-14 text-center">
+    <a href="pax-library.html#app-store" class="text-sm font-semibold" style="color:#a8c8e8;">&larr; PAX Library</a>
+    <h1 class="font-display font-black text-4xl md:text-5xl mt-3" style="color:#e8f4f8;">Burpee Timebomb</h1>
+    <p class="mt-4 text-lg max-w-2xl mx-auto" style="color:#a8c8e8;">Light the fuse and pass the phone. Whoever's holding it when it blows decides the PAX's fate.</p>
+  </div>
+</section>
+
+<!-- GAME -->
+<section id="game">
+  <div class="max-w-xl mx-auto px-4 py-8 md:py-12 text-center" id="stage">
+
+    <p class="font-display text-sm tracking-widest uppercase" style="color:#a8c8e8;">Round <span id="round-num">1</span></p>
+
+    <div class="bomb-wrap mt-4" id="bomb-wrap">
+      <svg class="bomb" viewBox="0 0 200 220" aria-hidden="true">
+        <defs>
+          <radialGradient id="bombBody" cx="0.35" cy="0.35" r="0.75">
+            <stop offset="0" stop-color="#4a5d75"/>
+            <stop offset="0.55" stop-color="#1c2633"/>
+            <stop offset="1" stop-color="#05080c"/>
+          </radialGradient>
+          <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
+            <stop offset="0" stop-color="#e63946" stop-opacity="0.55"/>
+            <stop offset="1" stop-color="#e63946" stop-opacity="0"/>
+          </radialGradient>
+        </defs>
+        <circle class="bomb-glow" id="bomb-glow" cx="98" cy="138" r="100" fill="url(#glow)" opacity="0"/>
+        <path d="M112 62 C 120 40, 128 46, 136 34 S 148 26, 152 22" fill="none" stroke="#c9a46a" stroke-width="5" stroke-linecap="round"/>
+        <rect x="84" y="56" width="34" height="20" rx="4" transform="rotate(18 101 66)" fill="#2b3644" stroke="#05080c" stroke-width="2"/>
+        <circle cx="98" cy="138" r="72" fill="url(#bombBody)"/>
+        <ellipse cx="72" cy="108" rx="16" ry="10" transform="rotate(-35 72 108)" fill="#ffffff" opacity="0.18"/>
+        <text x="98" y="150" text-anchor="middle" font-family="Oswald, sans-serif" font-weight="700" font-size="34" fill="#e8f4f8" opacity="0.85">F3</text>
+        <g class="spark">
+          <circle cx="152" cy="22" r="9" fill="#ffd27a"/>
+          <circle cx="152" cy="22" r="4" fill="#ffffff"/>
+          <path d="M152 6 V12 M152 32 V38 M136 22 H142 M162 22 H168 M141 11 L145 15 M159 29 L163 33 M163 11 L159 15 M141 33 L145 29" stroke="#f4a261" stroke-width="2.5" stroke-linecap="round"/>
+        </g>
+      </svg>
+    </div>
+
+    <!-- READY -->
+    <div class="screen" id="screen-ready">
+      <p class="mt-6 text-base" style="color:#a8c8e8;">Circle up. Whoever lights it starts with the bomb.</p>
+      <button id="light" type="button" class="btn-fire font-display font-bold text-2xl uppercase tracking-wide w-full max-w-sm mt-5 px-6 py-4 rounded-xl">Light the Fuse</button>
+
+      <details class="mt-8 text-left rounded-xl p-4" style="background:rgba(13,27,42,0.6); border:1px solid rgba(168,200,232,0.25);" id="settings">
+        <summary class="font-display font-bold text-lg cursor-pointer" style="color:#e8f4f8;">Settings</summary>
+
+        <p class="mt-4 text-sm font-semibold" style="color:#e8f4f8;">Fuse length <span class="font-normal" style="color:#a8c8e8;">(random, hidden)</span></p>
+        <div class="seg mt-2" role="radiogroup" aria-label="Fuse length">
+          <label><input type="radio" name="fuse" value="short">Short<small>10&ndash;30 sec</small></label>
+          <label><input type="radio" name="fuse" value="medium" checked>Medium<small>20&ndash;60 sec</small></label>
+          <label><input type="radio" name="fuse" value="long">Long<small>45&ndash;90 sec</small></label>
+        </div>
+
+        <p class="mt-5 text-sm font-semibold" style="color:#e8f4f8;">What can happen when it blows</p>
+        <div class="mt-2 grid gap-2">
+          <label class="opt"><input type="checkbox" name="cat" value="group" checked><span><b>Group Burpees</b><br><span class="text-sm" style="color:#a8c8e8;">Everyone does 1, 5, or 10 burpees</span></span></label>
+          <label class="opt"><input type="checkbox" name="cat" value="solo" checked><span><b>Solo Burpees</b><br><span class="text-sm" style="color:#a8c8e8;">Bomb holder does 1, 5, or 10 burpees while the PAX do an exercise until he's done</span></span></label>
+          <label class="opt"><input type="checkbox" name="cat" value="travel" checked><span><b>Travel</b><br><span class="text-sm" style="color:#a8c8e8;">Group travels: bear crawls, lunge walks, murder bunnies&hellip;</span></span></label>
+        </div>
+
+        <p class="mt-5 text-sm font-semibold" style="color:#e8f4f8;">Effects</p>
+        <div class="mt-2 grid gap-2">
+          <label class="opt"><input type="checkbox" id="opt-sound" checked><span>Ticking &amp; explosion sound</span></label>
+          <label class="opt"><input type="checkbox" id="opt-speedup" checked><span>Ticking speeds up as the fuse burns</span></label>
+        </div>
+      </details>
+    </div>
+
+    <!-- LIVE -->
+    <div class="screen" id="screen-live" hidden>
+      <p class="font-display font-bold text-4xl md:text-5xl uppercase mt-6 pulse" style="color:#f4a261;">Pass it!</p>
+      <p class="mt-2" style="color:#a8c8e8;">Hand the phone to the next PAX. Don't get caught holding it.</p>
+      <div class="mt-8 flex gap-3 justify-center">
+        <button id="pause" type="button" class="btn-dim font-bold px-5 py-3 rounded-lg">Pause</button>
+        <button id="defuse" type="button" class="btn-dim font-bold px-5 py-3 rounded-lg">Defuse (cancel)</button>
+      </div>
+    </div>
+
+    <!-- PAUSED -->
+    <div class="screen" id="screen-paused" hidden>
+      <p class="font-display font-bold text-3xl uppercase mt-6" style="color:#e8f4f8;">Paused</p>
+      <p class="mt-2" style="color:#a8c8e8;">The fuse is still lit. Resume when the PAX are ready.</p>
+      <div class="mt-6 flex gap-3 justify-center">
+        <button id="resume" type="button" class="btn-fire font-display font-bold text-xl uppercase px-8 py-3 rounded-xl">Resume</button>
+        <button id="defuse2" type="button" class="btn-dim font-bold px-5 py-3 rounded-lg">Defuse</button>
+      </div>
+    </div>
+
+    <!-- BOOM -->
+    <div class="screen" id="screen-boom" hidden>
+      <p class="boom-word text-6xl md:text-7xl mt-2">BOOM!</p>
+      <div class="task-card text-left mt-6 p-5 md:p-6" aria-live="assertive">
+        <span class="cat-chip" id="task-cat">Group Burpees</span>
+        <p class="font-display font-bold text-4xl md:text-5xl mt-3 leading-tight" id="task-main">&nbsp;</p>
+        <p class="mt-3 text-lg" id="task-sub" style="color:#1a3a5c;">&nbsp;</p>
+      </div>
+      <button id="next" type="button" class="btn-fire font-display font-bold text-2xl uppercase tracking-wide w-full max-w-sm mt-8 px-6 py-4 rounded-xl">Next Round</button>
+    </div>
+
+  </div>
+</section>
+
+<!-- LOG -->
+<section style="background:#e8f4f8;">
+  <div class="max-w-xl mx-auto px-4 py-10">
+    <div class="flex items-center justify-between gap-3">
+      <h2 class="font-display font-bold text-2xl" style="color:#0d1b2a;">Damage Report</h2>
+      <button id="reset" type="button" class="text-sm font-semibold underline" style="color:#5b8db8;" hidden>Reset game</button>
+    </div>
+    <ol class="log mt-3" id="log"></ol>
+    <p id="log-empty" class="mt-3 text-sm" style="color:#5b8db8;">No explosions yet. Light the fuse.</p>
+
+    <h2 class="font-display font-bold text-2xl mt-10" style="color:#0d1b2a;">How to Play</h2>
+    <ol class="mt-3 space-y-2 list-decimal pl-5" style="color:#1a3a5c;">
+      <li>Circle up the PAX. One phone, screen on, sound up.</li>
+      <li>Tap <b>Light the Fuse</b>. The timer is random and hidden.</li>
+      <li>Pass the phone hand to hand. No holding, no tossing (it's somebody's phone).</li>
+      <li>When it blows, the PAX holding it reads the task out loud. Everyone does it.</li>
+      <li>Tap <b>Next Round</b>. The unlucky PAX lights the next fuse.</li>
+    </ol>
+  </div>
+</section>
+
+<div id="flash"></div>
+
+<!-- FOOTER -->
+<footer style="background:#0d1b2a; border-top:1px solid #1a3a5c;">
+  <div class="max-w-6xl mx-auto px-4 py-10 flex flex-col md:flex-row items-center justify-between gap-4">
+    <div class="flex items-center gap-2">
+      <img src="images/monarch%20logo%20transparent.png" alt="F3 Monarch STL Logo" style="width:32px; height:32px; object-fit:contain;">
+      <span class="font-display font-bold" style="color:#e8f4f8;">F3 MONARCH STL</span>
+    </div>
+    <p class="text-sm text-center" style="color:#5b8db8;">&copy; 2026 F3 Monarch STL. No man left behind. No man left where he is.</p>
+  </div>
+</footer>
+
+<script>
+(function () {
+  const FUSES = { short: [10, 30], medium: [20, 60], long: [45, 90] };
+  const COUNTS = [1, 5, 10];
+  const EXERCISES = ['Merkins', 'Squats', 'Side Straddle Hops', 'Curls', 'Rows', 'Taint Scrapers', 'Thrusters', 'Overhead Press'];
+  const TRAVELS = ['Bear Crawls', 'Lunge Walks', 'Murder Bunnies', 'Farmer Carry', 'Rifle Carry', 'Burpee Broad Jumps'];
+  const CAT_LABEL = { group: 'Group Burpees', solo: 'Solo Burpees', travel: 'Group Travel' };
+  const STORE = 'burpee-timebomb-settings';
+
+  const $ = (id) => document.getElementById(id);
+  const game = $('game');
+  const pick = (arr) => arr[Math.floor(Math.random() * arr.length)];
+  const burpees = (n) => `${n} Burpee${n === 1 ? '' : 's'}`;
+
+  // ---------- settings ----------
+  function readSettings() {
+    return {
+      fuse: document.querySelector('input[name="fuse"]:checked').value,
+      cats: [...document.querySelectorAll('input[name="cat"]:checked')].map((el) => el.value),
+      sound: $('opt-sound').checked,
+      speedup: $('opt-speedup').checked,
+    };
+  }
+  function saveSettings() {
+    try { localStorage.setItem(STORE, JSON.stringify(readSettings())); } catch (e) {}
+  }
+  function loadSettings() {
+    let s = null;
+    try { s = JSON.parse(localStorage.getItem(STORE)); } catch (e) {}
+    if (!s) return;
+    const fuse = document.querySelector(`input[name="fuse"][value="${s.fuse}"]`);
+    if (fuse) fuse.checked = true;
+    if (Array.isArray(s.cats) && s.cats.length) {
+      document.querySelectorAll('input[name="cat"]').forEach((el) => { el.checked = s.cats.includes(el.value); });
+    }
+    if (typeof s.sound === 'boolean') $('opt-sound').checked = s.sound;
+    if (typeof s.speedup === 'boolean') $('opt-speedup').checked = s.speedup;
+  }
+  // Never let every task type be unchecked.
+  document.querySelectorAll('input[name="cat"]').forEach((el) => {
+    el.addEventListener('change', () => {
+      if (!document.querySelector('input[name="cat"]:checked')) el.checked = true;
+      saveSettings();
+    });
+  });
+  document.querySelectorAll('input[name="fuse"], #opt-sound, #opt-speedup').forEach((el) => el.addEventListener('change', saveSettings));
+  loadSettings();
+
+  // ---------- audio ----------
+  let ctx = null;
+  function audio() {
+    if (!ctx) {
+      const AC = window.AudioContext || window.webkitAudioContext;
+      if (AC) ctx = new AC();
+    }
+    if (ctx && ctx.state === 'suspended') ctx.resume();
+    return ctx;
+  }
+  function tick(high) {
+    const a = audio(); if (!a) return;
+    const t = a.currentTime;
+    const o = a.createOscillator(), g = a.createGain();
+    o.type = 'square';
+    o.frequency.value = high ? 1500 : 1000;
+    g.gain.setValueAtTime(0.0001, t);
+    g.gain.exponentialRampToValueAtTime(0.25, t + 0.005);
+    g.gain.exponentialRampToValueAtTime(0.0001, t + 0.06);
+    o.connect(g).connect(a.destination);
+    o.start(t); o.stop(t + 0.07);
+  }
+  function boomSound() {
+    const a = audio(); if (!a) return;
+    const t = a.currentTime, len = 2.2;
+    const buf = a.createBuffer(1, a.sampleRate * len, a.sampleRate);
+    const d = buf.getChannelData(0);
+    for (let i = 0; i < d.length; i++) d[i] = (Math.random() * 2 - 1) * Math.pow(1 - i / d.length, 2.5);
+    const noise = a.createBufferSource(); noise.buffer = buf;
+    const lp = a.createBiquadFilter(); lp.type = 'lowpass';
+    lp.frequency.setValueAtTime(3000, t); lp.frequency.exponentialRampToValueAtTime(120, t + 1.5);
+    const ng = a.createGain(); ng.gain.setValueAtTime(1, t); ng.gain.exponentialRampToValueAtTime(0.001, t + len);
+    noise.connect(lp).connect(ng).connect(a.destination);
+    noise.start(t);
+    const o = a.createOscillator(), og = a.createGain();
+    o.type = 'sine';
+    o.frequency.setValueAtTime(140, t); o.frequency.exponentialRampToValueAtTime(30, t + 1.2);
+    og.gain.setValueAtTime(0.9, t); og.gain.exponentialRampToValueAtTime(0.001, t + 1.4);
+    o.connect(og).connect(a.destination);
+    o.start(t); o.stop(t + 1.5);
+  }
+
+  // ---------- screen wake lock ----------
+  let wakeLock = null;
+  async function lockScreen() {
+    try { if ('wakeLock' in navigator && !wakeLock) wakeLock = await navigator.wakeLock.request('screen'); wakeLock && wakeLock.addEventListener('release', () => { wakeLock = null; }); } catch (e) {}
+  }
+  function unlockScreen() { try { wakeLock && wakeLock.release(); } catch (e) {} wakeLock = null; }
+
+  // ---------- task generation ----------
+  function makeTask(cats) {
+    const cat = pick(cats);
+    if (cat === 'group') {
+      const n = pick(COUNTS);
+      return { cat, main: burpees(n), sub: 'The whole PAX. Bomb holder counts them out.' };
+    }
+    if (cat === 'solo') {
+      const n = pick(COUNTS), ex = pick(EXERCISES);
+      return { cat, main: `You: ${burpees(n)}`, sub: `The rest of the PAX: ${ex} until you finish.`, ex };
+    }
+    const tr = pick(TRAVELS);
+    return { cat, main: tr, sub: 'The whole PAX, to the turnaround and back. Bomb holder sets the line.' };
+  }
+  function rollingText(cat) {
+    if (cat === 'group') return burpees(pick(COUNTS));
+    if (cat === 'solo') return pick([`You: ${burpees(pick(COUNTS))}`, pick(EXERCISES)]);
+    return pick(TRAVELS);
+  }
+
+  // ---------- game state ----------
+  let round = 1, duration = 0, elapsed = 0, startedAt = 0, nextTickAt = 0, timer = null, rollTimer = null, state = 'ready';
+  const history = [];
+
+  function show(name) {
+    state = name;
+    ['ready', 'live', 'paused', 'boom'].forEach((s) => { $('screen-' + s).hidden = s !== name; });
+    game.classList.toggle('lit', name === 'live');
+    $('bomb-wrap').hidden = name === 'boom';
+  }
+  function toStage() {
+    const reduced = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+    $('stage').scrollIntoView({ behavior: reduced ? 'auto' : 'smooth', block: 'start' });
+  }
+  function now() { return performance.now(); }
+  function progress() { return Math.min(1, (elapsed + (state === 'live' ? now() - startedAt : 0)) / duration); }
+
+  function setIntensity(p) {
+    const e = p * p;
+    game.style.setProperty('--shake', (0.5 + e * 6).toFixed(2) + 'px');
+    game.style.setProperty('--shake-rot', (0.3 + e * 3).toFixed(2) + 'deg');
+    game.style.setProperty('--shake-speed', (0.5 - e * 0.4).toFixed(2) + 's');
+    $('bomb-glow').setAttribute('opacity', (e * 0.9).toFixed(2));
+  }
+  function tickGap(p, speedup) {
+    if (!speedup) return 1000;
+    return 1000 - 860 * Math.pow(p, 1.6);
+  }
+
+  function loop() {
+    const p = progress();
+    if (p >= 1) return explode();
+    const s = readSettings();
+    setIntensity(s.speedup ? p : 0.15);
+    if (now() >= nextTickAt) {
+      if (s.sound) tick(p > 0.85);
+      nextTickAt = now() + tickGap(p, s.speedup);
+    }
+  }
+
+  function light() {
+    audio(); // unlock audio on the user's tap
+    const [lo, hi] = FUSES[readSettings().fuse];
+    duration = (lo + Math.random() * (hi - lo)) * 1000;
+    elapsed = 0;
+    start();
+    lockScreen();
+  }
+  function start() {
+    startedAt = now();
+    nextTickAt = startedAt;
+    show('live');
+    toStage();
+    clearInterval(timer);
+    timer = setInterval(loop, 30);
+  }
+  function pause() {
+    if (state !== 'live') return;
+    elapsed += now() - startedAt;
+    clearInterval(timer);
+    show('paused');
+  }
+  function defuse() {
+    clearInterval(timer);
+    setIntensity(0);
+    unlockScreen();
+    show('ready');
+  }
+
+  function explode() {
+    clearInterval(timer);
+    const s = readSettings();
+    if (s.sound) boomSound();
+    try { navigator.vibrate && navigator.vibrate([400, 100, 600]); } catch (e) {}
+    const flash = $('flash');
+    flash.classList.remove('go'); void flash.offsetWidth; flash.classList.add('go');
+    setIntensity(0);
+
+    const task = makeTask(s.cats);
+    show('boom');
+    $('next').disabled = true;
+    $('task-cat').textContent = CAT_LABEL[task.cat];
+    $('task-sub').innerHTML = '&nbsp;';
+    const main = $('task-main');
+    main.classList.add('rolling');
+
+    const reduced = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+    const rollUntil = now() + (reduced ? 0 : 1400);
+    clearInterval(rollTimer);
+    rollTimer = setInterval(() => {
+      if (now() < rollUntil) { main.textContent = rollingText(task.cat); return; }
+      clearInterval(rollTimer);
+      main.classList.remove('rolling');
+      main.textContent = task.main;
+      $('task-sub').textContent = task.sub;
+      $('next').disabled = false;
+      if (s.sound) tick(true);
+      logTask(task);
+    }, 70);
+    toStage();
+  }
+
+  function logTask(task) {
+    history.push(task);
+    const li = document.createElement('li');
+    li.innerHTML = `<span class="font-display font-bold" style="color:#e63946; min-width:2.2em;">R${round}</span>
+      <span><b style="color:#0d1b2a;"></b><br><span class="text-sm"></span></span>`;
+    li.querySelector('b').textContent = `${CAT_LABEL[task.cat]}: ${task.main}`;
+    li.querySelector('.text-sm').textContent = task.sub;
+    $('log').prepend(li);
+    $('log-empty').hidden = true;
+    $('reset').hidden = false;
+  }
+
+  function nextRound() {
+    round += 1;
+    $('round-num').textContent = round;
+    show('ready');
+  }
+
+  function resetGame() {
+    defuse();
+    clearInterval(rollTimer);
+    round = 1;
+    history.length = 0;
+    $('round-num').textContent = 1;
+    $('log').innerHTML = '';
+    $('log-empty').hidden = false;
+    $('reset').hidden = true;
+  }
+
+  $('light').addEventListener('click', light);
+  $('pause').addEventListener('click', pause);
+  $('resume').addEventListener('click', () => { audio(); start(); lockScreen(); });
+  $('defuse').addEventListener('click', defuse);
+  $('defuse2').addEventListener('click', defuse);
+  $('next').addEventListener('click', nextRound);
+  $('reset').addEventListener('click', resetGame);
+
+  // If the phone locks or the app is switched away mid-round, pause instead of blowing up unseen.
+  document.addEventListener('visibilitychange', () => {
+    if (document.hidden) pause();
+    else if (state === 'live') lockScreen();
+  });
+
+  show('ready');
+})();
+</script>
+</body>
+</html>
