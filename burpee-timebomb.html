@@ -259,6 +259,13 @@
           <label class="opt"><input type="checkbox" id="opt-sound" checked><span>Ticking &amp; explosion sound</span></label>
           <label class="opt"><input type="checkbox" id="opt-speedup" checked><span>Ticking speeds up as the fuse burns</span></label>
           <label class="opt"><input type="checkbox" id="opt-oneliner" checked><span>Action hero one-liner when it blows</span></label>
+          <div class="opt" style="cursor:default; flex-wrap:wrap;">
+            <label for="opt-voice" class="text-sm" style="color:#e8f4f8;">Voice</label>
+            <select id="opt-voice" class="text-sm" style="flex:1; min-width:0; background:#0d1b2a; color:#e8f4f8; border:1px solid rgba(168,200,232,0.4); border-radius:6px; padding:6px 8px;">
+              <option value="">Auto (best male voice)</option>
+            </select>
+            <button type="button" id="voice-test" class="text-sm font-semibold" style="padding:6px 12px; border-radius:6px; border:1px solid var(--ember); color:var(--ember);">Test</button>
+          </div>
         </div>
 
         <p class="mt-5 text-sm font-semibold" style="color:#e8f4f8;">While the fuse burns</p>
@@ -485,8 +492,11 @@
       speedup: $('opt-speedup').checked,
       oneLiner: $('opt-oneliner').checked,
       fuseEx: $('opt-fuse-ex').checked,
+      voice: $('opt-voice').value || savedVoice,
     };
   }
+  // Voices load after the page, so the saved voice is held here until its option exists.
+  let savedVoice = '';
   function saveSettings() {
     try { localStorage.setItem(STORE, JSON.stringify(readSettings())); } catch (e) {}
   }
@@ -503,6 +513,7 @@
     if (typeof s.speedup === 'boolean') $('opt-speedup').checked = s.speedup;
     if (typeof s.oneLiner === 'boolean') $('opt-oneliner').checked = s.oneLiner;
     if (typeof s.fuseEx === 'boolean') $('opt-fuse-ex').checked = s.fuseEx;
+    if (typeof s.voice === 'string') savedVoice = s.voice;
   }
   // Never let every task type be unchecked.
   document.querySelectorAll('input[name="cat"]').forEach((el) => {
@@ -512,6 +523,7 @@
     });
   });
   document.querySelectorAll('input[name="fuse"], #opt-sound, #opt-speedup, #opt-oneliner, #opt-fuse-ex').forEach((el) => el.addEventListener('change', saveSettings));
+  $('opt-voice').addEventListener('change', () => { savedVoice = $('opt-voice').value; heroVoice = undefined; saveSettings(); });
   loadSettings();
 
   // ---------- audio ----------
@@ -524,9 +536,9 @@
     if (ctx && ctx.state === 'suspended') ctx.resume();
     return ctx;
   }
-  function tick(high) {
-    const a = audio(); if (!a) return;
-    const t = a.currentTime;
+  function tick(high, at) {
+    const a = audio(); if (!a) return null;
+    const t = at || a.currentTime;
     const o = a.createOscillator(), g = a.createGain();
     o.type = 'square';
     o.frequency.value = high ? 1500 : 1000;
@@ -535,6 +547,7 @@
     g.gain.exponentialRampToValueAtTime(0.0001, t + 0.06);
     o.connect(g).connect(a.destination);
     o.start(t); o.stop(t + 0.07);
+    return o;
   }
   function boomSound() {
     const a = audio(); if (!a) return;
@@ -608,10 +621,11 @@
   // Most human-sounding English male voice this device has. Neural/"Natural" voices (Edge),
   // Enhanced/Premium voices (iPhone, Mac) and Google's voices (Chrome) beat the old robotic ones.
   const NATURAL = /natural|neural|online|enhanced|premium/i;
-  const MALE_NAMES = /\bmale\b|guy|christopher|davis|andrew|brian|eric|roger|steffan|tony|jason|aaron|evan|nathan|tom|daniel|alex|arthur|oliver|reed|george|david|mark|james|ryan|liam/i;
-  const FEMALE = /female|zira|aria|jenny|michelle|\bana\b|emma|ava|allison|samantha|karen|moira|tessa|victoria|susan|serena|fiona|kate|libby|sonia|hazel|nicky|zoe|joelle|catherine/i;
+  // Amazon (Fire tablet) and Android voice names are in here too; Android ids like en-us-x-iom are male.
+  const MALE_NAMES = /\bmale\b|joey|justin|matthew|kevin|stephen|russell|geraint|x-(iom|iol|tpd|rjs|gbd|gbb)\b|guy|christopher|davis|andrew|brian|eric|roger|steffan|tony|jason|aaron|evan|nathan|tom|daniel|alex|arthur|oliver|reed|george|david|mark|james|ryan|liam/i;
+  const FEMALE = /female|salli|kendra|kimberly|joanna|\bivy\b|\bamy\b|nicole|raveena|aditi|x-(sfg|iob|iog|tpc|tpf|gba|gbc|gbg)\b|zira|aria|jenny|michelle|\bana\b|emma|ava|allison|samantha|karen|moira|tessa|victoria|susan|serena|fiona|kate|libby|sonia|hazel|nicky|zoe|joelle|catherine/i;
   const ROBOTIC = /fred|albert|bad news|bahh|bells|boing|bubbles|cellos|whisper|zarvox|trinoids|junior|ralph|kathy|princess|wobble|organ|jester|superstar|grandpa|grandma|eddy|flo|reed|rocko|sandy|shelley/i;
-  let heroNatural = false;
+  let heroNatural = false, heroMale = false, heroPicked = false;
   function voiceScore(v) {
     let n = 0;
     if (NATURAL.test(v.name)) n += 50;
@@ -622,15 +636,29 @@
     if (ROBOTIC.test(v.name)) n -= 60;
     return n;
   }
+  function englishVoices() {
+    return speech ? speech.getVoices().filter((v) => /^en/i.test(v.lang)).sort((a, b) => voiceScore(b) - voiceScore(a)) : [];
+  }
   function pickVoice() {
     if (heroVoice !== undefined || !speech) return heroVoice;
-    const voices = speech.getVoices().filter((v) => /^en/i.test(v.lang));
+    const voices = englishVoices();
     if (!voices.length) return null;
-    heroVoice = voices.slice().sort((a, b) => voiceScore(b) - voiceScore(a))[0];
+    const chosen = readSettings().voice;
+    heroPicked = !!chosen && voices.some((v) => v.name === chosen);
+    heroVoice = heroPicked ? voices.find((v) => v.name === chosen) : voices[0];
     heroNatural = NATURAL.test(heroVoice.name) || /google/i.test(heroVoice.name);
+    heroMale = MALE_NAMES.test(heroVoice.name) && !FEMALE.test(heroVoice.name);
     return heroVoice;
   }
-  if (speech) speech.addEventListener && speech.addEventListener('voiceschanged', () => { heroVoice = undefined; pickVoice(); });
+  // Settings > Voice lists this device's English voices, best guess first.
+  function fillVoices() {
+    const sel = $('opt-voice'), voices = englishVoices();
+    sel.replaceChildren(new Option('Auto (best male voice)', ''));
+    voices.forEach((v) => sel.add(new Option(`${v.name} (${v.lang})`, v.name)));
+    sel.value = voices.some((v) => v.name === savedVoice) ? savedVoice : '';
+  }
+  function voicesChanged() { heroVoice = undefined; fillVoices(); pickVoice(); }
+  if (speech) speech.addEventListener && speech.addEventListener('voiceschanged', voicesChanged);
 
   // iOS only lets a page talk after it has spoken during a tap, so prime it silently on Light the Fuse.
   function primeSpeech() {
@@ -654,7 +682,9 @@
     const v = pickVoice();
     if (v) { u.voice = v; u.lang = v.lang; }
     // A little lower and slower reads as tough-guy; pushing pitch further makes any voice sound robotic.
-    u.pitch = heroNatural ? 0.8 : 0.65;
+    // A voice picked in Settings keeps its own sound. When Auto can't find a male voice (Fire tablets
+    // often only have female ones), drop the pitch further so it still reads as a guy.
+    u.pitch = heroPicked ? 0.85 : !heroMale ? 0.5 : heroNatural ? 0.8 : 0.65;
     u.rate = 0.9;
     u.volume = 1;
     u.onend = () => speakParts(rest);
@@ -699,7 +729,7 @@
   }
 
   // ---------- game state ----------
-  let round = 1, fuseEx = null, duration = 0, elapsed = 0, startedAt = 0, nextTickAt = 0, timer = null, rollTimer = null, state = 'ready';
+  let round = 1, fuseEx = null, duration = 0, elapsed = 0, startedAt = 0, timer = null, rollTimer = null, state = 'ready';
   const history = [];
 
   function show(name) {
@@ -728,15 +758,36 @@
     return 1000 - 860 * Math.pow(p, 1.6);
   }
 
+  // Ticks are booked a moment ahead on the audio clock, so they land evenly even when a slow
+  // tablet runs this loop late. Booked ticks are cancelled on pause, defuse and boom.
+  const TICK_AHEAD = 0.2; // seconds
+  let nextTickAudio = 0, bookedTicks = [];
+  function progressAt(t) { return Math.min(1, (elapsed + (state === 'live' ? t - startedAt : 0)) / duration); }
+  function bookTicks(s) {
+    const a = audio(); if (!a) return;
+    const at = a.currentTime;
+    if (nextTickAudio < at) nextTickAudio = at + 0.03; // first tick, or skip ticks missed in a stall
+    bookedTicks = bookedTicks.filter((o) => o.endsAt > at);
+    while (nextTickAudio < at + TICK_AHEAD) {
+      const p = progressAt(now() + (nextTickAudio - at) * 1000);
+      if (p >= 1) break;
+      const o = tick(p > 0.85, nextTickAudio);
+      if (o) { o.endsAt = nextTickAudio + 0.07; bookedTicks.push(o); }
+      nextTickAudio += tickGap(p, s.speedup) / 1000;
+    }
+  }
+  function cancelTicks() {
+    bookedTicks.forEach((o) => { try { o.stop(); } catch (e) {} });
+    bookedTicks = [];
+    nextTickAudio = 0;
+  }
+
   function loop() {
     const p = progress();
     if (p >= 1) return explode();
     const s = readSettings();
     setIntensity(s.speedup ? p : 0.15);
-    if (now() >= nextTickAt) {
-      if (s.sound) tick(p > 0.85);
-      nextTickAt = now() + tickGap(p, s.speedup);
-    }
+    if (s.sound) bookTicks(s);
   }
 
   function light() {
@@ -757,7 +808,7 @@
   }
   function start() {
     startedAt = now();
-    nextTickAt = startedAt;
+    nextTickAudio = 0;
     show('live');
     toStage();
     clearInterval(timer);
@@ -767,10 +818,12 @@
     if (state !== 'live') return;
     elapsed += now() - startedAt;
     clearInterval(timer);
+    cancelTicks();
     show('paused');
   }
   function defuse() {
     clearInterval(timer);
+    cancelTicks();
     setIntensity(0);
     unlockScreen();
     show('ready');
@@ -778,6 +831,7 @@
 
   function explode() {
     clearInterval(timer);
+    cancelTicks();
     const s = readSettings();
     if (s.sound) boomSound();
     if (s.oneLiner) sayOneLiner(pickOneLiner(), s.sound);
@@ -1028,6 +1082,8 @@
   $('defuse2').addEventListener('click', defuse);
   $('next').addEventListener('click', nextRound);
   $('reset').addEventListener('click', resetGame);
+  $('voice-test').addEventListener('click', () => { audio(); hushOneLiner(); heroVoice = undefined; speakParts(pickOneLiner().say); });
+  fillVoices();
   $('export').addEventListener('click', exportReport);
   $('export-copy').addEventListener('click', copyReport);
 
