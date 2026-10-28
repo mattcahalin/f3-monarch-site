@@ -394,6 +394,13 @@
   const pick = (arr) => arr[Math.floor(Math.random() * arr.length)];
   // Burpees come up 1 time in 5; otherwise any other exercise from the list.
   const pickExercise = (arr) => (Math.random() < 0.2 ? 'Burpees' : pick(arr));
+  // Fuse exercise, solo exercise and travel never repeat back-to-back (like the one-liners).
+  const lastPick = { fuse: null, solo: null, travel: null };
+  function pickFresh(slot, draw) {
+    let x;
+    do { x = draw(); } while (x === lastPick[slot]);
+    return (lastPick[slot] = x);
+  }
   // Exercise names become buttons that open a how-to bubble (see showTip).
   function exLink(name) {
     if (!GLOSSARY[name]) return document.createTextNode(name);
@@ -679,10 +686,10 @@
       return { cat, n, main: burpees(n), sub: 'The whole PAX. Bomb holder counts them out.' };
     }
     if (cat === 'solo') {
-      const n = pick(COUNTS), ex = pickExercise(EXERCISES);
+      const n = pick(COUNTS), ex = pickFresh('solo', () => pickExercise(EXERCISES));
       return { cat, n, main: `You: ${burpees(n)}`, sub: `The rest of the PAX: ${ex} until you finish.`, ex };
     }
-    const tr = pick(TRAVELS);
+    const tr = pickFresh('travel', () => pick(TRAVELS));
     return { cat, main: tr, sub: 'The whole PAX, to the turnaround and back. Bomb holder sets the line.' };
   }
   function rollingText(cat) {
@@ -738,7 +745,7 @@
     if (readSettings().oneLiner && readSettings().sound) primeSpeech();
     const [lo, hi] = FUSES[readSettings().fuse];
     duration = (lo + Math.random() * (hi - lo)) * 1000;
-    fuseEx = readSettings().fuseEx ? pickExercise(FUSE_EXERCISES) : null;
+    fuseEx = readSettings().fuseEx ? pickFresh('fuse', () => pickExercise(FUSE_EXERCISES)) : null;
     $('fuse-ex').replaceChildren(fuseEx ? exLink(fuseEx) : '');
     $('fuse-ex-hint').hidden = !(fuseEx && GLOSSARY[fuseEx]);
     $('fuse-ex-box').hidden = !fuseEx;
@@ -834,6 +841,7 @@
     clearInterval(rollTimer);
     round = 1;
     history.length = 0;
+    lastPick.fuse = lastPick.solo = lastPick.travel = null;
     $('round-num').textContent = 1;
     $('log').innerHTML = '';
     $('log-empty').hidden = false;
