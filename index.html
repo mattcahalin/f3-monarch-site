@@ -316,6 +316,32 @@
         <div id="ao-map" class="w-full h-full"></div>
       </div>
     </div>
+
+    <!-- AO DISTANCE FINDER -->
+    <div id="ao-distance" class="mt-14 rounded-lg p-6 md:p-10" style="background:#e8f4f8; border:1px solid #a8c8e8;">
+      <div class="md:flex md:items-start md:gap-10">
+        <div class="md:w-5/12">
+          <h3 class="font-display font-black text-2xl md:text-3xl" style="color:#0d1b2a;">How Far Is Your Next AO?</h3>
+          <p class="mt-3 leading-relaxed" style="color:#1a3a5c;">Every AO has its own crew, its own Qs, and its own flavor of suck. Getting out to a different AO is one of the best ways to meet new PAX, pick up new exercises, and grow the region.</p>
+          <p class="mt-3 leading-relaxed" style="color:#1a3a5c;">And they're closer than you think. At 5 AM there's no traffic &mdash; most of our AOs are a short drive from each other. Pop in your address and see for yourself.</p>
+          <form id="ao-distance-form" class="mt-6 space-y-3" autocomplete="on">
+            <label for="ao-address" class="sr-only">Your address</label>
+            <input id="ao-address" name="address" type="text" required placeholder="Your home address or zip code"
+                   class="w-full rounded px-4 py-3 text-base focus:outline-none" style="background:#ffffff; border:1px solid #5b8db8; color:#0d1b2a;">
+            <div class="flex flex-wrap gap-3">
+              <button type="submit" class="px-5 py-3 rounded font-bold text-sm" style="background:#1a3a5c; color:#e8f4f8;">Find My Distances</button>
+              <button type="button" id="ao-use-location" class="px-5 py-3 rounded font-bold text-sm" style="background:#ffffff; color:#1a3a5c; border:1px solid #5b8db8;">Use My Location</button>
+            </div>
+            <p class="text-xs" style="color:#5b8db8;">Your address is only used to calculate distances. It's looked up through OpenStreetMap and isn't saved by F3 Monarch STL.</p>
+          </form>
+        </div>
+        <div class="md:w-7/12 mt-8 md:mt-0">
+          <p id="ao-distance-status" class="text-sm" style="color:#5b8db8;" aria-live="polite">Enter an address to see the mileage and estimated drive time to all 10 AOs.</p>
+          <ol id="ao-distance-results" class="mt-3 space-y-2"></ol>
+          <p id="ao-distance-note" class="hidden mt-4 text-xs" style="color:#5b8db8;"></p>
+        </div>
+      </div>
+    </div>
   </div>
 </section>
 
@@ -781,10 +807,144 @@
   ];
 
   aos.forEach(ao => {
-    L.marker(ao.coords, { icon })
+    ao.marker = L.marker(ao.coords, { icon })
       .addTo(map)
       .bindPopup(`<strong>${ao.name}</strong><br>${ao.loc}<br><span style="color:#1a3a5c;">${ao.time}</span>`);
   });
+
+  // ---- AO distance finder ----
+  (function () {
+    const form = document.getElementById('ao-distance-form');
+    const input = document.getElementById('ao-address');
+    const locBtn = document.getElementById('ao-use-location');
+    const statusEl = document.getElementById('ao-distance-status');
+    const list = document.getElementById('ao-distance-results');
+    const note = document.getElementById('ao-distance-note');
+    const homeIcon = L.divIcon({
+      className: '',
+      html: '<div style="background:#e8a33d;border:2px solid #0d1b2a;border-radius:50%;width:16px;height:16px;"></div>',
+      iconSize: [16, 16], iconAnchor: [8, 8], popupAnchor: [0, -10]
+    });
+    let homeMarker = null;
+
+    const setStatus = (msg) => { statusEl.textContent = msg; };
+
+    function haversineMiles(a, b) {
+      const R = 3958.8, toRad = d => d * Math.PI / 180;
+      const dLat = toRad(b[0] - a[0]), dLon = toRad(b[1] - a[1]);
+      const h = Math.sin(dLat / 2) ** 2 + Math.cos(toRad(a[0])) * Math.cos(toRad(b[0])) * Math.sin(dLon / 2) ** 2;
+      return 2 * R * Math.asin(Math.sqrt(h));
+    }
+
+    async function geocode(q) {
+      const url = 'https://nominatim.openstreetmap.org/search?format=json&limit=1&countrycodes=us'
+        + '&viewbox=-91.2,39.0,-90.0,38.2&q=' + encodeURIComponent(q);
+      const res = await fetch(url, { headers: { 'Accept': 'application/json' } });
+      if (!res.ok) throw new Error('geocode');
+      const data = await res.json();
+      if (!data.length) return null;
+      return { coords: [parseFloat(data[0].lat), parseFloat(data[0].lon)], label: data[0].display_name };
+    }
+
+    async function driveTable(home) {
+      const pts = [home, ...aos.map(a => a.coords)].map(c => `${c[1].toFixed(5)},${c[0].toFixed(5)}`).join(';');
+      const url = `https://router.project-osrm.org/table/v1/driving/${pts}?sources=0&annotations=duration,distance`;
+      const res = await fetch(url);
+      if (!res.ok) throw new Error('route');
+      const data = await res.json();
+      if (data.code !== 'Ok') throw new Error('route');
+      return aos.map((_, i) => ({
+        miles: data.distances[0][i + 1] / 1609.344,
+        minutes: data.durations[0][i + 1] / 60
+      }));
+    }
+
+    function estimate(home) {
+      // Fallback: straight-line distance x 1.3 for roads, ~35 mph average
+      return aos.map(a => {
+        const miles = haversineMiles(home, a.coords) * 1.3;
+        return { miles, minutes: miles / 35 * 60 };
+      });
+    }
+
+    function render(home, rows, estimated) {
+      list.innerHTML = '';
+      const sorted = aos.map((ao, i) => ({ ao, ...rows[i] })).sort((x, y) => x.minutes - y.minutes);
+      sorted.forEach((r, idx) => {
+        const li = document.createElement('li');
+        li.className = 'rounded flex items-center gap-3 px-4 py-3';
+        li.style.cssText = 'background:#ffffff; border:1px solid #a8c8e8;';
+        const mins = Math.max(1, Math.round(r.minutes));
+        const dir = `https://www.google.com/maps/dir/?api=1&origin=${home[0]},${home[1]}&destination=${r.ao.coords[0]},${r.ao.coords[1]}&travelmode=driving`;
+        li.innerHTML = `
+          <span class="w-7 h-7 shrink-0 rounded-full flex items-center justify-center text-xs font-bold" style="background:#1a3a5c;color:#e8f4f8;">${idx + 1}</span>
+          <button type="button" class="flex-1 min-w-0 text-left">
+            <span class="block font-bold leading-tight" style="color:#0d1b2a;">${r.ao.name}</span>
+            <span class="block text-xs truncate" style="color:#5b8db8;">${r.ao.loc}</span>
+          </button>
+          <span class="text-right shrink-0">
+            <span class="block font-bold" style="color:#0d1b2a;">${estimated ? '~' : ''}${mins} min</span>
+            <span class="block text-xs" style="color:#5b8db8;">${r.miles.toFixed(1)} mi</span>
+          </span>
+          <a href="${dir}" target="_blank" rel="noopener" class="shrink-0 text-xs font-bold underline" style="color:#5b8db8;">Directions</a>`;
+        li.querySelector('button').addEventListener('click', () => {
+          map.setView(r.ao.coords, 13);
+          r.ao.marker.openPopup();
+          document.getElementById('ao-map').scrollIntoView({ behavior: 'smooth', block: 'center' });
+        });
+        list.appendChild(li);
+      });
+
+      const within15 = sorted.filter(r => r.minutes <= 15).length;
+      setStatus(within15 > 1
+        ? `${within15} AOs are within a 15-minute drive of you. No excuses!`
+        : `Your closest AO is ${sorted[0].ao.name.replace(/^\S+\s/, '')} — ${Math.max(1, Math.round(sorted[0].minutes))} minutes away.`);
+      note.classList.remove('hidden');
+      note.textContent = estimated
+        ? 'Drive times are rough estimates based on straight-line distance (the routing service was unavailable).'
+        : 'Drive times are estimated for light, early-morning traffic. Tap an AO to see it on the map.';
+
+      if (homeMarker) map.removeLayer(homeMarker);
+      homeMarker = L.marker(home, { icon: homeIcon }).addTo(map).bindPopup('<strong>You</strong>');
+      map.fitBounds(L.latLngBounds([home, ...aos.map(a => a.coords)]), { padding: [20, 20] });
+    }
+
+    async function run(home) {
+      setStatus('Calculating drive times…');
+      list.innerHTML = '';
+      let rows, estimated = false;
+      try { rows = await driveTable(home); }
+      catch (e) { rows = estimate(home); estimated = true; }
+      render(home, rows, estimated);
+      if (typeof gtag === 'function') gtag('event', 'ao_distance_lookup', { estimated });
+    }
+
+    form.addEventListener('submit', async (e) => {
+      e.preventDefault();
+      const q = input.value.trim();
+      if (!q) return;
+      setStatus('Looking up your address…');
+      list.innerHTML = '';
+      note.classList.add('hidden');
+      try {
+        const g = await geocode(q);
+        if (!g) { setStatus("We couldn't find that address. Try adding your city and state, or just a zip code."); return; }
+        run(g.coords);
+      } catch (err) {
+        setStatus('Address lookup is unavailable right now. Please try again in a minute.');
+      }
+    });
+
+    locBtn.addEventListener('click', () => {
+      if (!navigator.geolocation) { setStatus("Your browser can't share your location. Type your address instead."); return; }
+      setStatus('Getting your location…');
+      navigator.geolocation.getCurrentPosition(
+        pos => run([pos.coords.latitude, pos.coords.longitude]),
+        () => setStatus("Couldn't get your location. Type your address instead."),
+        { enableHighAccuracy: false, timeout: 10000 }
+      );
+    });
+  })();
 </script>
 </body>
 </html>
