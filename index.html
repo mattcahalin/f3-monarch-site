@@ -883,7 +883,7 @@
       if (data.code !== 'Ok') throw new Error('route');
       // OSRM's public car profile runs slower than Google on west-county roads
       // (calibrated against Google Maps from several Chesterfield/Wildwood addresses).
-      const OSRM_TIME_FACTOR = 0.82;
+      const OSRM_TIME_FACTOR = 0.85;
       return aos.map((_, i) => ({
         miles: data.distances[0][i + 1] / 1609.344,
         minutes: data.durations[0][i + 1] / 60 * OSRM_TIME_FACTOR
