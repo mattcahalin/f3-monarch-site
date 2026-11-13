@@ -874,6 +874,39 @@
       return geocodeOSM(q);
     }
 
+    // Google Maps Routes API key. Restrict it in Google Cloud to HTTP referrer
+    // f3-monarchstl.com/* and to the Routes API only.
+    const GOOGLE_MAPS_KEY = '';
+
+    async function driveTableGoogle(home) {
+      if (!GOOGLE_MAPS_KEY) throw new Error('no key');
+      const wp = (c) => ({ waypoint: { location: { latLng: { latitude: c[0], longitude: c[1] } } } });
+      const res = await fetch('https://routes.googleapis.com/distanceMatrix/v2:computeRouteMatrix', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+          'X-Goog-Api-Key': GOOGLE_MAPS_KEY,
+          'X-Goog-FieldMask': 'originIndex,destinationIndex,duration,distanceMeters,condition'
+        },
+        body: JSON.stringify({
+          origins: [wp(home)],
+          destinations: aos.map(a => wp(a.coords)),
+          travelMode: 'DRIVE',
+          routingPreference: 'TRAFFIC_UNAWARE'
+        })
+      });
+      if (!res.ok) throw new Error('google ' + res.status);
+      const data = await res.json();
+      const rows = aos.map(() => null);
+      data.forEach(el => {
+        if (el.condition === 'ROUTE_EXISTS' && el.duration) {
+          rows[el.destinationIndex] = { miles: el.distanceMeters / 1609.344, minutes: parseInt(el.duration, 10) / 60 };
+        }
+      });
+      if (rows.some(r => !r)) throw new Error('google incomplete');
+      return rows;
+    }
+
     async function driveTable(home) {
       const pts = [home, ...aos.map(a => a.coords)].map(c => `${c[1].toFixed(5)},${c[0].toFixed(5)}`).join(';');
       const url = `https://router.project-osrm.org/table/v1/driving/${pts}?sources=0&annotations=duration,distance`;
@@ -944,10 +977,15 @@
       setStatus('Calculating drive times…');
       list.innerHTML = '';
       let rows, estimated = false;
-      try { rows = await driveTable(home); }
-      catch (e) { rows = estimate(home); estimated = true; }
+      let source = 'google';
+      try { rows = await driveTableGoogle(home); }
+      catch (e1) {
+        source = 'osrm';
+        try { rows = await driveTable(home); }
+        catch (e2) { rows = estimate(home); estimated = true; source = 'estimate'; }
+      }
       render(home, rows, estimated, label);
-      if (typeof gtag === 'function') gtag('event', 'ao_distance_lookup', { estimated });
+      if (typeof gtag === 'function') gtag('event', 'ao_distance_lookup', { source });
     }
 
     form.addEventListener('submit', async (e) => {
