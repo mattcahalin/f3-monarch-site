@@ -332,7 +332,7 @@
               <button type="submit" class="px-5 py-3 rounded font-bold text-sm" style="background:#1a3a5c; color:#e8f4f8;">Find My Distances</button>
               <button type="button" id="ao-use-location" class="px-5 py-3 rounded font-bold text-sm" style="background:#ffffff; color:#1a3a5c; border:1px solid #5b8db8;">Use My Location</button>
             </div>
-            <p class="text-xs" style="color:#5b8db8;">Your address is only used to calculate distances. It's looked up through OpenStreetMap and isn't saved by F3 Monarch STL.</p>
+            <p class="text-xs" style="color:#5b8db8;">Your address is only used to calculate distances. It's looked up through the U.S. Census and OpenStreetMap and isn't saved by F3 Monarch STL.</p>
           </form>
         </div>
         <div class="md:w-7/12 mt-8 md:mt-0">
@@ -836,14 +836,42 @@
       return 2 * R * Math.asin(Math.sqrt(h));
     }
 
-    async function geocode(q) {
+    // US Census geocoder: precise house-number matching for US street addresses (JSONP, no key)
+    function geocodeCensus(q) {
+      return new Promise((resolve) => {
+        const cb = '__aoGeo' + Date.now();
+        const script = document.createElement('script');
+        const done = (val) => { clearTimeout(timer); delete window[cb]; script.remove(); resolve(val); };
+        const timer = setTimeout(() => done(null), 8000);
+        window[cb] = (d) => {
+          const m = d && d.result && d.result.addressMatches && d.result.addressMatches[0];
+          done(m ? { coords: [m.coordinates.y, m.coordinates.x], label: m.matchedAddress } : null);
+        };
+        script.onerror = () => done(null);
+        script.src = 'https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?benchmark=Public_AR_Current&format=jsonp'
+          + '&callback=' + cb + '&address=' + encodeURIComponent(q);
+        document.head.appendChild(script);
+      });
+    }
+
+    // OpenStreetMap fallback: handles zip codes, towns and landmarks
+    async function geocodeOSM(q) {
       const url = 'https://nominatim.openstreetmap.org/search?format=json&limit=1&countrycodes=us'
         + '&viewbox=-91.2,39.0,-90.0,38.2&q=' + encodeURIComponent(q);
       const res = await fetch(url, { headers: { 'Accept': 'application/json' } });
       if (!res.ok) throw new Error('geocode');
       const data = await res.json();
       if (!data.length) return null;
-      return { coords: [parseFloat(data[0].lat), parseFloat(data[0].lon)], label: data[0].display_name };
+      return { coords: [parseFloat(data[0].lat), parseFloat(data[0].lon)], label: data[0].display_name.split(', United States')[0] };
+    }
+
+    async function geocode(q) {
+      const looksLikeStreet = /^\s*\d+\s+\S+/.test(q);
+      if (looksLikeStreet) {
+        const c = await geocodeCensus(q);
+        if (c) return c;
+      }
+      return geocodeOSM(q);
     }
 
     async function driveTable(home) {
@@ -867,7 +895,7 @@
       });
     }
 
-    function render(home, rows, estimated) {
+    function render(home, rows, estimated, label) {
       list.innerHTML = '';
       const sorted = aos.map((ao, i) => ({ ao, ...rows[i] })).sort((x, y) => x.minutes - y.minutes);
       sorted.forEach((r, idx) => {
@@ -900,22 +928,22 @@
         ? `${within15} AOs are within a 15-minute drive of you. No excuses!`
         : `Your closest AO is ${sorted[0].ao.name.replace(/^\S+\s/, '')} — ${Math.max(1, Math.round(sorted[0].minutes))} minutes away.`);
       note.classList.remove('hidden');
-      note.textContent = estimated
+      note.textContent = (label ? `Measured from: ${label}. ` : '') + (estimated
         ? 'Drive times are rough estimates based on straight-line distance (the routing service was unavailable).'
-        : 'Drive times are estimated for light, early-morning traffic. Tap an AO to see it on the map.';
+        : 'Drive times are estimated for light, early-morning traffic. Tap an AO to see it on the map.');
 
       if (homeMarker) map.removeLayer(homeMarker);
       homeMarker = L.marker(home, { icon: homeIcon }).addTo(map).bindPopup('<strong>You</strong>');
       map.fitBounds(L.latLngBounds([home, ...aos.map(a => a.coords)]), { padding: [20, 20] });
     }
 
-    async function run(home) {
+    async function run(home, label) {
       setStatus('Calculating drive times…');
       list.innerHTML = '';
       let rows, estimated = false;
       try { rows = await driveTable(home); }
       catch (e) { rows = estimate(home); estimated = true; }
-      render(home, rows, estimated);
+      render(home, rows, estimated, label);
       if (typeof gtag === 'function') gtag('event', 'ao_distance_lookup', { estimated });
     }
 
@@ -929,7 +957,7 @@
       try {
         const g = await geocode(q);
         if (!g) { setStatus("We couldn't find that address. Try adding your city and state, or just a zip code."); return; }
-        run(g.coords);
+        run(g.coords, g.label);
       } catch (err) {
         setStatus('Address lookup is unavailable right now. Please try again in a minute.');
       }
@@ -939,7 +967,7 @@
       if (!navigator.geolocation) { setStatus("Your browser can't share your location. Type your address instead."); return; }
       setStatus('Getting your location…');
       navigator.geolocation.getCurrentPosition(
-        pos => run([pos.coords.latitude, pos.coords.longitude]),
+        pos => run([pos.coords.latitude, pos.coords.longitude], 'your current location'),
         () => setStatus("Couldn't get your location. Type your address instead."),
         { enableHighAccuracy: false, timeout: 10000 }
       );
