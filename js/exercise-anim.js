@@ -230,8 +230,16 @@
       hp = [[p.hip[0] + 5 * px, p.hip[1] + 5 * py], [p.hip[0] - 5 * px, p.hip[1] - 5 * py]];
       if (sh[0][0] > sh[1][0]) { sh.reverse(); hp.reverse(); }             // index 0 is screen-left
     }
-    const arms = [0, 1].map((i) => [sh[i], ...ik(sh[i], p.hands[i], L.ua, L.fa, ab[i])]);
-    const legs = [0, 1].map((i) => [hp[i], ...ik(hp[i], p.feet[i], L.th, L.sh, lb[i])]);
+    // Side view (always facing right): a knee bends the same rotational way in every pose, and an
+    // elbow the opposite way, so joints can never fold backward. Front view uses the pose's bend signs.
+    const turn = (A, k) => (k[0][0] - A[0]) * (k[1][1] - k[0][1]) - (k[0][1] - A[1]) * (k[1][0] - k[0][0]);
+    const joint = (A, T, l1, l2, s, dir) => {
+      if (view !== 'side') return [A, ...ik(A, T, l1, l2, s)];
+      const a = ik(A, T, l1, l2, 1), b = ik(A, T, l1, l2, -1);
+      return [A, ...(turn(A, a) * dir >= turn(A, b) * dir ? a : b)];
+    };
+    const arms = [0, 1].map((i) => joint(sh[i], p.hands[i], L.ua, L.fa, ab[i], -1));
+    const legs = [0, 1].map((i) => joint(hp[i], p.feet[i], L.th, L.sh, lb[i], 1));
     return { neck, head, hip: p.hip, sh, hp, arms, legs };
   }
 
