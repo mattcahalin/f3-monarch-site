@@ -249,8 +249,8 @@
 
         <p class="mt-5 text-sm font-semibold" style="color:#e8f4f8;">What can happen when it blows</p>
         <div class="mt-2 grid gap-2">
-          <label class="opt"><input type="checkbox" name="cat" value="group" checked><span><b>Group Burpees</b><br><span class="text-sm" style="color:#a8c8e8;">Everyone does 1, 5, or 10 burpees</span></span></label>
-          <label class="opt"><input type="checkbox" name="cat" value="solo" checked><span><b>Solo Burpees</b><br><span class="text-sm" style="color:#a8c8e8;">Bomb holder does 1, 5, or 10 burpees while the PAX do an exercise until he's done</span></span></label>
+          <label class="opt"><input type="checkbox" name="cat" value="group" checked><span><b>Group Burpees</b><br><span class="text-sm" style="color:#a8c8e8;">Everyone does 3, 5, 10, or 20 burpees (20 only once a game)</span></span></label>
+          <label class="opt"><input type="checkbox" name="cat" value="solo" checked><span><b>Solo Burpees</b><br><span class="text-sm" style="color:#a8c8e8;">Bomb holder does 3, 5, or 10 burpees while the PAX do an exercise until he's done</span></span></label>
           <label class="opt"><input type="checkbox" name="cat" value="travel" checked><span><b>Travel</b><br><span class="text-sm" style="color:#a8c8e8;">Group travels: bear crawls, lunge walks, murder bunnies&hellip;</span></span></label>
         </div>
 
@@ -370,7 +370,9 @@
 <script>
 (function () {
   const FUSES = { short: [10, 30], medium: [20, 60], long: [45, 90] };
-  const COUNTS = [1, 5, 10];
+  const COUNTS = [3, 5, 10];            // solo burpees
+  const GROUP_COUNTS = [3, 5, 10, 20];  // group burpees; 20 can come up only once per game
+  const groupCounts = () => (history.some((t) => t.cat === 'group' && t.n === 20) ? COUNTS : GROUP_COUNTS);
   const EXERCISES = ['Merkins', 'Squats', 'Side Straddle Hops', 'Curls', 'Rows', 'Taint Scrapers', 'Thrusters', 'Overhead Press'];
   // PAX Library glossary sections 4-7 (upper body, core, lower body, full body),
   // minus the travels (Bear Crawl, Crab Walk, Gorilla Walk) since the circle stays put while passing.
@@ -712,7 +714,7 @@
   function makeTask(cats) {
     const cat = pick(cats);
     if (cat === 'group') {
-      const n = pick(COUNTS);
+      const n = pick(groupCounts());
       return { cat, n, main: burpees(n), sub: 'The whole PAX. Bomb holder counts them out.' };
     }
     if (cat === 'solo') {
@@ -723,7 +725,7 @@
     return { cat, main: tr, sub: 'The whole PAX, to the turnaround and back. Bomb holder sets the line.' };
   }
   function rollingText(cat) {
-    if (cat === 'group') return burpees(pick(COUNTS));
+    if (cat === 'group') return burpees(pick(groupCounts()));
     if (cat === 'solo') return pick([`You: ${burpees(pick(COUNTS))}`, pick(EXERCISES)]);
     return pick(TRAVELS);
   }
