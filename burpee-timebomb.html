@@ -123,6 +123,8 @@
   #ex-tip p { font-size: 14px; line-height: 1.5; margin-top: 4px; color: var(--navy-mid); }
   #ex-tip-close { position: absolute; top: 6px; right: 6px; width: 30px; height: 30px; border-radius: 999px; font-size: 20px; line-height: 1; color: var(--navy-mid); }
   #ex-tip-close:hover { background: rgba(26,58,92,0.08); }
+  #ex-tip-anim .ex-anim { display: block; width: 100%; height: 140px; margin: 8px 0 2px; background: #ffffff; border: 1px solid #d6e6f2; border-radius: 8px; }
+  #ex-tip-demo { display: inline-block; margin-top: 6px; font-size: 14px; font-weight: 700; color: #b5532a; text-decoration: underline; }
   @keyframes tipIn { from { opacity: 0; transform: translateY(4px); } to { opacity: 1; transform: none; } }
   @media (prefers-reduced-motion: reduce) { #ex-tip { animation: none; } }
   .log li { display: flex; gap: 10px; padding: 8px 0; border-bottom: 1px solid rgba(26,58,92,0.12); }
@@ -353,7 +355,9 @@
 <div id="ex-tip" role="dialog" aria-labelledby="ex-tip-title" hidden>
   <button type="button" id="ex-tip-close" aria-label="Close">&times;</button>
   <h4 id="ex-tip-title"></h4>
+  <div id="ex-tip-anim"></div>
   <p id="ex-tip-body"></p>
+  <a id="ex-tip-demo" target="_blank" rel="noopener" hidden>Watch a demo &#8599;</a>
 </div>
 
 <!-- FOOTER -->
@@ -367,6 +371,7 @@
   </div>
 </footer>
 
+<script src="js/exercise-anim.js?v=0f2a2d08"></script>
 <script>
 (function () {
   const FUSES = { short: [10, 30], medium: [20, 60], long: [45, 90] };
@@ -446,10 +451,12 @@
   loadGlossary();
 
   const tip = $('ex-tip');
-  let tipFor = null;
+  let tipFor = null, stopAnim = null;
   function closeTip() {
     if (tip.hidden) return;
     tip.hidden = true;
+    if (stopAnim) { stopAnim(); stopAnim = null; }
+    $('ex-tip-anim').replaceChildren();
     if (tipFor) tipFor.setAttribute('aria-expanded', 'false');
     tipFor = null;
   }
@@ -461,6 +468,13 @@
     if (!btn.offsetParent) return;
     $('ex-tip-title').textContent = entry ? entry.title : btn.textContent;
     $('ex-tip-body').textContent = entry ? entry.body : "Couldn't load the how-to. Check the PAX Library glossary.";
+    // Animated demo when we have one; otherwise a link out to video demos.
+    const term = btn.dataset.term, anim = window.ExerciseAnim && ExerciseAnim.has(term);
+    $('ex-tip-anim').replaceChildren();
+    if (anim) stopAnim = ExerciseAnim.mount($('ex-tip-anim'), term);
+    const demo = $('ex-tip-demo');
+    demo.hidden = !!anim;
+    if (!anim) demo.href = 'https://www.youtube.com/results?search_query=' + encodeURIComponent(`F3 ${entry ? entry.title.replace(/\s*\(.*\)$/, '') : btn.textContent} exercise`);
     tipFor = btn;
     btn.setAttribute('aria-expanded', 'true');
     tip.hidden = false;
