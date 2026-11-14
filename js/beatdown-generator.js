@@ -33,7 +33,7 @@
     const entries = [];
     for (const chunk of md.split(/\n## /).slice(1)) {
       const nl = chunk.indexOf('\n');
-      const e = { title: chunk.slice(0, nl).trim(), warmup: '', thang: '', mary: '' };
+      const e = { title: chunk.slice(0, nl).trim(), q: '', warmup: '', thang: '', mary: '' };
       for (const sec of chunk.slice(nl).split(/\n### /).slice(1)) {
         const k = sec.slice(0, sec.indexOf('\n')).trim().toLowerCase();
         const body = sec.slice(sec.indexOf('\n')).replace(/\n---\s*$/, '').trim();
@@ -430,7 +430,7 @@
 
   function previous(state, r) {
     const e = pick(r, state.full.length ? state.full : state.entries);
-    return withMinutes({ mode: 'previous', title: e.title, warmup: { md: e.warmup }, thang: { md: e.thang }, mary: { md: e.mary } });
+    return withMinutes({ mode: 'previous', title: e.title, q: e.q, warmup: { md: e.warmup }, thang: { md: e.thang }, mary: { md: e.mary } });
   }
 
   // ---------- Mix & Match Thang names ----------
@@ -495,9 +495,9 @@
     const w = pick(r, state.withWarmup), t = pick(r, state.withThang), m = pick(r, state.withMary);
     return withMinutes({
       mode: 'mix', title: 'Mix & Match',
-      warmup: { md: w.warmup, from: w.title },
-      thang: { name: mixName(r, t, w, m), md: t.thang, from: t.title },
-      mary: { md: m.mary, from: m.title },
+      warmup: { md: w.warmup, from: w.title, q: w.q },
+      thang: { name: mixName(r, t, w, m), md: t.thang, from: t.title, q: t.q },
+      mary: { md: m.mary, from: m.title, q: m.q },
     });
   }
 

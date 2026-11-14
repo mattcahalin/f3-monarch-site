@@ -14,6 +14,8 @@ The generator (`beatdown-generator.html`) reads `data/backblasts.md`. To rebuild
    python tools/scrub_backblasts.py "backblasts-full.md" "beatdowns.csv" data/backblasts.md "scrub-report.md"
    ```
 
+   Each beatdown keeps a `### Q` section with the Q's (and co-Q's) F3 nickname, read by `tools/q_names.py` from the CSV's `Q:` line or, failing that, its `q_user_id` / `coq_user_id`. The generator shows it as credit next to the beatdown name. The scrub leaves this section alone.
+
 3. Skim the report, then commit `data/backblasts.md`. Don't commit the full file, the CSV, or the report; they contain the unscrubbed text.
 
 Whenever `data/backblasts.md` or `js/beatdown-generator.js` changes, update its `?v=` tag in `beatdown-generator.html` so phones don't keep a stale copy (GitHub Pages lets browsers cache files for 10 minutes):

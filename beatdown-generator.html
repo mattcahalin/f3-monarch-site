@@ -187,7 +187,7 @@
   </div>
 </footer>
 
-<script src="js/beatdown-generator.js?v=d7c2321f"></script>
+<script src="js/beatdown-generator.js?v=e0a1899d"></script>
 <script>
 (function () {
   const MODES = { previous: 'Previous Beatdown', mix: 'Mix & Match', moreau: 'Island of Dr. Moreau' };
@@ -232,7 +232,7 @@
         <h3 class="font-bold text-xl" style="color:#0d1b2a;">${label}</h3>
         ${mins ? `<span class="chip">~${mins} min</span>` : ''}
       </div>
-      ${part.from ? `<p class="from mt-1">from &ldquo;${title(part.from)}&rdquo;</p>` : ''}
+      ${part.from ? `<p class="from mt-1">from &ldquo;${title(part.from)}&rdquo;${part.q ? ` &middot; Q: ${esc(part.q)}` : ''}</p>` : ''}
       <div class="bd-body mt-2">${body || '<p style="color:#5b8db8;">Not recorded in this beatdown.</p>'}</div>
     </div>`;
   }
@@ -241,7 +241,8 @@
     const m = w.minutes;
     let html = `<article id="result" class="rounded-lg p-6 md:p-8 shadow-sm" style="background:#ffffff; border:1px solid #a8c8e8;">
       <p class="text-xs font-bold uppercase tracking-wide" style="color:#5b8db8;">${esc(MODES[w.mode])}${w.format ? ' &middot; ' + esc(w.format) : ''}</p>
-      <h2 class="font-display font-black text-2xl md:text-3xl mt-1 mb-4" style="color:#0d1b2a;">${title(w.title)}</h2>`;
+      <h2 class="font-display font-black text-2xl md:text-3xl mt-1 ${w.q ? 'mb-1' : 'mb-4'}" style="color:#0d1b2a;">${title(w.title)}</h2>
+      ${w.q ? `<p class="mb-4 font-semibold" style="color:#1a3a5c;">Q: ${esc(w.q)}</p>` : ''}`;
     if (m) {
       html += `<p class="mb-4 flex flex-wrap gap-2"><span class="chip" style="background:#1a3a5c; color:#e8f4f8; border-color:#1a3a5c;">~${m.total} min total</span>
         ${w.sources ? `<span class="chip">Fits in 40</span><span class="chip">${w.sources.length} beatdowns stitched together</span>`
@@ -316,6 +317,7 @@
       text('F3 MONARCH STL  |  BEATDOWN GENERATOR', 9, 'bold', BLUE, 4);
       text(`${MODES[w.mode]}${w.format ? '  |  ' + w.format : ''}`, 10, 'normal', BLUE, 2);
       text(heading, 22, 'bold', NAVY, 2);
+      if (w.q) text('Q: ' + w.q, 12, 'bold', MID, 2);
       const m = w.minutes;
       if (m) text(`~${m.total} min total${w.sources ? '' : ' (estimated from the write-up)'}`, 11, 'bold', MID, 6);
 
@@ -323,7 +325,7 @@
         room(40);
         doc.setDrawColor(168, 200, 232); doc.line(M, y, W - M, y); y += 18;
         text(label + (mins ? `   (~${mins} min)` : ''), 14, 'bold', NAVY, 0);
-        if (p.from) text(`from "${plainTitle(p.from)}"`, 9, 'italic', BLUE, 0);
+        if (p.from) text(`from "${plainTitle(p.from)}"${p.q ? '  |  Q: ' + p.q : ''}`, 9, 'italic', BLUE, 0);
         y += 4;
         const body = plain(p).trim() || 'Not recorded in this beatdown.';
         for (const line of body.split('\n')) line.trim() ? text(line, 11, 'normal', MID, 1) : (y += 5);
@@ -348,7 +350,7 @@
 
   function toText(w) {
     const m = w.minutes;
-    return [`*${plainTitle(w.title)}*` + (m ? ` (~${m.total} min)` : ''), '', '*WARMUP:*', plain(w.warmup), '', '*THE THANG:*' + (w.thang.name ? ' ' + w.thang.name : ''), plain(w.thang), '', '*MARY:*', plain(w.mary)].join('\n');
+    return [`*${plainTitle(w.title)}*` + (m ? ` (~${m.total} min)` : '') + (w.q ? `\nQ: ${w.q}` : ''), '', '*WARMUP:*', plain(w.warmup), '', '*THE THANG:*' + (w.thang.name ? ' ' + w.thang.name : ''), plain(w.thang), '', '*MARY:*', plain(w.mary)].join('\n');
   }
 
   function copy(text, msg) {
@@ -374,7 +376,7 @@
   const hash = new URLSearchParams(location.hash.slice(1));
   setMode(hash.get('mode') || 'moreau');
 
-  fetch('data/backblasts.md?v=e908db1d')
+  fetch('data/backblasts.md?v=a709faf9')
     .then((r) => { if (!r.ok) throw new Error(r.status); return r.text(); })
     .then((text) => {
       state = BeatdownGen.load(text);

@@ -1,4 +1,6 @@
-import csv, io, re, sys, collections
+import csv, io, os, re, sys, collections
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import q_names
 
 SRC = sys.argv[1]
 DST = sys.argv[2]
@@ -106,6 +108,7 @@ EXCLUDE_AOS = {
 # "ruck" not preceded by another letter (so "_ruck_" counts, "truck" and "Thunderstruck" don't), plus GoRuck/GrowRuck.
 RUCK = re.compile(r'(?:\bgo|\bgrow)[\s-]*ruck|(?<![a-z])ruck', re.I)
 
+QS, _, _ = q_names.build(SRC)   # backblast text -> 'Q, Co-Q'
 rows = list(csv.reader(io.open(SRC, encoding='utf-8-sig', newline='')))
 hdr = rows[0]
 bi, di, ai = hdr.index('backblast'), hdr.index('bd_date'), hdr.index('ao_id')
@@ -124,19 +127,21 @@ for r in rows[1:]:
         stats['no_thang'] += 1; continue
     if RUCK.search(' '.join([p['backblast'] or ''] + p['warmup'] + p['thang'] + p['mary'])):
         stats['ruck'] += 1; continue
-    recs.append((r[di], p))
+    recs.append((r[di], p, QS.get(r[bi], '')))
 recs.sort(key=lambda x: x[0], reverse=True)
 
 parts = ['# F3 Backblasts\n']
-for _, p in recs:
+for _, p, q in recs:
     parts.append('## ' + (p['backblast'] or 'Backblast') + '\n')
+    if q:
+        parts.append('### Q\n\n' + q + '\n')
     for k, label in (('warmup', 'Warmup'), ('thang', 'Thang'), ('mary', 'Mary')):
         if ''.join(p[k]).strip():
             parts.append('### ' + label + '\n\n' + to_md(p[k]) + '\n')
     parts.append('---\n')
 io.open(DST, 'w', encoding='utf-8', newline='\n').write('\n'.join(parts))
 stats['written'] = len(recs)
-stats['with_warmup'] = sum(1 for _, p in recs if ''.join(p['warmup']).strip())
-stats['with_mary'] = sum(1 for _, p in recs if ''.join(p['mary']).strip())
-stats['no_title'] = sum(1 for _, p in recs if not p['backblast'])
+stats['with_warmup'] = sum(1 for _, p, _q in recs if ''.join(p['warmup']).strip())
+stats['with_mary'] = sum(1 for _, p, _q in recs if ''.join(p['mary']).strip())
+stats['no_title'] = sum(1 for _, p, _q in recs if not p['backblast'])
 print(dict(stats))

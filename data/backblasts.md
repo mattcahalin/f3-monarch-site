@@ -2,6 +2,10 @@
 
 ## Merry Christmas
 
+### Q
+
+Slippin' Jimmy
+
 ### Warmup
 
 Various stretches OYO, while Q delivered a mostly correct Mission, Principles, Credo, Disclaimer, etc.
@@ -21,6 +25,10 @@ Various stretches OYO, while Q delivered a mostly correct Mission, Principles, C
 ---
 
 ## Ho, ho, ho
+
+### Q
+
+Ferkloch, Drop Out (SpiritSTL), Sandtrap
 
 ### Warmup
 
@@ -50,6 +58,10 @@ Monkey Humpers x23 IC
 ---
 
 ## T'was the Night Before Christmas
+
+### Q
+
+Shower House
 
 ### Warmup
 
@@ -104,6 +116,10 @@ None
 
 ## Stage Fright’s Christmas Eve Circuit
 
+### Q
+
+Stage Fright
+
 ### Warmup
 
 Pogos, SSH, 5 accountability burpees for dropped flag, Lil baby arm circles, 5 accountability burpees for not seal clapping in cadence, Willie mays Hayes
@@ -134,6 +150,10 @@ ran up hill and back
 
 ## The Eve
 
+### Q
+
+Thumper
+
 ### Warmup
 
 Jog
@@ -160,6 +180,10 @@ OH Press>SSH
 ---
 
 ## Run For the Hills
+
+### Q
+
+Ferkloch
 
 ### Warmup
 
@@ -204,6 +228,10 @@ Flutter Kicks, Hello Dolly’s, and Freddy Mercuries
 
 ## Belly Full of Jelly
 
+### Q
+
+Keynote, Flatley
+
 ### Warmup
 
 - 5 burpees
@@ -227,6 +255,10 @@ Skipped.
 ---
 
 ## Wednesday Special at the Stable
+
+### Q
+
+Bliss
 
 ### Warmup
 
@@ -259,6 +291,10 @@ Not today
 
 ## It’s a BIG DEAL
 
+### Q
+
+Tolkien
+
 ### Warmup
 
 SSH
@@ -281,6 +317,10 @@ Flutter kicks
 ---
 
 ## Reindeer Games
+
+### Q
+
+Fish Fry
 
 ### Warmup
 
@@ -311,6 +351,10 @@ Return to the flag
 ---
 
 ## Christmas Eve Hustle
+
+### Q
+
+Jed
 
 ### Warmup
 
@@ -357,6 +401,10 @@ Lap
 
 ## It’s a Festivus Miracle!
 
+### Q
+
+Sandtrap
+
 ### Warmup
 
 - SSH x20 IC
@@ -396,6 +444,10 @@ Lap
 
 ## Another day, another grinder
 
+### Q
+
+Drop Out (SpiritSTL)
+
 ### Warmup
 
 6-1 Motivators
@@ -425,6 +477,10 @@ various stretches
 ---
 
 ## Journey to Bethlehem and Full Body Mobility
+
+### Q
+
+Finkle, Hamburglar
 
 ### Thang
 
@@ -482,6 +538,10 @@ included above
 
 ## You better not cry, you better not pout
 
+### Q
+
+Jayhawk
+
 ### Warmup
 
 11x1 motivators
@@ -513,6 +573,10 @@ not today
 
 ## Messed Up Monday ?
 
+### Q
+
+BigTex
+
 ### Warmup
 
 5-1 Motivators IC
@@ -534,6 +598,10 @@ Thrusters - Mosey - Burpees
 
 ## Walk in the park
 
+### Q
+
+WetnWild
+
 ### Warmup
 
 Willie mays hays, 5:1 Motivators, old man stretch, arm circles
@@ -549,6 +617,10 @@ none
 ---
 
 ## Calling all sandbags
+
+### Q
+
+Ferkloch
 
 ### Warmup
 
@@ -580,6 +652,10 @@ Monkey Humper’s-SB Run
 
 ## Falkors Flight
 
+### Q
+
+Goldschlager
+
 ### Warmup
 
 SSH
@@ -606,6 +682,10 @@ done in BD
 
 ## 1-year manniversary
 
+### Q
+
+Rupture
+
 ### Warmup
 
 - 7 to 1 motivators
@@ -625,6 +705,10 @@ done in BD
 ---
 
 ## Holiday Hills
+
+### Q
+
+Bucky
 
 ### Warmup
 
@@ -671,6 +755,10 @@ Round 4
 
 ## Ursine Monday
 
+### Q
+
+Tolkien
+
 ### Warmup
 
 SSH
@@ -704,6 +792,10 @@ COR, NOR
 
 ## Trail adventures at Castlewood
 
+### Q
+
+SeaCow
+
 ### Warmup
 
 First mile
@@ -719,6 +811,10 @@ Last mile
 ---
 
 ## Balls of Steel Part 4
+
+### Q
+
+5 on 2, Hamburglar
 
 ### Warmup
 
@@ -782,6 +878,10 @@ Clean up and get everything off the site to turn it over
 
 ## Jingle Bell Run
 
+### Q
+
+HoJo
+
 ### Warmup
 
 25 SSH; 10 WMH; 10 GGs; DDs into WGS; Hairy Flamingos
@@ -797,6 +897,10 @@ Clean up and get everything off the site to turn it over
 ---
 
 ## Christmas Movie Trivia @ the Club
+
+### Q
+
+Rumple Minze
 
 ### Warmup
 
@@ -861,6 +965,10 @@ none
 
 ## Fun Things
 
+### Q
+
+Thumper
+
 ### Warmup
 
 Jog around courts
@@ -885,6 +993,10 @@ Box cutters
 ---
 
 ## Balls of steel Eve
+
+### Q
+
+5 on 2
 
 ### Warmup
 
@@ -929,6 +1041,10 @@ Victory lap around the track
 
 ## Flying Saucers: An out-of-this-world VQ
 
+### Q
+
+Rebo
+
 ### Warmup
 
 mission, creedo, 5 principles, disclaimer, CPR (while jogging around lot)
@@ -964,6 +1080,10 @@ V ups (cadence)
 
 ## Some like it cold
 
+### Q
+
+Flintstone
+
 ### Warmup
 
 1/3 mile jog.
@@ -985,6 +1105,10 @@ Mozy to flags
 ---
 
 ## Secret Santa Does Tempo
+
+### Q
+
+AirBiscuit
 
 ### Warmup
 
@@ -1012,6 +1136,10 @@ Miscellaneous stretching while heart rates came down
 ---
 
 ## AWAKENING SECRET SANTA
+
+### Q
+
+Double D
 
 ### Warmup
 
@@ -1041,6 +1169,10 @@ Yoga Flow
 ---
 
 ## ARMageddon
+
+### Q
+
+Bushwood
 
 ### Warmup
 
@@ -1107,6 +1239,10 @@ Rifle Carry from the playground to the Parking lot and back, if you need a break
 
 ## Secret Santa Beatdown
 
+### Q
+
+Room Service
+
 ### Warmup
 
 5-1 motivators, Willy mays hays, old man stretch, LBAC, seal claps, learning to Phelps, murder bunny down and back
@@ -1126,6 +1262,10 @@ partnered up and completed the below accumulatively between you and your partner
 ---
 
 ## Santa loves Dora
+
+### Q
+
+Outhouse
 
 ### Warmup
 
@@ -1160,6 +1300,10 @@ Guantanamos
 
 ## Sleigh ride
 
+### Q
+
+Matchbox
+
 ### Warmup
 
 5-1 motivators, Batwings, learning to Phelps, stretches
@@ -1179,6 +1323,10 @@ Flutter kicks
 ---
 
 ## Secret Santa BD!
+
+### Q
+
+Bliss
 
 ### Warmup
 
@@ -1240,6 +1388,10 @@ Handle that during the Thang.
 
 ## Secret Santa, Pickle Jar Style
 
+### Q
+
+Slippin' Jimmy
+
 ### Warmup
 
 - 5-1 motivators
@@ -1271,6 +1423,10 @@ Incorporated into workout
 ---
 
 ## Secret Santa BD!
+
+### Q
+
+Emilio
 
 ### Warmup
 
@@ -1313,6 +1469,10 @@ The PAX split into 2 teams.
 
 ## Baroque Burpees - West Side Encore
 
+### Q
+
+Satellite
+
 ### Warmup
 
 learning to Phelps, grass grabbers, Willie Mayes Hayes, little baby arm circles, seal claps, pretzels, monkey humpers
@@ -1333,6 +1493,10 @@ none
 ---
 
 ## Secret Santa
+
+### Q
+
+Dead Broke
 
 ### Warmup
 
@@ -1357,6 +1521,10 @@ Lawnmowers (HD), Flutter Kicks, and Coupon Press. Travel Suicide Bunny
 ---
 
 ## Secret Santa BD!
+
+### Q
+
+Big Spoon
 
 ### Warmup
 
@@ -1383,6 +1551,10 @@ down dog/ calf stretch
 ---
 
 ## Back to Business!
+
+### Q
+
+Hood Ornament
 
 ### Warmup
 
@@ -1418,6 +1590,10 @@ Mosey as a group around the lower parking lot.
 ---
 
 ## Let's Make it Happen!
+
+### Q
+
+FlatTire
 
 ### Warmup
 
@@ -1461,6 +1637,10 @@ Flutter Kicks x 30 in Cadence
 
 ## Backblast
 
+### Q
+
+Drop Out (SpiritSTL)
+
 ### Warmup
 
 5-1 Motivators
@@ -1501,6 +1681,10 @@ hip stretch
 
 ## The Murph with friends!
 
+### Q
+
+5 on 2
+
 ### Warmup
 
 5-1 motivators
@@ -1527,6 +1711,10 @@ Sandbag squat ring around the PAX for 5 minutes
 
 ## Turnt Up Tuesday
 
+### Q
+
+Jed
+
 ### Warmup
 
 5-1 Motivators
@@ -1552,6 +1740,10 @@ PAX choice
 
 ## Core mobility
 
+### Q
+
+Silicone
+
 ### Thang
 
 40s exercise/10yds movement out and back
@@ -1570,6 +1762,10 @@ PAX choice
 ---
 
 ## Monday Funday
+
+### Q
+
+Jayhawk
 
 ### Warmup
 
@@ -1609,6 +1805,10 @@ Flutter kicks, hello dolly, BBSU, King Kong planks, Freddie mercuries, climb the
 
 ## Warm air rises
 
+### Q
+
+Criss-cross
+
 ### Warmup
 
 5-1 motivators
@@ -1639,6 +1839,10 @@ pax flutter counts- everyone held for each other for round 1,2,3,4, and 5
 
 ## Thermal BD - modified Dora
 
+### Q
+
+Outhouse
+
 ### Warmup
 
 Laps around bball crt
@@ -1664,6 +1868,10 @@ Rosalitas
 ---
 
 ## Moving weight
+
+### Q
+
+Bucky
 
 ### Warmup
 
@@ -1696,6 +1904,10 @@ Deion Sanders lap
 
 ## Monday Runday
 
+### Q
+
+AirBiscuit
+
 ### Warmup
 
 Hops, Squats, Lunge + Arm Circles
@@ -1707,6 +1919,10 @@ Hops, Squats, Lunge + Arm Circles
 ---
 
 ## Baroque Burpees
+
+### Q
+
+Satellite
 
 ### Warmup
 
@@ -1728,6 +1944,10 @@ none
 ---
 
 ## Put your heart in to this one!
+
+### Q
+
+Room Service
 
 ### Warmup
 
@@ -1755,6 +1975,10 @@ EMOM for Arms, 3 rounds
 ---
 
 ## 12 Pains of Christmas
+
+### Q
+
+Slippin' Jimmy, Fish Fry
 
 ### Warmup
 
@@ -1790,6 +2014,10 @@ EMOM for Arms, 3 rounds
 
 ## DOUBLE D YEARS, A 2-YEAR MANNIVERSARY EXTRAVAGANZA
 
+### Q
+
+Double D
+
 ### Warmup
 
 20 SSH IC
@@ -1819,6 +2047,10 @@ Yoga Flow
 ---
 
 ## Coming back to the trap
+
+### Q
+
+WetnWild
 
 ### Warmup
 
@@ -1870,6 +2102,10 @@ flutter kicks
 
 ## Impromptu Workout
 
+### Q
+
+Sandtrap
+
 ### Warmup
 
 - 15 to 1 Motivators (this was taken very well)
@@ -1900,6 +2136,10 @@ flutter kicks
 ---
 
 ## Keynote said this would be fun
+
+### Q
+
+Schlitz
 
 ### Warmup
 
@@ -1935,6 +2175,10 @@ Round 2: no Coupon
 
 ## The Conclusion
 
+### Q
+
+Otter, PillowFight
+
 ### Warmup
 
 :bernie_sanders:from entrance to crosswalk. Mosey to Bridge. :bernie_sanders:to crosswalk again.
@@ -1961,6 +2205,10 @@ Switch at 5:30
 ---
 
 ## Double 3rd Maniversary Part 1
+
+### Q
+
+Schlitz
 
 ### Warmup
 
@@ -1990,6 +2238,10 @@ Switch at 5:30
 ---
 
 ## Double 3rd Manniversary Pt. 2
+
+### Q
+
+Manny
 
 ### Warmup
 
@@ -2021,6 +2273,10 @@ plenty warm after PAX’s BD
 
 ## Backblast
 
+### Q
+
+Uncle Buck
+
 ### Warmup
 
 Arm circles, Toe touches, Learning to Phelps, Piano Tappers, Willy Mays Hays.
@@ -2039,6 +2295,10 @@ N/A...we had too much fun shooting the puck!
 
 ## It’s Goong To Be Cold, Let’s Get The Heart Rate Up
 
+### Q
+
+Dead Broke
+
 ### Thang
 
 Rick Through The Park
@@ -2046,6 +2306,10 @@ Rick Through The Park
 ---
 
 ## Slow Roasted
+
+### Q
+
+AirBiscuit
 
 ### Warmup
 
@@ -2080,6 +2344,10 @@ Block 3: 10 min AMRAP
 
 ## Personal Records Q4 2025
 
+### Q
+
+BigTex
+
 ### Warmup
 
 SSH IC
@@ -2098,6 +2366,10 @@ Plank for time
 ---
 
 ## Three Square at The Trap
+
+### Q
+
+Bushwood
 
 ### Warmup
 
@@ -2140,6 +2412,10 @@ Rifle Carry 0.20 miles back to the flags
 
 ## Nobel Effort
 
+### Q
+
+Munchies
+
 ### Warmup
 
 LBAC Rifle carry, Mosey, Stretch
@@ -2159,6 +2435,10 @@ Guantanamo
 ---
 
 ## Christmas Blues
+
+### Q
+
+Engrish
 
 ### Warmup
 
@@ -2187,6 +2467,10 @@ High Plank - 30 seconds
 ---
 
 ## Midweek Grind
+
+### Q
+
+Bashful Bear
 
 ### Warmup
 
@@ -2250,6 +2534,10 @@ Repeat x3 with no break in between sets
 ---
 
 ## A new DIAMOND has been forged.  Let's climb that mountain!
+
+### Q
+
+Hood Ornament, Schlitz
 
 ### Warmup
 
@@ -2317,6 +2605,10 @@ Circuit Ten
 
 ## Rock em sock em, hit em, knock em part 2
 
+### Q
+
+Flintstone
+
 ### Warmup
 
 OYO
@@ -2337,6 +2629,10 @@ Wild Card
 ---
 
 ## Coal
+
+### Q
+
+Drop Out (SpiritSTL)
 
 ### Warmup
 
@@ -2371,6 +2667,10 @@ various stretches
 ---
 
 ## The Forge: Being Hardened by the Fire
+
+### Q
+
+NameTag
 
 ### Thang
 
@@ -2410,6 +2710,10 @@ Partner 2 - Little Baby Crunches OR Holds an air chair (squat hold, no wall) the
 ---
 
 ## Naughty ? or Nice ?
+
+### Q
+
+9 to 5
 
 ### Thang
 
@@ -2462,6 +2766,10 @@ If a PAX yells “Bah Humbug!” all PAX:
 
 ## It’s not the years, it’s the mileage
 
+### Q
+
+Bashful Bear
+
 ### Warmup
 
 SSH x 20
@@ -2497,6 +2805,10 @@ Exercises: Thrusters AMAP
 ---
 
 ## Not So Hott Yoga Session
+
+### Q
+
+Keynote
 
 ### Warmup
 
@@ -2543,6 +2855,10 @@ Skipped
 
 ## Monday Mayhem
 
+### Q
+
+BigTex
+
 ### Warmup
 
 SSH IC
@@ -2584,6 +2900,10 @@ Did another game of tag
 
 ## Start your day with a beat down Kiss
 
+### Q
+
+Kisses
+
 ### Warmup
 
 Poorly counted and demonstrated 5-1 motivators, arm stretches, downward dog with calf stretches and runners stretch, grass grabbers.
@@ -2605,6 +2925,10 @@ None
 ---
 
 ## Here the Bells
+
+### Q
+
+Thumper
 
 ### Warmup
 
@@ -2632,6 +2956,10 @@ Round 3: 250 Big Boys mosey to top of hill 5 Diamond merkins mosey back
 
 ## Rock em sock em, hit em, knock em
 
+### Q
+
+Flintstone
+
 ### Warmup
 
 15 squats, 10 push ups
@@ -2655,6 +2983,10 @@ Lunge walks
 
 ## MelloYello Fun Run
 
+### Q
+
+Mello Yello
+
 ### Warmup
 
 Mosey - 10 LTP, Mosey - 10 Merkins, Mosey - 15 SSH Mosey - WMH, Hairy Flamingos
@@ -2670,6 +3002,10 @@ Merkin Off for the 2 teams that tied in distance to determine winner. PAX merked
 ---
 
 ## Shake off the Cobwebs
+
+### Q
+
+Bliss
 
 ### Warmup
 
@@ -2723,6 +3059,10 @@ Took care of that during the Thang.
 
 ## To the Water
 
+### Q
+
+Gulliver
+
 ### Warmup
 
 Learning to Phelps
@@ -2749,6 +3089,10 @@ Flutter kick
 
 ## “Held outdoors regardless of weather!”
 
+### Q
+
+Room Service
+
 ### Warmup
 
 Side straddle hops, learning to Phelps, old man stretch, and LBAC
@@ -2760,6 +3104,10 @@ Side straddle hops, learning to Phelps, old man stretch, and LBAC
 ---
 
 ## The Dawn of Diamond Week
+
+### Q
+
+5 on 2
 
 ### Warmup
 
@@ -2805,6 +3153,10 @@ Flutter kicks IC
 
 ## Uppers & Downers
 
+### Q
+
+Jed
+
 ### Warmup
 
 5-1 Motivators
@@ -2845,6 +3197,10 @@ Monkey Humpers
 
 ## Backblast
 
+### Q
+
+Emilio, Fish Fry
+
 ### Warmup
 
 - 5-1 Motivators
@@ -2873,6 +3229,10 @@ Lights were set 50 yards apart and the PAX broke up into two man teams. Each rou
 ---
 
 ## Burn It and Turn It
+
+### Q
+
+M-I-Z
 
 ### Warmup
 
@@ -2908,6 +3268,10 @@ Q led a variation of world’s greatest stretch
 
 ## Good to be home
 
+### Q
+
+Schlitz
+
 ### Warmup
 
 - Goofballs
@@ -2923,6 +3287,10 @@ Q led a variation of world’s greatest stretch
 ---
 
 ## Casino "Night" @ the Club
+
+### Q
+
+Rumple Minze
 
 ### Warmup
 
@@ -2960,6 +3328,10 @@ Clubs = Wood Choppers
 
 ## Time to Accelerate
 
+### Q
+
+Stage Fright
+
 ### Warmup
 
 Pogos, high knees, butt kickers, SSHs, Willie Mayes, runners stretch
@@ -2971,6 +3343,10 @@ started at base of hill, ran to crosswalk and back, then ran to pavilion and bac
 ---
 
 ## Speedball
+
+### Q
+
+Manny
 
 ### Warmup
 
@@ -2987,6 +3363,10 @@ boats and canoes
 ---
 
 ## FlyBoy's 3 Year Manniversary
+
+### Q
+
+FlyBoy
 
 ### Warmup
 
@@ -3015,6 +3395,10 @@ The ladies joined us Rosalitas, Hello Dolly's, Sharon Stones, Box Cutters
 
 ## Dec Murph Prep: the possibly fun obstacle course
 
+### Q
+
+Rorschach
+
 ### Warmup
 
 5 to one motivators
@@ -3036,6 +3420,10 @@ crunched plank floor work. Toe touch leg swing through and push ups.
 
 ## 5k The Hard Way / no bags left behind.
 
+### Q
+
+PillowFight
+
 ### Warmup
 
 Jump Rope and stretching ft Animals by JID
@@ -3052,6 +3440,10 @@ Jump Rope and stretching ft Animals by JID
 ---
 
 ## Stableman Anyone? Apparently, the answer was 3 of us!
+
+### Q
+
+Slippin' Jimmy
 
 ### Warmup
 
@@ -3075,6 +3467,10 @@ Part of BD.
 ---
 
 ## Relationship Rodeo
+
+### Q
+
+Dovetail
 
 ### Warmup
 
@@ -3108,6 +3504,10 @@ Part of BD.
 
 ## Tis Da Muthaphickin Season
 
+### Q
+
+Goldschlager
+
 ### Warmup
 
 5:1 Motivators
@@ -3131,6 +3531,10 @@ Done in Circuit
 ---
 
 ## Teenage Wasteland
+
+### Q
+
+Hamburglar
 
 ### Warmup
 
@@ -3172,6 +3576,10 @@ Move around a lighted circle and after each full rotation perform 13 mountain cl
 
 ## Advent...urous
 
+### Q
+
+Bear Spray
+
 ### Warmup
 
 - 7-1 Motivators
@@ -3205,6 +3613,10 @@ Peter & PAX took too much time :)
 ---
 
 ## Naughty ? or Nice ?
+
+### Q
+
+9 to 5
 
 ### Warmup
 
@@ -3266,6 +3678,10 @@ PAX had to be cut off from being a Scrooge. Dude was a burpee fiend this morning
 
 ## Backblast
 
+### Q
+
+Keys
+
 ### Warmup
 
 5x1 Motivators, Learning to Phelps, Piano Tappers,  Arm Circles
@@ -3281,6 +3697,10 @@ LBCs , Penguin Tappers, and American Hammers
 ---
 
 ## Backblast
+
+### Q
+
+Boilermaker
 
 ### Warmup
 
@@ -3327,6 +3747,10 @@ Round 3:
 
 ## Carman Culture Club
 
+### Q
+
+Hood Ornament
+
 ### Warmup
 
 - 15 to 1 Motivators!!!
@@ -3363,6 +3787,10 @@ AMRAP exercises with one of the PAX performing a mosey with a sandbag around the
 ---
 
 ## [AC] AMRAP to bring clean water to F3 Kenya's Safari the Beast hometown of Homa Bay County
+
+### Q
+
+Band Camp
 
 ### Thang
 
@@ -3408,6 +3836,10 @@ Station 4 and Closing
 
 ## Mashup
 
+### Q
+
+AirBiscuit
+
 ### Warmup
 
 Hops, Arm Waves, Arm Swings, Trunk Twist, Dead Arms, Golf Swings, Ballerina Squats
@@ -3448,6 +3880,10 @@ Station #4
 
 ## 21
 
+### Q
+
+5 on 2
+
 ### Warmup
 
 Goofballs
@@ -3475,6 +3911,10 @@ Plank for 3 minutes
 
 ## Average Tuesday Beatdown
 
+### Q
+
+Stage Fright
+
 ### Warmup
 
 Pogos, SSHs, high knees, learning to Phelps, LBACs
@@ -3488,6 +3928,10 @@ Pogos, SSHs, high knees, learning to Phelps, LBACs
 ---
 
 ## December Dangler
+
+### Q
+
+Big Spoon
 
 ### Warmup
 
@@ -3541,6 +3985,10 @@ imperial walkers
 
 ## Spirit Baseline (PT) Test
 
+### Q
+
+Hamburglar
+
 ### Warmup
 
 - Learning to Phelps
@@ -3567,6 +4015,10 @@ Finished with BBSUs
 ---
 
 ## It’s cold, let’s get warmed up
+
+### Q
+
+Data Dump
 
 ### Warmup
 
@@ -3606,6 +4058,10 @@ Sprints - x10 - (50yds)
 
 ## It’s A Surprise!
 
+### Q
+
+Jed
+
 ### Warmup
 
 5-1 Motivators
@@ -3629,6 +4085,10 @@ Repeat until finished
 ---
 
 ## Thaw Session
+
+### Q
+
+AirBiscuit
 
 ### Warmup
 
@@ -3672,6 +4132,10 @@ Mobility:
 
 ## First day of the last month of 2025!
 
+### Q
+
+Lotus Notes
+
 ### Warmup
 
 Principles, Credo, Mission & Disclaimer
@@ -3695,6 +4159,10 @@ Ended with 10 burpees (in preparation for MABA)
 ---
 
 ## Standards and accountability
+
+### Q
+
+Criss-cross
 
 ### Warmup
 
@@ -3732,6 +4200,10 @@ Not needed
 
 ## Polar Station
 
+### Q
+
+Thumper
+
 ### Warmup
 
 SSH
@@ -3761,6 +4233,10 @@ OH Press with tension band
 
 ## The Mountain vs. the Viper
 
+### Q
+
+Bucky
+
 ### Warmup
 
 - Squat Jacks
@@ -3778,6 +4254,10 @@ Mosey down the hill to pick up the cones.
 ---
 
 ## Backblast
+
+### Q
+
+The brain
 
 ### Warmup
 
@@ -3818,6 +4298,10 @@ another couple laps.
 
 ## Monday Run day!
 
+### Q
+
+Fusz
+
 ### Thang
 
 Hawk Ridge Trail Run.
@@ -3825,6 +4309,10 @@ Hawk Ridge Trail Run.
 ---
 
 ## Back To It!
+
+### Q
+
+Jed
 
 ### Warmup
 
@@ -3867,6 +4355,10 @@ Curls
 
 ## Baby got back! ?
 
+### Q
+
+9 to 5
+
 ### Warmup
 
 - SSHs
@@ -3905,6 +4397,10 @@ COR & NOR
 
 ## Backblast
 
+### Q
+
+Silicone
+
 ### Thang
 
 P90x yoga routine with some single leg squats and merkins mixed in
@@ -3919,6 +4415,10 @@ Figure 4
 ---
 
 ## Black Friday Workout
+
+### Q
+
+Wilson (SpiritSTL)
 
 ### Warmup
 
@@ -3953,6 +4453,10 @@ Flutter Kicks IC
 
 ## Turkey Bowl 3
 
+### Q
+
+Matchbox, Rock Chalk, DOS
+
 ### Warmup
 
 5-1 motivators, goofballs, grassgrabbers, arm circles, various stretches
@@ -3968,6 +4472,10 @@ flutter kicks, 5 count burpees, various stretches
 ---
 
 ## Burn calories while having fun
+
+### Q
+
+Thumper
 
 ### Warmup
 
@@ -3987,6 +4495,10 @@ Worlds Greatest stretch
 ---
 
 ## Another DR solo BD at Meridian HS
+
+### Q
+
+Forrest
 
 ### Warmup
 
@@ -4030,6 +4542,10 @@ Stretches
 
 ## Turkey Bowl Pre-Game
 
+### Q
+
+Bushwood
+
 ### Warmup
 
 - Grass Grabbers
@@ -4050,6 +4566,10 @@ Stretches
 
 ## Black Friday BD
 
+### Q
+
+Silicone
+
 ### Thang
 
 25 minute AMRAP
@@ -4068,6 +4588,10 @@ BBSU oyo
 ---
 
 ## 2 Years In
+
+### Q
+
+Jed
 
 ### Warmup
 
@@ -4090,6 +4614,10 @@ PAX traveled Logan Campus, sandbag in tow, and performed random exercises at ran
 ---
 
 ## Annual Family Turkey day BD
+
+### Q
+
+Tuition
 
 ### Warmup
 
@@ -4115,6 +4643,10 @@ None
 ---
 
 ## Burn the Bird III
+
+### Q
+
+Pothole (SoSTL)
 
 ### Warmup
 
@@ -4174,6 +4706,10 @@ Round 4 - CARDIO
 
 ## Thanksgiving Beatdown
 
+### Q
+
+Bushwood
+
 ### Warmup
 
 - Worlds Greatest Stretch
@@ -4217,6 +4753,10 @@ Round 4 - CARDIO
 
 ## Turkey Day DR BD
 
+### Q
+
+Forrest
+
 ### Warmup
 
 SS hops
@@ -4241,6 +4781,10 @@ Walk 1 mile
 
 ## Gobble Gobble!
 
+### Q
+
+Drizzle
+
 ### Warmup
 
 7-1 motivators, grass grabbers, downward dog, dive bombers, old man stretch
@@ -4258,6 +4802,10 @@ Freddy mercuries and American hammers
 ---
 
 ## Turkey Hunt
+
+### Q
+
+SeaCow
 
 ### Warmup
 
@@ -4287,6 +4835,10 @@ Farmer walk and rifle carry rotation
 ---
 
 ## 44s and WKRP
+
+### Q
+
+BenButton
 
 ### Warmup
 
@@ -4331,6 +4883,10 @@ Boats and canoes
 
 ## Skanksgiving Party in the Club!
 
+### Q
+
+Rumple Minze
+
 ### Warmup
 
 5-1 Motivators
@@ -4372,6 +4928,10 @@ Repeated 2x
 
 ## Pre Turkey Day and Turkey Bowl Beatdown
 
+### Q
+
+Bushwood
+
 ### Warmup
 
 Grass Grabbers
@@ -4404,6 +4964,10 @@ Pax completed 2 Full Rounds
 
 ## Why not Wednesday: something to do about Turkey
 
+### Q
+
+Outhouse
+
 ### Warmup
 
 Old man
@@ -4431,6 +4995,10 @@ Hillbilly Walkers
 ---
 
 ## 5 to 1
+
+### Q
+
+Schlitz
 
 ### Warmup
 
@@ -4464,6 +5032,10 @@ The Lift Sequence:
 
 ## Turkey Bowl Eve Eve
 
+### Q
+
+Flounder
+
 ### Warmup
 
 25 SSH
@@ -4491,6 +5063,10 @@ RDL’s w/ coupon x20
 ---
 
 ## Gobble Till You Wobble
+
+### Q
+
+Mello Yello
 
 ### Warmup
 
@@ -4532,6 +5108,10 @@ No Mary - Core work in the THANG
 
 ## Pre Thanksgiving Special
 
+### Q
+
+Jed
+
 ### Warmup
 
 5-1 Motivators
@@ -4570,6 +5150,10 @@ Round 3:
 ---
 
 ## Passion
+
+### Q
+
+5 on 2
 
 ### Warmup
 
@@ -4611,6 +5195,10 @@ BBSUs
 
 ## Hold On To Your Pickles; It's Going To Be A Doozy
 
+### Q
+
+Flintstone
+
 ### Warmup
 
 Jog Around Long Lake Route (The small lake?)
@@ -4628,6 +5216,10 @@ One group did a moderate jog around the large (short?) lake, while the other gro
 ---
 
 ## Making Arkham Great Again
+
+### Q
+
+Drizzle
 
 ### Warmup
 
@@ -4649,6 +5241,10 @@ Flutter kicks
 ---
 
 ## Tuesday Morning ot the Rock
+
+### Q
+
+BUB
 
 ### Warmup
 
@@ -4710,6 +5306,10 @@ Set thirty second timer. The following exercises were completed. .50 = 30 second
 
 ## Wake UP You Animal!
 
+### Q
+
+Bobbit
+
 ### Warmup
 
 Old man stretching
@@ -4760,6 +5360,10 @@ none
 
 ## Thankful Tuesday
 
+### Q
+
+Jayhawk
+
 ### Warmup
 
 SSH
@@ -4807,6 +5411,10 @@ King Kong planks
 
 ## Let's Just See
 
+### Q
+
+Clotshot
+
 ### Warmup
 
 - SSHs, old man stretch, downward dog, cobra, deep squat hold
@@ -4842,6 +5450,10 @@ PAX completed circuits that included upper body, core, lower body, travel, and a
 ---
 
 ## Backblast
+
+### Q
+
+Bucky
 
 ### Warmup
 
@@ -4910,6 +5522,10 @@ Flat PAX
 
 ## Working Ahead of Turkey Day
 
+### Q
+
+Keys
+
 ### Warmup
 
 5X1 Motivators, Learning to Phelps, Grass Grabbers, Arm Circles
@@ -4925,6 +5541,10 @@ Took a lap together around the lot
 ---
 
 ## Music Mania
+
+### Q
+
+Thumper
 
 ### Warmup
 
@@ -4950,6 +5570,10 @@ Bicycle
 ---
 
 ## 4 Corners
+
+### Q
+
+Schlitz
 
 ### Warmup
 
@@ -4998,6 +5622,10 @@ Rounds 3+:
 
 ## Feast Week Begins
 
+### Q
+
+Rock Chalk
+
 ### Warmup
 
 ye olde stretching, 4-1 motivators, lil babe arm circles,
@@ -5031,6 +5659,10 @@ Circle on track, pax performs a movement for 2 min while 1 guy:
 
 ## Tone To Give Thanks (riding with typo)
 
+### Q
+
+BBQ
+
 ### Warmup
 
 Light jog around the building
@@ -5059,6 +5691,10 @@ Repeat
 ---
 
 ## Offense
+
+### Q
+
+Rupture
 
 ### Warmup
 
@@ -5111,6 +5747,10 @@ Round 5
 
 ## F3 - Standard PT Test
 
+### Q
+
+Data Dump
+
 ### Warmup
 
 SSH - 30 IC
@@ -5128,6 +5768,10 @@ Willy Mays Haze - 10 IC
 ---
 
 ## Turkey Terminator
+
+### Q
+
+SeaCow
 
 ### Warmup
 
@@ -5172,6 +5816,10 @@ We did enough in the BD
 
 ## Finally Friday!
 
+### Q
+
+Jayhawk
+
 ### Warmup
 
 5x1 motivators
@@ -5207,6 +5855,10 @@ Derkins off the wall.
 
 ## Give and take
 
+### Q
+
+Criss-cross
+
 ### Warmup
 
 Hip swings
@@ -5234,6 +5886,10 @@ Round 4 - 100
 
 ## Fun Friday - something corny
 
+### Q
+
+Outhouse
+
 ### Warmup
 
 - olt man stretch
@@ -5256,6 +5912,10 @@ Split into 2 person teams to play corn hole
 ---
 
 ## Leg Day on Fri-Day
+
+### Q
+
+Sandtrap
 
 ### Warmup
 
@@ -5289,6 +5949,10 @@ Tabata 45/15, 3 rounds
 ---
 
 ## Caution Wet Floor
+
+### Q
+
+HoJo
 
 ### Warmup
 
@@ -5339,6 +6003,10 @@ FINALE – It’s Raining Men – The Weather Girls
 
 ## Friday Finish!
 
+### Q
+
+Data Dump
+
 ### Warmup
 
 5-1 Motivators - IC
@@ -5364,6 +6032,10 @@ Patio Workout with Laps around the track & to crosswalk.
 
 ## Modified "Murph"
 
+### Q
+
+Rollerblade
+
 ### Warmup
 
 Mosey around upper lake
@@ -5388,6 +6060,10 @@ Buy out pick the 6 and run around upper lake as a PAX
 ---
 
 ## Backblast
+
+### Q
+
+Drizzle
 
 ### Warmup
 
@@ -5416,6 +6092,10 @@ Reverse on way back (Bernie Sanders, crawl bear, redrum bunnies)
 
 ## Back to basics
 
+### Q
+
+Silicone
+
 ### Thang
 
 4 rounds of 5 exercises
@@ -5439,6 +6119,10 @@ Mobility/MARY: Tabletop/beast pose sequence
 
 ## Climb the Ladder
 
+### Q
+
+Bliss
+
 ### Warmup
 
 - 5:1 Motivators
@@ -5459,6 +6143,10 @@ Mobility/MARY: Tabletop/beast pose sequence
 ---
 
 ## Hey Ya!
+
+### Q
+
+Dowry
 
 ### Warmup
 
@@ -5524,6 +6212,10 @@ High Low Planks
 
 ## Full ROM EMOM: Leg Day
 
+### Q
+
+Manny
+
 ### Warmup
 
 mosey around the lot
@@ -5550,6 +6242,10 @@ boats and canoes
 
 ## Workout Wednesday
 
+### Q
+
+BigTex
+
 ### Warmup
 
 7 - 1 Merkinvators
@@ -5573,6 +6269,10 @@ Jailbreak to see if we’re done
 ---
 
 ## 1st Manniversary - Climbing the Corporate Ladder
+
+### Q
+
+SledDogg
 
 ### Warmup
 
@@ -5600,6 +6300,10 @@ flutter kicks, leg raise hold, flutter kicks
 
 ## Quitting is for Quitters
 
+### Q
+
+Munchies
+
 ### Warmup
 
 All sorts of arm circles, claps, pretzels, and pickers
@@ -5625,6 +6329,10 @@ More arm circles & claps, raised the roof and tried to finish with pretzels.
 
 ## Backblast
 
+### Q
+
+Flintstone
+
 ### Warmup
 
 walked a lap with a sandbag around the track
@@ -5642,6 +6350,10 @@ none
 ---
 
 ## 4 Year Manniversary aka The Mini Beaver Challenge
+
+### Q
+
+TheBeav
 
 ### Warmup
 
@@ -5667,6 +6379,10 @@ Flutter kicks
 ---
 
 ## Cybernetic Beat Mode
+
+### Q
+
+Big Spoon
 
 ### Warmup
 
@@ -5703,6 +6419,10 @@ plank side-to-side
 
 ## House of Cards ♦️♠️♥️♣️
 
+### Q
+
+9 to 5
+
 ### Warmup
 
 - SSHs
@@ -5728,6 +6448,10 @@ Shuffle the deck. Flip whole set of cards at a time. The number on the card = re
 
 ## 3 yards and a cloud of dust
 
+### Q
+
+Criss-cross
+
 ### Thang
 
 10 yard cones, all sandbags
@@ -5748,6 +6472,10 @@ flutter kicks, keys tappers, lbc’s
 ---
 
 ## JWoww’s 2 Year
+
+### Q
+
+JWoww
 
 ### Warmup
 
@@ -5776,6 +6504,10 @@ NJ-themed Trivia Q: wrong answer, add bear crawl / crawl bear up for your own tr
 ---
 
 ## A Special Place
+
+### Q
+
+Worm
 
 ### Warmup
 
@@ -5808,6 +6540,10 @@ Due to a little bit of lighting Pax pivoted to under the awning in front of the 
 ---
 
 ## Grass is Greener
+
+### Q
+
+Norton
 
 ### Warmup
 
@@ -5866,6 +6602,10 @@ Negative Leg Curls (partner held feet)
 
 ## Clean out BD
 
+### Q
+
+Flintstone
+
 ### Warmup
 
 Drive to PAX’s house, as we noticed it start to pour down rain.
@@ -5881,6 +6621,10 @@ none
 ---
 
 ## Backblast
+
+### Q
+
+Bashful Bear
 
 ### Warmup
 
@@ -5918,6 +6662,10 @@ Repeat 3x
 
 ## Tug of War Recovery
 
+### Q
+
+Manny
+
 ### Warmup
 
 stretches
@@ -5929,6 +6677,10 @@ Yoga > deficit pushups, dips, squat holds > yoga > box breathing
 ---
 
 ## Another new day
+
+### Q
+
+Drizzle
 
 ### Warmup
 
@@ -5958,6 +6710,10 @@ lemon squeezers IC
 
 ## Return of please just stop the music
 
+### Q
+
+Criss-cross
+
 ### Warmup
 
 Front back right left song, totally dumb
@@ -5982,6 +6738,10 @@ keys tappers and flutter kicks
 ---
 
 ## Just Another Monday
+
+### Q
+
+Thumper
 
 ### Warmup
 
@@ -6018,6 +6778,10 @@ Bicycles
 
 ## Deceptive Mile?
 
+### Q
+
+Rock Chalk
+
 ### Warmup
 
 streeeetching, 5-1 motivators, lil more streeetching
@@ -6051,6 +6815,10 @@ TABATA MARY 40 secs on, 20 secs off
 
 ## Heavy Run of War
 
+### Q
+
+Rorschach
+
 ### Warmup
 
 5 to 1 motivators, learning to Phelps, Willie Mayes hays, little baby arm circles,   Worlds greatest stretch, shoulder shrugs, neck rolls!
@@ -6072,6 +6840,10 @@ None
 ---
 
 ## Glow-Worm
+
+### Q
+
+Worm
 
 ### Warmup
 
@@ -6096,6 +6868,10 @@ Part of the BD
 ---
 
 ## 5:30am on Monday!? No better way to start a fun day!
+
+### Q
+
+BUB
 
 ### Warmup
 
@@ -6153,6 +6929,10 @@ LBC – legs bent (IC)
 
 ## King TUT
 
+### Q
+
+Rock Ride
+
 ### Warmup
 
 Goofballs 20 IC
@@ -6197,6 +6977,10 @@ Heels to heaven 20 IC
 
 ## Backblast
 
+### Q
+
+Tolkien
+
 ### Warmup
 
 5-1 Motivators, 20x Learning to Phelps, World's Greatest Stretch, Scorpions.
@@ -6230,6 +7014,10 @@ Boats and Canoes to Flower by Mobe for 1 minute.
 ---
 
 ## Logan Miles
+
+### Q
+
+Hood Ornament
 
 ### Warmup
 
@@ -6286,6 +7074,10 @@ Logan Mile with Sandbags, Running the Opposite Way
 
 ## Burn some lbs for Thanksgiving
 
+### Q
+
+Neymar
+
 ### Warmup
 
 - old man stretch
@@ -6313,6 +7105,10 @@ accountability burpees as PAX was late
 
 ## Emmenegger Park Run
 
+### Q
+
+Fusz
+
 ### Warmup
 
 5-1 Motivators, Willie Mays Hayes, Old Man Stretch
@@ -6329,6 +7125,10 @@ Flutter Kicks
 
 ## The Circle of Thanks ? ?
 
+### Q
+
+9 to 5
+
 ### Thang
 
 - Break white board into sections of 20
@@ -6343,6 +7143,10 @@ Flutter Kicks
 ---
 
 ## Pay the Man
+
+### Q
+
+Olav
 
 ### Warmup
 
@@ -6393,6 +7197,10 @@ planks until chips are counted
 
 ## Another slt mtg
 
+### Q
+
+DOS
+
 ### Warmup
 
 8to1 motivators, Abe Vs, run around the ponds
@@ -6409,6 +7217,10 @@ nope
 ---
 
 ## Football with Family!
+
+### Q
+
+Otter, Keynote
 
 ### Warmup
 
@@ -6444,6 +7256,10 @@ Skipped!
 ---
 
 ## This is The Way!
+
+### Q
+
+FlatTire
 
 ### Warmup
 
@@ -6482,6 +7298,10 @@ Flutter Kicks in Cadence x 40
 
 ## Title
 
+### Q
+
+PillowFight
+
 ### Warmup
 
 Bernie all the way to the Sign
@@ -6499,6 +7319,10 @@ slow walk home, high fives.
 ---
 
 ## What’s your identity?
+
+### Q
+
+Room Service
 
 ### Warmup
 
@@ -6529,6 +7353,10 @@ no Mary
 
 ## NO LEG THURSDAY
 
+### Q
+
+Noah
+
 ### Warmup
 
 See the Card
@@ -6544,6 +7372,10 @@ See the Card
 ---
 
 ## We battled the ropes this morning!
+
+### Q
+
+Uncle Buck
 
 ### Warmup
 
@@ -6572,6 +7404,10 @@ Recover, Recover:
 ---
 
 ## Slaying the Mothra
+
+### Q
+
+SeaCow
 
 ### Warmup
 
@@ -6624,6 +7460,10 @@ run one lap
 
 ## Outer & Inner
 
+### Q
+
+Bear Spray
+
 ### Warmup
 
 - 7-1 Motivators
@@ -6660,6 +7500,10 @@ Partner B:
 
 ## Chad 1000
 
+### Q
+
+Shower House
+
 ### Warmup
 
 20 Goofballs - IC
@@ -6678,6 +7522,10 @@ None
 
 ## Backblast
 
+### Q
+
+BBQ, Criss-cross
+
 ### Warmup
 
 5-1 motivators, downward dog, worlds greatest stretch, pigeon stretch, little baby arm circles.
@@ -6693,6 +7541,10 @@ skipped
 ---
 
 ## Why not Wednesday
+
+### Q
+
+Outhouse
 
 ### Warmup
 
@@ -6716,6 +7568,10 @@ Guantanamos / 2 rounds
 ---
 
 ## Cougar Pride
+
+### Q
+
+Jed
 
 ### Warmup
 
@@ -6767,6 +7623,10 @@ Track - With each lap PAX performs 5 Burpees & 20 Big Boys
 
 ## Classics
 
+### Q
+
+Rock Ride
+
 ### Warmup
 
 20 butt kickers IC
@@ -6810,6 +7670,10 @@ Heels to heaven 20 OYO
 
 ## Battleship Cornhole
 
+### Q
+
+Crumpet, AirBiscuit
+
 ### Warmup
 
 learning to Phelps, five to one motivators, mountain climbers, Willie Mays Hayes, world‘s greatest stretch
@@ -6825,6 +7689,10 @@ flutter kicks, plank jacks, toe touches in a seated V, plank jacks, recover
 ---
 
 ## Backblast
+
+### Q
+
+Hamburglar
 
 ### Warmup
 
@@ -6864,6 +7732,10 @@ Last one standing wins and calls out the Mary exercise. Penalty if your out is b
 ---
 
 ## Bags and Blocks
+
+### Q
+
+Fish Fry
 
 ### Warmup
 
@@ -6906,6 +7778,10 @@ Return to the flag
 
 ## Make the Most of Your Tuesday Morning
 
+### Q
+
+FlatTire
+
 ### Warmup
 
 7:1 Motivators
@@ -6943,6 +7819,10 @@ Moseyed over to the pull up tree. Each PAX took a turn doing 5 pull-ups while th
 
 ## Just a Taste of Winter
 
+### Q
+
+rogerroger
+
 ### Warmup
 
 - 5:1 Motivators
@@ -6974,6 +7854,10 @@ Round:    Exercise 1     Exercise 2
 
 ## Chad 1000x
 
+### Q
+
+Schlitz
+
 ### Thang
 
 Chad 1000x.  1000 step-ups, or as many as you can do in the time of the BD, with weight or without.
@@ -6981,6 +7865,10 @@ Chad 1000x.  1000 step-ups, or as many as you can do in the time of the BD, with
 ---
 
 ## Below Freezing ??
+
+### Q
+
+Ratigan
 
 ### Warmup
 
@@ -6998,6 +7886,10 @@ Sweat was broke
 ---
 
 ## 1 Year - Manniversary
+
+### Q
+
+Data Dump
 
 ### Warmup
 
@@ -7033,6 +7925,10 @@ BirdDogs - On your 6 - IC - On your six
 
 ## Chad 1000x
 
+### Q
+
+Double D
+
 ### Warmup
 
 10 SSH IC
@@ -7047,6 +7943,10 @@ Chad 1000x
 ---
 
 ## Against the Wall
+
+### Q
+
+Bucky
 
 ### Warmup
 
@@ -7104,6 +8004,10 @@ Round 4
 
 ## Bust a Move
 
+### Q
+
+Bobbit
+
 ### Warmup
 
 run 20 yrds
@@ -7132,6 +8036,10 @@ Here is the entire list but we only got through 7 rounds as it was tougher than 
 
 ## MWM
 
+### Q
+
+Matchbox
+
 ### Warmup
 
 5-1s, Batwings, L2P,
@@ -7147,6 +8055,10 @@ flutter kicks and lbcs
 ---
 
 ## It’s Monday
+
+### Q
+
+Thumper
 
 ### Warmup
 
@@ -7178,6 +8090,10 @@ Flutter kicks
 
 ## Pre-Veteran’s Day CHAD 1000
 
+### Q
+
+Ferkloch
+
 ### Warmup
 
 4-1 Motivators, Old Man Stretch OYO, Learning To Phelps IC x10, Opening & Closing The Gate OYO
@@ -7194,6 +8110,10 @@ Flutter kicks
 
 ## MelloMile(s)
 
+### Q
+
+Mello Yello
+
 ### Warmup
 
 SSH, Baby Arm Circles, Mosey
@@ -7205,6 +8125,10 @@ From starting line alternating riffle carry and or curls to set drop spots for t
 ---
 
 ## Monday Madness
+
+### Q
+
+Bliss
 
 ### Warmup
 
@@ -7235,6 +8159,10 @@ we did it throughout the Thang
 ---
 
 ## Functional fitness
+
+### Q
+
+Hermey
 
 ### Warmup
 
@@ -7269,6 +8197,10 @@ LBCs
 
 ## True leaders that impact men lead by example!
 
+### Q
+
+Room Service
+
 ### Warmup
 
 5-1 motivators, Willy Mays Hays, Abe V, learning to Phelps, old man stretch
@@ -7284,6 +8216,10 @@ After 20 minutes was up, switched to a 10 minute Tabata. 25 seconds of each, ove
 ---
 
 ## Expansion for the Millennium
+
+### Q
+
+Hamburglar, Tolkien
 
 ### Warmup
 
@@ -7320,6 +8256,10 @@ Lower body focus:
 
 ## Roux the day!
 
+### Q
+
+Skol
+
 ### Warmup
 
 Goofballs, LBAC, 5 to 1 motivators, Grass Grabbers, Willy Mays Hayes
@@ -7337,6 +8277,10 @@ PAX 10 count around the horn with a variety off of plank position
 ---
 
 ## F3 Quarterly Fitness Testing
+
+### Q
+
+DubbleBubble
 
 ### Warmup
 
@@ -7374,6 +8318,10 @@ F3 Quarterly Fitness Test (REST FOR 3 MINUTES BETWEEN EXERCISE)
 
 ## Levees and Lakes
 
+### Q
+
+HoJo
+
 ### Warmup
 
 25 SSH; 10 AVs; Downward Dog and WGS; Hairy Flamingo
@@ -7389,6 +8337,10 @@ F3 Quarterly Fitness Test (REST FOR 3 MINUTES BETWEEN EXERCISE)
 ---
 
 ## Return of the Coupons
+
+### Q
+
+Rumple Minze
 
 ### Warmup
 
@@ -7423,6 +8375,10 @@ Lion King Lap
 
 ## 1000 yards of fun
 
+### Q
+
+Criss-cross
+
 ### Thang
 
 1000 yards
@@ -7451,6 +8407,10 @@ Go till you get 200
 
 ## Hungry Hungry Hippo
 
+### Q
+
+Hamburglar
+
 ### Warmup
 
 - Goofballs
@@ -7467,6 +8427,10 @@ Partnered up and each partner switched by rounds to collect balls scattered acro
 ---
 
 ## You're the Best Around
+
+### Q
+
+Dowry
 
 ### Warmup
 
@@ -7492,6 +8456,10 @@ PAX Error for 30 seconds
 ---
 
 ## November Murph prep
+
+### Q
+
+Rorschach
 
 ### Warmup
 
@@ -7522,6 +8490,10 @@ flutter kicks, big flutter kicks, planks, side planks, one arm one foot balance.
 ---
 
 ## Classic Diamonback Workout
+
+### Q
+
+Data Dump
 
 ### Warmup
 
@@ -7554,6 +8526,10 @@ flutter kicks, big flutter kicks, planks, side planks, one arm one foot balance.
 
 ## Backblast
 
+### Q
+
+PillowFight
+
 ### Warmup
 
 Horse Game
@@ -7573,6 +8549,10 @@ RESULTS: some equipment failures but another W for World Headquarters, now like 
 
 ## 30 for 30
 
+### Q
+
+Drizzle
+
 ### Warmup
 
 7-1 motivators (double time half way through), hot broga, Willie Mays hayes
@@ -7588,6 +8568,10 @@ PAX pick your poison, if pick stationary exercise do 30 reps, some travels inter
 ---
 
 ## 30 for 30: Bro Lifting, Brotherly Conversation
+
+### Q
+
+Manny
 
 ### Warmup
 
@@ -7608,6 +8592,10 @@ PAX pick your poison, if pick stationary exercise do 30 reps, some travels inter
 ---
 
 ## For a limited time only…pt 1
+
+### Q
+
+Worm
 
 ### Warmup
 
@@ -7638,6 +8626,10 @@ Q found new neon lights to add to the portfolio as the PAX lined up at the start
 
 ## Let’s Get It!
 
+### Q
+
+Jed
+
 ### Warmup
 
 5-1 Motivators
@@ -7665,6 +8657,10 @@ Skull crushers
 
 ## Manniversary
 
+### Q
+
+Satellite
+
 ### Warmup
 
 ssh, ltp, piano tappers, monkey humpers, lbac etc.
@@ -7685,6 +8681,10 @@ Travel Back: Bear trap
 ---
 
 ## AI Heavy
+
+### Q
+
+Sprinkles
 
 ### Warmup
 
@@ -7724,6 +8724,10 @@ IC - 40 Flutter Kicks move into 10 Hello Dolly/Rosalita
 
 ## What’s in a Name?
 
+### Q
+
+Sandtrap
+
 ### Warmup
 
 - SSH x20 IC
@@ -7751,6 +8755,10 @@ Hill to light, repeat
 
 ## slt mtg
 
+### Q
+
+DOS
+
 ### Warmup
 
 a jog around the lake
@@ -7767,6 +8775,10 @@ flutter kicks IC
 ---
 
 ## Time For You to Do the Roux
+
+### Q
+
+FlatTire
 
 ### Warmup
 
@@ -7806,6 +8818,10 @@ LBCs x 50 in Cadence
 
 ## 11th Month, 5th Day
 
+### Q
+
+FlyBoy
+
 ### Warmup
 
 5- 1 motivators, 11 Batwings with pretzels and Morrocan night clubs bonus, 5-1, 1-5, 5-1 motivators again
@@ -7837,6 +8853,10 @@ Thing 2 : 11 exercises (11 or 5 count) and travel between as directed (completed
 
 ## Customary Wednesday Grind
 
+### Q
+
+ledger
+
 ### Warmup
 
 5 to 1 motivators
@@ -7862,6 +8882,10 @@ Willie Mays Hayes
 
 ## Mid Week Slump, Let’s Get Through it!
 
+### Q
+
+Dead Broke
+
 ### Warmup
 
 5 to 1 Motivators
@@ -7884,6 +8908,10 @@ Overhead press, Coupon Squats, CORs
 ---
 
 ## Disney Detox Donger-Style
+
+### Q
+
+Stage Fright
 
 ### Warmup
 
@@ -7913,6 +8941,10 @@ Air SquatsIC with bags, chest press IC
 
 ## Backblast
 
+### Q
+
+Flintstone
+
 ### Warmup
 
 Lap around the lake
@@ -7924,6 +8956,10 @@ We had a very smart Pax this morning. There were only 2 questions that no one kn
 ---
 
 ## Low and slow
+
+### Q
+
+Hermey
 
 ### Warmup
 
@@ -7958,6 +8994,10 @@ Slow flutter kicks in cadence
 
 ## Backblast
 
+### Q
+
+9 to 5
+
 ### Warmup
 
 - Straight into a mosey with some shoulder warmups once we got back
@@ -7978,6 +9018,10 @@ Got some cardio and back in
 ---
 
 ## Party Like It's 1954
+
+### Q
+
+Otter
 
 ### Warmup
 
@@ -8006,6 +9050,10 @@ Mosey to Upper Parking Lot/ Pull-up Station.
 
 ## Turkey Trot Training
 
+### Q
+
+Double D
+
 ### Warmup
 
 5-1 Motivators IC
@@ -8030,6 +9078,10 @@ Stretching Flow
 ---
 
 ## Knees, hips and ass
+
+### Q
+
+Wayne Babies
 
 ### Warmup
 
@@ -8063,6 +9115,10 @@ Bridge with coupon, knee to coupon, alternate leg straight out.
 
 ## It's Monday
 
+### Q
+
+Wilson (SpiritSTL)
+
 ### Warmup
 
 Abe Vagotas IC
@@ -8088,6 +9144,10 @@ American Hammers with Coupon IC
 ---
 
 ## Rushing at the Roux
+
+### Q
+
+Thumper
 
 ### Warmup
 
@@ -8118,6 +9178,10 @@ Finished with jog around parking lots
 ---
 
 ## World Sandwich Day
+
+### Q
+
+Rock Chalk
 
 ### Warmup
 
@@ -8152,6 +9216,10 @@ Two Sandwiches, 10, 20, 10 reps
 
 ## Handy Balls & Hills
 
+### Q
+
+Bear Spray
+
 ### Warmup
 
 - 5-1 Motivators
@@ -8180,6 +9248,10 @@ Two Sandwiches, 10, 20, 10 reps
 ---
 
 ## ANOTHER SULCR
+
+### Q
+
+Bobbit
 
 ### Warmup
 
@@ -8235,6 +9307,10 @@ Did in workout
 
 ## Happy Monday, Let’s Start the Week Off Right
 
+### Q
+
+Dead Broke
+
 ### Warmup
 
 5 to 1 Motivators
@@ -8255,6 +9331,10 @@ Incline Merkins, Step-Ups, Decline Merkins, Coupon Squats, and Overhead Press
 ---
 
 ## Getting that heart rate up!
+
+### Q
+
+Room Service
 
 ### Warmup
 
@@ -8289,6 +9369,10 @@ Mosey with coupons back to flag
 ---
 
 ## Backblast
+
+### Q
+
+9 to 5
 
 ### Warmup
 
@@ -8325,6 +9409,10 @@ COR & NOR
 
 ## Saturday at The Way
 
+### Q
+
+Bushwood
+
 ### Warmup
 
 - 9 to 5 Motivators
@@ -8350,6 +9438,10 @@ Q led the PAX in stretches while each HIM shared something about them that made 
 ---
 
 ## Fresh start to a new month!
+
+### Q
+
+Road Rage
 
 ### Warmup
 
@@ -8382,6 +9474,10 @@ HIIT 4 rounds
 
 ## Chill in the Air, Heat in the Legs
 
+### Q
+
+AirBiscuit
+
 ### Warmup
 
 Willie Mays Hayes, Abe Vigodas, Toe Hops, Air Squats, Reverse Lunges, Open the Gates
@@ -8393,6 +9489,10 @@ Willie Mays Hayes, Abe Vigodas, Toe Hops, Air Squats, Reverse Lunges, Open the G
 ---
 
 ## Spookyfest ? and lucky number 7️⃣ manniversary
+
+### Q
+
+9 to 5
 
 ### Warmup
 
@@ -8427,6 +9527,10 @@ COR & NOR
 
 ## The Great Pumpkin
 
+### Q
+
+Slippin' Jimmy
+
 ### Warmup
 
 - Downward Dog, Runner's Stretch, Pigeon
@@ -8448,6 +9552,10 @@ Guantanamo circle, with a twist. BBSUs while passing two pumpkins around the cir
 
 ## Bball and Broomsticks
 
+### Q
+
+Outhouse
+
 ### Warmup
 
 Broom game to pick team.  Get in a circle ⭕️ and then spread out. Hold up broom. At timer run counter clockwise ti catch broom before it falls. Eliminated players are split into teams one drop at a time
@@ -8463,6 +9571,10 @@ ran up thru Mary
 ---
 
 ## Backblast
+
+### Q
+
+Ferkloch
 
 ### Warmup
 
@@ -8481,6 +9593,10 @@ Box Cutters x 11 IC
 ---
 
 ## Trick or Treat ?
+
+### Q
+
+Bashful Bear
 
 ### Warmup
 
@@ -8549,6 +9665,10 @@ American Hammers x 13
 
 ## Apprenticeship
 
+### Q
+
+Rock Ride
+
 ### Warmup
 
 Butt kickers 20 IC
@@ -8582,6 +9702,10 @@ none
 ---
 
 ## May the Schwartz be with you
+
+### Q
+
+Fish Fry
 
 ### Warmup
 
@@ -8631,6 +9755,10 @@ Return to the flag
 
 ## An All-a-Merkin beatdown
 
+### Q
+
+Drizzle
+
 ### Warmup
 
 SSHs, grass grabbers, yoga poses, LBACs
@@ -8656,6 +9784,10 @@ Fingertip merkins
 
 ## Exercises from yesteryear
 
+### Q
+
+Bisquick
+
 ### Warmup
 
 Side straddle hops, high knees, butt kickers, old man stretch, downward dog,  Willie Mays Hayes, grass grabbers
@@ -8671,6 +9803,10 @@ big boy, situps, LBC‘s, oblique crunches, alternating Superman’s, world’s 
 ---
 
 ## Tik Tack Row
+
+### Q
+
+Bucky
 
 ### Warmup
 
@@ -8709,6 +9845,10 @@ Reverse lap around the building with abs each corner.
 ---
 
 ## No tank top Thursday
+
+### Q
+
+Jayhawk
 
 ### Warmup
 
@@ -8759,6 +9899,10 @@ no time today.
 
 ## No Run Thursday
 
+### Q
+
+AirBiscuit
+
 ### Warmup
 
 Hops, Arm Waves, Arm Swings, Trunk Twist, Dead Arms, Golf Swings, Ballerina Squats
@@ -8783,6 +9927,10 @@ Freddie Mercury, Total Eclipse of the Heart (hallow holds + supermans, alternati
 ---
 
 ## Coupon Wednesday
+
+### Q
+
+Jayhawk
 
 ### Warmup
 
@@ -8813,6 +9961,10 @@ Flutter kicks
 ---
 
 ## BrownOut's Power Hour
+
+### Q
+
+BrownOut
 
 ### Warmup
 
@@ -8852,6 +10004,10 @@ Child’s Pose
 
 ## An audience of 1
 
+### Q
+
+Outhouse
+
 ### Warmup
 
 Old man stretch
@@ -8877,6 +10033,10 @@ none
 ---
 
 ## The Fourth Line
+
+### Q
+
+Engrish
 
 ### Warmup
 
@@ -8921,6 +10081,10 @@ Raised leg plank (30 seconds each leg)
 
 ## Midweek Primer
 
+### Q
+
+AirBiscuit
+
 ### Warmup
 
 Hops, Arm Waves, Arm Swings, Trunk Twist, Dead Arms, Golf Swings, Knee Taps, Ballerina Squats
@@ -8941,6 +10105,10 @@ Glute Bridges, Imperial Walkers, Shoulder Taps, Mountain Climbers
 ---
 
 ## Midweek Grind
+
+### Q
+
+Jed
 
 ### Warmup
 
@@ -8973,6 +10141,10 @@ Skull Crushers
 ---
 
 ## SULCR WORKOUT- (Static Hold, Upper body, Lower Body, Core, Run)
+
+### Q
+
+Bobbit
 
 ### Warmup
 
@@ -9048,6 +10220,10 @@ R run jail break 20 sec then mosey back
 
 ## Time to Brush up our store of Useless Knowledge
 
+### Q
+
+Slippin' Jimmy
+
 ### Warmup
 
 - Grass Grabbers
@@ -9076,6 +10252,10 @@ Travel
 ---
 
 ## Wake Up at the Asylum!
+
+### Q
+
+Emilio
 
 ### Warmup
 
@@ -9112,6 +10292,10 @@ Part 2:  5:50 - 6:05
 
 ## 900 Tons of Steel
 
+### Q
+
+Catnip, Clotshot
+
 ### Warmup
 
 - Willie Mays Hays
@@ -9141,6 +10325,10 @@ A sampler platter of exercises from the Oasis, brought to us by Clotshot.
 
 ## In the Name of Liberty
 
+### Q
+
+rogerroger
+
 ### Warmup
 
 - High knees
@@ -9168,6 +10356,10 @@ Ladder: 5, 10, 15, 20, 30, 20, 15
 
 ## Get to the Chopper!
 
+### Q
+
+Data Dump
+
 ### Warmup
 
 SSH - 20 IC
@@ -9190,6 +10382,10 @@ Ran back to flags - 0.5 miles
 ---
 
 ## The Haunted Trail
+
+### Q
+
+Bashful Bear
 
 ### Warmup
 
@@ -9237,6 +10433,10 @@ We stayed together as a unit as we moved through the course, picking up the six 
 
 ## Backblast
 
+### Q
+
+Cyclone
+
 ### Warmup
 
 side straddle hops, imperial walkers, LBAC, Willie mays hays, goofball, 1 lap
@@ -9260,6 +10460,10 @@ Freddie mercury, lbc, American Hammers, flutter kicks
 ---
 
 ## Let's play a game
+
+### Q
+
+5 on 2, Slippin' Jimmy, Ratigan
 
 ### Warmup
 
@@ -9302,6 +10506,10 @@ Stole the mary and we did Bear trap between the cones (roughly 50 yards).
 ---
 
 ## Time to Get Back at It!
+
+### Q
+
+Thumper
 
 ### Warmup
 
@@ -9350,6 +10558,10 @@ Downward Dog and Worlds Greatest stretch to finish
 
 ## Millennium Pre-Launch BD
 
+### Q
+
+Tolkien
+
 ### Thang
 
 2 groups. 1st group performed the exercise while 2nd group performed the movement around the pavillion. Movement group acted as the timer. Once 2nd group was in, they started the exercise and 1st group performed the movement.
@@ -9372,6 +10584,10 @@ PAX and PAX could have gone for much longer, but Q got tired just watching them 
 
 ## Backblast
 
+### Q
+
+Flintstone
+
 ### Warmup
 
 400m leisurely stroll around the track
@@ -9383,6 +10599,10 @@ Ladder down of 15 ground to overhead 100M travel 15 HW mountain climbers 100M tr
 ---
 
 ## Flatleion (Deion the Hills)
+
+### Q
+
+Keynote
 
 ### Warmup
 
@@ -9401,6 +10621,10 @@ Ladder down of 15 ground to overhead 100M travel 15 HW mountain climbers 100M tr
 ---
 
 ## A little from column A, a little from column B
+
+### Q
+
+McFly
 
 ### Warmup
 
@@ -9429,6 +10653,10 @@ Included in exercises
 
 ## Backblast
 
+### Q
+
+Big Spoon
+
 ### Warmup
 
 ssh
@@ -9455,6 +10683,10 @@ plank side to sides
 
 ## Backblast
 
+### Q
+
+Room Service
+
 ### Warmup
 
 Willy Mays Hays, Grass Grabbers, Abe V, Old Man Stretch
@@ -9470,6 +10702,10 @@ Exercise 2 moves to the bleachers with coupons and did a 5 minute EMOM. Compound
 ---
 
 ## Saturday Morning Fun at Mothra
+
+### Q
+
+Bashful Bear
 
 ### Warmup
 
@@ -9523,6 +10759,10 @@ Repeat until time is called
 
 ## Hill work
 
+### Q
+
+Drizzle
+
 ### Warmup
 
 5-1 accelerators, broga, Hollywoods, butterfly, toe touches
@@ -9545,6 +10785,10 @@ Blockees
 
 ## Meramec is Spelled Weird
 
+### Q
+
+Clotshot
+
 ### Warmup
 
 SSHs, Cossack squat into runner’s pose
@@ -9564,6 +10808,10 @@ None.
 
 ## Friday Fun
 
+### Q
+
+Sprinkles
+
 ### Warmup
 
 SSH. Willie Mayes Hayes. WGS. Pigeon Stretch.
@@ -9581,6 +10829,10 @@ Round 3:  40 BBSU. 50 Blockees. Crawl Bear 25 yds. Run down and around.
 ---
 
 ## Stage Fright Friday
+
+### Q
+
+Stage Fright
 
 ### Warmup
 
@@ -9611,6 +10863,10 @@ Mosey to base of Hill. Jailbreak up and mosey back to flag
 
 ## Fun Friday
 
+### Q
+
+Manny
+
 ### Warmup
 
 A few stretches
@@ -9624,6 +10880,10 @@ speed disc
 ---
 
 ## To Be Determined
+
+### Q
+
+rogerroger
 
 ### Warmup
 
@@ -9678,6 +10938,10 @@ None: PAX exercises had sufficient ab content
 
 ## Flag Handoff
 
+### Q
+
+Otter, Data Dump, TheBeav
+
 ### Warmup
 
 Bernie to the crosswalk
@@ -9704,6 +10968,10 @@ Grabbed Sandbags and moseyed back to flag.
 ---
 
 ## Howdy Partner
+
+### Q
+
+Bucky
 
 ### Warmup
 
@@ -9734,6 +11002,10 @@ each group gets one rifle carry with suitcases
 
 ## To Grind or not to Grind…
 
+### Q
+
+Drop Out (SpiritSTL)
+
 ### Warmup
 
 SSH IC
@@ -9757,6 +11029,10 @@ Various and Sundry stretches
 
 ## THe UPs and Downs of F3
 
+### Q
+
+BUB
+
 ### Thang
 
 Partners. One partners jailbreaks to far lights (75 yds) and does 3 burpees and jailbreaks back. Other partner is completing exercise reps.  Partners switch and continue rotating until the following total exercise reps were completed:
@@ -9771,6 +11047,10 @@ Moseyed back to flag
 ---
 
 ## Zombie Apocalypse
+
+### Q
+
+Worm
 
 ### Warmup
 
@@ -9804,6 +11084,10 @@ Rinse and repeat for 8 rounds
 ---
 
 ## Backblast
+
+### Q
+
+Dead Broke
 
 ### Warmup
 
@@ -9842,6 +11126,10 @@ Ran around entry circle
 ---
 
 ## Beating Limits
+
+### Q
+
+Bear Spray
 
 ### Warmup
 
@@ -9886,6 +11174,10 @@ Swimmers
 
 ## Get Out In The Gloom For A Mid Week Beatdown
 
+### Q
+
+Dead Broke
+
 ### Warmup
 
 Side Straddle Hops x 20
@@ -9904,6 +11196,10 @@ First round we went around the first circle, second time, we went the far circle
 ---
 
 ## 4 year Manniversary
+
+### Q
+
+Fazoli
 
 ### Warmup
 
@@ -9944,6 +11240,10 @@ Yoga stretches
 
 ## Bro, why so negative
 
+### Q
+
+Skol
+
 ### Warmup
 
 LBAC
@@ -9977,6 +11277,10 @@ Plank 10 count with the pax
 
 ## Teamwork to Excel
 
+### Q
+
+Noah
+
 ### Warmup
 
 See The Cardboard
@@ -9992,6 +11296,10 @@ See The Cardboard
 ---
 
 ## Humpty Hump
+
+### Q
+
+Rollerblade
 
 ### Warmup
 
@@ -10032,6 +11340,10 @@ Round 3 - 9 minute AMRAP
 
 ## Journey up and then back down.
 
+### Q
+
+HoJo
+
 ### Warmup
 
 SSH x20 IC; Arm circles fwd/back x10 each; Abe Vigoda x 15; DD & WGS
@@ -10047,6 +11359,10 @@ Ladder - 1-10 reps (up and then down) with a little core built in. 1. Curls, 2. 
 ---
 
 ## Wednesday Workout
+
+### Q
+
+Dowry
 
 ### Warmup
 
@@ -10107,6 +11423,10 @@ EMOM-5 Rounds
 
 ## Backblast
 
+### Q
+
+Slippin' Jimmy
+
 ### Warmup
 
 - Downward dog, runner's stretch, pigeon
@@ -10130,6 +11450,10 @@ Grab your sandbag and mosey back to Diamond Dawn, more exercise stops along the 
 ---
 
 ## The Best Tuesday Workout Around.
+
+### Q
+
+FlatTire
 
 ### Warmup
 
@@ -10171,6 +11495,10 @@ Made it through two rounds.
 ---
 
 ## Coupon Crusher 360
+
+### Q
+
+Forrest
 
 ### Warmup
 
@@ -10228,6 +11556,10 @@ Child pose
 
 ## Thrusting forward
 
+### Q
+
+Hermey
+
 ### Warmup
 
 neck rolls
@@ -10257,6 +11589,10 @@ dead bugs
 ---
 
 ## Embrace the Suck!
+
+### Q
+
+Hood Ornament
 
 ### Warmup
 
@@ -10300,6 +11636,10 @@ Circuit Four
 
 ## It’s Starting To Cool Off, Let’s See How Much We Can Sweat!
 
+### Q
+
+Dead Broke
+
 ### Warmup
 
 5 to 1 motivators
@@ -10320,6 +11660,10 @@ Lap around the parking lot
 
 ## Dynamic resistance yoga
 
+### Q
+
+Finkle
+
 ### Thang
 
 Dynamic resistance yoga, strength, flexibility session based on DDPY
@@ -10327,6 +11671,10 @@ Dynamic resistance yoga, strength, flexibility session based on DDPY
 ---
 
 ## House of cards ♦️♠️♥️♣️
+
+### Q
+
+9 to 5
 
 ### Warmup
 
@@ -10355,6 +11703,10 @@ See how the cards fell in the replies. Never not drawn the joker while leading t
 ---
 
 ## Life’s a B!
+
+### Q
+
+Bobbit
 
 ### Warmup
 
@@ -10387,6 +11739,10 @@ Backward runs
 
 ## Monday Morning Mayhem
 
+### Q
+
+Otter
+
 ### Warmup
 
 SSH IC
@@ -10417,6 +11773,10 @@ Flutter kicks IC
 
 ## Millennium Monday
 
+### Q
+
+Dowry
+
 ### Warmup
 
 SSH
@@ -10440,6 +11800,10 @@ High Low Planks
 ---
 
 ## Start of the Winter??
+
+### Q
+
+Rock Chalk
 
 ### Warmup
 
@@ -10484,6 +11848,10 @@ Run 100 m, 5 burpees, run back
 
 ## Fruit Loop and a Mix Tape
 
+### Q
+
+Big Spoon
+
 ### Warmup
 
 ssh
@@ -10511,6 +11879,10 @@ plank jacks
 ---
 
 ## Sorry!
+
+### Q
+
+BrownOut
 
 ### Warmup
 
@@ -10553,6 +11925,10 @@ PENALTY if PAX completes with ball in your possession – 10 Burpees, or 10 Merk
 
 ## Let’s Get It Started
 
+### Q
+
+Dead Broke
+
 ### Warmup
 
 5to1 Motivators
@@ -10576,6 +11952,10 @@ Curls, Coupon Squats, and Skull Crushers
 
 ## gotta get to the finish line
 
+### Q
+
+Skol
+
 ### Thang
 
 2.1 mile
@@ -10583,6 +11963,10 @@ Curls, Coupon Squats, and Skull Crushers
 ---
 
 ## Six at the Pit
+
+### Q
+
+AirBiscuit
 
 ### Warmup
 
@@ -10608,6 +11992,10 @@ Flutter Kicks, 1 min plank hold, Freddie Mercury, misc stretching
 ---
 
 ## Playin with the boys.
+
+### Q
+
+Bill Nye
 
 ### Warmup
 
@@ -10638,6 +12026,10 @@ other half of team rotates exercise
 
 ## Saturday BDs Unite!
 
+### Q
+
+Schlitz
+
 ### Thang
 
 4.2 mile run around the trails of Queeny Park that weren’t closed off to a controlled deer hunt
@@ -10645,6 +12037,10 @@ other half of team rotates exercise
 ---
 
 ## Hard & Soft (9-5 Special)
+
+### Q
+
+Jed
 
 ### Warmup
 
@@ -10684,6 +12080,10 @@ Flutter Kicks
 
 ## Competitions with cross cross
 
+### Q
+
+Criss-cross
+
 ### Thang
 
 Teams of 3/4
@@ -10715,6 +12115,10 @@ Crab walks
 ---
 
 ## 44
+
+### Q
+
+Dowry
 
 ### Warmup
 
@@ -10769,6 +12173,10 @@ High Low Planks IC x 10
 
 ## Backblast
 
+### Q
+
+Flatley
+
 ### Warmup
 
 11-1 Motivators
@@ -10794,6 +12202,10 @@ ran out of time
 ---
 
 ## Double Down
+
+### Q
+
+Otter
 
 ### Warmup
 
@@ -10824,6 +12236,10 @@ Had to cut round 4 and 5 down to 5 mins each and skip the laps to complete it be
 
 ## Sua Sponte Leaders
 
+### Q
+
+Rock Ride
+
 ### Warmup
 
 Butt kickers 20 IC
@@ -10845,6 +12261,10 @@ tons of core in the Thang
 ---
 
 ## Just Another Thursday at the Asylum
+
+### Q
+
+Forrest
 
 ### Warmup
 
@@ -10908,6 +12328,10 @@ Repeated Entire Routine (2nd travel - mosey)
 
 ## Field Day
 
+### Q
+
+Finkle
+
 ### Thang
 
 Groups of 3, 1 pax performs the travels one the exercise and one the ab exercise, rotate. 6 rounds, 5 minutes each round:
@@ -10926,6 +12350,10 @@ None
 ---
 
 ## 6...7
+
+### Q
+
+Fish Fry
 
 ### Warmup
 
@@ -10974,6 +12402,10 @@ Return to the flag
 
 ## Let's gooooo....!!!
 
+### Q
+
+KANSAS
+
 ### Warmup
 
 •5-1 Motivators
@@ -11003,6 +12435,10 @@ Return to the flag
 
 ## Up and Away
 
+### Q
+
+Satellite
+
 ### Warmup
 
 WMH, GG, SSH, GBs, stretching, mosey around the pasture
@@ -11014,6 +12450,10 @@ partner Dora format - 100 pull-ups, 200 merkins, 300 BBS; lunge walk for the tra
 ---
 
 ## Now we go to school - Q School
+
+### Q
+
+Shower House
 
 ### Warmup
 
@@ -11050,6 +12490,10 @@ Recover to Mary
 
 ## Morning Stroll
 
+### Q
+
+BBQ
+
 ### Warmup
 
 5-1 Motivators / old man stretch / downward dog / runners stretch / grass grabbers / willie mays hays
@@ -11065,6 +12509,10 @@ Recover to Mary
 ---
 
 ## Get the Led out
+
+### Q
+
+Skol
 
 ### Warmup
 
@@ -11086,6 +12534,10 @@ plank hold variations with PAX 10 count
 ---
 
 ## The HIlls have Lights
+
+### Q
+
+Bushwood
 
 ### Warmup
 
@@ -11116,6 +12568,10 @@ Round #1 of 3
 ---
 
 ## Coupon Golf
+
+### Q
+
+Rorschach
 
 ### Warmup
 
@@ -11149,6 +12605,10 @@ Got 6 holes in before calling it.
 ---
 
 ## Who wants a full body workout
+
+### Q
+
+Dead Broke
 
 ### Warmup
 
@@ -11185,6 +12645,10 @@ We completed a lap around the parking lot.
 
 ## One More For The Road
 
+### Q
+
+Flintstone
+
 ### Warmup
 
 400M Jog. Stretch OYO
@@ -11203,6 +12667,10 @@ None
 ---
 
 ## Quarter Pounder w/ Cheese ?
+
+### Q
+
+Hamburglar
 
 ### Warmup
 
@@ -11228,6 +12696,10 @@ Repeat back down the ladder. Due to time back down the ladder we modified blocke
 
 ## On Tuesdays we go to The Pickle Jar
 
+### Q
+
+Dowry
+
 ### Warmup
 
 SSH IC x 20
@@ -11243,6 +12715,10 @@ Batwings IC x 15
 ---
 
 ## Run walk and a coupon
+
+### Q
+
+Fish Fry, Drop Out (SpiritSTL)
 
 ### Warmup
 
@@ -11280,6 +12756,10 @@ Return to the flag
 
 ## Backblast
 
+### Q
+
+BUB, Manny
+
 ### Warmup
 
 Goofballs (IC)
@@ -11312,6 +12792,10 @@ Not today
 ---
 
 ## Backblast
+
+### Q
+
+9 to 5
 
 ### Warmup
 
@@ -11351,6 +12835,10 @@ Didn't have time for two of the planned ab exercises. RECOVER RECOVER
 
 ## Guess Who's Back?
 
+### Q
+
+Flintstone
+
 ### Warmup
 
 1 Lap of Logan track. Stretch OYO
@@ -11371,6 +12859,10 @@ Burpee-Mountain Climber- Shoulder Taps
 ---
 
 ## Longer and Stronger
+
+### Q
+
+Clotshot
 
 ### Warmup
 
@@ -11411,6 +12903,10 @@ Recover, Recover:white_check_mark:
 
 ## 9er Tour with the Toy Box
 
+### Q
+
+9-lives
+
 ### Warmup
 
 LBAC 10 IC
@@ -11444,6 +12940,10 @@ Intermission - moseyed over to shelter.  Each man had a table
 
 ## The Road
 
+### Q
+
+Keys
+
 ### Warmup
 
 5×1 Motivators, Grass Grabbers, Learning to Phelps, Arm Circles, 1 lap
@@ -11460,6 +12960,10 @@ LBCs, Penguin tappers
 ---
 
 ## Repeat that BD, that VQ BD
+
+### Q
+
+Charmin
 
 ### Warmup
 
@@ -11512,6 +13016,10 @@ Run around median by entrance of pool and back
 
 ## Millennium DORA at Millennium Park
 
+### Q
+
+Hamburglar
+
 ### Warmup
 
 - 5to1 Motivator’s
@@ -11552,6 +13060,10 @@ Some partners finished early so rinse and repeat exercises but changed travel to
 
 ## Backblast
 
+### Q
+
+Rock Chalk
+
 ### Warmup
 
 5-1 motivators, stretching
@@ -11584,6 +13096,10 @@ cool down walk a lap, pause for 10 BBSUs, 10 Merkins
 
 ## Guardian Run
 
+### Q
+
+Mello Yello
+
 ### Warmup
 
 SSH x 10
@@ -11599,6 +13115,10 @@ Guardian Run upper loop, at completion of each run PAX choice of jail break or d
 ---
 
 ## We shoulder heavy burdens TOGETHER!
+
+### Q
+
+Emilio
 
 ### Warmup
 
@@ -11648,6 +13168,10 @@ We got through just over 2 full rounds.
 
 ## Backblast
 
+### Q
+
+Whip
+
 ### Warmup
 
 20 SSH IC
@@ -11696,6 +13220,10 @@ Most PAX got 1.5x through!
 
 ## 5 on 2’s wrestling run but with F3 instead
 
+### Q
+
+5 on 2
+
 ### Warmup
 
 Learning to Phelps
@@ -11714,6 +13242,10 @@ Old man stretch OYO
 ---
 
 ## Manniversary
+
+### Q
+
+Road Rage, KinkedIn
 
 ### Warmup
 
@@ -11799,6 +13331,10 @@ Mosey back to the flag
 
 ## Orbit ? North to New Town
 
+### Q
+
+Hamburglar
+
 ### Warmup
 
 - SSHs
@@ -11822,6 +13358,10 @@ Not today
 
 ## Happy Friday, a little bit of everything including 1.25 miles
 
+### Q
+
+Lotus Notes
+
 ### Warmup
 
 Principles, Mission & Credo
@@ -11843,6 +13383,10 @@ Plenty of time, Pax choice
 
 ## Court Time
 
+### Q
+
+Thumper
+
 ### Warmup
 
 Old man stretch
@@ -11856,6 +13400,10 @@ no dribble basketball
 ---
 
 ## a lot of 8s
+
+### Q
+
+DOS
 
 ### Warmup
 
@@ -11884,6 +13432,10 @@ flutter kicks, rt flutter kicks, lt flutter kicks, more flutter kicks
 
 ## Come Out and Play
 
+### Q
+
+Flintstone
+
 ### Warmup
 
 Skipping around the Parking Lot, stretch oyo. One run up and down Logan Hill, one Bernie up Logan Hill
@@ -11899,6 +13451,10 @@ Skipping around the Parking Lot, stretch oyo. One run up and down Logan Hill, on
 ---
 
 ## 2-Year F3 Anniversary BD!
+
+### Q
+
+Emilio
 
 ### Warmup
 
@@ -11949,6 +13505,10 @@ Round 6
 
 ## BD and Miles
 
+### Q
+
+Schlitz
+
 ### Warmup
 
 - Piano Tappers
@@ -11973,6 +13533,10 @@ Round 6
 ---
 
 ## Backblast
+
+### Q
+
+Hood Ornament
 
 ### Warmup
 
@@ -12014,6 +13578,10 @@ None
 
 ## If you can dodge a wrench...
 
+### Q
+
+BBQ
+
 ### Warmup
 
 5-1 Motivators / LBCs / Grass Grabbers / Willy Mays Hays
@@ -12025,6 +13593,10 @@ Dodge Ball - Get hit, do 20 merkins & run a lap, get back in the game. If a team
 ---
 
 ## Let’s Get Some Steps In
+
+### Q
+
+Jed
 
 ### Warmup
 
@@ -12041,6 +13613,10 @@ Total miles came to roughly 2.8 miles.
 ---
 
 ## Support TCH
+
+### Q
+
+AirBiscuit
 
 ### Warmup
 
@@ -12065,6 +13641,10 @@ Misc stretching
 ---
 
 ## We Ran
+
+### Q
+
+BigTex
 
 ### Warmup
 
@@ -12091,6 +13671,10 @@ Sprint to the finish (AKA the flags)
 
 ## To and Fro for TCH
 
+### Q
+
+Big Spoon
+
 ### Warmup
 
 Various active stretches including neck, arms, trunk, legs
@@ -12115,6 +13699,10 @@ LOG YOUR MILES HERE:
 ---
 
 ## Hump Dayyeee
+
+### Q
+
+Freshman
 
 ### Warmup
 
@@ -12158,6 +13746,10 @@ Repeat 4 times around track
 
 ## Support TCH
 
+### Q
+
+AirBiscuit
+
 ### Warmup
 
 Abe Vigodas, SSH, Willie Mayes Hayes, Hamstring Sweeps, Down Dog, Open the Gates
@@ -12182,6 +13774,10 @@ Imperial Walkers followed by stretching
 
 ## Good = Dangerous
 
+### Q
+
+Rock Ride
+
 ### Warmup
 
 Ssh 20 IC
@@ -12202,6 +13798,10 @@ Freddy Mercurys 20 IC
 ---
 
 ## Diamonds Make us Hard
+
+### Q
+
+Hood Ornament
 
 ### Warmup
 
@@ -12243,6 +13843,10 @@ PAX did at least 2.5 miles, and probably closer to 3
 ---
 
 ## Tuesday fun day
+
+### Q
+
+Rollerblade
 
 ### Warmup
 
@@ -12288,6 +13892,10 @@ None
 
 ## Miles for Covering House
 
+### Q
+
+Manny
+
 ### Warmup
 
 lap around the main loop
@@ -12309,6 +13917,10 @@ Pretty sure everyone got around 2.5 miles for TCH
 ---
 
 ## bootcamp style workout
+
+### Q
+
+Footlong
 
 ### Warmup
 
@@ -12352,6 +13964,10 @@ heels to heaven x30
 
 ## Rock N Roll
 
+### Q
+
+Bobbit
+
 ### Warmup
 
 old man stretch, willy, phelps, arm circles, reverse Mike Tysons
@@ -12380,6 +13996,10 @@ opposite feet toe touches on back
 ---
 
 ## A Focus on Form
+
+### Q
+
+Bill Nye
 
 ### Warmup
 
@@ -12421,6 +14041,10 @@ V ups
 
 ## Yoga Sess
 
+### Q
+
+Keynote
+
 ### Warmup
 
 Willie Mayes Hayes
@@ -12437,6 +14061,10 @@ Nope
 ---
 
 ## MWM
+
+### Q
+
+Matchbox
 
 ### Warmup
 
@@ -12473,6 +14101,10 @@ x3 rounds
 
 ## Early Morning Monday
 
+### Q
+
+Flintstone
+
 ### Warmup
 
 stretch oyo
@@ -12489,6 +14121,10 @@ none
 
 ## Racking up Some Miles for TCH
 
+### Q
+
+HoJo
+
 ### Warmup
 
 SSH; DD with Worlds Greatest Stretch, Old Man Stretch, Hairy Flamingos
@@ -12504,6 +14140,10 @@ Hand shredding Planks.
 ---
 
 ## Stages of Life
+
+### Q
+
+Cabana Boi
 
 ### Warmup
 
@@ -12544,6 +14184,10 @@ Dying Cockroaches
 
 ## Beat down
 
+### Q
+
+Gulliver
+
 ### Warmup
 
 50 side straddle hops, 50 coupon toe touches, arm circles, seal claps, worlds greatest stretch, sitting hip stretch
@@ -12563,6 +14207,10 @@ flutterkicks, lbc’s, planks (3)
 ---
 
 ## Saturday in the Park with Wilson @ Awakening
+
+### Q
+
+Double D, Wilson (SpiritSTL)
 
 ### Warmup
 
@@ -12623,6 +14271,10 @@ Brief Stretching flow
 
 ## Hello October!
 
+### Q
+
+DubbleBubble
+
 ### Warmup
 
 5 Minutes
@@ -12682,6 +14334,10 @@ Recover
 
 ## Passing the flag
 
+### Q
+
+Stanley, HoJo
+
 ### Warmup
 
 SSH
@@ -12700,6 +14356,10 @@ Flutter Kicks
 ---
 
 ## Finally Friday
+
+### Q
+
+Jayhawk
 
 ### Warmup
 
@@ -12748,6 +14408,10 @@ Burpee broad jumps
 
 ## Is Bobbit Gonna Show up?
 
+### Q
+
+Bobbit
+
 ### Warmup
 
 phelps, old man, duck bouncwers, arm circles, jog lap
@@ -12787,6 +14451,10 @@ Pax split into two teams and we did some teqam and individual competitions with 
 
 ## Friday Morning Lights!
 
+### Q
+
+Thumper
+
 ### Warmup
 
 Old man stretch
@@ -12805,6 +14473,10 @@ the LBCs
 ---
 
 ## Starts Right Here
+
+### Q
+
+Rock Ride
 
 ### Warmup
 
@@ -12928,6 +14600,10 @@ Dying Cockroaches 12 IC
 
 ## Murph Prep!
 
+### Q
+
+Rorschach
+
 ### Warmup
 
 learning to Phelps, Willie mays hays, worlds greatest stretch, little baby arm circles
@@ -12948,6 +14624,10 @@ let downs
 ---
 
 ## IronPAX Week 4 - The Bert WOD
+
+### Q
+
+Jed
 
 ### Warmup
 
@@ -12980,6 +14660,10 @@ STOP YOUR CLOCK
 
 ## Swoly Mass
 
+### Q
+
+Flintstone
+
 ### Warmup
 
 Mosey around the lake while loosening arms/ shoulders/ neck up.
@@ -13004,6 +14688,10 @@ None
 ---
 
 ## IPAX Week 4 - Bert WOD
+
+### Q
+
+BrownOut
 
 ### Warmup
 
@@ -13051,6 +14739,10 @@ Child's Pose.
 
 ## IRON PAX WEEK 4 BERT WOD
 
+### Q
+
+Big Spoon
+
 ### Warmup
 
 SSH
@@ -13080,6 +14772,10 @@ Seal Claps
 ---
 
 ## Dealers Choice
+
+### Q
+
+Schooner
 
 ### Warmup
 
@@ -13115,6 +14811,10 @@ Thrusters
 ---
 
 ## IPC 2025 - Week 4 - Bert WOD
+
+### Q
+
+Dowry
 
 ### Warmup
 
@@ -13164,6 +14864,10 @@ Mosey around parking lot
 
 ## IPAX 4
 
+### Q
+
+Satellite
+
 ### Thang
 
 IPAX week 4
@@ -13175,6 +14879,10 @@ stretching
 ---
 
 ## 7 ft.³
+
+### Q
+
+Kelly
 
 ### Warmup
 
@@ -13217,6 +14925,10 @@ Accountability Burpees
 
 ## 5, 10 or 15
 
+### Q
+
+Slippin' Jimmy
+
 ### Warmup
 
 - 5-1 Motivators
@@ -13237,6 +14949,10 @@ Jail break to crosswalk and back.
 ---
 
 ## IRON PAX WEEK 4 + Manniversary
+
+### Q
+
+FlatTire
 
 ### Warmup
 
@@ -13270,6 +14986,10 @@ Not today
 
 ## Iron Pax Week 4  Bert WOD
 
+### Q
+
+Fusz
+
 ### Warmup
 
 Willy Mays Hays
@@ -13290,6 +15010,10 @@ Flutter Kicks
 ---
 
 ## It’s Going To Suck, But You’ll Be Glad You Did It
+
+### Q
+
+Bashful Bear
 
 ### Warmup
 
@@ -13342,6 +15066,10 @@ Quick Stretch sesh
 ---
 
 ## Iron Pax Remix
+
+### Q
+
+Criss-cross
 
 ### Warmup
 
@@ -13437,6 +15165,10 @@ Repeat till time
 
 ## F3 Forge ADHD Workout!
 
+### Q
+
+Bobbit
+
 ### Warmup
 
 old man stretches, merkens, willy, 5-1, arm circles
@@ -13484,6 +15216,10 @@ Conga Coupon line -plank and then pull each coupon through one by one and back.
 
 ## IPAX Week 4 - Bert WOD
 
+### Q
+
+Norton
+
 ### Warmup
 
 mosey, stretching
@@ -13517,6 +15253,10 @@ RESULTS
 
 ## Dealer's Choice
 
+### Q
+
+Otter
+
 ### Warmup
 
 SSH IC
@@ -13549,6 +15289,10 @@ We got through about 21 rounds before time expired. Too many face cards
 ---
 
 ## Turnt Up Tuesday
+
+### Q
+
+Jed
 
 ### Warmup
 
@@ -13595,6 +15339,10 @@ Reverse murder bunny to start
 
 ## Backblast
 
+### Q
+
+Clotshot
+
 ### Warmup
 
 - SSHs, WMHs, downward dog
@@ -13621,6 +15369,10 @@ PAX completed an active recovery exercise, travel, and a mobility/flexibility mo
 ---
 
 ## Week 4 IronPax - Bert WOD
+
+### Q
+
+9 to 5
 
 ### Warmup
 
@@ -13664,6 +15416,10 @@ Learned a little tidbit about PAX today. Dude can step off a football field in l
 
 ## Iron pax week 4
 
+### Q
+
+Criss-cross
+
 ### Warmup
 
 5-1 motivators, arm circles, Willie Mays, grass grabbing
@@ -13691,6 +15447,10 @@ START THE CLOCK
 ---
 
 ## 3rd year anniversary
+
+### Q
+
+Charmin
 
 ### Warmup
 
@@ -13734,6 +15494,10 @@ Bear hold
 ---
 
 ## Monday
+
+### Q
+
+Dowry
 
 ### Warmup
 
@@ -13793,6 +15557,10 @@ Climb the rope
 
 ## Monday Morning Ignition
 
+### Q
+
+AirBiscuit
+
 ### Warmup
 
 Abe Vigodas, Learning to Phelps, Willie Mayes Hayes, Lunge + Arm Circle, Down Dog, Open the Gates
@@ -13815,6 +15583,10 @@ Quick stretching - down dog, world’s greatest stretch, butterfly
 ---
 
 ## IronPax Week 4
+
+### Q
+
+Worm
 
 ### Warmup
 
@@ -13850,6 +15622,10 @@ PAX still faster than PAX
 
 ## Beatdown at Pathfinder with Neymar.
 
+### Q
+
+Neymar
+
 ### Warmup
 
 grass grabbers, piano tappers, baby arms and old man stretch
@@ -13865,6 +15641,10 @@ compound hand release merkins
 ---
 
 ## The Ultimate Non-IPax bd
+
+### Q
+
+Bill Nye
 
 ### Warmup
 
@@ -13888,6 +15668,10 @@ The highly contested game was about as close as PAX s OSU game.
 
 ## Pay a visit to the neighbors
 
+### Q
+
+Schlitz
+
 ### Warmup
 
 - Willie Mays Hayes
@@ -13902,6 +15686,10 @@ The highly contested game was about as close as PAX s OSU game.
 ---
 
 ## 2nd F Last Frriday Lunch
+
+### Q
+
+Munchies
 
 ### Warmup
 
@@ -13919,6 +15707,10 @@ Great time with some awesome HIMs on the patio at Clancy's. Learned some new stu
 
 ## Friday Funday
 
+### Q
+
+Stage Fright
+
 ### Warmup
 
 5:1, 5 burpees, ran 100 real meters
@@ -13934,6 +15726,10 @@ nope
 ---
 
 ## Pearls on A String - A Simple WO but Effective.
+
+### Q
+
+Gumbø
 
 ### Warmup
 
@@ -13957,6 +15753,10 @@ At Recover called, Q called for a “Fell Run” back to the flags. Your path; Y
 ---
 
 ## 3 Year Manniversary
+
+### Q
+
+Bushwood
 
 ### Warmup
 
@@ -14014,6 +15814,10 @@ At Recover called, Q called for a “Fell Run” back to the flags. Your path; Y
 
 ## Backblast
 
+### Q
+
+Schlitz
+
 ### Warmup
 
 - Piano Tappers
@@ -14057,6 +15861,10 @@ After that, ran one lap around the lot
 
 ## Super soldier beat down
 
+### Q
+
+Hamlet
+
 ### Warmup
 
 arm circles, jumping jacks, squats, pushups.
@@ -14072,6 +15880,10 @@ Cobra stretch, child’s pose, quad stretch, and chest opener.
 ---
 
 ## IPC Week 3 - Chris Kyle WOD
+
+### Q
+
+Emilio
 
 ### Warmup
 
@@ -14097,6 +15909,10 @@ no Mary today
 ---
 
 ## Iron Pax Week 3
+
+### Q
+
+BUB
 
 ### Warmup
 
@@ -14129,6 +15945,10 @@ Not today
 
 ## Thirsty Thursdays
 
+### Q
+
+Worm
+
 ### Warmup
 
 - 5-1 Motivators
@@ -14146,6 +15966,10 @@ PAX split up into teams for full court basketball with great beats jamming.
 ---
 
 ## Iron Pax Week 3
+
+### Q
+
+AirBiscuit
 
 ### Warmup
 
@@ -14173,6 +15997,10 @@ Chris Kyle WOD
 ---
 
 ## Let's Gooooooo!
+
+### Q
+
+KANSAS
 
 ### Warmup
 
@@ -14213,6 +16041,10 @@ Part 2
 
 ## Crazy 88's or 'lil badgers 4th VQ
 
+### Q
+
+Tuition, lil’ badger
+
 ### Warmup
 
 WMH's, Piano Tappers, 5 to 1 MVR's, Little Baby Arm Circles
@@ -14251,6 +16083,10 @@ none ran out of time
 
 ## Iron Pax Week 3
 
+### Q
+
+Jed
+
 ### Thang
 
 Format
@@ -14279,6 +16115,10 @@ Repeat this pattern for 40 minutes
 
 ## Iron Pax Week 3
 
+### Q
+
+AirBiscuit
+
 ### Warmup
 
 Willie Mays Hayes, High Knees, Lunge + Twist, Air Squats, Down Dog, World's Greatest Stretch
@@ -14306,6 +16146,10 @@ Chris Kyle WOD
 
 ## Iron pax week 3 - at the Confessional in SOCO
 
+### Q
+
+5 on 2
+
 ### Warmup
 
 Nice relaxing warmup
@@ -14322,6 +16166,10 @@ relaxing walk and a confessional
 
 ## Countimg to 11
 
+### Q
+
+WetnWild
+
 ### Warmup
 
 5:1 motivators, old man stretch, arm circles
@@ -14337,6 +16185,10 @@ LBC’s and penguin tappers
 ---
 
 ## Iron PAX Week 3 - Chris Kyle WOD
+
+### Q
+
+Slippin' Jimmy
 
 ### Warmup
 
@@ -14367,6 +16219,10 @@ Nope
 ---
 
 ## Someone needs to be the Guinea Pig
+
+### Q
+
+Fish Fry
 
 ### Warmup
 
@@ -14413,6 +16269,10 @@ Return to the flag
 
 ## A Little IPax Prep
 
+### Q
+
+Jed
+
 ### Warmup
 
 Accountability Burpees
@@ -14450,6 +16310,10 @@ Burpees
 ---
 
 ## Backblast
+
+### Q
+
+9 to 5
 
 ### Warmup
 
@@ -14491,6 +16355,10 @@ PAX - 640 M
 ---
 
 ## Backblast
+
+### Q
+
+Whip
 
 ### Warmup
 
@@ -14538,6 +16406,10 @@ Alternate until Bike Lap Complete
 
 ## A Little Light Beatdown
 
+### Q
+
+Manny
+
 ### Warmup
 
 - stretch OYO
@@ -14565,6 +16437,10 @@ Alternate until Bike Lap Complete
 
 ## iPad week 3
 
+### Q
+
+Criss-cross
+
 ### Warmup
 
 5-1, pigeon, chair modified, lil baby arm circles
@@ -14582,6 +16458,10 @@ Track your number
 ---
 
 ## Monday Motivation
+
+### Q
+
+Thumper
 
 ### Warmup
 
@@ -14621,6 +16501,10 @@ Hillbilly walkers
 
 ## SLT Meeting
 
+### Q
+
+DOS
+
 ### Warmup
 
 OYO
@@ -14639,6 +16523,10 @@ OYO during meeting
 ---
 
 ## IronPAX Week 3 - Chris Kyle WOD
+
+### Q
+
+McFly
 
 ### Warmup
 
@@ -14661,6 +16549,10 @@ Not today.
 
 ## First day of fall
 
+### Q
+
+Silicone
+
 ### Thang
 
 Cindy WOD modified
@@ -14676,6 +16568,10 @@ Cindy WOD modified
 ---
 
 ## 2.0 & MS M BD &Picnic
+
+### Q
+
+Dead Broke, 9 to 5
 
 ### Warmup
 
@@ -14701,6 +16597,10 @@ Mountain Climbers x 10
 
 ## Saturday at the Stable
 
+### Q
+
+Bliss
+
 ### Warmup
 
 - 5:1 Motivators
@@ -14724,6 +16624,10 @@ Not today
 ---
 
 ## The 5:30 Saturday rotating beatdown
+
+### Q
+
+5 on 2
 
 ### Warmup
 
@@ -14767,6 +16671,10 @@ None
 
 ## Iron pax week 2
 
+### Q
+
+Neymar
+
 ### Warmup
 
 light stretching during the first 5 min of intro
@@ -14778,6 +16686,10 @@ Please remember to log your time of completion.
 ---
 
 ## Sneak Attack 2 - Return to Castlewood
+
+### Q
+
+Manny
 
 ### Warmup
 
@@ -14794,6 +16706,10 @@ Stretch OYO
 ---
 
 ## 6 Years; Every 11 Minutes
+
+### Q
+
+Slippin' Jimmy
 
 ### Warmup
 
@@ -14817,6 +16733,10 @@ Up the ladder and down the ladder workout, with stations set up 11 yards apart. 
 
 ## SpeeDisc
 
+### Q
+
+Manny
+
 ### Warmup
 
 - WMH IC
@@ -14834,6 +16754,10 @@ COOL DOWN:
 ---
 
 ## Modify as Necessary
+
+### Q
+
+Schlitz
 
 ### Warmup
 
@@ -14878,6 +16802,10 @@ For each of the following, PAX went until failure or completion.  Once each pers
 
 ## 2nd Q bootcamp
 
+### Q
+
+Rollerblade
+
 ### Warmup
 
 Baby Arm Circles, Seal Claps, Overhead claps,Grass grabbers,Willy May Hayes downward dog
@@ -14912,6 +16840,10 @@ When excersies completed groups ran/jog/walk to baseball backstop completed 20 b
 ---
 
 ## Heavier than normal
+
+### Q
+
+5 on 2
 
 ### Warmup
 
@@ -14954,6 +16886,10 @@ Various deep stretching; using our other parts of our bodies to stretch deeper.
 
 ## IPAX week 2 Cleveland 8 track
 
+### Q
+
+Finkle
+
 ### Thang
 
 Log it here
@@ -14961,6 +16897,10 @@ Log it here
 ---
 
 ## 2 FNG's!
+
+### Q
+
+Uncle Buck
 
 ### Warmup
 
@@ -14973,6 +16913,10 @@ Elevated coupon lunges, Lawn Mowers, CPR's then lap.  Did this 4 times.  We then
 ---
 
 ## Iron Pax Week 2
+
+### Q
+
+Jed
 
 ### Warmup
 
@@ -14994,6 +16938,10 @@ Nope!
 
 ## 8 Track - IPAX Wk2
 
+### Q
+
+Manny, AirBiscuit
+
 ### Warmup
 
 - various stretches OYO
@@ -15005,6 +16953,10 @@ Nope!
 ---
 
 ## Time to get Inspired!!!
+
+### Q
+
+Rumple Minze
 
 ### Warmup
 
@@ -15051,6 +17003,10 @@ Not today
 
 ## North Star
 
+### Q
+
+Bucky
+
 ### Warmup
 
 Hops
@@ -15089,6 +17045,10 @@ Phase 3: Strength in the Darkness:muscle:
 
 ## IronPAX Week 2
 
+### Q
+
+Thumper
+
 ### Warmup
 
 Grass grabbers
@@ -15116,6 +17076,10 @@ Worlds greatest stretch
 
 ## IronPAX 2025 Week 2 - Cleveland 8 Track
 
+### Q
+
+Hamburglar
+
 ### Warmup
 
 OYO before start
@@ -15127,6 +17091,10 @@ Workout link
 ---
 
 ## Hold the Line
+
+### Q
+
+Bill Nye
 
 ### Warmup
 
@@ -15153,6 +17121,10 @@ skipped to allow at least one person finish
 
 ## Sleds, Suitcases, and Sandbags
 
+### Q
+
+Stage Fright
+
 ### Warmup
 
 5:1 motivators, imperials walkers, grass grabbers, Willie Mayes, LBACs
@@ -15175,6 +17147,10 @@ did it in the middle
 
 ## IronPAX Week #2- Cleveland Rocks
 
+### Q
+
+Bobbit
+
 ### Warmup
 
 various stretches
@@ -15190,6 +17166,10 @@ none
 ---
 
 ## Backblast
+
+### Q
+
+Hermey
 
 ### Warmup
 
@@ -15214,6 +17194,10 @@ dead bugs and pidgeon pose
 ---
 
 ## IPAX WEEK 2 — 8 Track
+
+### Q
+
+Ratigan
 
 ### Warmup
 
@@ -15269,6 +17253,10 @@ None
 
 ## Time To Be Bold
 
+### Q
+
+Rock Ride
+
 ### Warmup
 
 SSH 20 IC
@@ -15321,6 +17309,10 @@ Pick up the 6, then run back to the flags.
 
 ## Iron PAX Challenge Week 2
 
+### Q
+
+BigTex
+
 ### Warmup
 
 SSH x IC
@@ -15334,6 +17326,10 @@ Goofballs x IC
 ---
 
 ## Let’s Go!
+
+### Q
+
+Thumper
 
 ### Warmup
 
@@ -15362,6 +17358,10 @@ built into thang
 
 ## TBD
 
+### Q
+
+Freshman
+
 ### Warmup
 
 Grass grabbers
@@ -15387,6 +17387,10 @@ Bring Sally up
 ---
 
 ## Iron Pax Week 2 - 8 Track
+
+### Q
+
+Forrest
 
 ### Warmup
 
@@ -15445,6 +17449,10 @@ PAX mosey'd together until time (had to walk off the pain).
 
 ## Let’s Work!
 
+### Q
+
+Jed
+
 ### Warmup
 
 5-1 Motivators
@@ -15479,6 +17487,10 @@ Curls
 ---
 
 ## Paddock Tour
+
+### Q
+
+BenButton
 
 ### Warmup
 
@@ -15520,6 +17532,10 @@ stretching
 
 ## VQ Dubble Bubble - Remember Patrick D. Feeks (US Navy Seal)
 
+### Q
+
+DubbleBubble, Neymar
+
 ### Warmup
 
 5 Minute Stretch
@@ -15555,6 +17571,10 @@ Post Workout Stretch
 
 ## About 4 miles.
 
+### Q
+
+PillowFight
+
 ### Warmup
 
 lap and WGS
@@ -15571,6 +17591,10 @@ Results: despite several members not understanding the rules of Indian run (stop
 ---
 
 ## Backblast
+
+### Q
+
+Double D
 
 ### Warmup
 
@@ -15607,6 +17631,10 @@ Brief Yoga Flow
 ---
 
 ## Please just stop the music
+
+### Q
+
+Criss-cross
 
 ### Warmup
 
@@ -15648,6 +17676,10 @@ Station 6
 
 ## Silence is Golden/Mute Mode/Hushed Hustle/Sweet Silence/Donut Run
 
+### Q
+
+Bushwood
+
 ### Warmup
 
 - Willie Mays Hayes
@@ -15677,6 +17709,10 @@ No Time for Mary
 ---
 
 ## Dora 365
+
+### Q
+
+ledger
 
 ### Warmup
 
@@ -15708,6 +17744,10 @@ Worlds greatest stretch
 
 ## Iron Pax Week 1
 
+### Q
+
+Otter
+
 ### Warmup
 
 Toe Touch 15 Ct
@@ -15727,6 +17767,10 @@ Score is total 100 Meter runs completed
 ---
 
 ## 9/11 Memorial Beatdown
+
+### Q
+
+Jed
 
 ### Warmup
 
@@ -15750,6 +17794,10 @@ At approximately the midway pint we paused to perform 91 crunches.
 ---
 
 ## 9/11’s
+
+### Q
+
+Forrest
 
 ### Warmup
 
@@ -15803,6 +17851,10 @@ Cobra stretch
 
 ## But Lt. Dan, you ain’t got no legs.
 
+### Q
+
+Bucky
+
 ### Warmup
 
 Broga
@@ -15841,6 +17893,10 @@ Capt Morgan Squats
 
 ## IPAX Week 1  Feeks WOD
 
+### Q
+
+Rupture
+
 ### Warmup
 
 Some nice, run-focused stretching!
@@ -15860,6 +17916,10 @@ Stretching to recover from that Feeks WOD
 ---
 
 ## High/Low
+
+### Q
+
+Bucky, Jed
 
 ### Warmup
 
@@ -15912,6 +17972,10 @@ Fire hydrants
 ---
 
 ## Let's Play RISK (part deux)
+
+### Q
+
+BrownOut
 
 ### Warmup
 
@@ -15973,6 +18037,10 @@ Battle loss:
 
 ## Iron Pax Week 1 - Tribute
 
+### Q
+
+Outhouse
+
 ### Warmup
 
 Random Stretching
@@ -15989,6 +18057,10 @@ more random stretching
 
 ## Recovery at The Rock
 
+### Q
+
+Finkle
+
 ### Thang
 
 20 minute yoga progression with various warrior movements, inspired by DDP Yoga, then moved to some added stretching for 10 minutes
@@ -15996,6 +18068,10 @@ more random stretching
 ---
 
 ## IPC 2025 Week 1 at "The Way"
+
+### Q
+
+FlyBoy
 
 ### Warmup
 
@@ -16008,6 +18084,10 @@ OYO while intro to IPC took place
 ---
 
 ## Not IronPAX
+
+### Q
+
+Dowry
 
 ### Warmup
 
@@ -16059,6 +18139,10 @@ Bring Sally Up
 
 ## Not Sure Anymore...lol.. History Lesson in TaBAta?
 
+### Q
+
+Bobbit
+
 ### Warmup
 
 willy, old man, 5-1, arm circles, duck bouncers
@@ -16077,6 +18161,10 @@ none as it was done in workout
 ---
 
 ## Rock Chalk Didn't Run! - IPAX Week 1
+
+### Q
+
+Slippin' Jimmy
 
 ### Warmup
 
@@ -16103,6 +18191,10 @@ Nope
 
 ## IronPax Week 1 (again lol)
 
+### Q
+
+Bobbit
+
 ### Warmup
 
 Old man stretches, willy, phelps, butt kickers, and anything else pax wanted...many sore from doing the workout yesterday
@@ -16122,6 +18214,10 @@ none
 
 ## 20 Something
 
+### Q
+
+LugNut
+
 ### Warmup
 
 Side Stratle Hops, Downward Dog + Worlds Greatest Stretch
@@ -16140,6 +18236,10 @@ Hello Dolly, Freddy Mercury
 ---
 
 ## Baggage Handling
+
+### Q
+
+Jed
 
 ### Warmup
 
@@ -16175,6 +18275,10 @@ All while either moseying or performing Bernie’s to and from crosswalk.
 
 ## Blocktoberfest! Prost!
 
+### Q
+
+Bashful Bear
+
 ### Warmup
 
 SSH x 25 IC
@@ -16208,6 +18312,10 @@ Bratwurst bridges x 30 IC
 ---
 
 ## The Buffer Zone
+
+### Q
+
+AirBiscuit
 
 ### Thang
 
@@ -16251,6 +18359,10 @@ Block 4
 
 ## IronPAX week 1
 
+### Q
+
+Wilson (SpiritSTL)
+
 ### Thang
 
 50 min AMRAP
@@ -16264,6 +18376,10 @@ Please message in comments if you would like to post your numbers
 ---
 
 ## IronPax Week 1- Feek WOd
+
+### Q
+
+Olav
 
 ### Warmup
 
@@ -16309,6 +18425,10 @@ none today
 
 ## A Run and Lift at the Half Mile Hill
 
+### Q
+
+Flintstone
+
 ### Warmup
 
 Old man stretch, high kick toy soldiers, flamingos, 5 accountability burpees.
@@ -16322,6 +18442,10 @@ The lift (done in any order): 75 reps of each exercise done in pairs in sets of 
 ---
 
 ## Mental Grit
+
+### Q
+
+rogerroger
 
 ### Warmup
 
@@ -16353,6 +18477,10 @@ The lift (done in any order): 75 reps of each exercise done in pairs in sets of 
 
 ## "Hunting" Time with a Buddy
 
+### Q
+
+Bear Spray
+
 ### Warmup
 
 Side Straddle Hops (20)
@@ -16382,6 +18510,10 @@ Xs and Os (2 rounds)
 
 ## Iron Pax - Week 1
 
+### Q
+
+Bliss
+
 ### Warmup
 
 - Grass Grabbers
@@ -16409,6 +18541,10 @@ PAX - 56
 ---
 
 ## ?Baker's Dozen?
+
+### Q
+
+Big Spoon
 
 ### Warmup
 
@@ -16446,6 +18582,10 @@ imperial walkers
 
 ## A beatdown from a dad for current dads and future dads
 
+### Q
+
+Room Service
+
 ### Warmup
 
 Old man stretch, Willy mays hays, side straddle hop, LBAC
@@ -16469,6 +18609,10 @@ Station 3 - farmer carry 2 coupons up the bleachers snake pattern
 ---
 
 ## IPAX Week 0
+
+### Q
+
+D2
 
 ### Warmup
 
@@ -16509,6 +18653,10 @@ Shuttle Run: 5yd, home, 10yd, home, 15yd, home, 20yd, home
 ---
 
 ## Rooftop Rave!!!
+
+### Q
+
+Rumple Minze
 
 ### Warmup
 
@@ -16563,6 +18711,10 @@ Plank till end of Song
 
 ## A good old fashinoned beat down
 
+### Q
+
+FlatTire
+
 ### Warmup
 
 7:1 Motivators
@@ -16585,6 +18737,10 @@ Flutter Kicks x 30 in Cadence
 ---
 
 ## Motivating up a Hill (sort of)
+
+### Q
+
+COBOL (F3 Meramec)
 
 ### Warmup
 
@@ -16616,6 +18772,10 @@ Guantanamo
 ---
 
 ## Working 9 and 5
+
+### Q
+
+FlyBoy
 
 ### Warmup
 
@@ -16651,6 +18811,10 @@ American Hammers
 
 ## Your own pace on the team's time
 
+### Q
+
+Rorschach
+
 ### Warmup
 
 Jogged to the things stations for the introduction and did: Learning to Phelps, Willie Mays, Side Straddle hops
@@ -16674,6 +18838,10 @@ Boats and Canoes, Plank zen counting, Hip joint movement.
 ---
 
 ## Balls of Steel part 3 - The Three Kings
+
+### Q
+
+5 on 2, Rock Ride, DOS, PillowFight
 
 ### Warmup
 
@@ -16723,6 +18891,10 @@ Return to Sleds and take em back
 
 ## 11 Ways Up the Hill
 
+### Q
+
+Sandtrap
+
 ### Warmup
 
 SSH x20 IC
@@ -16768,6 +18940,10 @@ NOR YES
 
 ## ?IRON PAX WEEK 0?
 
+### Q
+
+Big Spoon
+
 ### Warmup
 
 SSH
@@ -16791,6 +18967,10 @@ Shuttle run 5-10-15-20 in between rounds
 
 ## Legs Have Feelings Too
 
+### Q
+
+Worm, Fazoli
+
 ### Warmup
 
 PAX Rotated Around leading a warm up exercise
@@ -16806,6 +18986,10 @@ PAX led a pax choice of exercises
 ---
 
 ## IronPax Week 0 (Tellier WOD)
+
+### Q
+
+Gilligan
 
 ### Warmup
 
@@ -16846,6 +19030,10 @@ PAX Cow: 00:41:12
 
 ## IPAX Week 0
 
+### Q
+
+Satellite
+
 ### Warmup
 
 Learning to Phelps, stretching
@@ -16872,6 +19060,10 @@ Stroll around the east loop
 
 ## Weighted Lake Run
 
+### Q
+
+Rock Ride
+
 ### Warmup
 
 Goofballs 20 IC
@@ -16891,6 +19083,10 @@ none
 ---
 
 ## Its been awhile
+
+### Q
+
+WetnWild
 
 ### Warmup
 
@@ -16921,6 +19117,10 @@ Did 5 burpees for broken block
 ---
 
 ## Iron Pax Week Zero
+
+### Q
+
+Jed
 
 ### Warmup
 
@@ -16963,6 +19163,10 @@ Stop timer
 ---
 
 ## Blackops at Carmen Trails
+
+### Q
+
+Hood Ornament
 
 ### Warmup
 
@@ -17014,6 +19218,10 @@ One final lap together as a group
 
 ## Backblast
 
+### Q
+
+Whip, Bashful Bear, Room Service
+
 ### Thang
 
 Is there a difference between Exhortation and encouragement?
@@ -17022,6 +19230,10 @@ What exactly are we afraid of?
 ---
 
 ## IPAX WEEK 0
+
+### Q
+
+Rock Chalk
 
 ### Warmup
 
@@ -17046,6 +19258,10 @@ IPAX WEEK 0
 ---
 
 ## Iron Pax - Week 0
+
+### Q
+
+AirBiscuit
 
 ### Warmup
 
@@ -17072,6 +19288,10 @@ Miscellaneous stretching
 ---
 
 ## Burly Chested Hill Pythons
+
+### Q
+
+Bashful Bear
 
 ### Warmup
 
@@ -17110,6 +19330,10 @@ Plank Fest for 3 minutes alternating positions every 20 seconds
 ---
 
 ## Extra Hard, Extra Long, Extra Large
+
+### Q
+
+5 on 2
 
 ### Warmup
 
@@ -17163,6 +19387,10 @@ Twice.
 
 ## Everyone Is Lucky It's IP Week 0
 
+### Q
+
+Flintstone
+
 ### Warmup
 
 Sumo Leg Lifts. Mozy to tennis courts. OYO 5 minute preparation.
@@ -17178,6 +19406,10 @@ None
 ---
 
 ## Iron Pax Week 0
+
+### Q
+
+Tuition
 
 ### Warmup
 
@@ -17199,6 +19431,10 @@ old man stretch, and various yoga
 ---
 
 ## Progressive BD
+
+### Q
+
+LugNut
 
 ### Warmup
 
@@ -17228,6 +19464,10 @@ The last rounds 2 were Ab stuff so a good Mary
 ---
 
 ## IRON PAX WEEK 0 — The Tease
+
+### Q
+
+Ratigan
 
 ### Warmup
 
@@ -17261,6 +19501,10 @@ Ran way over, no time.
 ---
 
 ## Go to Iron Pax Week 0
+
+### Q
+
+Otter
 
 ### Warmup
 
@@ -17296,6 +19540,10 @@ Each Pax Member completed at least 2 of each mode of travel
 
 ## Jed forgot about us!
 
+### Q
+
+Bill Nye
+
 ### Warmup
 
 SSH
@@ -17326,6 +19574,10 @@ Guantanamo
 
 ## Back and Forth
 
+### Q
+
+Schlitz
+
 ### Warmup
 
 - Willie Mays Hayes
@@ -17350,6 +19602,10 @@ Several exercises, each 15 seconds each side, then 30 seconds each side, then 45
 
 ## Iron Pax Challenge Week 0 at The Awakening
 
+### Q
+
+BigTex
+
 ### Warmup
 
 SSH IC
@@ -17364,6 +19620,10 @@ Zachary Tellier Beatdown
 ---
 
 ## IronPAX Week 0
+
+### Q
+
+Stage Fright
 
 ### Warmup
 
@@ -17383,6 +19643,10 @@ Ran in between each round and built off previous exercise.
 ---
 
 ## Warm Up
+
+### Q
+
+Thumper
 
 ### Warmup
 
@@ -17412,6 +19676,10 @@ Chin raises with tension band
 ---
 
 ## 11 Reps Until Rock Hard Levels
+
+### Q
+
+Sandtrap
 
 ### Warmup
 
@@ -17444,6 +19712,10 @@ ladder (partner)
 
 ## Trail Run
 
+### Q
+
+Hotspur
+
 ### Warmup
 
 Mobility Exercises - Controlled breathing on back, ankle rotations, calve mobility, 90 /90 hip mobility, mountain climbers, worlds greatest stretch, old man’s stretch, neck rotations, upper body twists
@@ -17459,6 +19731,10 @@ Movement stretching
 ---
 
 ## Iron Pax - Week Zero
+
+### Q
+
+Bliss
 
 ### Warmup
 
@@ -17485,6 +19761,10 @@ Not today
 ---
 
 ## Supersets
+
+### Q
+
+Silicone
 
 ### Thang
 
@@ -17517,6 +19797,10 @@ part of the thang
 ---
 
 ## Shaun T’s Total Body Beatdown
+
+### Q
+
+Bisquick
 
 ### Warmup
 
@@ -17581,6 +19865,10 @@ Jailbreak the entire soccer field to and fro
 
 ## Burpee Mayhem
 
+### Q
+
+5 on 2
+
 ### Warmup
 
 Goofballs
@@ -17613,6 +19901,10 @@ What you hate and what you love
 
 ## Orbiting the Rock!
 
+### Q
+
+HoJo
+
 ### Warmup
 
 Teamed up with #AO
@@ -17629,6 +19921,10 @@ Light stretching
 
 ## The 4 stations of PAIN!!!!
 
+### Q
+
+KANSAS
+
 ### Warmup
 
 baby arm circels, monkey humpers, 5-1 motivators, yoga stretches
@@ -17640,6 +19936,10 @@ baby arm circels, monkey humpers, 5-1 motivators, yoga stretches
 ---
 
 ## Setting an alarm clock
+
+### Q
+
+Worm
 
 ### Warmup
 
@@ -17663,6 +19963,10 @@ ran out of time
 
 ## Backblast
 
+### Q
+
+Outhouse
+
 ### Warmup
 
 old man stretch, WM hays, world greatest, and piano tappers
@@ -17683,6 +19987,10 @@ none
 
 ## Street Ball Hockey
 
+### Q
+
+Mello Yello
+
 ### Warmup
 
 PAX Choice
@@ -17702,6 +20010,10 @@ Ball Hockey. 3v3 one sub per team. Swap in new player with a burpee. Penalty for
 
 ## Easy as 1-2-3
 
+### Q
+
+Flintstone
+
 ### Warmup
 
 Butt Kickers, Toy Soldiers, Skipping around.
@@ -17717,6 +20029,10 @@ Push up pyramid. Started at 1, worked up to 7, then worked back down to 1.
 ---
 
 ## Stranger Things (esp. Running Up that Hill)
+
+### Q
+
+Slippin' Jimmy
 
 ### Warmup
 
@@ -17749,6 +20065,10 @@ B. Suicide sprints
 ---
 
 ## Thursday Mixer
+
+### Q
+
+Forrest
 
 ### Warmup
 
@@ -17813,6 +20133,10 @@ Downward dog
 
 ## Tractor Pull 2025
 
+### Q
+
+Klinger
+
 ### Warmup
 
 - Learning to Phelps x 10 IC
@@ -17854,6 +20178,10 @@ Negative
 
 ## The Two (or one) Towers
 
+### Q
+
+Bill Nye
+
 ### Warmup
 
 Open the Gates
@@ -17881,6 +20209,10 @@ Tower 2 and bonus tower 3 were not started
 
 ## Iron Pax is Coming Let’s Train
 
+### Q
+
+Dead Broke
+
 ### Warmup
 
 5to1 motivator
@@ -17902,6 +20234,10 @@ We did this for 4 more rounds.
 ---
 
 ## Back to School
+
+### Q
+
+AirBiscuit
 
 ### Warmup
 
@@ -17935,6 +20271,10 @@ Crunches and side crunches followed by some quick stretching
 
 ## IRON PAX WEEK NEGATIVE 1 - Who Framed Roger Rabbit? ??
 
+### Q
+
+9 to 5
+
 ### Warmup
 
 - SSH
@@ -17963,6 +20303,10 @@ Who Framed Roger Rabbit?
 
 ## Prep Work
 
+### Q
+
+Thumper
+
 ### Warmup
 
 SSH
@@ -17985,6 +20329,10 @@ Flutter Kicks - 50 reps
 ---
 
 ## Weighted Wed at the Way
+
+### Q
+
+Stage Fright
 
 ### Warmup
 
@@ -18029,6 +20377,10 @@ Run
 
 ## Meet new moves and keep the old
 
+### Q
+
+Wayne Babies
+
 ### Warmup
 
 Stretch during Mission, Core Principles, Credo and Disclaimer
@@ -18044,6 +20396,10 @@ The Beast variations
 ---
 
 ## Timers and Rhymers
+
+### Q
+
+Big Spoon
 
 ### Warmup
 
@@ -18092,6 +20448,10 @@ No Surrenders
 ---
 
 ## Backblast
+
+### Q
+
+Whip
 
 ### Warmup
 
@@ -18144,6 +20504,10 @@ PAX able to make it through 2x
 
 ## KRAKATOA
 
+### Q
+
+BrownOut
+
 ### Warmup
 
 Side Straddle Hops: 27 IC
@@ -18192,6 +20556,10 @@ High plan low plank.
 
 ## Red Light Green Light Returns
 
+### Q
+
+Bobbit
+
 ### Warmup
 
 learning to fly
@@ -18208,6 +20576,10 @@ Mary was boats and canoes with red light greenlight
 ---
 
 ## IRON PAX WEEK NEGATIVE 1 - Who Framed Roger Rabbit? ??
+
+### Q
+
+9 to 5
 
 ### Warmup
 
@@ -18244,6 +20616,10 @@ Who Framed Roger Rabbit?
 
 ## Let’s Go Fellas
 
+### Q
+
+Jed
+
 ### Warmup
 
 5-1 Motivators
@@ -18278,6 +20654,10 @@ Thrusters
 ---
 
 ## Touching grass
+
+### Q
+
+Rupture
 
 ### Thang
 
@@ -18319,6 +20699,10 @@ Glutes + Integration
 
 ## Monday Funday
 
+### Q
+
+Whip
+
 ### Warmup
 
 20 SSH IC
@@ -18358,6 +20742,10 @@ Blockees
 ---
 
 ## Systems Check or Iron Pax
+
+### Q
+
+Olav
 
 ### Warmup
 
@@ -18403,6 +20791,10 @@ Ran Out of Time
 
 ## Parent's anniversary BD
 
+### Q
+
+Charmin
+
 ### Warmup
 
 Harry Flamingos, World's greatest stretch, Grady corn, high knees, Willie Mayes Hayes
@@ -18422,6 +20814,10 @@ Low abdominal progression: reverse march, up-up-down-down, double knee up, dying
 
 ## Football, No Teams
 
+### Q
+
+Flintstone
+
 ### Warmup
 
 400M jog around the track. Brief mental preparation for the BD
@@ -18437,6 +20833,10 @@ Low abdominal progression: reverse march, up-up-down-down, double knee up, dying
 
 ## Inauguration Day
 
+### Q
+
+AirBiscuit
+
 ### Warmup
 
 Side Straddle Hop, Abe Vigodas, Willie Mays Hayes, Hamstring Sweeps, Open the Gates
@@ -18448,6 +20848,10 @@ Side Straddle Hop, Abe Vigodas, Willie Mays Hayes, Hamstring Sweeps, Open the Ga
 ---
 
 ## It's Monday
+
+### Q
+
+Drizzle
 
 ### Warmup
 
@@ -18468,6 +20872,10 @@ lemon squeezers IC
 
 ## Qsource 3.5 articulation-- at Pathfinder
 
+### Q
+
+Road Rage
+
 ### Thang
 
 QSource 3.5 - Focus on Articulation
@@ -18475,6 +20883,10 @@ QSource 3.5 - Focus on Articulation
 ---
 
 ## active recovery....ish
+
+### Q
+
+Road Rage
 
 ### Warmup
 
@@ -18502,6 +20914,10 @@ Just enough Big Boy Sit-Ups to question your life choices
 ---
 
 ## LET THE ANGER OUT Rooftop Box Social
+
+### Q
+
+Rumple Minze
 
 ### Warmup
 
@@ -18548,6 +20964,10 @@ Final Lap
 
 ## Ultimate frisbee sans “the way”
 
+### Q
+
+Criss-cross, Stage Fright
+
 ### Thang
 
 first half ultimate frisbee
@@ -18556,6 +20976,10 @@ Second half ultimate football
 ---
 
 ## Sandy Start to the Weekend
+
+### Q
+
+Thumper
 
 ### Warmup
 
@@ -18583,6 +21007,10 @@ round 4 & 5
 
 ## Backblast
 
+### Q
+
+DOS
+
 ### Warmup
 
 skipped
@@ -18604,6 +21032,10 @@ abe vigodas IC, single leg flutters IC, flat-foot LBCs OYO, side bends IC, DOS e
 ---
 
 ## Deuce Deuce
+
+### Q
+
+Clotshot
 
 ### Warmup
 
@@ -18635,6 +21067,10 @@ Recover, Recover:white_check_mark:
 
 ## Let’s Get Ready for the Weekend
 
+### Q
+
+Dead Broke
+
 ### Warmup
 
 5 to 1 motivators
@@ -18658,6 +21094,10 @@ Goal was to 100 big boy sit ups or go until time.
 ---
 
 ## Full ROM AMRAP
+
+### Q
+
+Manny
 
 ### Warmup
 
@@ -18697,6 +21137,10 @@ Longer lap after a couple more rounds
 
 ## Escape from the Asylum
 
+### Q
+
+Emilio
+
 ### Warmup
 
 - side straddle hops IC
@@ -18721,6 +21165,10 @@ PAX ran to Lafayette HS. Performed a series of calisthenic exercises. Then took 
 
 ## humpback whale watching
 
+### Q
+
+DOS
+
 ### Warmup
 
 key tappers IC, toe touches QC
@@ -18738,6 +21186,10 @@ OYO
 ---
 
 ## Something for Everyone
+
+### Q
+
+BUB
 
 ### Warmup
 
@@ -18779,6 +21231,10 @@ Shoulder Taps
 
 ## A Moment in Time and Space
 
+### Q
+
+McFly
+
 ### Warmup
 
 5-1 motivators, grass grabbers, piano tappers, WMH, various arm and shoulder stretches walked 5 steps to the thang
@@ -18813,6 +21269,10 @@ Included in workout
 
 ## Let’s empty the tank!
 
+### Q
+
+Room Service
+
 ### Warmup
 
 5-1 Motivators
@@ -18845,6 +21305,10 @@ Repeat until time
 
 ## A little bit of everything
 
+### Q
+
+Silicone
+
 ### Thang
 
 PAX completed 4 rounds of exercises 40s work 20s rest. Each round had a different focus. Strength, cardio, new or infrequent movements, mobility
@@ -18856,6 +21320,10 @@ PAX completed 4 rounds of exercises 40s work 20s rest. Each round had a differen
 ---
 
 ## Get Your Motor Runnin
+
+### Q
+
+Bobbit
 
 ### Warmup
 
@@ -18873,6 +21341,10 @@ While he does that PAX does and exercise by PAX choice.  We did burpees, blockee
 ---
 
 ## Power Surge
+
+### Q
+
+Big Spoon
 
 ### Warmup
 
@@ -18907,6 +21379,10 @@ American Hammers
 
 ## Time Goes On
 
+### Q
+
+Schlitz
+
 ### Warmup
 
 - Grass Grabbers
@@ -18931,6 +21407,10 @@ Repeated circuit, deion, and running a second time.  Each PAX tallied between 4-
 ---
 
 ## Remember the Titans - Forge @ The Way
+
+### Q
+
+Rock Ride
 
 ### Warmup
 
@@ -18980,6 +21460,10 @@ Sandbag Indian Run
 
 ## Clever & Relevant Beatdown Title
 
+### Q
+
+ledger
+
 ### Warmup
 
 5 to 1 motivators
@@ -19003,6 +21487,10 @@ Finish line lap counter = burpees (after first lap, do 1, after second lap, do 2
 ---
 
 ## Midweek Grind
+
+### Q
+
+Jed
 
 ### Warmup
 
@@ -19036,6 +21524,10 @@ Skull Crushers
 
 ## StableBEAST Challenge
 
+### Q
+
+Stage Fright
+
 ### Warmup
 
 80 yd jog, 80 yd knee high skip, SSH IC, Grass Grabbers IC, LBACs IC
@@ -19052,6 +21544,10 @@ Run back 80 yds - 15 coupon sit ups
 ---
 
 ## Reclaiming the Land!
+
+### Q
+
+FlatTire
 
 ### Warmup
 
@@ -19092,6 +21588,10 @@ LBCs in Cadence x 30
 
 ## We are not done until it’s dangling!
 
+### Q
+
+Olav
+
 ### Warmup
 
 5 core principles
@@ -19109,6 +21609,10 @@ It was a bloody mess.
 
 ## TEMPUS BREVE EST
 
+### Q
+
+Noah
+
 ### Warmup
 
 SSH; Abe V; WMH; Grass Grabbers; Learning Phelps; OYO Stretch
@@ -19121,6 +21625,10 @@ Each Team does 200 reps total of the 3 exercises in any order. When finished tea
 ---
 
 ## Dune
+
+### Q
+
+TheBeav
 
 ### Warmup
 
@@ -19157,6 +21665,10 @@ Mosey back to flag
 ---
 
 ## Tuesday Throwdown
+
+### Q
+
+Otter
 
 ### Warmup
 
@@ -19197,6 +21709,10 @@ Rd 4
 
 ## Oasis Launch
 
+### Q
+
+Clotshot
+
 ### Warmup
 
 - Imperial walkers and arm circles
@@ -19224,6 +21740,10 @@ Focused on stretching the lower body and incorporating some hip strengthening mo
 
 ## Let the Games Begin
 
+### Q
+
+Dead Broke
+
 ### Warmup
 
 5  to 1 Motivators
@@ -19243,6 +21763,10 @@ The score was 6-5 team 2 won
 ---
 
 ## Mousetrap Mondays
+
+### Q
+
+Stage Fright
 
 ### Warmup
 
@@ -19273,6 +21797,10 @@ Men only, no Marys
 
 ## A Stolen Beatdown
 
+### Q
+
+Flintstone
+
 ### Warmup
 
 Old man stretch, knees to chest, mozy around the track.
@@ -19295,6 +21823,10 @@ Cool down lap around the track in the opposite direction.
 ---
 
 ## Which Way to the Beach?
+
+### Q
+
+Dowry
 
 ### Warmup
 
@@ -19355,6 +21887,10 @@ Plank Shoulder Taps
 
 ## Bench It!
 
+### Q
+
+Bear Spray
+
 ### Warmup
 
 SSH - 20, High knees - 20, Downward dog, World’s greatest stretch
@@ -19380,6 +21916,10 @@ Ran out of time
 ---
 
 ## Wait until Santa sees this!
+
+### Q
+
+Fish Fry
 
 ### Warmup
 
@@ -19418,6 +21958,10 @@ Return to the flag
 
 ## GRATITUDE
 
+### Q
+
+Noah
+
 ### Warmup
 
 Abe V; Grass Grabbers; Learning to Phelps; Arm Circles; Downward Dog; Cobra
@@ -19433,6 +21977,10 @@ Punishing Pyramid
 ---
 
 ## ?? The British Invasion ?? Monty Python's BD Circus PART II
+
+### Q
+
+Ratigan
 
 ### Warmup
 
@@ -19484,6 +22032,10 @@ One final gallup with 3 new  volunteers around the parking lot
 
 ## Bill and Ney’s excellent adventure
 
+### Q
+
+Neymar, Bill Nye
+
 ### Warmup
 
 - Side straddle hops
@@ -19513,6 +22065,10 @@ extended the game
 
 ## Fun on Friday!
 
+### Q
+
+Karat
+
 ### Warmup
 
 7-1Motivators
@@ -19533,6 +22089,10 @@ Hillbilly blockers ICx10
 ---
 
 ## Back at the Trap
+
+### Q
+
+Bliss
 
 ### Warmup
 
@@ -19563,6 +22123,10 @@ We made it through two rounds of each.
 ---
 
 ## Field Day: yard games
+
+### Q
+
+Charmin
 
 ### Warmup
 
@@ -19599,6 +22163,10 @@ High plank chaos: all x11 IC. Mountain climbers, plank jacks, double knee ups, c
 
 ## Stableman
 
+### Q
+
+Restriction
+
 ### Thang
 
 Stableman:  (5) sets of (10) Burpees & (10) BBSU's.
@@ -19606,6 +22174,10 @@ Stableman:  (5) sets of (10) Burpees & (10) BBSU's.
 ---
 
 ## Pick Your Poison Friday
+
+### Q
+
+Bushwood
 
 ### Warmup
 
@@ -19640,6 +22212,10 @@ Bat Wings - 3 counts
 ---
 
 ## Pew Pew Lasers
+
+### Q
+
+Bashful Bear
 
 ### Warmup
 
@@ -19676,6 +22252,10 @@ Flutter Kicks - 20 IC
 
 ## Rollerblade VQ (Carnie free)
 
+### Q
+
+Rollerblade
+
 ### Warmup
 
 - 5-1 Motivators
@@ -19695,6 +22275,10 @@ Flutter Kicks - 20 IC
 ---
 
 ## A taste of IronPAX
+
+### Q
+
+Drizzle
 
 ### Warmup
 
@@ -19716,6 +22300,10 @@ none
 ---
 
 ## August 14 Playlist Throwback
+
+### Q
+
+Petey
 
 ### Warmup
 
@@ -19741,6 +22329,10 @@ Ring Of Fire x3 (70 Seconds)
 ---
 
 ## Backblast
+
+### Q
+
+Fazoli
 
 ### Warmup
 
@@ -19773,6 +22365,10 @@ Jail break back
 ---
 
 ## Just Another Number!
+
+### Q
+
+Bear Spray
 
 ### Warmup
 
@@ -19811,6 +22407,10 @@ Jackknife crunches - 20
 
 ## 5 years - Win the day!
 
+### Q
+
+Lotus Notes
+
 ### Warmup
 
 8-1 Motivators, Grass Grabbers, Learning to Phelps & Goof Balls
@@ -19829,6 +22429,10 @@ First pick 500 Squats....each Him knocked out 50 on their own, then picked up th
 ---
 
 ## 4 Year Manniversary
+
+### Q
+
+Keys
 
 ### Warmup
 
@@ -19853,6 +22457,10 @@ LBCs, Penguin Tappers, Slow Mosey around the lot.
 ---
 
 ## Pyramid Scheme
+
+### Q
+
+Skol
 
 ### Warmup
 
@@ -19907,6 +22515,10 @@ High plank / lift Right Foot / lift Left Foot / lift right arm / lift left arm /
 
 ## barnacle bobs bd and coffee at Selvidge Middle
 
+### Q
+
+DOS
+
 ### Warmup
 
 OYO internal stretches
@@ -19924,6 +22536,10 @@ Flutter kicks IC
 ---
 
 ## Pre-BD BD
+
+### Q
+
+Dowry
 
 ### Warmup
 
@@ -19950,6 +22566,10 @@ Big Boy Situps
 ---
 
 ## Variety Pack
+
+### Q
+
+Sandtrap
 
 ### Warmup
 
@@ -19994,6 +22614,10 @@ Lap w 5 Merkins, 10 squats, 15 BBSU at each 100m
 ---
 
 ## A Little Something for Everyone to Celebrate
+
+### Q
+
+Hamburglar
 
 ### Warmup
 
@@ -20047,6 +22671,10 @@ In Thang 3
 
 ## Let’s Get Over The Mid Week Slump
 
+### Q
+
+Dead Broke
+
 ### Warmup
 
 5 to 1 Motivators
@@ -20084,6 +22712,10 @@ Did lunges the entire field and at each yard line stopped and did 3 merkins
 
 ## Do the (Sandbag) Work
 
+### Q
+
+Rock Ride
+
 ### Warmup
 
 Butt kickers 20 IC
@@ -20109,6 +22741,10 @@ none
 ---
 
 ## It's Tuesday, you know what that means...
+
+### Q
+
+FlatTire
 
 ### Warmup
 
@@ -20148,6 +22784,10 @@ Farmer Carry
 
 ## Back To School Special
 
+### Q
+
+Worm
+
 ### Warmup
 
 - SSH
@@ -20166,6 +22806,10 @@ Fantastic music blasted as we all educated PAX on 80s training montages.
 ---
 
 ## Downward Dawn
+
+### Q
+
+Stanley
 
 ### Warmup
 
@@ -20206,6 +22850,10 @@ Corpse Pose
 ---
 
 ## Big Muscles
+
+### Q
+
+Finkle
 
 ### Warmup
 
@@ -20261,6 +22909,10 @@ Repeat starting with Round 1, 10 reps each exercise instead of EMOM.
 
 ## Murder Bodies
 
+### Q
+
+Bobbit
+
 ### Thang
 
 6 stations up the big hill 100 yrds total...murder bunny between stations.  On the way back down, 1 frisbee per station 3 blockees and countdown merkins 20-1.  Murder rabbit between spots
@@ -20297,6 +22949,10 @@ We did modify a bit at the end as this was very difficult and we wanted to finis
 ---
 
 ## The Running Man
+
+### Q
+
+Bashful Bear
 
 ### Warmup
 
@@ -20341,6 +22997,10 @@ Boats and Canoes
 
 ## MWM
 
+### Q
+
+Matchbox
+
 ### Warmup
 
 5-1, Batwings, L2P, WMH, Grassgrabbers
@@ -20366,6 +23026,10 @@ flutter kicks, LBCs, flutter kicks, Freddy mercury’s, flutter kicks
 ---
 
 ## Back to School: Math!
+
+### Q
+
+Schlitz
 
 ### Warmup
 
@@ -20427,6 +23091,10 @@ Round 6: Exponents again
 
 ## Qsource 3.4 (Vision) at Roux
 
+### Q
+
+Munchies
+
 ### Thang
 
 Tha is to PAX for keeping us on task and saving next week's topic until next week.
@@ -20434,6 +23102,10 @@ Tha is to PAX for keeping us on task and saving next week's topic until next wee
 ---
 
 ## The Magnificent Mile
+
+### Q
+
+Flintstone
 
 ### Warmup
 
@@ -20453,6 +23125,10 @@ None
 ---
 
 ## Mondays are Made for Greatness
+
+### Q
+
+Bliss
 
 ### Warmup
 
@@ -20483,6 +23159,10 @@ We made it through two rounds of each.
 ---
 
 ## Monday fun day
+
+### Q
+
+BenButton
 
 ### Warmup
 
@@ -20517,6 +23197,10 @@ Part III
 ---
 
 ## Slow Death by Flying Dutchmen
+
+### Q
+
+Waffle Fries
 
 ### Thang
 
@@ -20591,6 +23275,10 @@ Station 4: Cardio
 
 ## Waffle 600
 
+### Q
+
+Waffle Fries
+
 ### Warmup
 
 - Dwarf Jacks
@@ -20628,6 +23316,10 @@ PAX performed the following exercises for the listed number of points. Once 150 
 
 ## Out of the Paddock
 
+### Q
+
+Stanley
+
 ### Warmup
 
 stretch on your own
@@ -20645,6 +23337,10 @@ stretch OYO
 
 ## Fun Friday > Pop-Up Lunch at Joey B’s
 
+### Q
+
+Skol
+
 ### Warmup
 
 Pretzel bites & Fried Pickles
@@ -20660,6 +23356,10 @@ One cool down beverage inside
 ---
 
 ## It's Friday It's Friday - AKA Level Up
+
+### Q
+
+Wilson (SpiritSTL)
 
 ### Warmup
 
@@ -20701,6 +23401,10 @@ Skipped Mary for time
 
 ## Left High and Dry
 
+### Q
+
+Matchbox, Criss-cross, Stage Fright
+
 ### Warmup
 
 Hillbillies, 5:1 motivators, piano rappers, bat wings, seal claps, etc.
@@ -20712,6 +23416,10 @@ PAX led a great BD. Split into 2 teams. On one end PAX did 5 merkins, 5 crunches
 ---
 
 ## No Dunks Today
+
+### Q
+
+Restriction
 
 ### Warmup
 
@@ -20744,6 +23452,10 @@ Plank - 2 minutes
 ---
 
 ## Down Range from The Kingdom
+
+### Q
+
+Pinky (The Kingdom)
 
 ### Warmup
 
@@ -20792,6 +23504,10 @@ Exercises:
 
 ## Back to School: Recess!
 
+### Q
+
+Schlitz
+
 ### Warmup
 
 - Grass Grabbers
@@ -20820,6 +23536,10 @@ having too much fun, no Mary
 
 ## Fire On The Mountain (Mt. Gherkin)
 
+### Q
+
+Flintstone
+
 ### Warmup
 
 Butt kickers and toy soldiers down and back to the bathrooms. One big lap around the small lake.
@@ -20840,6 +23560,10 @@ A good hard lap around the big lake (this is the small loop)
 ---
 
 ## Time to kick the tires and light the fires!
+
+### Q
+
+Drizzle
 
 ### Warmup
 
@@ -20863,6 +23587,10 @@ Dora, see below (3 man team did 300 reps); one man works, one man runs
 ---
 
 ## Strength in 3's!
+
+### Q
+
+NameTag
 
 ### Warmup
 
@@ -20902,6 +23630,10 @@ Core
 
 ## Thirsty Thursdays
 
+### Q
+
+Worm
+
 ### Warmup
 
 - Batwings
@@ -20929,6 +23661,10 @@ PAX closed out as the overall winner with 7 correct guesses.
 
 ## 2 Mile Sandbag Partner Run
 
+### Q
+
+Rock Ride
+
 ### Warmup
 
 But Kickers 20 IC
@@ -20948,6 +23684,10 @@ None
 
 ## Short Circuit
 
+### Q
+
+Satellite
+
 ### Warmup
 
 Learning to Phelps, Willie Mayes Hayes, Side Straddle Hops, Goofballs, Forward Arm Circles, Backward Arm Circles, Pretzels, Seal Claps
@@ -20963,6 +23703,10 @@ Partnered up. Partners start travel in opposite directions around the short loop
 ---
 
 ## House of Cards ♦️♠️♥️♣️
+
+### Q
+
+9 to 5
 
 ### Warmup
 
@@ -20989,6 +23733,10 @@ Shuffle the deck. Flip whole set of cards at a time. The number on the card = re
 ---
 
 ## AMRAP Wednesday!
+
+### Q
+
+Sandtrap
 
 ### Warmup
 
@@ -21029,6 +23777,10 @@ Partner travel to lights up the hill, stop at lights and do exercise:
 
 ## fins up!
 
+### Q
+
+DOS
+
 ### Warmup
 
 Stretch OYO
@@ -21045,6 +23797,10 @@ Some single leg flutter kicks and vups IC
 ---
 
 ## Back and Forth
+
+### Q
+
+Zero Turn-STL County Line
 
 ### Warmup
 
@@ -21094,6 +23850,10 @@ Mosey forward
 
 ## Simple then Complex
 
+### Q
+
+Rorschach
+
 ### Warmup
 
 Harry Flamingos -> Learning to Phelps -> Little Baby Arm circles -> Accountability Burpees (PAX) ->Willie Mays Hays ->Worlds Greatest Stretch
@@ -21117,6 +23877,10 @@ Overall 4 rounds of this
 ---
 
 ## Wacky Wednesday
+
+### Q
+
+Whip
 
 ### Warmup
 
@@ -21165,6 +23929,10 @@ Broad Jumps
 
 ## Give someone enough rope.
 
+### Q
+
+Bucky
+
 ### Warmup
 
 - Imperial blockers
@@ -21205,6 +23973,10 @@ Rotate & Repeat x2
 
 ## Backblast
 
+### Q
+
+Slippin' Jimmy
+
 ### Warmup
 
 - 5-1 motivators
@@ -21225,6 +23997,10 @@ Rotate & Repeat x2
 ---
 
 ## Woodstock '99 Appreciation
+
+### Q
+
+BrownOut
 
 ### Warmup
 
@@ -21294,6 +24070,10 @@ PAX to Marge: 10 with a 4 count down
 
 ## Dirty 30s - Everyone Remembers Their First Time
 
+### Q
+
+Hood Ornament
+
 ### Warmup
 
 5 to 1 motivators (in cadence)
@@ -21338,6 +24118,10 @@ None, Recover Recover from the BD
 ---
 
 ## Back to School: History
+
+### Q
+
+Schlitz
 
 ### Warmup
 
@@ -21406,6 +24190,10 @@ Safe to say colonial-era US history was not the PAX's strength this morning.
 
 ## The Anvil: Prelude
 
+### Q
+
+Surge (JeffCo)
+
 ### Warmup
 
 Run a lap while explaining the Thang
@@ -21436,6 +24224,10 @@ Close with Rope Climb IC
 ---
 
 ## Tank Top Tuesday
+
+### Q
+
+Jed
 
 ### Warmup
 
@@ -21470,6 +24262,10 @@ PAC then ran another lap that mirrored the first.
 ---
 
 ## It's Monday
+
+### Q
+
+Dowry
 
 ### Warmup
 
@@ -21544,6 +24340,10 @@ High Low Planks IC x 12
 
 ## Modified tour de trap
 
+### Q
+
+Matchbox
+
 ### Warmup
 
 5-1s, Batwings, L2P, WMH, Grassgrabbers
@@ -21559,6 +24359,10 @@ all the flutter kicks
 ---
 
 ## Show 'em how it's done!
+
+### Q
+
+FlatTire
 
 ### Warmup
 
@@ -21587,6 +24391,10 @@ Flutter Kicks x 30 in cadence
 
 ## Backblast
 
+### Q
+
+Rock Chalk
+
 ### Warmup
 
 Lots o' stretching
@@ -21610,6 +24418,10 @@ Always perform merkins and an ab workout, run ~70 yards down the track, 2 burpee
 
 ## Run BB
 
+### Q
+
+AirBiscuit
+
 ### Thang
 
 queeny trail run lead by PAX
@@ -21617,6 +24429,10 @@ queeny trail run lead by PAX
 ---
 
 ## Laps and Coupon work!
+
+### Q
+
+Uncle Buck
 
 ### Warmup
 
@@ -21656,6 +24472,10 @@ Recover, Recover:
 
 ## Made it Work Today
 
+### Q
+
+Noah
+
 ### Warmup
 
 See the card below.
@@ -21671,6 +24491,10 @@ See the card below.
 ---
 
 ## August = Relief?
+
+### Q
+
+Emilio
 
 ### Warmup
 
@@ -21691,6 +24515,10 @@ Ran out of time for Mary
 ---
 
 ## Back in the Saddle
+
+### Q
+
+Amber Alert
 
 ### Warmup
 
@@ -21714,6 +24542,10 @@ Ran out of time for Mary
 ---
 
 ## Friday Fun DAy
+
+### Q
+
+Karat
 
 ### Warmup
 
@@ -21744,6 +24576,10 @@ Burpee's to Up, Down by Morgan Wallen
 
 ## Soccer at the Trap
 
+### Q
+
+Stage Fright
+
 ### Warmup
 
 5:1 Motivators, Abe V, Burpees, Grass grabbers, 100 yd run
@@ -21755,6 +24591,10 @@ Played soccer and threw in occasional exercises throughout game. Game ended in a
 ---
 
 ## Sandy Spinal Tap
+
+### Q
+
+Skol
 
 ### Warmup
 
@@ -21783,6 +24623,10 @@ Plank hold with left knee to elbow for count of 11 by PAX
 ---
 
 ## Back in the Q-Saddle - so inspired
+
+### Q
+
+FlyBoy
 
 ### Warmup
 
@@ -21828,6 +24672,10 @@ LBCs IC
 
 ## Footy Friday
 
+### Q
+
+ledger
+
 ### Warmup
 
 SSH
@@ -21847,6 +24695,10 @@ Winning team did a victory lap to pick up cones while losing team did monkey hum
 ---
 
 ## Back to School: P.E. (Physical Endurance)
+
+### Q
+
+Schlitz
 
 ### Warmup
 
@@ -21884,6 +24736,10 @@ Freddy Mercuries
 
 ## CrossFit Games
 
+### Q
+
+Rock Ride
+
 ### Warmup
 
 SSH 20 IC
@@ -21913,6 +24769,10 @@ Dying Cockroaches 10 IC
 
 ## Free Throws Are Really, Really Hard
 
+### Q
+
+Sandtrap
+
 ### Warmup
 
 - SSH x20 IC
@@ -21936,6 +24796,10 @@ Average NCAA team free throw percentage is 70%. We must beat that as a team.
 ---
 
 ## Back to School: Science!
+
+### Q
+
+Schlitz
 
 ### Warmup
 
@@ -22005,6 +24869,10 @@ Calves Your calf is primarily composed of three muscles: the gastrocnemius, sole
 
 ## Hoop Potatoes
 
+### Q
+
+BrownOut
+
 ### Warmup
 
 Good Mornings  10 IC
@@ -22035,6 +24903,10 @@ AI / vibe coded app would randomly buzz between 1 and 2 minutes.  If team was bu
 ---
 
 ## End of July Fireworks
+
+### Q
+
+Double D
 
 ### Warmup
 
@@ -22089,6 +24961,10 @@ Yoga-ish flow to conclude
 
 ## Double Dutch
 
+### Q
+
+AirBiscuit
+
 ### Warmup
 
 Jumps, Waves, Arm swing, Golf swing, Dead arms, Torso twist, Impact knees
@@ -22125,6 +25001,10 @@ Balance drills + miscellaneous stretching
 ---
 
 ## Would you like to play a Game?
+
+### Q
+
+Rumple Minze
 
 ### Warmup
 
@@ -22202,6 +25082,10 @@ PAX ONLY GOT 1 RIGHT!!!
 
 ## Slam Dump comes to the Trap
 
+### Q
+
+Slam Dump (STL - Meramec), WetnWild
+
 ### Warmup
 
 - 5to1 Motivators
@@ -22252,6 +25136,10 @@ Laid on Back, got some deep breaths, and recovered for the day
 
 ## 4 Years!!!
 
+### Q
+
+Thumper
+
 ### Warmup
 
 Grass Grabbers
@@ -22276,6 +25164,10 @@ American Hammers
 
 ## 3 year Manniversary
 
+### Q
+
+Freshman
+
 ### Warmup
 
 - 40 SSH IC
@@ -22294,6 +25186,10 @@ Bring Sally up
 ---
 
 ## Wet and Wild Wednesday
+
+### Q
+
+Whip
 
 ### Warmup
 
@@ -22335,6 +25231,10 @@ Lawn Mowers
 ---
 
 ## Row, row, row your boat.
+
+### Q
+
+5 on 2
 
 ### Warmup
 
@@ -22390,6 +25290,10 @@ Boats and Canoes
 
 ## Keeping it A Hunnerd
 
+### Q
+
+Rock Chalk
+
 ### Warmup
 
 Run the lakes, various stretching
@@ -22412,6 +25316,10 @@ Lined up at the base of the hill. Always  reps of an exercise, but PAX choice on
 ---
 
 ## Another gloomy day
+
+### Q
+
+Drizzle
 
 ### Warmup
 
@@ -22442,6 +25350,10 @@ as a group, take turns plank walking a gym class scooter around the track; if yo
 
 ## Facing Hard Things so we can push through hard things
 
+### Q
+
+Room Service
+
 ### Warmup
 
 Willy Mays Hays, grass grabbers, old man stretch, side straddle hops
@@ -22462,6 +25374,10 @@ Plank shoulder taps
 ---
 
 ## Lifting weights
+
+### Q
+
+Hermey
 
 ### Warmup
 
@@ -22498,6 +25414,10 @@ Penguin tappers
 ---
 
 ## Flex Appeal
+
+### Q
+
+Double D
 
 ### Warmup
 
@@ -22541,6 +25461,10 @@ Yoga-ish flow to conclude
 
 ## Kaiju Armageddon
 
+### Q
+
+DOS, Bucky
+
 ### Warmup
 
 7to1 Motivators
@@ -22567,6 +25491,10 @@ DOS Error, PAX style
 
 ## Let’s Get The Week Started Off Right
 
+### Q
+
+Dead Broke
+
 ### Warmup
 
 5to1 Motivator
@@ -22588,6 +25516,10 @@ We worked in pairs and the goal was for each pair to do the below workouts with 
 ---
 
 ## Forge at the Trap
+
+### Q
+
+DOS, Olav, Bucky
 
 ### Warmup
 
@@ -22617,6 +25549,10 @@ DOS Error
 
 ## Monday Run Day - Take Two
 
+### Q
+
+AirBiscuit
+
 ### Warmup
 
 Abe Vigodas, Lunges, Willie Mays Hayes, Hamstring Sweeps, Down Dog, World's Greatest Stretch
@@ -22632,6 +25568,10 @@ Brief stretching
 ---
 
 ## Midsection Mayhem
+
+### Q
+
+Big Spoon
 
 ### Warmup
 
@@ -22675,6 +25615,10 @@ BBS
 
 ## Sasquatch CSAUP - BD #3
 
+### Q
+
+Stage Fright
+
 ### Warmup
 
 3 runs and 2 previous BDs by PAX and PAX
@@ -22702,6 +25646,10 @@ Low squat coupon hold - 60s
 
 ## Pre-squatch
 
+### Q
+
+Schlitz
+
 ### Warmup
 
 light movements
@@ -22718,6 +25666,10 @@ stretching
 
 ## The Boys of Fall
 
+### Q
+
+Sandtrap
+
 ### Warmup
 
 - SSH x15 IC
@@ -22733,6 +25685,10 @@ stretching
 ---
 
 ## Balls of steel part Deux (second half)
+
+### Q
+
+Drop Out (SpiritSTL), 5 on 2
 
 ### Thang
 
@@ -22773,6 +25729,10 @@ Bear crawl back to the base of the hill.
 
 ## Balls of Steel Part Deux
 
+### Q
+
+5 on 2, Drop Out (SpiritSTL)
+
 ### Warmup
 
 5-1 motivators
@@ -22807,6 +25767,10 @@ Until 5:00 AM
 
 ## Not All Fun and Games
 
+### Q
+
+Munchies
+
 ### Warmup
 
 Learning to Phelps, LBAC, triceps stretch
@@ -22835,6 +25799,10 @@ Guantanamo Bay
 
 ## Backblast
 
+### Q
+
+FlatTire
+
 ### Warmup
 
 5:1 Motivators
@@ -22857,6 +25825,10 @@ BBSUs in Cadence x 20
 ---
 
 ## Testicles of Tungsten
+
+### Q
+
+Dowry
 
 ### Warmup
 
@@ -22901,6 +25873,10 @@ Mosey back to flags
 
 ## Backblast
 
+### Q
+
+PillowFight
+
 ### Thang
 
 BIKE intervals w SEA HORSE timer
@@ -22912,6 +25888,10 @@ run back / Dr Dick Planks
 ---
 
 ## A little bit of this, a little bit of that
+
+### Q
+
+Sandtrap
 
 ### Warmup
 
@@ -22960,6 +25940,10 @@ Incremental Improvement - add 1 per round; 5 then pyramid down
 
 ## Weight off our shoulders
 
+### Q
+
+Stanley
+
 ### Warmup
 
 Old Man Stretch - OYO
@@ -22993,6 +25977,10 @@ Hello Dollys - 12 IC
 ---
 
 ## Onto The Next One - Mothra Flag Handoff
+
+### Q
+
+Jed
 
 ### Warmup
 
@@ -23037,6 +26025,10 @@ Run back to coupons
 
 ## Sweaty Forearms
 
+### Q
+
+Satellite
+
 ### Warmup
 
 mosey lap around the pasture, learning to Phelps, stretching
@@ -23048,6 +26040,10 @@ mosey lap around the pasture, learning to Phelps, stretching
 ---
 
 ## Sebulba's Leg Day
+
+### Q
+
+Waffle Fries
 
 ### Warmup
 
@@ -23101,6 +26097,10 @@ Movement:
 
 ## Kotter Challenge Reward
 
+### Q
+
+AirBiscuit
+
 ### Warmup
 
 SSH, Willie Mays Hayes, Abe Vigodas, Learning to Phelps, Down Dog, World's Greatest Stretch, Open the Gates
@@ -23116,6 +26116,10 @@ Brief stretching
 ---
 
 ## Free Throws Are Hard
+
+### Q
+
+Sandtrap
 
 ### Warmup
 
@@ -23141,6 +26145,10 @@ Average NCAA team free throw percentage is 70%. We must beat that as a team.
 
 ## Steamy TABATA
 
+### Q
+
+Rock Chalk
+
 ### Warmup
 
 Imperial walkers, lots o' stretching
@@ -23165,6 +26173,10 @@ Last Round - 8 rounds total,
 ---
 
 ## Crazy Train: An Ozzy Tribute
+
+### Q
+
+BenButton
 
 ### Warmup
 
@@ -23207,6 +26219,10 @@ Stretch
 
 ## Crazy Train: an Ozzy Teibute
 
+### Q
+
+BenButton
+
 ### Warmup
 
 side straddle hops, arm circles, Willy mays Hayes. Song: Crazy Train
@@ -23248,6 +26264,10 @@ Stretch
 
 ## 369 Mafia!
 
+### Q
+
+Bashful Bear
+
 ### Warmup
 
 5 to 1 Motivators, Old Man Stretch, Willy Mays Hayes x 10, Grass Grabbers x 10, Learning to Phelps x 10, Seal Claps x 10, 1 lap around the track
@@ -23276,6 +26296,10 @@ Keeping with the format, 2 minutes of AMRAP: 3 Big Bois, 6 Mountain Climbers (Ha
 ---
 
 ## Couposable Mile
+
+### Q
+
+Bobbit
 
 ### Warmup
 
@@ -23311,6 +26335,10 @@ Shipwreck Dollies
 
 ## Backblast
 
+### Q
+
+Sandtrap
+
 ### Warmup
 
 - SSH x25 IC
@@ -23341,6 +26369,10 @@ Run around lake x1
 
 ## Swing Around Fun Town
 
+### Q
+
+Bobbit
+
 ### Warmup
 
 Willy, old man, arm circles, 5-1,jog
@@ -23357,6 +26389,10 @@ V ups and American hammers 20 each
 ---
 
 ## Rainbow streak?……no rainbow, but got a beatdown in! And the weather was nice!
+
+### Q
+
+Room Service
 
 ### Warmup
 
@@ -23390,6 +26426,10 @@ Flutter kicks
 
 ## The Arm Farm
 
+### Q
+
+Clotshot
+
 ### Warmup
 
 Pretzels, arm circles, forearm stretches, tricep stretch, shoulder stretch
@@ -23420,6 +26460,10 @@ PAX listened to the song "Roxanne" by the Police, holding a superman pose throug
 
 ## House of Cards ♦️♠️♥️♣️
 
+### Q
+
+9 to 5
+
 ### Thang
 
 House of Cards ♦️♠️♥️♣️
@@ -23440,6 +26484,10 @@ See how the cards fell in the replies. Thrusters were brutal
 ---
 
 ## You're a Star
+
+### Q
+
+Otter
 
 ### Warmup
 
@@ -23491,6 +26539,10 @@ Mosey back to Pavilion
 
 ## Let’s Burn some Calories Before the Heat Hits
 
+### Q
+
+Dead Broke
+
 ### Warmup
 
 7 to 1 motivators
@@ -23530,6 +26582,10 @@ We ran out of time!
 
 ## Backblast
 
+### Q
+
+Cyclone
+
 ### Warmup
 
 Side straddle hops, imperial walkers, Willie Mays Hays, Baby Arm Circles, Goofballs
@@ -23556,6 +26612,10 @@ Lunges
 ---
 
 ## Mondays with Matchbox
+
+### Q
+
+Matchbox
 
 ### Warmup
 
@@ -23591,6 +26651,10 @@ all the flutter kicks mixed with LBCs and mountain climbers
 ---
 
 ## The Roux Is What You Do
+
+### Q
+
+FlatTire
 
 ### Warmup
 
@@ -23643,6 +26707,10 @@ WWII sit ups
 
 ## Backblast
 
+### Q
+
+Peloton
+
 ### Warmup
 
 - 5:1 Motivators
@@ -23678,6 +26746,10 @@ WWII sit ups
 
 ## Monday (Modified) Run Day
 
+### Q
+
+AirBiscuit
+
 ### Warmup
 
 SSH, Willie Mays Hayes, Abe Vigodas, Down Dog, World's Greatest Stretch
@@ -23703,6 +26775,10 @@ Miscellaneous stretching
 ---
 
 ## 300
+
+### Q
+
+Slippin' Jimmy
 
 ### Warmup
 
@@ -23750,6 +26826,10 @@ flutter kicks (IC), crab cakes (IC)
 ---
 
 ## Time to start your week
+
+### Q
+
+BUB
 
 ### Warmup
 
@@ -23805,6 +26885,10 @@ Included in BD
 
 ## Saturday Burns
 
+### Q
+
+Neymar
+
 ### Warmup
 
 - baby arm circles
@@ -23836,6 +26920,10 @@ Best dancer chooses final workout
 ---
 
 ## Finally Friday!
+
+### Q
+
+Jayhawk
 
 ### Warmup
 
@@ -23872,6 +26960,10 @@ nope
 
 ## Friday nonsense
 
+### Q
+
+Criss-cross
+
 ### Thang
 
 5 minute burpee timer
@@ -23882,6 +26974,10 @@ You remain a base runner until you are out
 ---
 
 ## Game Day
+
+### Q
+
+Manny
 
 ### Warmup
 
@@ -23898,6 +26994,10 @@ no dribble basketball w/ 10 burpees during a timeout
 ---
 
 ## The Great Cornholio!
+
+### Q
+
+Rock Chalk
 
 ### Warmup
 
@@ -23941,6 +27041,10 @@ Perpetual Cornhole - 1 man from each team throws 4 bags at a time. Every round h
 
 ## Coffee Chaos Kickball
 
+### Q
+
+Keynote
+
 ### Warmup
 
 - SSH
@@ -23970,6 +27074,10 @@ Home Run Rule:
 
 ## Backblast
 
+### Q
+
+Flintstone
+
 ### Warmup
 
 Willy Maze Haze, lat stretch, arm stretch, old man stretch, slow jog to Logan sign and back.
@@ -23985,6 +27093,10 @@ None
 ---
 
 ## Self-guided Tour
+
+### Q
+
+Otter, Manny
 
 ### Warmup
 
@@ -24021,6 +27133,10 @@ Q called time at 6:10. All the PAX had completed Thang #1 and a couple had compl
 ---
 
 ## A Day at the Asylum
+
+### Q
+
+Forrest
 
 ### Warmup
 
@@ -24088,6 +27204,10 @@ Cobra stretch
 
 ## Backblast
 
+### Q
+
+Big Spoon
+
 ### Warmup
 
 Goofballs
@@ -24123,6 +27243,10 @@ Goal for the PAX was to complete 3 rounds.  Some guys did more, some guys did le
 ---
 
 ## The final major
+
+### Q
+
+Criss-cross
 
 ### Warmup
 
@@ -24160,6 +27284,10 @@ Curls 70,60
 ---
 
 ## Thursday Throw-Down
+
+### Q
+
+Whip
 
 ### Warmup
 
@@ -24243,6 +27371,10 @@ EMOM-style finisher
 
 ## Party at the Paddock
 
+### Q
+
+Dowry
+
 ### Warmup
 
 SSH IC x 20
@@ -24307,6 +27439,10 @@ Bonnie Blairs (Hard way)
 
 ## Let’s go for a run (but not only a run!)
 
+### Q
+
+9 to 5
+
 ### Warmup
 
 - Let’s mosey
@@ -24332,6 +27468,10 @@ COR & NOR
 
 ## Whats in a Name?
 
+### Q
+
+Bobbit
+
 ### Warmup
 
 Run, stretches, go
@@ -24352,6 +27492,10 @@ We did 10 accountability Burpee’s for people HCing  the morning of…
 ---
 
 ## Wednesday Calisthenics
+
+### Q
+
+Charmin
 
 ### Warmup
 
@@ -24399,6 +27543,10 @@ Rosalitas on and off of coupon (heels taps top of coupon the spread feet apart a
 
 ## All-Star Game
 
+### Q
+
+Sandtrap
+
 ### Warmup
 
 - 5 to 1 motivators
@@ -24435,6 +27583,10 @@ NOR ✅
 
 ## Hyrox Pit
 
+### Q
+
+Bucky
+
 ### Warmup
 
 Stretching
@@ -24468,6 +27620,10 @@ More Stretching
 ---
 
 ## Round & Round
+
+### Q
+
+Jed
 
 ### Warmup
 
@@ -24511,6 +27667,10 @@ Monkey Humpers
 
 ## BLIMPS over Arkham
 
+### Q
+
+BrownOut
+
 ### Warmup
 
 Little Baby Arm Circles 12 IC
@@ -24547,6 +27707,10 @@ Child’s Pose
 ---
 
 ## 3-Year Maniversary
+
+### Q
+
+Norton
 
 ### Warmup
 
@@ -24610,6 +27774,10 @@ Finished with a Sprint
 
 ## Another trip around the sun
 
+### Q
+
+Jayhawk
+
 ### Warmup
 
 Old man stretch
@@ -24651,6 +27819,10 @@ not today
 
 ## Creekside Fun
 
+### Q
+
+Wilson (SpiritSTL)
+
 ### Warmup
 
 LBACs
@@ -24684,6 +27856,10 @@ Run back on paved path to the beginning of the creek and repeat.  We finished 2 
 
 ## The Gangs of Wildwood
 
+### Q
+
+Slippin' Jimmy
+
 ### Warmup
 
 - 5-1 Motivators
@@ -24708,6 +27884,10 @@ Battle
 ---
 
 ## Dirty 30
+
+### Q
+
+Otter
 
 ### Warmup
 
@@ -24759,6 +27939,10 @@ WE DIDN'T COMPLETE ALL 30 BECAUSE WE GOT KICKED OUT OF THE PAVILLION FOR A SWIM 
 
 ## Ain’t No Rest for the Wicked
 
+### Q
+
+Flintstone
+
 ### Warmup
 
 Willy maze haze, grass grabbers, lat stretch, shoulder stretch, 400m jog
@@ -24774,6 +27958,10 @@ Rounds of increasing reps of the following exercises with a 100m jog in between 
 ---
 
 ## Backblast
+
+### Q
+
+Mello Yello
 
 ### Warmup
 
@@ -24802,6 +27990,10 @@ Not Today
 ---
 
 ## HOLD
+
+### Q
+
+Fazoli
 
 ### Warmup
 
@@ -24842,6 +28034,10 @@ PAX choice.  Everyone picked an Ab exercise
 
 ## Backblast
 
+### Q
+
+Wayne Babies
+
 ### Warmup
 
 some stretches, went over our mission, CPs, credo and disclaimer
@@ -24878,6 +28074,10 @@ LBTs little baby twists and Wonderboys
 
 ## Backblast
 
+### Q
+
+Flintstone
+
 ### Warmup
 
 Grass Grabbers, shoulder stretch, brisk run up the Diamond Back hill to the basketball courts. Some debated whether or not this run was a warm up or part of the thang. Definitely a warm up.
@@ -24900,6 +28100,10 @@ None
 ---
 
 ## Agility!
+
+### Q
+
+D2
 
 ### Warmup
 
@@ -24939,6 +28143,10 @@ Heals to Heaven
 
 ## ? Fire Starter Friday ?
 
+### Q
+
+Whip
+
 ### Warmup
 
 20 SSH
@@ -24973,6 +28181,10 @@ Skull Crushers
 
 ## The beautiful game
 
+### Q
+
+WetnWild
+
 ### Warmup
 
 did active warmup stretches
@@ -24988,6 +28200,10 @@ none
 ---
 
 ## It’s an Ultimate Experience
+
+### Q
+
+Thumper
 
 ### Warmup
 
@@ -25013,6 +28229,10 @@ the imperial walkers
 ---
 
 ## Summer Time Fun
+
+### Q
+
+rogerroger
 
 ### Warmup
 
@@ -25041,6 +28261,10 @@ Ultimate Frisbee
 
 ## War! - The Game
 
+### Q
+
+5 on 2
+
 ### Warmup
 
 5-1 motivators
@@ -25064,6 +28288,10 @@ Played 4 games; made team trades during it
 ---
 
 ## Friday Flex
+
+### Q
+
+Jed
 
 ### Warmup
 
@@ -25119,6 +28347,10 @@ Back to flags
 
 ## PlasmaPie DiscoToss 3000
 
+### Q
+
+Rock Chalk
+
 ### Warmup
 
 5-1 motivators, imperial walkers, stretching
@@ -25150,6 +28382,10 @@ PlasmaPie DiscoToss 3000 (we played Kan Jam) set to some lovely Disco music
 ---
 
 ## Get Your Fix on at the Asylum
+
+### Q
+
+Emilio
 
 ### Warmup
 
@@ -25199,6 +28435,10 @@ Station 5 (FULL BODY):
 
 ## T&A
 
+### Q
+
+Wayne Babies
+
 ### Warmup
 
 Some stretches, including worlds 2nd greatest, dynamic ROM moves, LBAC. Went over our Mission, 5 Core Principles, Credo and Disclaimer
@@ -25216,6 +28456,10 @@ Some Beast progression, 10 motivators, some more worlds second greatest stretch 
 ---
 
 ## Simple but Effective
+
+### Q
+
+Bliss
 
 ### Warmup
 
@@ -25253,6 +28497,10 @@ PAX held a high plank until everyone completed the rep count.
 
 ## It’s almost beach time!
 
+### Q
+
+Dead Broke
+
 ### Warmup
 
 5 to 1 Motivators
@@ -25275,6 +28523,10 @@ Workouts were curls, bb sit-ups, overhead press, flutter kicks, cprs, LBCs, thru
 
 ## Socialist Relay Race
 
+### Q
+
+Satellite
+
 ### Warmup
 
 5-to-1 motivators, stretching, arm circles
@@ -25290,6 +28542,10 @@ socialist merkin waterfall, round of dead bugs, boats and canoes
 ---
 
 ## Grunt Work ?
+
+### Q
+
+Double D
 
 ### Warmup
 
@@ -25324,6 +28580,10 @@ Downward Dog to Cobra to Childs Pose
 ---
 
 ## Fun with Coupons
+
+### Q
+
+Minnow
 
 ### Warmup
 
@@ -25367,6 +28627,10 @@ Army carry up hill to cones
 
 ## Wednesday Workout
 
+### Q
+
+Munchies
+
 ### Warmup
 
 Learning to Phelps, LBAC, Old Man Hang
@@ -25390,6 +28654,10 @@ Flutter Kicks, Flutter Kicks, and Monkey Humpers
 
 ## Stairway to Heaven
 
+### Q
+
+Flintstone
+
 ### Warmup
 
 Grass grabbers, willie maze haze, arm stretch, 400m jog around track.
@@ -25407,6 +28675,10 @@ None
 ---
 
 ## ? on the Mountain
+
+### Q
+
+Big Spoon
 
 ### Warmup
 
@@ -25449,6 +28721,10 @@ Mountain Climbers
 
 ## Backblast
 
+### Q
+
+Dowry
+
 ### Warmup
 
 SSH IC x 20
@@ -25485,6 +28761,10 @@ PAX smoked all of us in this one!
 
 ## Weight of the World
 
+### Q
+
+Ratigan
+
 ### Warmup
 
 1 lap w/ Mission, Credo, and Disclaimer
@@ -25520,6 +28800,10 @@ Every one of you were the version of Superman you need to be this morning.
 
 ## Two’s Day
 
+### Q
+
+Flounder
+
 ### Warmup
 
 20 SSH
@@ -25539,6 +28823,10 @@ PAX lined up at bottom of Gherkin Hill. One at a time each PAX will run the hill
 ---
 
 ## Tuesday Grinder
+
+### Q
+
+Stage Fright
 
 ### Warmup
 
@@ -25574,6 +28862,10 @@ various stretches
 
 ## Return of the Summer Sauna (although it wasn’t hot)
 
+### Q
+
+Room Service
+
 ### Warmup
 
 5-1 Motivator, Willy Mays Hays, Learning to Phelps
@@ -25603,6 +28895,10 @@ Ran to top of hill, Crawl bear down, and Bernie sanders up
 ---
 
 ## Mobility & Recovery
+
+### Q
+
+AirBiscuit
 
 ### Warmup
 
@@ -25643,6 +28939,10 @@ Sequence 3: Ankles, Calves & Core
 ---
 
 ## East of Eden
+
+### Q
+
+Bucky
 
 ### Warmup
 
@@ -25718,6 +29018,10 @@ Guantanamo Bay
 
 ## Thang for The Outlet
 
+### Q
+
+DOS
+
 ### Warmup
 
 some jogging, 5to1 motivators, jogging, small hill jogs, jogging, foot touches
@@ -25751,6 +29055,10 @@ LBCs IC, flutter kicks IC
 ---
 
 ## It’s Tuesday, let’s sweat!
+
+### Q
+
+Dead Broke
 
 ### Warmup
 
@@ -25788,6 +29096,10 @@ SSHs
 
 ## Waffle 6's
 
+### Q
+
+Waffle Fries
+
 ### Warmup
 
 5 to 1 Dwarfivators (Smurf/Dwarf Jacks)
@@ -25818,6 +29130,10 @@ PAX did 12x of each exercise then ran a lap around the parking lot. Each PAX got
 ---
 
 ## Road to Recovery
+
+### Q
+
+Karat
 
 ### Warmup
 
@@ -25863,6 +29179,10 @@ Jail break
 
 ## Monday at the Mousetrap
 
+### Q
+
+Stage Fright
+
 ### Warmup
 
 SSH, Grassgrabbers, windmills, arm circles, 10 accountability burpees
@@ -25902,6 +29222,10 @@ Plank till end of minute
 
 ## Twelves and some other stuff
 
+### Q
+
+Rock Chalk
+
 ### Warmup
 
 5-1 motivators, various stretching
@@ -25932,6 +29256,10 @@ Everyone completed 12s, then other stuff
 
 ## Trail Run. Peaks and Valleys
 
+### Q
+
+Fusz
+
 ### Warmup
 
 Core Principles:
@@ -25947,6 +29275,10 @@ over 50…30 Big Boy Sit-ups 49 and under 20 :)
 ---
 
 ## Bust a Move
+
+### Q
+
+Bobbit
 
 ### Warmup
 
@@ -25988,6 +29320,10 @@ freddy, toe touches, leg lifts, dead bugs
 
 ## Back To The Grind
 
+### Q
+
+Jed
+
 ### Warmup
 
 5-1 Motivators
@@ -26027,6 +29363,10 @@ Monkey Humpers
 ---
 
 ## Macho Man
+
+### Q
+
+Bobbit
 
 ### Warmup
 
@@ -26072,6 +29412,10 @@ Burnout crunch
 
 ## An active recovery, if you can keep it!
 
+### Q
+
+Slippin' Jimmy
+
 ### Warmup
 
 - 5-1 Motivators with incorrect cadence by Q, 5-1 Motivators
@@ -26115,6 +29459,10 @@ short on time
 
 ## Freedom Miles
 
+### Q
+
+AirBiscuit
+
 ### Warmup
 
 Stretch OYO
@@ -26130,6 +29478,10 @@ Jog to and from Principia campus for additional mileage.
 ---
 
 ## Backblast
+
+### Q
+
+Rumple Minze
 
 ### Warmup
 
@@ -26163,6 +29515,10 @@ Switch & Repeat...only had time for 1 up & down
 
 ## Stars, Stripes, and Sweat
 
+### Q
+
+Worm
+
 ### Warmup
 
 5-1 Motivators
@@ -26189,6 +29545,10 @@ Rotated through ab exercises
 
 ## Our Independence Day
 
+### Q
+
+Thumper
+
 ### Thang
 
 Speedball with exercise roughly
@@ -26208,6 +29568,10 @@ the V-ups
 ---
 
 ## 4th oh JU-ly
+
+### Q
+
+Freshman
 
 ### Warmup
 
@@ -26240,6 +29604,10 @@ Bear Crawl: Bear crawl 20 yards and back 3x
 
 ## Independence Day - Fun Friday Edition
 
+### Q
+
+AirBiscuit
+
 ### Warmup
 
 - SSH, Willie Mayes Hayes, Learning to Phelps, Lunge + Arm Circles, Down Dog, World's Greatest Stretch, Plyometrics
@@ -26262,6 +29630,10 @@ Miscellaneous stretching
 
 ## Backblast
 
+### Q
+
+Drizzle
+
 ### Warmup
 
 7-1 accelerators, yoga, BreakDancers, bat wings, pretzels
@@ -26280,6 +29652,10 @@ ladder from starting line
 ---
 
 ## Battle of Gettysburg, Day Three - March to Mortality
+
+### Q
+
+Slippin' Jimmy
 
 ### Warmup
 
@@ -26321,6 +29697,10 @@ The final push
 ---
 
 ## Backblast
+
+### Q
+
+Fish Fry
 
 ### Warmup
 
@@ -26376,6 +29756,10 @@ Return to the flag
 
 ## Americana
 
+### Q
+
+Big Spoon
+
 ### Warmup
 
 SSH
@@ -26409,6 +29793,10 @@ American Hammers
 
 ## Just a Thursday BD
 
+### Q
+
+Rock Chalk
+
 ### Warmup
 
 got some nice stretching in
@@ -26434,6 +29822,10 @@ got some nice stretching in
 ---
 
 ## Kaiju Crush
+
+### Q
+
+Whip
 
 ### Warmup
 
@@ -26484,6 +29876,10 @@ Thang 4	City Stompers
 
 ## Stars and Stripes
 
+### Q
+
+Hermey
+
 ### Warmup
 
 neck stretch
@@ -26530,6 +29926,10 @@ Penguin tappers
 
 ## Ultimate Frisbee
 
+### Q
+
+Sprinkles
+
 ### Warmup
 
 SSH, OMS, Abe Vigoda, Worlds Greatest Stretch
@@ -26542,6 +29942,10 @@ The goal was to work on cardio and do something a little different.
 ---
 
 ## Battle of Gettysburg, Day Two - Fight for the Flanks
+
+### Q
+
+Slippin' Jimmy
 
 ### Warmup
 
@@ -26586,6 +29990,10 @@ Included in BD.
 
 ## Back to Our Roots
 
+### Q
+
+Thumper
+
 ### Warmup
 
 in cadence
@@ -26620,6 +30028,10 @@ Flutter Kicks
 ---
 
 ## Work Work Work
+
+### Q
+
+Jed
 
 ### Warmup
 
@@ -26665,6 +30077,10 @@ Blockee Waterfall
 ---
 
 ## Doing Work
+
+### Q
+
+Silicone
 
 ### Warmup
 
@@ -26727,6 +30143,10 @@ seated hamstring stretches (right/left/center)
 
 ## Let’s Get Through the Mid Week Slump
 
+### Q
+
+Dead Broke
+
 ### Warmup
 
 5 to 1 Motivators
@@ -26763,6 +30183,10 @@ Finish with a 100 yard bear crawl
 
 ## Carrying the Burden
 
+### Q
+
+Stage Fright
+
 ### Warmup
 
 Open the Gates, 5-1 motivators, grass grabbers, piano tappers, runners stretch
@@ -26782,6 +30206,10 @@ toe touch, flutter kicks and Freddie mercuries
 ---
 
 ## Come on out for some fun at the Jar!
+
+### Q
+
+FlatTire
 
 ### Warmup
 
@@ -26817,6 +30245,10 @@ Jailbreak
 ---
 
 ## Battle of Gettysburg, Day One - The Opening Salvo
+
+### Q
+
+Slippin' Jimmy
 
 ### Warmup
 
@@ -26862,6 +30294,10 @@ Ran of out time
 
 ## Personal Development leads to Happiness
 
+### Q
+
+Hamburglar
+
 ### Warmup
 
 - Smurf Jacks
@@ -26895,6 +30331,10 @@ Not Today
 
 ## Cosmic Rewind
 
+### Q
+
+Ratigan
+
 ### Warmup
 
 LBAC F/R
@@ -26914,6 +30354,10 @@ No recovery day from the forge after all . PAX logged ~100 burpees and ~3 miles.
 ---
 
 ## Tuesday Workout
+
+### Q
+
+Dowry
 
 ### Warmup
 
@@ -26977,6 +30421,10 @@ High Low Planks IC x 12
 
 ## Baby got back! ?
 
+### Q
+
+9 to 5
+
 ### Warmup
 
 - SSHs
@@ -27016,6 +30464,10 @@ COR & NOR
 
 ## Defense! ??
 
+### Q
+
+Rupture
+
 ### Warmup
 
 - Little baby arm circles
@@ -27034,6 +30486,10 @@ COR & NOR
 ---
 
 ## This is Sparta!
+
+### Q
+
+Flo
 
 ### Warmup
 
@@ -27058,6 +30514,10 @@ Skipped for time
 ---
 
 ## Cycle of Good
+
+### Q
+
+Bear Spray
 
 ### Warmup
 
@@ -27090,6 +30550,10 @@ Lemon squezzers - 10 OYO
 ---
 
 ## The Slope of Nope
+
+### Q
+
+Rock Chalk
 
 ### Warmup
 
@@ -27131,6 +30595,10 @@ Nope Slope #2, Longer Hill on way back - Partner Up!
 
 ## No Pain No Gain
 
+### Q
+
+M-I-Z
+
 ### Warmup
 
 side straddle hops
@@ -27160,6 +30628,10 @@ combination of heels-to-heaven and flutter kicks, Q called out switching between
 
 ## Sneak Attack: Grotpeter Trail
 
+### Q
+
+Manny
+
 ### Thang
 
 - 6.15km run on Grotpeter Trail
@@ -27168,6 +30640,10 @@ combination of heels-to-heaven and flutter kicks, Q called out switching between
 
 ## 2nd F June Lunch
 
+### Q
+
+Munchies
+
 ### Thang
 
 2nd F Lunch at Joey B's with a solid group of guys.
@@ -27175,6 +30651,10 @@ combination of heels-to-heaven and flutter kicks, Q called out switching between
 ---
 
 ## Finally Friday
+
+### Q
+
+Jayhawk
 
 ### Warmup
 
@@ -27200,6 +30680,10 @@ Ladder. Start at first exercise, lunge walk, 20 air squats at other end of rooft
 
 ## Dead on arrival
 
+### Q
+
+Bucky
+
 ### Warmup
 
 - Yoga Stuff
@@ -27222,6 +30706,10 @@ Pick up the six and riffle carry 400 meters back to the flag.
 
 ## Friday Fun Day Sandy Pickle
 
+### Q
+
+Munchies
+
 ### Warmup
 
 Yog in the sand, LBAC, stretches
@@ -27238,6 +30726,10 @@ Guantanamo (big circle), WW3 Sit-Ups
 ---
 
 ## Balls of Steel- Part 2
+
+### Q
+
+rogerroger, 5 on 2
 
 ### Warmup
 
@@ -27291,6 +30783,10 @@ Monkey Humpers the entire time.
 
 ## Balls of Steel - the Packmule Part 1
 
+### Q
+
+5 on 2
+
 ### Warmup
 
 5-1 motivators
@@ -27329,6 +30825,10 @@ Fireman carry a buddy 100 meters and switch
 ---
 
 ## F3 Manniversary
+
+### Q
+
+Pothole (SoSTL)
 
 ### Warmup
 
@@ -27375,6 +30875,10 @@ NONE - Ran outta time!
 
 ## It’s better to grind out than to fade away
 
+### Q
+
+Drop Out (SpiritSTL)
+
 ### Warmup
 
 warmup circle
@@ -27407,6 +30911,10 @@ flutter kicks
 
 ## The Rock 3-Year Anniversary: Scrabble Beatdown Edition
 
+### Q
+
+Petey, Big Spoon
+
 ### Warmup
 
 Stretches, Hairy Flamingo, Learning to Phelps
@@ -27422,6 +30930,10 @@ Boats and Canoes
 ---
 
 ## Let’s Wring it Out
+
+### Q
+
+Bliss
 
 ### Warmup
 
@@ -27451,6 +30963,10 @@ Merkins to Failure
 ---
 
 ## Backblast
+
+### Q
+
+9 to 5
 
 ### Warmup
 
@@ -27488,6 +31004,10 @@ COR & NOR
 
 ## GP’s Kotter Challenge Victory Lap
 
+### Q
+
+Rorschach
+
 ### Warmup
 
 side straddle hops, Willie mays hays, learning to Phelps, little baby arm circles.
@@ -27505,6 +31025,10 @@ mosey and a stretch
 ---
 
 ## Time to celebrate
+
+### Q
+
+Fish Fry
 
 ### Warmup
 
@@ -27555,6 +31079,10 @@ Work until 6:03
 
 ## Early Morning Farmer’s Tan
 
+### Q
+
+Thumper
+
 ### Warmup
 
 Old Man Stretch (together, right over left, left over right)
@@ -27586,6 +31114,10 @@ Lawn Mower Pulls Left Arm
 
 ## 60
 
+### Q
+
+Avis
+
 ### Warmup
 
 Side Straddle Hops, Learning the Phelps, Bat Wings, Bat Wings in reverse, Over Head, Seal Claps
@@ -27604,6 +31136,10 @@ Motivators, Pank
 ---
 
 ## Midweek Grind
+
+### Q
+
+Jed
 
 ### Warmup
 
@@ -27648,6 +31184,10 @@ Mosey to coupon.
 ---
 
 ## Stadium Stampede
+
+### Q
+
+Whip
 
 ### Warmup
 
@@ -27707,6 +31247,10 @@ Start on goal line. At each line:
 
 ## “ The Iron Reaper” – A Sandbag & Sled Gauntlet
 
+### Q
+
+Hamburglar
+
 ### Warmup
 
 - 5 to 1 Motivators
@@ -27759,6 +31303,10 @@ Not Today
 
 ## Check out the big brain on brain
 
+### Q
+
+The brain
+
 ### Warmup
 
 Mission, 5 principles, credo, disclaimers.
@@ -27788,6 +31336,10 @@ who needs Mary
 ---
 
 ## Discipline Is Built
+
+### Q
+
+Rock Ride
 
 ### Warmup
 
@@ -27824,6 +31376,10 @@ Dying Cockroaches 9 IC
 ---
 
 ## Popup Q School (and Active Recovery BD)
+
+### Q
+
+Stanley, Manny
 
 ### Warmup
 
@@ -27870,6 +31426,10 @@ Thread the Needle
 
 ## RAIN DROPS ON ROSES & WHISKERS ON KITTENS
 
+### Q
+
+Noah
+
 ### Warmup
 
 Smurf Jacks, Abe Vigodas, WMH, DwnwrdDog, Cobra, 5to1 Motivators
@@ -27885,6 +31445,10 @@ Teams of 2, one HIM travels while other AMRAPs Exercise, alternating between  an
 ---
 
 ## Calorie Burner
+
+### Q
+
+9 to 5
 
 ### Thang
 
@@ -27904,6 +31468,10 @@ Teams of 2, one HIM travels while other AMRAPs Exercise, alternating between  an
 
 ## The Rosewood Heart
 
+### Q
+
+PillowFight
+
 ### Warmup
 
 SSH, old man stretch
@@ -27918,6 +31486,10 @@ THANG1 REPRISE + SSH until the song peaks
 ---
 
 ## Failure is Not NOT an Option
+
+### Q
+
+Bill Nye
 
 ### Warmup
 
@@ -27950,6 +31522,10 @@ Dead Bugs
 
 ## Personal Records Q2 2025
 
+### Q
+
+BigTex
+
 ### Warmup
 
 Goofballs x IC
@@ -27971,6 +31547,10 @@ Timed Low Plank
 ---
 
 ## Monday Morning Block Party
+
+### Q
+
+Stage Fright
 
 ### Warmup
 
@@ -28007,6 +31587,10 @@ Part 3: alternated bear crawl/walking lunges
 
 ## Back Where We Started
 
+### Q
+
+Munchies
+
 ### Warmup
 
 Old Man Stretch
@@ -28030,6 +31614,10 @@ Mosey
 ---
 
 ## 3 Year Manniversary
+
+### Q
+
+Dowry
 
 ### Warmup
 
@@ -28083,6 +31671,10 @@ Freddy Mercurys IC x 25
 
 ## Backblast
 
+### Q
+
+Flatley
+
 ### Warmup
 
 6-1 Motivators
@@ -28105,6 +31697,10 @@ pax completed 100 merkins as a group.
 ---
 
 ## There is still time to get ready for the pool season
+
+### Q
+
+Fish Fry
 
 ### Warmup
 
@@ -28145,6 +31741,10 @@ Work until 6:03
 ---
 
 ## Change of Pace
+
+### Q
+
+Schlitz
 
 ### Warmup
 
@@ -28201,6 +31801,10 @@ High plank
 
 ## Get Out In The Gloom @ Mothera
 
+### Q
+
+Dead Broke
+
 ### Warmup
 
 Side Straddle Hops x 20
@@ -28221,6 +31825,10 @@ Teams of two one did an excercise and the other ran a lap around the town.
 ---
 
 ## Carrie the Load
+
+### Q
+
+Slippin' Jimmy
 
 ### Warmup
 
@@ -28243,6 +31851,10 @@ Teams of two one did an excercise and the other ran a lap around the town.
 
 ## Go west Young Man
 
+### Q
+
+Stanley, Silicone
+
 ### Warmup
 
 Grass grabbers
@@ -28260,6 +31872,10 @@ Light stretching
 ---
 
 ## Fridays At The Country Club
+
+### Q
+
+Jed
 
 ### Warmup
 
@@ -28302,6 +31918,10 @@ Lap
 
 ## Friday Funday
 
+### Q
+
+WetnWild
+
 ### Warmup
 
 dynamic stretching
@@ -28317,6 +31937,10 @@ none
 ---
 
 ## Sand Everywhere
+
+### Q
+
+Thumper
 
 ### Warmup
 
@@ -28343,6 +31967,10 @@ the aforementioned sit-ups
 
 ## Backblast
 
+### Q
+
+Rock Chalk
+
 ### Warmup
 
 5 burpees, 5-1 motivators, grass grabbers, willie mays hays, arm stretch, quad stretch, worlds greatest stretch, cobra
@@ -28367,6 +31995,10 @@ Box Cutters IC, Heels to Heaven, 1 min low plank
 
 ## Summer Solstice Dodge Ball
 
+### Q
+
+BUB
+
 ### Warmup
 
 Learning to Phelps
@@ -28385,6 +32017,10 @@ None in lieu of free-for-all
 ---
 
 ## It's a Long Way to the Top
+
+### Q
+
+Flintstone
 
 ### Warmup
 
@@ -28410,6 +32046,10 @@ Pyramid squats (no coupon) starting at 1, working up to 10, then back down to 1.
 ---
 
 ## Life in the Fast Lane
+
+### Q
+
+Flintstone
 
 ### Warmup
 
@@ -28443,6 +32083,10 @@ None
 ---
 
 ## Form check
+
+### Q
+
+5 on 2
 
 ### Warmup
 
@@ -28479,6 +32123,10 @@ Mountain climbers- weight shifted over your shoulders
 ---
 
 ## Upping the Pace
+
+### Q
+
+Seeds
 
 ### Warmup
 
@@ -28530,6 +32178,10 @@ Left, right, center plank.
 ---
 
 ## Quads of Glory
+
+### Q
+
+Stage Fright
 
 ### Warmup
 
@@ -28583,6 +32235,10 @@ Ran Lap
 
 ## Time to sweat it out
 
+### Q
+
+Fish Fry
+
 ### Warmup
 
 Grass Grabbers
@@ -28613,6 +32269,10 @@ Work until 6:03
 ---
 
 ## Drawn to the light!
+
+### Q
+
+Bear Spray
 
 ### Warmup
 
@@ -28676,6 +32336,10 @@ Flutter kicks (to 3 or 4 and down) - Canoe while waiting
 
 ## ?MoneyMaker?
 
+### Q
+
+9-lives
+
 ### Warmup
 
 Built in to BD
@@ -28689,6 +32353,10 @@ Pax were given chalk to track the investment in their own health and all broke t
 ---
 
 ## Let's see what Google finds
+
+### Q
+
+Charmin
 
 ### Warmup
 
@@ -28726,6 +32394,10 @@ Mountain climbers x10 IC
 
 ## Wednesdays at the Way
 
+### Q
+
+Freshman
+
 ### Warmup
 
 Grass grabbers
@@ -28753,6 +32425,10 @@ Race one lap around the track stopping every turn to do 10 burpees. Blockees for
 ---
 
 ## Positives, Negatives, and Zeros
+
+### Q
+
+Hamburglar
 
 ### Warmup
 
@@ -28816,6 +32492,10 @@ Not today
 
 ## Pyramid Killer
 
+### Q
+
+5 on 2
+
 ### Warmup
 
 5-1 motivators
@@ -28847,6 +32527,10 @@ Plank for 2:30
 ---
 
 ## This is just a Tribute
+
+### Q
+
+Dowry
 
 ### Warmup
 
@@ -28915,6 +32599,10 @@ Rinse and repeat for a lap
 
 ## Legs for Days
 
+### Q
+
+Worm
+
 ### Warmup
 
 - SSH
@@ -28961,6 +32649,10 @@ Al Gore – 10 Seconds
 
 ## Uno MAS
 
+### Q
+
+Finkle
+
 ### Warmup
 
 SSH, Learning to Phelps, PAX swings, Downward/upward dog series with merkins
@@ -29005,6 +32697,10 @@ Stretching OYO
 
 ## Turnt Tuesday
 
+### Q
+
+BigTex
+
 ### Warmup
 
 7 to 1 Merkinvators
@@ -29038,6 +32734,10 @@ Flowers Plank Merkins
 ---
 
 ## Backblast
+
+### Q
+
+Whip
 
 ### Warmup
 
@@ -29084,6 +32784,10 @@ Quick Ladder
 
 ## Let’s Burn Some Calories From Father’s Day
 
+### Q
+
+Dead Broke
+
 ### Warmup
 
 5 to 1 Motivators
@@ -29103,6 +32807,10 @@ In the middle we completed 10 coupon/air squats each way
 ---
 
 ## Elevated
+
+### Q
+
+Bucky
 
 ### Warmup
 
@@ -29144,6 +32852,10 @@ Completed two rounds.
 
 ## Monday Morning Wakeup Call
 
+### Q
+
+Flintstone
+
 ### Warmup
 
 Willy Mays Haze, Arm Stretch, 200m Jog
@@ -29159,6 +32871,10 @@ NONE
 ---
 
 ## Summit and Repeat
+
+### Q
+
+Manny
 
 ### Warmup
 
@@ -29176,6 +32892,10 @@ NONE
 ---
 
 ## White Men Can't Jump
+
+### Q
+
+Ratigan
 
 ### Warmup
 
@@ -29195,6 +32915,10 @@ Ratigan's Butterfly
 ---
 
 ## 3 TRUTHS
+
+### Q
+
+Hamburglar
 
 ### Warmup
 
@@ -29245,6 +32969,10 @@ In Beatdown
 
 ## Father’s Day Wildwood Road Ride
 
+### Q
+
+Big Spoon, BUB, Hamburglar, Sandtrap
+
 ### Thang
 
 21 mile ride through the majestic country roads of Wildwood on a beautiful Sunday morning. PAX and PAX were dearly missed!
@@ -29252,6 +32980,10 @@ In Beatdown
 ---
 
 ## London Calling
+
+### Q
+
+Gangnam Style
 
 ### Warmup
 
@@ -29264,6 +32996,10 @@ Variation of the dice game. Each PAX rolls. Number rolled + 10 equals amount of 
 ---
 
 ## Keep hammering
+
+### Q
+
+Sandy (The Kingdom)
 
 ### Warmup
 
@@ -29299,6 +33035,10 @@ Burpees
 
 ## Carnage at Oakmont
 
+### Q
+
+Criss-cross
+
 ### Warmup
 
 Stuff
@@ -29332,6 +33072,10 @@ Dips – 70, 50,45
 
 ## Back by popular demand
 
+### Q
+
+Baaarf
+
 ### Warmup
 
 - Willie Mays Hays
@@ -29356,6 +33100,10 @@ Dips – 70, 50,45
 
 ## The Pre-BD
 
+### Q
+
+5 on 2
+
 ### Warmup
 
 SSH
@@ -29378,6 +33126,10 @@ Repeat until 4:56
 ---
 
 ## Cleareyes VQ
+
+### Q
+
+Cleareyes
 
 ### Warmup
 
@@ -29427,6 +33179,10 @@ Bad pass by QB Rock Chalk has 5 squats and 5 burbees
 
 ## Battleship
 
+### Q
+
+Silicone
+
 ### Warmup
 
 learning to Phelps IC
@@ -29445,6 +33201,10 @@ We didn’t get to play the second version as Amazon did not deliver the stomp r
 ---
 
 ## It’s Friday the 13th, Let’s Start off with a Sweat
+
+### Q
+
+Dead Broke
 
 ### Warmup
 
@@ -29481,6 +33241,10 @@ Lap
 ---
 
 ## Mt. Gherkin Madness
+
+### Q
+
+Rock Chalk
 
 ### Warmup
 
@@ -29521,6 +33285,10 @@ AMRAP Hills ~6 minutes. Reps start at two, at each round, increase by 2 more rep
 ---
 
 ## Thirsty Thursday!
+
+### Q
+
+Emilio
 
 ### Warmup
 
@@ -29571,6 +33339,10 @@ Lead some core work with Imperial Walkers, followed by some stretching.
 
 ## Hakuna Tabata
 
+### Q
+
+LugNut
+
 ### Warmup
 
 Old Man stretch with calf stretching, Imperial Walkers, Abe Vegodas
@@ -29595,6 +33367,10 @@ Freddy Mercuries, Box Cutters
 ---
 
 ## Ride the Moonshine
+
+### Q
+
+McFly
 
 ### Warmup
 
@@ -29626,6 +33402,10 @@ About 1.5 minutes of Freddy Mercuries.
 ---
 
 ## Hard and Soft
+
+### Q
+
+Jed
 
 ### Warmup
 
@@ -29669,6 +33449,10 @@ Curls
 
 ## Balance of Power
 
+### Q
+
+AirBiscuit
+
 ### Warmup
 
 - SSH, Abe Vigoda, Willie Mayes Hayes, Learning to Phelps, Down Dog
@@ -29690,6 +33474,10 @@ Curls
 ---
 
 ## The REAL Summer Concert Series (like for real now)
+
+### Q
+
+Rumple Minze
 
 ### Warmup
 
@@ -29727,6 +33515,10 @@ Not today
 ---
 
 ## Backblast
+
+### Q
+
+Fish Fry
 
 ### Thang
 
@@ -29772,6 +33564,10 @@ Work until 6:03
 
 ## get it
 
+### Q
+
+DOS
+
 ### Warmup
 
 - 8to1 Motivators
@@ -29801,6 +33597,10 @@ One man bands IC
 ---
 
 ## We got hard… together
+
+### Q
+
+Sandtrap
 
 ### Warmup
 
@@ -29857,6 +33657,10 @@ Thang 2/Mary
 
 ## Maniversary Eve
 
+### Q
+
+AirBiscuit
+
 ### Warmup
 
 - Abe Vigoda, Willie Mayes Hayes, Learning to Phelps, Lunges, Arm Circles, Down Dog & Cobra, mosey around parking lot
@@ -29882,6 +33686,10 @@ Miscellaneous stretches to cool down.
 ---
 
 ## Gravediggaz
+
+### Q
+
+Jed
 
 ### Warmup
 
@@ -29920,6 +33728,10 @@ Threw in 100 crunches and 50 Side Straddle Hops and completed the ladder in reve
 ---
 
 ## Backblast
+
+### Q
+
+Dowry
 
 ### Warmup
 
@@ -29960,6 +33772,10 @@ High Low Planks IC x 12
 
 ## Over the Hills and Far Away
 
+### Q
+
+Flintstone
+
 ### Warmup
 
 Willy Mays Haze, Old Man Stretch (both with improper counting by Q), Quick jog to Manchester stop sign
@@ -29981,6 +33797,10 @@ Pyramid coupon front squat. Starting at 1, going up to 10, and then back down to
 ---
 
 ## BrownOut's 2 Year Frisbee Golf Open
+
+### Q
+
+BrownOut
 
 ### Warmup
 
@@ -30019,6 +33839,10 @@ Child’s Pose
 
 ## ENGAGE
 
+### Q
+
+Silicone
+
 ### Warmup
 
 Mountain pose
@@ -30049,6 +33873,10 @@ corpse pose
 ---
 
 ## Roll the Dice
+
+### Q
+
+BUB
 
 ### Warmup
 
@@ -30100,6 +33928,10 @@ LBCs (IC)
 
 ## On the Move
 
+### Q
+
+Manny
+
 ### Warmup
 
 - Willie Mays Hayes
@@ -30118,6 +33950,10 @@ LBCs (IC)
 ---
 
 ## Ladder Up Ladder Down
+
+### Q
+
+TheBeav
 
 ### Warmup
 
@@ -30140,6 +33976,10 @@ After each set, take a lap around the track. Pax did 4 laps with sandbag and 2 l
 ---
 
 ## Tuesdays are for getting stronger
+
+### Q
+
+Jayhawk
 
 ### Warmup
 
@@ -30172,6 +34012,10 @@ Rinse and repeat.
 ---
 
 ## Stairway to Monday
+
+### Q
+
+Whip
 
 ### Warmup
 
@@ -30224,6 +34068,10 @@ PAX Lap PAX partner up - one double farmer carry till partner catches you after 
 
 ## EF1
 
+### Q
+
+Bobbit, Bucky
+
 ### Warmup
 
 duck bouncers, side straddle side winder hops, learning to phelps 180, lil baby arm circles
@@ -30251,6 +34099,10 @@ Log rifle carry while PAX holds a plank and each member does it once
 ---
 
 ## Gentlemen, Let’s Work!
+
+### Q
+
+Jed
 
 ### Warmup
 
@@ -30291,6 +34143,10 @@ Repeat above in reverse order
 
 ## Backblast
 
+### Q
+
+Flounder
+
 ### Warmup
 
 - 25 SSH
@@ -30324,6 +34180,10 @@ Bring Sally Up squat edition
 
 ## The Ultimate BD
 
+### Q
+
+Bill Nye
+
 ### Warmup
 
 5-1 motivators
@@ -30342,6 +34202,10 @@ When you score, 10 squats. When you are scored on, 10 merkins
 ---
 
 ## What is a Hero?
+
+### Q
+
+Noah
 
 ### Warmup
 
@@ -30366,6 +34230,10 @@ Quasi-Dumpster Fire! PAX each took turns with a 30ish-yard travel while remainin
 
 ## KT82 Trail Relay Race - F3 Spirit Teams
 
+### Q
+
+Flatley, AirBiscuit
+
 ### Warmup
 
 Cooler prep and many bathroom breaks to get the body ready for take off
@@ -30381,6 +34249,10 @@ Not today
 ---
 
 ## Saturday at the Roux
+
+### Q
+
+Thumper
 
 ### Warmup
 
@@ -30410,6 +34282,10 @@ Mortal Kombat planks for 1.5 minutes (Q’s shoulder couldn’t take full 5, can
 ---
 
 ## Wiffleball Friendly - Roux v Gravel Pit
+
+### Q
+
+Hamburglar, Keynote
 
 ### Warmup
 
@@ -30449,6 +34325,10 @@ None due to time
 
 ## You Are Not the Exception
 
+### Q
+
+FlatTire
+
 ### Warmup
 
 SSH x 25
@@ -30476,6 +34356,10 @@ We did a Guantanamo Bay where each man took turns running around the circle push
 ---
 
 ## Class Participation
+
+### Q
+
+Jed
 
 ### Warmup
 
@@ -30513,6 +34397,10 @@ Back to flags
 
 ## Gunning and Running
 
+### Q
+
+TheBeav
+
 ### Warmup
 
 SSH
@@ -30538,6 +34426,10 @@ Buy out—15 blockees, Deon up gerkin hill, 5 burpees
 ---
 
 ## Prison Break
+
+### Q
+
+Forrest
 
 ### Warmup
 
@@ -30606,6 +34498,10 @@ Old man stretch
 
 ## Workouts should be part of your vacation too!
 
+### Q
+
+Room Service
+
 ### Warmup
 
 old man stretch and arm circles
@@ -30634,6 +34530,10 @@ In Crete enjoying the sunrise beatdown
 ---
 
 ## LIKE A ROCK ?
+
+### Q
+
+Hamburglar
 
 ### Warmup
 
@@ -30677,6 +34577,10 @@ Rock Solid Core Routine 45/15 Circuit
 
 ## Arm Pump
 
+### Q
+
+Schooner
+
 ### Warmup
 
 6 to 1 Motivators
@@ -30711,6 +34615,10 @@ More LBCs
 
 ## It’s Thursday, Let’s Get A Sweat In!
 
+### Q
+
+Dead Broke
+
 ### Warmup
 
 5 to 1 Excelerators
@@ -30738,6 +34646,10 @@ After each round we ran a lap around the circle. At the end we had a little time
 ---
 
 ## push through
+
+### Q
+
+DOS
 
 ### Warmup
 
@@ -30770,6 +34682,10 @@ Flutter kicks, heals to heaven, 7to1 motivators
 
 ## Lunges, stairs, and stuff
 
+### Q
+
+Sprinkles
+
 ### Warmup
 
 50 SSH, Abe Vigoda, grass grabbers, world’s greatest stretch, pigeon stretch
@@ -30790,6 +34706,10 @@ Partner up and complete farmers carry with both coupons. While partner A is comp
 
 ## For those of us who like to sleep in....
 
+### Q
+
+Drizzle
+
 ### Warmup
 
 SSHs, toe touches to old man stretch, grass grabbers and piano tappers, shoulder stretches
@@ -30806,6 +34726,10 @@ More toe touches, hollywoods
 ---
 
 ## The Wednesday Grind
+
+### Q
+
+Charmin
 
 ### Warmup
 
@@ -30842,6 +34766,10 @@ penguin x20 IC, double leg hold (1min), Spiderman hold (30sec ea)
 ---
 
 ## Rock Hard
+
+### Q
+
+Dowry
 
 ### Warmup
 
@@ -30890,6 +34818,10 @@ High Low Planks IC x 12
 
 ## Iron Mike
 
+### Q
+
+BenButton
+
 ### Warmup
 
 side straddle hops, Willy mays hays, world’s greatest stretch
@@ -30901,6 +34833,10 @@ Mike Tyson’s playing card workout, 100 dips, 100 pushups, 20 each of plank row
 ---
 
 ## Empire State
+
+### Q
+
+Bashful Bear
 
 ### Warmup
 
@@ -30932,6 +34868,10 @@ Stretch on you own as needed
 ---
 
 ## Telephone Line
+
+### Q
+
+5 on 2
 
 ### Warmup
 
@@ -31012,6 +34952,10 @@ Monkey humpers to Telephone Line by ELO
 
 ## inVEST in Yourself
 
+### Q
+
+Flounder
+
 ### Warmup
 
 - 4 to 1 motivators
@@ -31047,6 +34991,10 @@ All exercises 4 count and IC for 15 reps
 
 ## Backblast
 
+### Q
+
+Drizzle
+
 ### Warmup
 
 7-1 accelerators, broga, LBACs
@@ -31071,6 +35019,10 @@ American hammers and flutter kicks IC
 ---
 
 ## Tandem Triumph Trials
+
+### Q
+
+NameTag
 
 ### Thang
 
@@ -31115,6 +35067,10 @@ Pairs sprint together 40 yards down and back (80 yards total).
 
 ## Baby got back! ?
 
+### Q
+
+9 to 5
+
 ### Warmup
 
 - SSHs
@@ -31158,6 +35114,10 @@ COR & NOR
 
 ## Backblast
 
+### Q
+
+Data Dump
+
 ### Warmup
 
 Vest UP
@@ -31193,6 +35153,10 @@ Run back to flag
 ---
 
 ## Tank Top Tuesday
+
+### Q
+
+Dowry
 
 ### Warmup
 
@@ -31235,6 +35199,10 @@ Run a lap
 
 ## Alphabet Soup - throwbackkk
 
+### Q
+
+9 to 5
+
 ### Warmup
 
 - SSH
@@ -31260,6 +35228,10 @@ COR & NOR
 
 ## Reach for the Sky
 
+### Q
+
+Bill Nye, Minnow
+
 ### Warmup
 
 SSH
@@ -31278,6 +35250,10 @@ Group 2 alternated exercises at the base waiting for group 1 to return
 ---
 
 ## A “new” case of the Mondays
+
+### Q
+
+Outhouse
 
 ### Warmup
 
@@ -31336,6 +35312,10 @@ none
 
 ## Backblast
 
+### Q
+
+BrownandBrown
+
 ### Thang
 
 6 stations: PAX travels with bear crawls or army crawls in zig-zag fashion. 2 mins each of merkins and big boy sit ups —> 4 mins each of zombie crunches and prison merkins —> 6 mins each of merkin Jax and LBC w/flutter kicks (note to self: just to do Freddie mercuries). Cool off with Indian run back to the flags.
@@ -31347,6 +35327,10 @@ PAX Bond
 ---
 
 ## Suns Out, Guns Out
+
+### Q
+
+Worm
 
 ### Warmup
 
@@ -31376,6 +35360,10 @@ Partner Dora - 100 reps as a team. One man did exercises while the other ran to 
 
 ## Defense!
 
+### Q
+
+Rupture
+
 ### Warmup
 
 - Arm and shoulder stretch
@@ -31392,6 +35380,10 @@ Partner Dora - 100 reps as a team. One man did exercises while the other ran to 
 
 ## Broga at 3 AM
 
+### Q
+
+Fulton (STL)
+
 ### Warmup
 
 Completed
@@ -31407,6 +35399,10 @@ Broga while listening to motivational Goggins, Jocko and Thomas messages.
 ---
 
 ## G3L = Mission Readiness #24 17:00
+
+### Q
+
+Rock Ride
 
 ### Warmup
 
@@ -31428,6 +35424,10 @@ Dying Cockroaches - 10 IC
 
 ## Something with fire
 
+### Q
+
+Fish Fry
+
 ### Thang
 
 - Try and keep it simple. 2 will enter the ring and perform an exercise for 45 seconds.  Most reps win and you stay in the ring to face your next competitor.   Stay in the ring until you lose.
@@ -31442,6 +35442,10 @@ Played Wrestling Songs from various wrestlers.
 ---
 
 ## B-Ball Beatdown ?
+
+### Q
+
+9-lives
 
 ### Warmup
 
@@ -31479,6 +35483,10 @@ We played 4 games
 
 ## Climb the pyramid
 
+### Q
+
+Drizzle
+
 ### Thang
 
 simple ladder/pyramid: do exercise, run across field to fence and back, and so forth up then down the ladder
@@ -31501,6 +35509,10 @@ Freddy mercuries to Bicycle by Queen
 
 ## Choose the Hardest.
 
+### Q
+
+Noah
+
 ### Warmup
 
 Abe V, WMH, OYO stretch, arm circles
@@ -31517,6 +35529,10 @@ PAX drew from the F3 Dexicon and the Q chose the hardest exercise among the sele
 
 ## Dad Bod Bounce House Dance Party
 
+### Q
+
+Worm
+
 ### Warmup
 
 - 5-1 Motivators
@@ -31530,6 +35546,10 @@ If the runners made it back untagged - the PAX had 2 burpees. If the runners wer
 ---
 
 ## Simon (Q) Says Dumpster Fire at 17th Hour
+
+### Q
+
+Hamburglar, Bill Nye, Fix-it Felix, JWoww, Bobbit
 
 ### Warmup
 
@@ -31553,6 +35573,10 @@ Game like Simon Says except the exercises can only be called out as by “Q says
 ---
 
 ## ?Monkey Business ?
+
+### Q
+
+Bucky
 
 ### Warmup
 
@@ -31589,6 +35613,10 @@ Dead bugs
 
 ## Disk Slam
 
+### Q
+
+Bill Nye
+
 ### Warmup
 
 Imperial walkers
@@ -31612,6 +35640,10 @@ Unassisted hit or paired tap in - 20’reps on other team, 10 to yours
 
 ## Ultimate
 
+### Q
+
+JWoww, Amber Alert
+
 ### Warmup
 
 - 7:1 Motivators
@@ -31631,6 +35663,10 @@ Improvised ultimate frisbee. With uneven teams, played 2-on-2. One PAX floated b
 
 ## Backblast
 
+### Q
+
+Road Rage
+
 ### Warmup
 
 learn to Phelps, arm circles
@@ -31649,6 +35685,10 @@ Leg holds 6" off ground, Heels to the sky, heel taps.
 ---
 
 ## Active Recovery at 5am
+
+### Q
+
+Rupture
 
 ### Warmup
 
@@ -31677,6 +35717,10 @@ Then we improvised and played a game of knockout with the PAX.
 
 ## Hour 18 at 11am
 
+### Q
+
+Bobbit
+
 ### Thang
 
 Tabata and TUT stuff
@@ -31684,6 +35728,10 @@ Tabata and TUT stuff
 ---
 
 ## The End of an Era
+
+### Q
+
+BigTex, 9 to 5
 
 ### Warmup
 
@@ -31717,6 +35765,10 @@ RINSE & REPEAT
 
 ## Anything but a coupon part deux
 
+### Q
+
+Criss-cross
+
 ### Warmup
 
 5-1, grass grabbers, arm circles, Willie Mays hays, dan did PAX impressions
@@ -31737,6 +35789,10 @@ Blockees
 ---
 
 ## Better late than Never!
+
+### Q
+
+Gumbø
 
 ### Warmup
 
@@ -31762,6 +35818,10 @@ Q inserted a little taste of ""PAX""’s Murder Ball for a few moments by bringi
 
 ## Friyay
 
+### Q
+
+Freshman
+
 ### Warmup
 
 High knees
@@ -31785,6 +35845,10 @@ Station 8 ( down the ramp): 31 burpees no coupon
 
 ## Gladiator
 
+### Q
+
+AirBiscuit
+
 ### Warmup
 
 SSH, Abe Vigodas, Learning to Phelps, Arm Circles, Willie Mays Hayes, Down Dog, World’s Greatest Stretch
@@ -31807,6 +35871,10 @@ Gladiator Style Dodgeball
 
 ## Backblast
 
+### Q
+
+Flintstone
+
 ### Warmup
 
 Old Man Stretch, Grass Grabbers, Willy Maze Haze, One lap around Diamondback Track (1/3 of a mile).
@@ -31823,6 +35891,10 @@ Pyramid Merkins. The group started at one, counting all the way up to eight befo
 
 ## 6pm BD mission ready
 
+### Q
+
+Silicone
+
 ### Thang
 
 Thang 1- Mountain
@@ -31835,6 +35907,10 @@ keep away soccer style
 ---
 
 ## Cuz Soccer is Life
+
+### Q
+
+Neymar
 
 ### Warmup
 
@@ -31860,6 +35936,10 @@ extended the games above for extra fun
 
 ## Hour 4 at 9pm
 
+### Q
+
+Wayne Babies
+
 ### Warmup
 
 worlds 2nd greatest stretch
@@ -31871,6 +35951,10 @@ log run, Nordic curls, human centipede and butt stuff
 ---
 
 ## It’s a Surprise!
+
+### Q
+
+Jed
 
 ### Warmup
 
@@ -31907,6 +35991,10 @@ Side Straddle Hops
 
 ## Rolling Dice. 7:00 pm
 
+### Q
+
+Scarecrow County Line
+
 ### Warmup
 
 STH, piano tappers, WMH, Butt Pulls, open books, lap jog
@@ -31926,6 +36014,10 @@ recover recover
 
 ## One with the Wind
 
+### Q
+
+Bisquick
+
 ### Thang
 
 Exercise x25 > Jailbreak > Burpee
@@ -31938,6 +36030,10 @@ Supermans, rotating Superman’s, and stretching
 ---
 
 ## Backblast
+
+### Q
+
+Bliss
 
 ### Warmup
 
@@ -31960,6 +36056,10 @@ We got in about 35 minutes of 6 v 5 basketball.
 ---
 
 ## Sleeve Splitter
+
+### Q
+
+Whip
 
 ### Warmup
 
@@ -31997,6 +36097,10 @@ Station 4: Combo Zone
 ---
 
 ## Fight Club
+
+### Q
+
+Bucky
 
 ### Warmup
 
@@ -32072,6 +36176,10 @@ Round 9---TKO
 
 ## The Hills Have Thighs
 
+### Q
+
+BigTex
+
 ### Warmup
 
 Monkey Humpers IC
@@ -32117,6 +36225,10 @@ Hold 90 degrees while waiting
 
 ## Why not Wednesday - filthy fifty
 
+### Q
+
+Outhouse
+
 ### Warmup
 
 Old man stretch
@@ -32145,6 +36257,10 @@ None
 ---
 
 ## Calm Before the Forge
+
+### Q
+
+Flounder
 
 ### Warmup
 
@@ -32189,6 +36305,10 @@ the Bear crawls wound up being our Mary
 
 ## Good Old Fashioned Leg Day
 
+### Q
+
+Bashful Bear
+
 ### Warmup
 
 5 to 1 Motivators, Willy Mays Hays, Grass Grabbers, Old Man Stretch, Al Gores
@@ -32207,6 +36327,10 @@ FINISHER: 30 seconds on/10 seconds off: squats, calf raises, alternating lunges,
 ---
 
 ## Midweek Madness
+
+### Q
+
+Jed
 
 ### Warmup
 
@@ -32244,6 +36368,10 @@ Continue until each pax has completed each rotation 4 times.
 
 ## A Workout
 
+### Q
+
+Flounder
+
 ### Warmup
 
 - 20 SSH IC
@@ -32276,6 +36404,10 @@ Elizabeth Warren until everyone get to the front of the line: (Indian run, but P
 
 ## Dust off the cobwebs
 
+### Q
+
+Worm
+
 ### Warmup
 
 - SSH
@@ -32297,6 +36429,10 @@ Part of the BD
 
 ## Chad 1000
 
+### Q
+
+Norton
+
 ### Warmup
 
 - Old Man Hangs
@@ -32316,6 +36452,10 @@ skipped
 ---
 
 ## Back to the Grind!
+
+### Q
+
+FlatTire
 
 ### Warmup
 
@@ -32351,6 +36491,10 @@ Lap of the Park
 
 ## Memorial Day Murph
 
+### Q
+
+Pothole (SoSTL)
+
 ### Warmup
 
 - Hands between knees
@@ -32374,6 +36518,10 @@ The Murph
 
 ## The Murph
 
+### Q
+
+5 on 2
+
 ### Warmup
 
 5-1 Motivators
@@ -32394,6 +36542,10 @@ Pick up the six
 ---
 
 ## :american_flag:Memorial Day, Maniversary, Mini Murph:american_flag:
+
+### Q
+
+Rock Chalk
 
 ### Warmup
 
@@ -32446,6 +36598,10 @@ Mini Murph - vest up
 
 ## Murph
 
+### Q
+
+Rorschach, Silicone
+
 ### Thang
 
 Murph - enter your time, vest or slick(no vest), and any modifications in this google sheet if you want to track your performance
@@ -32457,6 +36613,10 @@ not today
 ---
 
 ## Not The Murph
+
+### Q
+
+McFly
 
 ### Warmup
 
@@ -32477,6 +36637,10 @@ Freddy Mercuries, LBCs, Dead Bugs
 ---
 
 ## Saturday at The Awakening
+
+### Q
+
+BigTex
 
 ### Warmup
 
@@ -32516,6 +36680,10 @@ Back to Flags
 
 ## Workout w/Neymar
 
+### Q
+
+Neymar
+
 ### Warmup
 
 - baby arms
@@ -32537,6 +36705,10 @@ extra soccer time
 ---
 
 ## Friday concert series-not summer
+
+### Q
+
+Jayhawk
 
 ### Warmup
 
@@ -32582,6 +36754,10 @@ not today
 
 ## First Time Around is the Hardest
 
+### Q
+
+Stage Fright
+
 ### Warmup
 
 Lap, Popeye Punchers, Hillbillies, Grass Grabbers, Happy Hands Squats, Accountability Burpees
@@ -32607,6 +36783,10 @@ Stop 5:
 ---
 
 ## Let the Good Times…
+
+### Q
+
+Thumper
 
 ### Warmup
 
@@ -32636,6 +36816,10 @@ Plank Jacks
 
 ## Schooools out for SUMMER
 
+### Q
+
+Freshman
+
 ### Warmup
 
 High knees
@@ -32655,6 +36839,10 @@ Station 3: 20 over head press, 15 blockees , 10 thrusters, bleacher runs repeat
 
 ## Ultimate Frisbee Friday
 
+### Q
+
+ledger
+
 ### Warmup
 
 A Pagodas x10, SSH x10, Mosey
@@ -32670,6 +36858,10 @@ Boats and canoes til failure; last man standing earned an extra 3 points for the
 ---
 
 ## Diamondback Alert!
+
+### Q
+
+Data Dump
 
 ### Warmup
 
@@ -32704,6 +36896,10 @@ American hammers - 20 IC
 
 ## Frat Boy Fridays - Memorial Weekend Edition
 
+### Q
+
+Worm
+
 ### Thang
 
 6 hours of 12oz curls
@@ -32716,6 +36912,10 @@ Pizza Box Runs
 ---
 
 ## 4 Great Years & Just Getting Started
+
+### Q
+
+Rock Ride
 
 ### Warmup
 
@@ -32753,6 +36953,10 @@ none
 
 ## It is only a Minute
 
+### Q
+
+Fish Fry
+
 ### Warmup
 
 Toe touches
@@ -32780,6 +36984,10 @@ Performed during BD
 ---
 
 ## New Things
+
+### Q
+
+Wayne Babies
 
 ### Warmup
 
@@ -32814,6 +37022,10 @@ Don’t have a name for the last move yet, thought of it while performing a lot 
 
 ## Pool Season
 
+### Q
+
+Fazoli
+
 ### Warmup
 
 5-1 motivators
@@ -32845,6 +37057,10 @@ None BD went too long
 
 ## Life and Death
 
+### Q
+
+BenButton
+
 ### Warmup
 
 side straddle hops, pickle pounders, arm circles, Willy mays hays
@@ -32867,6 +37083,10 @@ boats and canoes
 ---
 
 ## Nothing but Coupons and Guilty Pleasures...
+
+### Q
+
+Rumple Minze
 
 ### Warmup
 
@@ -32913,6 +37133,10 @@ Mosey Lap without Coupon
 ---
 
 ## 1/2 of coupons - memorial day sale
+
+### Q
+
+Criss-cross
 
 ### Warmup
 
@@ -32963,6 +37187,10 @@ REPEATED CIRCUIT 1
 
 ## Hump Day
 
+### Q
+
+Munchies
+
 ### Warmup
 
 Monkey humpers, Stretch,  Monkey humpers
@@ -32980,6 +37208,10 @@ BBSU, Rosilitas, BBSU
 ---
 
 ## inVESTED
+
+### Q
+
+Flounder
 
 ### Warmup
 
@@ -33011,6 +37243,10 @@ Blocktanamo: PAX in a tight circle with coupons held in front (air Dos style). O
 ---
 
 ## Back At The Pit!
+
+### Q
+
+Jed
 
 ### Warmup
 
@@ -33051,6 +37287,10 @@ Air Squats
 
 ## Setting the tone!
 
+### Q
+
+Room Service
+
 ### Warmup
 
 Willy Mays Hays, Grass Grabbers, LBAC, arm stretches.
@@ -33072,6 +37312,10 @@ Ended with a 100 yard bear crawl and jail break back to end zone.
 ---
 
 ## The Day before Wednesday at WorldWide Headquarters
+
+### Q
+
+Bushwood
 
 ### Warmup
 
@@ -33120,6 +37364,10 @@ Round #2
 ---
 
 ## Tardio
+
+### Q
+
+BrownOut
 
 ### Warmup
 
@@ -33180,6 +37428,10 @@ See 4th lap.
 
 ## Full Circuit Tuesday
 
+### Q
+
+Pothole (SoSTL)
+
 ### Warmup
 
 - Hands between knees
@@ -33230,6 +37482,10 @@ Round 4 - CARDIO
 
 ## B.O.M.B.S.
 
+### Q
+
+Flatley
+
 ### Warmup
 
 5 Burpees
@@ -33278,6 +37534,10 @@ Mosey
 
 ## Get A Grip
 
+### Q
+
+Manny
+
 ### Warmup
 
 - WMH
@@ -33311,6 +37571,10 @@ COOLDOWN:
 
 ## lotus notes thing
 
+### Q
+
+Lotus Notes
+
 ### Warmup
 
 done stuff
@@ -33327,6 +37591,10 @@ sine cool down stuff
 
 ## The return of buddy runs
 
+### Q
+
+Matchbox
+
 ### Warmup
 
 5-1, Batwings, L2P, 15 burpees, lap around the lot
@@ -33338,6 +37606,10 @@ buddy runs up and down the lot. 25 merkins/supermans/lbcs on one end, 25 curls/d
 ---
 
 ## Let's get Monday moving!
+
+### Q
+
+FlatTire
 
 ### Warmup
 
@@ -33369,6 +37641,10 @@ Lunge Walk with Coupon
 ---
 
 ## Love It or Hate It
+
+### Q
+
+Jed
 
 ### Warmup
 
@@ -33407,6 +37683,10 @@ Run track in reverse, repeating movements
 
 ## Happy Trails
 
+### Q
+
+Schlitz
+
 ### Warmup
 
 Willie Mays Hayes
@@ -33418,6 +37698,10 @@ Willie Mays Hayes
 ---
 
 ## Monday Mayhem
+
+### Q
+
+Forrest
 
 ### Warmup
 
@@ -33452,6 +37736,10 @@ PAX repeated circuit 3x
 
 ## Shoulders
 
+### Q
+
+Satellite
+
 ### Warmup
 
 ssh, arm circles, stretching
@@ -33475,6 +37763,10 @@ howling monkeys; shoulder tap waterfall
 
 ## Saturday at the Stable
 
+### Q
+
+Bliss
+
 ### Warmup
 
 - 5:1 Motivators
@@ -33495,6 +37787,10 @@ PAX Completed the World’s Beat Mile
 ---
 
 ## Backblast
+
+### Q
+
+Slippin' Jimmy
 
 ### Warmup
 
@@ -33528,6 +37824,10 @@ PAX completed 2+ circuits.
 
 ## Backblast
 
+### Q
+
+Klinger
+
 ### Warmup
 
 OYO
@@ -33539,6 +37839,10 @@ Ran 5.5 miles of the chubb trail, we endured some scrapes and bruises but we had
 ---
 
 ## 90's Party on the Rooftop
+
+### Q
+
+Rumple Minze
 
 ### Warmup
 
@@ -33564,6 +37868,10 @@ MARY/Barry: Curls for Girls for 3 Minutes
 
 ## Ultimate Friday
 
+### Q
+
+Forrest
+
 ### Warmup
 
 5-1 motivators
@@ -33584,6 +37892,10 @@ Ran out of time
 ---
 
 ## F3 at THE_WAY - It's a Team Sport today
+
+### Q
+
+FlyBoy
 
 ### Thang
 
@@ -33608,6 +37920,10 @@ Box Cutters 16 IC, Spartan Twits 16 IC, Flutter Kicks -5 IC
 
 ## Fun Friday
 
+### Q
+
+Silicone
+
 ### Warmup
 
 various stretches oyo
@@ -33623,6 +37939,10 @@ stretching oyo
 ---
 
 ## Finish the week out RIGHT!
+
+### Q
+
+FlatTire
 
 ### Warmup
 
@@ -33655,6 +37975,10 @@ Mosey back to the Flags
 
 ## Backblast
 
+### Q
+
+Slippin' Jimmy
+
 ### Warmup
 
 - 5-1 Motivators
@@ -33683,6 +38007,10 @@ Bernie Sanders up hill, 10 BBSU, Mosey Back x2
 ---
 
 ## Wildwood Blackops HERO Circuit
+
+### Q
+
+Ratigan
 
 ### Warmup
 
@@ -33720,6 +38048,10 @@ RESULTS:
 ---
 
 ## We Will Rock You
+
+### Q
+
+Petey
 
 ### Warmup
 
@@ -33781,6 +38113,10 @@ Old Man Stretch
 
 ## Ice Cream Paint Job
 
+### Q
+
+Worm
+
 ### Warmup
 
 - 5-1 Motivators
@@ -33796,6 +38132,10 @@ Greatest hits from all things millennial with a 45/15 Tabata timer!
 ---
 
 ## Travelin' Light
+
+### Q
+
+Pothole (SoSTL)
 
 ### Warmup
 
@@ -33855,6 +38195,10 @@ Round 4 - CARDIO & CARRY
 ---
 
 ## Murder Mystery at Mousetrap
+
+### Q
+
+BrownOut
 
 ### Warmup
 
@@ -33917,6 +38261,10 @@ N/A - Out of Time
 
 ## Backblast
 
+### Q
+
+Charmin
+
 ### Warmup
 
 Old man stretch, opening the gates, Learning to Phelps, high knees, butt kicks, Little baby arm circles
@@ -33956,6 +38304,10 @@ Recover-recover
 
 ## Backblast
 
+### Q
+
+TheBeav
+
 ### Warmup
 
 SSH
@@ -33980,6 +38332,10 @@ Person 2 does 15 curls; 15 merkins; 15 flutter kicks the hard way with coupon ho
 ---
 
 ## Norwegian Engine
+
+### Q
+
+AirBiscuit
 
 ### Warmup
 
@@ -34016,6 +38372,10 @@ Active Recovery Strength (10 reps IC)
 ---
 
 ## Backblast
+
+### Q
+
+DOS
 
 ### Warmup
 
@@ -34066,6 +38426,10 @@ DOS Error
 
 ## Here we go again!
 
+### Q
+
+FlatTire
+
 ### Warmup
 
 7:1 Motivators
@@ -34084,6 +38448,10 @@ We completed two laps of exercises, then did a final Mosey around the lake witho
 ---
 
 ## SLT May BD Meetup
+
+### Q
+
+DOS
 
 ### Warmup
 
@@ -34113,6 +38481,10 @@ OYO stretching during the circle meeting
 
 ## Merkins, Miles & More!
 
+### Q
+
+Catnip Wolverine STL Scalper (STL) Frozone
+
 ### Warmup
 
 - Motivators, piano tappers, burpees, Abe Vigodas
@@ -34140,6 +38512,10 @@ Windshield wipers, coupon plank jacks
 
 ## We are "working out"
 
+### Q
+
+Klinger
+
 ### Warmup
 
 Abe vigoda, Baby Arm circles, learning to phelps, Willie Mays hays, 5 to 1 motivators
@@ -34161,6 +38537,10 @@ None
 ---
 
 ## Just the Three of Us
+
+### Q
+
+Rock Ride
 
 ### Warmup
 
@@ -34214,6 +38594,10 @@ American Hammers 15 IC
 
 ## Climb and Punishment
 
+### Q
+
+Whip
+
 ### Warmup
 
 SSH 25
@@ -34255,6 +38639,10 @@ Mosey back to the flags
 
 ## It’s Monday, Let’s Sweat
 
+### Q
+
+Dead Broke
+
 ### Warmup
 
 5 to 1 Motivators
@@ -34277,6 +38665,10 @@ We completed two rounds but on the second round the travel was just Rifle Carry.
 
 ## Mother’s Day ideas exchange
 
+### Q
+
+Matchbox
+
 ### Warmup
 
 5-1s, Batwings, L2Ps, GGs
@@ -34290,6 +38682,10 @@ Rounds of 25, 20, 15, 10, 5, start over.
 ---
 
 ## Offwhite Diamond Trial and Error
+
+### Q
+
+Ratigan
 
 ### Warmup
 
@@ -34320,6 +38716,10 @@ Come find out what this is Thursday.
 ---
 
 ## Arkham 4/3 Track and Stack Re Revisited
+
+### Q
+
+Forrest
 
 ### Warmup
 
@@ -34384,6 +38784,10 @@ Reach for the sky
 
 ## The Pivot
 
+### Q
+
+McFly, Bliss
+
 ### Thang
 
 Q PAX at start time. Site Q PAX graciously pivoted to a PAX choice - each PAX member, in rotation, selects an exercise for remaining PAX to execute while that member runs a lap around the track. Exercises selected included Thrusters, Merkins and more. Accountability burpees for tardiness. Finished with a lap and some Mary exercises selected by PAX then concluded.
@@ -34391,6 +38795,10 @@ Q PAX at start time. Site Q PAX graciously pivoted to a PAX choice - each PAX me
 ---
 
 ## Let’s Work
+
+### Q
+
+Jed
 
 ### Warmup
 
@@ -34434,6 +38842,10 @@ Dips
 
 ## Saturday at The Jar!
 
+### Q
+
+FlatTire
+
 ### Warmup
 
 5:1 Motivators
@@ -34461,6 +38873,10 @@ Recover to the Flags.
 ---
 
 ## Weekend Warriors
+
+### Q
+
+Jed
 
 ### Warmup
 
@@ -34490,6 +38906,10 @@ Once trigger man returns all men perform 5 burpees, next Pax starts lap while al
 ---
 
 ## SISYPHUS ? ?
+
+### Q
+
+9 to 5
 
 ### Warmup
 
@@ -34521,6 +38941,10 @@ COR & NOR
 
 ## Sensitivity training
 
+### Q
+
+Criss-cross
+
 ### Warmup
 
 Empathy arm circles
@@ -34548,6 +38972,10 @@ Sensitive sled dogs - born this way
 
 ## Right Near the Beach
 
+### Q
+
+Thumper
+
 ### Warmup
 
 Old man stretch
@@ -34571,6 +38999,10 @@ World Greatest stretch
 ---
 
 ## House of Cards
+
+### Q
+
+Rock Chalk
 
 ### Warmup
 
@@ -34605,6 +39037,10 @@ Team 2 aka Mousetrap Mathin, Cheaters were DQ'd for their highly suspicious fina
 
 ## "The 48 Year Old Virgin" Q
 
+### Q
+
+MichaelScarn
+
 ### Warmup
 
 - 15 Side Straddle Hops
@@ -34630,6 +39066,10 @@ Everybody rotates over a spot when the runner returns to his team location.
 ---
 
 ## Doing the ALPHAbet
+
+### Q
+
+5 on 2
 
 ### Warmup
 
@@ -34675,6 +39115,10 @@ Mountain climbers
 ---
 
 ## Operation Homecoming Redux
+
+### Q
+
+Pothole (SoSTL)
 
 ### Warmup
 
@@ -34723,6 +39167,10 @@ Freddie Mercury
 
 ## Sandbag Terror and Monkey Madness
 
+### Q
+
+5 on 2
+
 ### Warmup
 
 8-1 motivators
@@ -34767,6 +39215,10 @@ Yoke Carries w/4 coupons
 
 ## Working Hard or Hardly Working?
 
+### Q
+
+Schlitz
+
 ### Warmup
 
 - Side Straddle Hops
@@ -34800,6 +39252,10 @@ Then mosey to a pull-up bar, do 3 pull-ups, and return to do 6 of each.  Continu
 
 ## Let the Race Begin
 
+### Q
+
+Dead Broke
+
 ### Warmup
 
 Side straddle hops x20
@@ -34831,6 +39287,10 @@ Team PAX and PAX won!!!
 
 ## Thursday on a String
 
+### Q
+
+Manny
+
 ### Warmup
 
 - learning to Phelps
@@ -34861,6 +39321,10 @@ Exercises included:
 ---
 
 ## Conclave
+
+### Q
+
+Slippin' Jimmy
 
 ### Warmup
 
@@ -34904,6 +39368,10 @@ PAX Fry led a series of exercises while the votes were tabulated.
 
 ## 50 is the New 30!
 
+### Q
+
+Bushwood
+
 ### Warmup
 
 - 10 ct Grass Grabbers
@@ -34923,6 +39391,10 @@ PAX Fry led a series of exercises while the votes were tabulated.
 
 ## Backblast
 
+### Q
+
+PillowFight
+
 ### Warmup
 
 Railroad of Sin @ Dr Dick w Pull-Ups
@@ -34934,6 +39406,10 @@ R/L push up/ squat / row w travels
 ---
 
 ## Cerveza Hangover Cure!
+
+### Q
+
+Emilio
 
 ### Warmup
 
@@ -34975,6 +39451,10 @@ Completed various stretches until time.
 
 ## Jump around
 
+### Q
+
+Hermey
+
 ### Warmup
 
 arm circles, downward dog, Willie Mayes Hayes, imperial walkers, 5-1 motivators
@@ -35014,6 +39494,10 @@ Waterfall boats and canoes
 
 ## SISYPHUS ?
 
+### Q
+
+9 to 5
+
 ### Warmup
 
 - SSHs
@@ -35041,6 +39525,10 @@ COR & NOR
 ---
 
 ## Let’s Work
+
+### Q
+
+TheBeav
 
 ### Warmup
 
@@ -35073,6 +39561,10 @@ Teams switched exercises so everyone did everything at least once.
 ---
 
 ## Let’s Work
+
+### Q
+
+Jed
 
 ### Warmup
 
@@ -35114,6 +39606,10 @@ Lap
 ---
 
 ## Fiesta Five O
+
+### Q
+
+BioBreak
 
 ### Thang
 
@@ -35170,6 +39666,10 @@ El Hecho Plank-o-Rama – rotating planks (high, low, side) – 1 min total
 
 ## Luchador Taco and Fiesta Dance Party for El Salvador Deportees
 
+### Q
+
+Worm Bucky
+
 ### Warmup
 
 Apparently we all failed Spanish counting_
@@ -35196,6 +39696,10 @@ Guantanamos
 ---
 
 ## 05-05-2025
+
+### Q
+
+Thumper
 
 ### Warmup
 
@@ -35231,6 +39735,10 @@ Hillbilly Walkers - 50
 ---
 
 ## So Many Hills, So Little Time
+
+### Q
+
+FlyBoy
 
 ### Warmup
 
@@ -35281,6 +39789,10 @@ Spartan Hammers 5x3
 
 ## Cinco de Quadro
 
+### Q
+
+AirBiscuit
+
 ### Warmup
 
 - Abe Vigoda, Learning to Phelps, Down Dog
@@ -35299,6 +39811,10 @@ Finished with one lap around the parking lot to top up the mileage.
 ---
 
 ## Table Stakes
+
+### Q
+
+BUB
 
 ### Warmup
 
@@ -35335,6 +39851,10 @@ included in Thang
 
 ## The Third Annual Kessel Run
 
+### Q
+
+Big Spoon, Manny
+
 ### Warmup
 
 - Jedi Force Hops
@@ -35364,6 +39884,10 @@ included in Thang
 ---
 
 ## A long time ago, in a galaxy far, far away....
+
+### Q
+
+Slippin' Jimmy
 
 ### Warmup
 
@@ -35398,6 +39922,10 @@ Resistance Victory! Celebratory mosey around Pathfinder complex.
 
 ## Harry c really did bring donuts!
 
+### Q
+
+Jayhawk
+
 ### Warmup
 
 SSH
@@ -35423,6 +39951,10 @@ Flutter kicks
 
 ## Friday Funday
 
+### Q
+
+WetnWild
+
 ### Warmup
 
 Old man stretch
@@ -35441,6 +39973,10 @@ none
 ---
 
 ## Backblast
+
+### Q
+
+Manny
 
 ### Warmup
 
@@ -35461,6 +39997,10 @@ none
 ---
 
 ## The Elder Trolls
+
+### Q
+
+DOS
 
 ### Warmup
 
@@ -35493,6 +40033,10 @@ Walk back to meeting place
 ---
 
 ## Meltdown
+
+### Q
+
+rogerroger
 
 ### Warmup
 
@@ -35530,6 +40074,10 @@ Split into 2 Groups
 
 ## Monthly Murph prep
 
+### Q
+
+Silicone, Rorschach
+
 ### Warmup
 
 PAX lead through
@@ -35559,6 +40107,10 @@ World’s greatest stretch
 
 ## It’s Pool Season, Let’s Get Ready
 
+### Q
+
+Dead Broke
+
 ### Warmup
 
 SSH x30
@@ -35579,6 +40131,10 @@ We completed three rounds of these stations
 ---
 
 ## April showers bring Mayflowers
+
+### Q
+
+Flounder
 
 ### Warmup
 
@@ -35619,6 +40175,10 @@ And respect to PAX doing those farmer carries gloveless
 ---
 
 ## Backblast
+
+### Q
+
+Forrest
 
 ### Warmup
 
@@ -35689,6 +40249,10 @@ Reach for sky
 
 ## Pumpin' Iron (and splashin' mud)
 
+### Q
+
+5 on 2
+
 ### Warmup
 
 6-1 Motivators
@@ -35746,6 +40310,10 @@ Misc Stretches
 ---
 
 ## Let us not Wrestle. Instead Save it For the Kessel
+
+### Q
+
+BUB
 
 ### Warmup
 
@@ -35805,6 +40373,10 @@ It being May 1st and Q having forgotten his maypole in crawl space, Pax skipped 
 
 ## There will be Gloom
 
+### Q
+
+Bliss
+
 ### Warmup
 
 - 5:1 Motivators
@@ -35834,6 +40406,10 @@ Completed a lap around the playground to finish it off.
 ---
 
 ## Strength for the Journey
+
+### Q
+
+Whip
 
 ### Warmup
 
@@ -35887,6 +40463,10 @@ Finisher – “Carry the Cross”
 
 ## Stand Up Straight
 
+### Q
+
+AirBiscuit
+
 ### Warmup
 
 - Side Straddle Hops
@@ -35923,6 +40503,10 @@ Format:
 
 ## 3 Year Manniversary
 
+### Q
+
+Drizzle
+
 ### Warmup
 
 10 burpees
@@ -35945,6 +40529,10 @@ LBCs, lemon squeezers, flutter kicks, v-ups
 
 ## Sea Shanty Jump Around
 
+### Q
+
+Slippin' Jimmy
+
 ### Warmup
 
 - Grass Grabbers
@@ -35962,6 +40550,10 @@ LBCs, lemon squeezers, flutter kicks, v-ups
 ---
 
 ## Power up at the pavilion
+
+### Q
+
+Outhouse
 
 ### Warmup
 
@@ -36015,6 +40607,10 @@ Repeat of ab burners from work out
 
 ## There's Gold In Them Thar Hills
 
+### Q
+
+Rock Ride
+
 ### Warmup
 
 Goofballs 20 IC
@@ -36058,6 +40654,10 @@ Heels to Heaven 10 IC
 
 ## The Armory
 
+### Q
+
+ledger
+
 ### Warmup
 
 SSH, Litttle Baby Arm Circles
@@ -36088,6 +40688,10 @@ Shoulder stretch, tricep stretch, cobra, and child's pose
 
 ## It’s gonna be May (almost)
 
+### Q
+
+Freshman
+
 ### Warmup
 
 Grass grabbers
@@ -36113,6 +40717,10 @@ Toe touch crunches
 
 ## A little bit of everything
 
+### Q
+
+Hot Runs
+
 ### Warmup
 
 willie-mays hays, learning to phelps, side-straddle hops
@@ -36128,6 +40736,10 @@ Merkin, curls, and big boy sit-up waterfalls
 ---
 
 ## F3 Falcón Memorial BD
+
+### Q
+
+Double D
 
 ### Warmup
 
@@ -36156,6 +40768,10 @@ Old Man Stretch
 
 ## Roux Relay - First go...Haha
 
+### Q
+
+Neighborly, Keynote
+
 ### Warmup
 
 - Side Straddle Hops
@@ -36178,6 +40794,10 @@ Old Man Stretch
 ---
 
 ## BRING DOWN THE HAMMER!!!
+
+### Q
+
+Lotus Notes, Wilson (SpiritSTL), BigTex
 
 ### Warmup
 
@@ -36248,6 +40868,10 @@ Mosey to bottom of parking lot. Deion Sanders back to coupon
 
 ## We chose to start the week off correctly!
 
+### Q
+
+Uncle Buck
+
 ### Warmup
 
 Learning to Phelps, Willie Mays Hays, Grass Grabbers, Arm Circles
@@ -36271,6 +40895,10 @@ Freddy Mercuries
 ---
 
 ## Just Keep Going ⚔️
+
+### Q
+
+Rupture
 
 ### Warmup
 
@@ -36313,6 +40941,10 @@ PAX Powerup Block 3 (2 sets):
 ---
 
 ## Work Release
+
+### Q
+
+Bucky
 
 ### Warmup
 
@@ -36361,6 +40993,10 @@ Hanging knee raises
 
 ## Saturday Exercise
 
+### Q
+
+Harry C
+
 ### Warmup
 
 mosey to Manchester for monkey humps
@@ -36376,6 +41012,10 @@ sprint
 ---
 
 ## Competitions with cross cross
+
+### Q
+
+Criss-cross
 
 ### Warmup
 
@@ -36411,6 +41051,10 @@ Continue races with an exercises
 
 ## Boot Camp
 
+### Q
+
+Munchies
+
 ### Warmup
 
 SSH, Phelps, LBAC, Seal Claps, Stretch
@@ -36427,6 +41071,10 @@ Boats and CANOES of course.
 ---
 
 ## Friyay at The Way
+
+### Q
+
+Bushwood
 
 ### Warmup
 
@@ -36466,6 +41114,10 @@ Boats and CANOES of course.
 ---
 
 ## Backblast
+
+### Q
+
+Hotspur, Keynote
 
 ### Warmup
 
@@ -36509,6 +41161,10 @@ ab exercises facing the sunrise on top of the hill.
 
 ## The Grudge
 
+### Q
+
+PillowFight
+
 ### Warmup
 
 9 min EMOM Cindy
@@ -36524,6 +41180,10 @@ Tricep/Bicep Tabata
 ---
 
 ## The Hills had Ayes (3 of 'em)
+
+### Q
+
+Slippin' Jimmy
 
 ### Warmup
 
@@ -36558,6 +41218,10 @@ Wash, rinse, repeat until time called
 ---
 
 ## Track and Stack Redux
+
+### Q
+
+Forrest
 
 ### Warmup
 
@@ -36625,6 +41289,10 @@ Child pose
 
 ## Howlin'
 
+### Q
+
+5 on 2
+
 ### Warmup
 
 5-1 motivators
@@ -36671,6 +41339,10 @@ Upon completion Circle up
 
 ## Upper decker 21s
 
+### Q
+
+Hermey
+
 ### Warmup
 
 SSH  Willie Mayes Hayes. Little baby Arm circles plank shoulder taps
@@ -36695,6 +41367,10 @@ Repeat sets 1-2
 
 ## Mothra VQ
 
+### Q
+
+Worm
+
 ### Warmup
 
 - Lap around the school
@@ -36715,6 +41391,10 @@ Repeat sets 1-2
 ---
 
 ## Mothra Mayhem: The Flappening
+
+### Q
+
+Whip
 
 ### Warmup
 
@@ -36766,6 +41446,10 @@ LBC 20 on your own
 
 ## It’s Not Monday
 
+### Q
+
+Manny
+
 ### Warmup
 
 - 5-1 Smurfivators
@@ -36786,6 +41470,10 @@ LBC 20 on your own
 ---
 
 ## Oh the Places we will go...
+
+### Q
+
+Rumple Minze
 
 ### Warmup
 
@@ -36832,6 +41520,10 @@ Now Mosey back to Memorial and do the exact workout in reverse until last hill r
 
 ## Ultimate Wednesday
 
+### Q
+
+Forrest
+
 ### Warmup
 
 5-1 Motivators
@@ -36851,6 +41543,10 @@ Ran out of time
 ---
 
 ## Dope Rappers
+
+### Q
+
+Big Spoon
 
 ### Warmup
 
@@ -36907,6 +41603,10 @@ Plank In and Outs
 
 ## WWVWW
 
+### Q
+
+Flounder
+
 ### Warmup
 
 SSH, Grass Grabbers, Willie Mays, Quad Stretch, LBAC
@@ -36928,6 +41628,10 @@ Elizabeth Warren (Indian run but using lunge walk. Last in line will  to the fro
 ---
 
 ## Joga bonito w/ coupons
+
+### Q
+
+Neymar
 
 ### Warmup
 
@@ -36956,6 +41660,10 @@ Next 20 min plus 5min of recovery/Mary:
 ---
 
 ## Backblast
+
+### Q
+
+Klinger
 
 ### Warmup
 
@@ -36987,6 +41695,10 @@ With Partner, relay race walking lunges x 2
 ---
 
 ## In Remembrance
+
+### Q
+
+Ratigan
 
 ### Warmup
 
@@ -37021,6 +41733,10 @@ Star crunch 7 IC
 ---
 
 ## This gym membership is free
+
+### Q
+
+Data Dump
 
 ### Warmup
 
@@ -37057,6 +41773,10 @@ Mosey 0.5 miles back to flag
 
 ## Club Arkham
 
+### Q
+
+Worm
+
 ### Warmup
 
 - 5-1 Motivators
@@ -37090,6 +41810,10 @@ Part of the BD
 ---
 
 ## Line Cutters
+
+### Q
+
+5 on 2
 
 ### Warmup
 
@@ -37143,6 +41867,10 @@ Station 7:
 
 ## We didn't find the rabbit, but we did find an FNG!
 
+### Q
+
+Lotus Notes
+
 ### Warmup
 
 Principles, Credo, Mission, Disclaimer
@@ -37165,6 +41893,10 @@ COR, NOR
 ---
 
 ## Trap HyROX
+
+### Q
+
+Bucky
 
 ### Warmup
 
@@ -37201,6 +41933,10 @@ Timed out
 
 ## Monday at The Way
 
+### Q
+
+FlyBoy
+
 ### Warmup
 
 6:1 Motivators
@@ -37221,6 +41957,10 @@ One Pax does Murder Bunny to the near light (25 yards) and Resurrection Bunny ba
 ---
 
 ## It's Been Two Years
+
+### Q
+
+Schlitz, Rupture, Klinger
 
 ### Warmup
 
@@ -37246,6 +41986,10 @@ One Pax does Murder Bunny to the near light (25 yards) and Resurrection Bunny ba
 ---
 
 ## Mobility Monday
+
+### Q
+
+5 on 2
 
 ### Warmup
 
@@ -37283,6 +42027,10 @@ Leg lifts, hello dollies, LBCs, penguin tappers
 
 ## Prep For The Reaurrection
 
+### Q
+
+Jed
+
 ### Warmup
 
 5-1 Motivators
@@ -37319,6 +42067,10 @@ Thrusters
 ---
 
 ## Backblast
+
+### Q
+
+Rumple Minze
 
 ### Warmup
 
@@ -37375,6 +42127,10 @@ Lap around Awakening Statue
 
 ## Fun Friday Futsal (F3)
 
+### Q
+
+Baaarf
+
 ### Warmup
 
 - 5 to 1 motivators
@@ -37399,6 +42155,10 @@ Losers: Q for forgetting to do a NOR and PAX because tradition is important.
 ---
 
 ## It’s a Good Friday to workout for Jesus
+
+### Q
+
+Freshman
 
 ### Warmup
 
@@ -37425,6 +42185,10 @@ We’re ALL WINNERS FOR THE RESURRECTION 1 Ric Flair victory lap around the trac
 ---
 
 ## Flow State Friday
+
+### Q
+
+AirBiscuit
 
 ### Warmup
 
@@ -37465,6 +42229,10 @@ Extended stretching & mobility work:
 
 ## It’s Good Friday, let’s get a workout in before Easter
 
+### Q
+
+Dead Broke
+
 ### Warmup
 
 Side Straddle Hops x30
@@ -37491,6 +42259,10 @@ Flutter Kicks x30
 ---
 
 ## Throat punch Thursday
+
+### Q
+
+Flounder
 
 ### Warmup
 
@@ -37526,6 +42298,10 @@ Merkin /  crawl / OH Press
 ---
 
 ## The Triangle of Terror
+
+### Q
+
+Forrest
 
 ### Warmup
 
@@ -37584,6 +42360,10 @@ Downward dog
 
 ## Minutes of Mayhem ?
 
+### Q
+
+Big Spoon
+
 ### Warmup
 
 SSH
@@ -37638,6 +42418,10 @@ Side Plank Hold (l)
 
 ## Why do you always have to be so NEGATIVE?
 
+### Q
+
+McFly
+
 ### Warmup
 
 5-1 motivators
@@ -37672,6 +42456,10 @@ Coupon Calf Raises (also w/negatives in cadence)
 
 ## Let’s Go!
 
+### Q
+
+Manny
+
 ### Warmup
 
 - 5-1 smurfivators
@@ -37696,6 +42484,10 @@ Coupon lunges back to flags
 
 ## Paddock Circuit
 
+### Q
+
+Satellite
+
 ### Warmup
 
 5-to-1 motivators; stretching; curls; blockees
@@ -37707,6 +42499,10 @@ Traveled the path around the Paddock pasture 2x. Along the north side of the loo
 ---
 
 ## Hump Day!
+
+### Q
+
+Karat
 
 ### Warmup
 
@@ -37726,6 +42522,10 @@ Not today
 ---
 
 ## The Hills Have No Arms
+
+### Q
+
+BrownOut
 
 ### Warmup
 
@@ -37763,6 +42563,10 @@ Hello Dollies – 30 IC
 
 ## Red light Green Light
 
+### Q
+
+Outhouse
+
 ### Thang
 
 1 min on travel/cardio; 1 min resistance
@@ -37790,6 +42594,10 @@ Guantanamos with trigger running loop around cars after slapping the legs
 ---
 
 ## Block Mountain (Wildwood middle school blackops)
+
+### Q
+
+5 on 2
 
 ### Warmup
 
@@ -37831,6 +42639,10 @@ Repeat until 6:10
 ---
 
 ## Judas Be Damned!
+
+### Q
+
+Jed
 
 ### Warmup
 
@@ -37882,6 +42694,10 @@ Travel between stations = Murder Bunny
 
 ## Need a little motivation?
 
+### Q
+
+5 on 2
+
 ### Warmup
 
 7-1 motivators
@@ -37931,6 +42747,10 @@ Do Monkey humpers while waiting on six b/w sets
 
 ## Forged Fortitude
 
+### Q
+
+rogerroger
+
 ### Warmup
 
 - 5:1 Motivators
@@ -37960,6 +42780,10 @@ Ladder Rep Count 5, 10, 15, 20, 20, 15, 10, 5
 
 ## Guinea Pigs
 
+### Q
+
+Klinger
+
 ### Warmup
 
 - Grass Grabbers IC x 10
@@ -37986,6 +42810,10 @@ Nope
 ---
 
 ## Time to pay the F3 Tax
+
+### Q
+
+Stanley
 
 ### Warmup
 
@@ -38032,6 +42860,10 @@ Danish Tax Code (Copenhagen Planks)
 
 ## You’re the Best Around, nothings ever going to keep you down
 
+### Q
+
+Data Dump
+
 ### Warmup
 
 SSH - 30 IC
@@ -38066,6 +42898,10 @@ Then each round run to the first cone, then 2nd round run to 2nd cone.
 
 ## Happy Tax Day! Let’s Get Your Sweat Rolling
 
+### Q
+
+Dead Broke
+
 ### Warmup
 
 Side Straddle Hops x20
@@ -38086,6 +42922,10 @@ We traveled around the park and did random exercise.
 ---
 
 ## MONDAY HYPE TRAIN
+
+### Q
+
+Double D
 
 ### Warmup
 
@@ -38120,6 +42960,10 @@ Thread the Needle
 ---
 
 ## It's Bristol Baby
+
+### Q
+
+Fish Fry
 
 ### Warmup
 
@@ -38170,6 +43014,10 @@ Dragon Pulser. Start in high plank.  4 count Forward plank walk.  4 shoulder tap
 
 ## Last Minute Pick-up
 
+### Q
+
+Charmin
+
 ### Warmup
 
 started with a lap around the track
@@ -38196,6 +43044,10 @@ Recover-Recover
 ---
 
 ## Monday Hills
+
+### Q
+
+Rock Chalk
 
 ### Warmup
 
@@ -38240,6 +43092,10 @@ Close out with 2 bleacher runs
 
 ## run the jewels 1
 
+### Q
+
+PillowFight
+
 ### Warmup
 
 100 (push) UPS
@@ -38255,6 +43111,10 @@ Close out with 2 bleacher runs
 ---
 
 ## Monday after the Masters
+
+### Q
+
+Bliss
 
 ### Warmup
 
@@ -38280,6 +43140,10 @@ The Pax completed the exercises below. Reps were determined by the golfers score
 ---
 
 ## Recess: F3 Tag Dumpster FUN
+
+### Q
+
+Ratigan
 
 ### Warmup
 
@@ -38328,6 +43192,10 @@ Guantanamo
 
 ## Ring around the rosey ⭕️
 
+### Q
+
+9 to 5
+
 ### Warmup
 
 - SSHs
@@ -38363,6 +43231,10 @@ COR & NOR
 
 ## Cobra Kia
 
+### Q
+
+Road Rage
+
 ### Thang
 
 Round 1: Perry block/ wrist grab, Horse stance karate basics ( punches and blocks), and Karate combo 1
@@ -38376,6 +43248,10 @@ Plank walks~1min, thread the needle ( 20 each), Flutter kicks ~1min, Heel taps ~
 ---
 
 ## CRUEL or FOOL?
+
+### Q
+
+9 to 5
 
 ### Warmup
 
@@ -38398,6 +43274,10 @@ Plank walks~1min, thread the needle ( 20 each), Flutter kicks ~1min, Heel taps ~
 ---
 
 ## A workout unlike any other.
+
+### Q
+
+Criss-cross
 
 ### Warmup
 
@@ -38430,6 +43310,10 @@ We had a par 10
 
 ## Fridays are for Fitness!
 
+### Q
+
+Jed
+
 ### Warmup
 
 5-1 Motivators
@@ -38460,6 +43344,10 @@ Side Straddle Hops
 
 ## Manniversary Edition
 
+### Q
+
+Flounder
+
 ### Warmup
 
 - 20 SSH IC
@@ -38481,6 +43369,10 @@ Side Straddle Hops
 
 ## Backblast
 
+### Q
+
+Wayne Babies
+
 ### Thang
 
 Wrapped it up with hip/butt stuff and some stretching.
@@ -38488,6 +43380,10 @@ Wrapped it up with hip/butt stuff and some stretching.
 ---
 
 ## Setting expectations
+
+### Q
+
+Klinger
 
 ### Warmup
 
@@ -38517,6 +43413,10 @@ None, ran out of time
 
 ## Spirit PT Beta Test
 
+### Q
+
+Hamburglar
+
 ### Warmup
 
 - 5 to 1 Motivators
@@ -38533,6 +43433,10 @@ See attachment and scores for comparison
 ---
 
 ## Backblast
+
+### Q
+
+Data Dump
 
 ### Warmup
 
@@ -38576,6 +43480,10 @@ Together
 
 ## Arkham Remained Open!
 
+### Q
+
+Emilio
+
 ### Warmup
 
 - 5-1 Motivators IC
@@ -38600,6 +43508,10 @@ After the 6 was in, we spent 10 minutes doing various mobility movements and str
 ---
 
 ## All Gas, No Breaks
+
+### Q
+
+Bill Nye, Bliss
 
 ### Warmup
 
@@ -38631,6 +43543,10 @@ Guantanamos
 
 ## Sandbags, The Pill, & TUT
 
+### Q
+
+Rock Ride
+
 ### Warmup
 
 Goofballs 20 IC
@@ -38655,6 +43571,10 @@ nope
 
 ## MAGNANIMITY
 
+### Q
+
+Noah
+
 ### Warmup
 
 SSH, Arm Circles, OH Clap, Seal Clap, Pretzels, Piano Tappers, Turf Grabbers
@@ -38671,6 +43591,10 @@ The PAX enjoyed PAX and amusing <#C037MGE3PC4|> while we worked.
 ---
 
 ## In Honor of Dr Seuss
+
+### Q
+
+Rock Ride
 
 ### Warmup
 
@@ -38700,6 +43624,10 @@ Travel between cones is up to the PAX.
 ---
 
 ## The Trapper’s Gauntlet
+
+### Q
+
+Forrest
 
 ### Warmup
 
@@ -38762,6 +43690,10 @@ Reach for sky
 
 ## Suess Time
 
+### Q
+
+Munchies
+
 ### Warmup
 
 Grass Grabbers, 400m run (actually 500m)
@@ -38797,6 +43729,10 @@ Rope Climbers & Guantanamo
 
 ## Backblast
 
+### Q
+
+Rock Chalk
+
 ### Warmup
 
 - 20 Grass Grabbers
@@ -38823,6 +43759,10 @@ Rope Climbers & Guantanamo
 ---
 
 ## Backblast
+
+### Q
+
+Big Spoon
 
 ### Warmup
 
@@ -38854,6 +43794,10 @@ Rope Climbers
 
 ## pickleball
 
+### Q
+
+PillowFight
+
 ### Warmup
 
 railroad of sin burpee SSH
@@ -38871,6 +43815,10 @@ stairs and lunges
 ---
 
 ## 5on2's House of Pain
+
+### Q
+
+5 on 2
 
 ### Warmup
 
@@ -38900,6 +43848,10 @@ BBSUs IC 20
 
 ## Let’s Go
 
+### Q
+
+Manny
+
 ### Warmup
 
 - goofballs
@@ -38926,6 +43878,10 @@ One round boats and canoes
 
 ## Jump Around, Push It, Hold the Line
 
+### Q
+
+Schlitz
+
 ### Warmup
 
 - House of Pain - Jump Around: stretch during verses, side-straddle hops during chorus
@@ -38945,6 +43901,10 @@ One round boats and canoes
 ---
 
 ## Sandbaggin it
+
+### Q
+
+Rock Chalk
 
 ### Warmup
 
@@ -38990,6 +43950,10 @@ Sandbag Suicide Ladder
 
 ## March of the Mosura
 
+### Q
+
+Bucky
+
 ### Warmup
 
 2 Minute Walking Stretches.
@@ -39013,6 +43977,10 @@ Sandbag Suicide Ladder
 ---
 
 ## WorldWaterDay25
+
+### Q
+
+Band Camp
 
 ### Warmup
 
@@ -39041,6 +44009,10 @@ Included for free w/in the thang
 ---
 
 ## A Walk to Remember
+
+### Q
+
+FlatTire
 
 ### Warmup
 
@@ -39080,6 +44052,10 @@ Recover to the flags
 
 ## We're Halfway There
 
+### Q
+
+Baaarf
+
 ### Warmup
 
 - SSH x 20 IC
@@ -39106,6 +44082,10 @@ Running. We did about a half mile jog around the park, stopping halfway through 
 ---
 
 ## Endure the Workouts that start at 5:31
+
+### Q
+
+Sandtrap
 
 ### Warmup
 
@@ -39143,6 +44123,10 @@ NOR ✅
 
 ## Trial of Miles
 
+### Q
+
+Rorschach
+
 ### Warmup
 
 Stretch on Your Own!
@@ -39158,6 +44142,10 @@ Stretch it out
 ---
 
 ## Monday Motivation
+
+### Q
+
+Jed
 
 ### Warmup
 
@@ -39187,6 +44175,10 @@ Side Straddle Hops
 ---
 
 ## Core Principles
+
+### Q
+
+BenButton
 
 ### Warmup
 
@@ -39234,6 +44226,10 @@ flutter kicks, big boy sit-ups, plank rotations
 
 ## Huckleberry CSAUP V2-Parkway Central HS
 
+### Q
+
+Hamburglar, DOS, TopRope (Jeffco), Wayne Babies, Clotshot, Bucky
+
 ### Warmup
 
 Led in CRUSHING fashion by PAX 45 Burpees OYO
@@ -39249,6 +44245,10 @@ Led in CRUSHING fashion by PAX 45 Burpees OYO
 ---
 
 ## Let’s Get Warmed Up for CSAUP
+
+### Q
+
+Dead Broke
 
 ### Warmup
 
@@ -39279,6 +44279,10 @@ Station 5. Deadlifts
 
 ## Stuff w/ Music. Sorry couldn’t get video to post.
 
+### Q
+
+Sprinkles
+
 ### Warmup
 
 Mosey around the parking lot, windmill, Willie May Hayes, and worlds greatest stretch
@@ -39300,6 +44304,10 @@ Exercises completed in groups of three with five total groups. Upper body, lower
 ---
 
 ## Swim down to the trap
+
+### Q
+
+Criss-cross
 
 ### Warmup
 
@@ -39344,6 +44352,10 @@ Flutter Kicks to failure
 
 ## April Showers
 
+### Q
+
+Flounder
+
 ### Warmup
 
 25 SSH
@@ -39370,6 +44382,10 @@ Same partner groups. One AMRAPs burpees while the other farmer carries both coup
 ---
 
 ## Monthly Murph prep-gimme shelter
+
+### Q
+
+Silicone
 
 ### Thang
 
@@ -39401,6 +44417,10 @@ Ric Flair in cadence
 ---
 
 ## Wet Wednesday
+
+### Q
+
+BigTex
 
 ### Warmup
 
@@ -39436,6 +44456,10 @@ Jailbreak competition to the entrance of the lot and back down
 ---
 
 ## Sicky Day
+
+### Q
+
+Dowry
 
 ### Warmup
 
@@ -39497,6 +44521,10 @@ Plank Jacks IC x 20
 ---
 
 ## A quick lap around the track
+
+### Q
+
+Forrest
 
 ### Warmup
 
@@ -39561,6 +44589,10 @@ Cobra stretch
 
 ## Patience is a virtue
 
+### Q
+
+Finkle
+
 ### Thang
 
 Slow movement/time under tension exercises. Started with 5 reps of 3 seconds down, hold 3 seconds, up 3 seconds. Following rounds increased to 4 seconds then 5 seconds.
@@ -39582,6 +44614,10 @@ Merkin waterfall, hold down position until it comes back to you - 2 rounds. Then
 ---
 
 ## Well That Backfired
+
+### Q
+
+Bill Nye
 
 ### Warmup
 
@@ -39617,6 +44653,10 @@ chosen by the hammers
 
 ## It’s Friday Eve!
 
+### Q
+
+Jed
+
 ### Warmup
 
 5-1 Motivators
@@ -39633,6 +44673,10 @@ PAX mosey’d throughout site with coupons, stopping at random locations to perf
 ---
 
 ## Damien and Jacob
+
+### Q
+
+Slippin' Jimmy
 
 ### Warmup
 
@@ -39669,6 +44713,10 @@ Wellerman Sea Shanty (alternating high plank, low plank, merkin for duration of 
 
 ## Not So Bashful Anymore VQ
 
+### Q
+
+Bashful Bear
+
 ### Warmup
 
 Side shuffle hops x 10, arm circles x 8 each way, old man stretch, hairy flamingo, a needlessly long Al Gore followed by some 40 yard sprints on the football field
@@ -39692,6 +44740,10 @@ Big boy sit-ups in cadence x 13, Flutter kicks in cadence x 13
 ---
 
 ## La Tormenta
+
+### Q
+
+BrownOut
 
 ### Warmup
 
@@ -39721,6 +44773,10 @@ LBC 30 OYO
 
 ## The Bear Pit
 
+### Q
+
+PillowFight
+
 ### Warmup
 
 SSH & Burpee
@@ -39739,6 +44795,10 @@ Champion of the loser bracket was PAX - that’s a long bear crawl: strong work 
 ---
 
 ## The JOKER ?
+
+### Q
+
+Hamburglar
 
 ### Warmup
 
@@ -39795,6 +44855,10 @@ Station 5:
 
 ## Maniversary (no foolin')
 
+### Q
+
+LugNut
+
 ### Warmup
 
 5-to-1 Motivators, Abe Vegodas, Downward Dog
@@ -39812,6 +44876,10 @@ If you add it all up, that's 945 reps of stuff.
 ---
 
 ## CRUEL or FOOL? ?
+
+### Q
+
+9 to 5
 
 ### Warmup
 
@@ -39837,6 +44905,10 @@ If you add it all up, that's 945 reps of stuff.
 
 ## Bag O Tricks
 
+### Q
+
+TheBeav
+
 ### Warmup
 
 Thunderstruck. Jog in place and stretch in between Thunderstrucks. Burpee for each Thunderstruck. Clearly this was a MABA Q inspired by OG PAX
@@ -39860,6 +44932,10 @@ Panic attacks
 ---
 
 ## Pump Up The Jam on Tuesday
+
+### Q
+
+Dead Broke
 
 ### Warmup
 
@@ -39885,6 +44961,10 @@ Flutter Kicks x20
 ---
 
 ## Never Miss a Monday
+
+### Q
+
+Jayhawk
 
 ### Warmup
 
@@ -39916,6 +44996,10 @@ Run 2 laps
 
 ## Mousetrap "F3"00
 
+### Q
+
+BBQ
+
 ### Warmup
 
 5 to 1 motivators.  Remaining stretches in cadence: hamstring, piano tappers, grass grabbers, lil baby arm circles, learning to phelps.
@@ -39941,6 +45025,10 @@ Workout brought to you by Budweiser, Marlboro & "Merica"!!!
 ---
 
 ## Static cling
+
+### Q
+
+Outhouse
 
 ### Warmup
 
@@ -39973,6 +45061,10 @@ Flutter kicks 1,2,3 hold and slow
 ---
 
 ## Backblast
+
+### Q
+
+Bucky
 
 ### Warmup
 
@@ -40017,6 +45109,10 @@ See lap 3.
 
 ## The Arch Run
 
+### Q
+
+AirBiscuit
+
 ### Warmup
 
 SSH, Abe Vigodas, High Knees, Willie Mays Hayes, Downward Dog
@@ -40032,6 +45128,10 @@ Miscellaneous stretching while catching our breath.
 ---
 
 ## Good Vibe Mondays
+
+### Q
+
+Worm
 
 ### Warmup
 
@@ -40055,6 +45155,10 @@ SSH x 6 (last gasser is 36)
 
 ## Work, interrupted
 
+### Q
+
+Schlitz
+
 ### Warmup
 
 Mosey around the back of St. Gerard, stopping for Piano Tappers, Plank Calf Stretches, Step-ups, and Pretzels
@@ -40077,6 +45181,10 @@ Partner up, complete exercises as a team, with one partner performing reps while
 ---
 
 ## Of Dark Knights and Ducks - Arkham Flag Passing
+
+### Q
+
+BrownOut, Emilio
 
 ### Warmup
 
@@ -40119,6 +45227,10 @@ Toe Walk
 
 ## Ready for Murph?
 
+### Q
+
+Amber Alert
+
 ### Warmup
 
 5:1 motivators
@@ -40143,6 +45255,10 @@ Penguin tappers PCx30
 
 ## Clayton Road Show
 
+### Q
+
+AirBiscuit
+
 ### Warmup
 
 SSH, Willie Mays Hayes, Hairy Flamingo, High Knees
@@ -40158,6 +45274,10 @@ Skipped due to time
 ---
 
 ## Happy F3 Friday, Bdays and Survivor
+
+### Q
+
+Lotus Notes
 
 ### Warmup
 
@@ -40181,6 +45301,10 @@ Pax Choice, got through about 6 core exercises.
 ---
 
 ## Backblast
+
+### Q
+
+Worm
 
 ### Warmup
 
@@ -40209,6 +45333,10 @@ Each circuit completed counted as 1. Team with the most points won.
 
 ## Hoooover Would Be Proud!
 
+### Q
+
+Gumbo (STL)
+
 ### Warmup
 
 5-1 Motivators - IC
@@ -40236,6 +45364,10 @@ On Our Six, Tight Circle!  Passed the Med.Balls while doing American Hammers AAA
 
 ## Loom~ Doom in the Gloom.
 
+### Q
+
+Noah
+
 ### Warmup
 
 Abe V, Willie M H, Grass Gr, Old Man Str, DownwDog/Cobra
@@ -40251,6 +45383,10 @@ Merkin waterfall
 ---
 
 ## Friday Fun
+
+### Q
+
+Jed
 
 ### Warmup
 
@@ -40291,6 +45427,10 @@ Return to flag
 ---
 
 ## 162
+
+### Q
+
+Slippin' Jimmy
 
 ### Warmup
 
@@ -40353,6 +45493,10 @@ Part of BD.
 
 ## Thursday Throw Down
 
+### Q
+
+Forrest
+
 ### Warmup
 
 30 SS Hops
@@ -40393,6 +45537,10 @@ Old man stretch
 
 ## 30/30 at The Rock!
 
+### Q
+
+Big Spoon
+
 ### Warmup
 
 ssh
@@ -40425,6 +45573,10 @@ mosey
 
 ## Round a bout
 
+### Q
+
+Fazoli
+
 ### Warmup
 
 5-1 motivators
@@ -40443,6 +45595,10 @@ Navy seal merkins
 ---
 
 ## A Walk in the Park
+
+### Q
+
+Dowry
 
 ### Warmup
 
@@ -40497,6 +45653,10 @@ Guantanamo Bay
 
 ## The basics
 
+### Q
+
+Satellite
+
 ### Warmup
 
 side straddle hops, stretching, curls, overhead press, mosey
@@ -40512,6 +45672,10 @@ circled up and did sets of wwIII, flutter kicks, and Freddy Mercury in cadence
 ---
 
 ## Skunk Ape
+
+### Q
+
+Bucky
 
 ### Warmup
 
@@ -40564,6 +45728,10 @@ Round 4.
 ---
 
 ## 3 Year Maniversary
+
+### Q
+
+Twin Peaks
 
 ### Warmup
 
@@ -40649,6 +45817,10 @@ Air Squats - 50
 
 ## There’s Two Hills
 
+### Q
+
+Boilermaker
+
 ### Warmup
 
 15 SSH
@@ -40683,6 +45855,10 @@ Round 2:
 
 ## at the tip
 
+### Q
+
+DOS
+
 ### Warmup
 
 some burpees and stretches
@@ -40699,6 +45875,10 @@ Mosey to flag
 ---
 
 ## Living the Dream
+
+### Q
+
+Data Dump
 
 ### Warmup
 
@@ -40733,6 +45913,10 @@ If completed mile before time, do big-boy-situps till recover/recover.
 
 ## Wind & Grind
 
+### Q
+
+AirBiscuit
+
 ### Warmup
 
 SSH, Willie Mays Hayes, Abe Vigoda, Hairy Flamingo, Downward Dog
@@ -40758,6 +45942,10 @@ Skipped due to time
 
 ## Backblast
 
+### Q
+
+Flounder
+
 ### Warmup
 
 - 25 SSH
@@ -40777,6 +45965,10 @@ Reverse lunge walk from position 1 to position 2 (base of the hill), complete 16
 ---
 
 ## What a ride
+
+### Q
+
+Olav
 
 ### Warmup
 
@@ -40808,6 +46000,10 @@ Each round decreases by 2 repetitions (Rd 4 = 14 reps...) until you reach the 10
 
 ## Slinky Around The Rock
 
+### Q
+
+Manny
+
 ### Warmup
 
 - Willie Mays Hayes
@@ -40836,6 +46032,10 @@ Cooled down with a lap around the track
 ---
 
 ## Freedom Ops Training: Know what drives you.  You’ll need it.
+
+### Q
+
+Room Service
 
 ### Warmup
 
@@ -40873,6 +46073,10 @@ No time for Mary
 
 ## Morning fun with a coupon
 
+### Q
+
+KANSAS
+
 ### Warmup
 
 6-1 Motivators
@@ -40906,6 +46110,10 @@ Willie Maze Haze
 
 ## Backblast
 
+### Q
+
+BioBreak
+
 ### Warmup
 
 60 side straddle hops, grass grabbers, Willy Mays Hays
@@ -40932,6 +46140,10 @@ Partner Work: One PAX does push-ups while the other holds plank, then switch. Ro
 ---
 
 ## Sway Tay Fans
+
+### Q
+
+DOS
 
 ### Warmup
 
@@ -40965,6 +46177,10 @@ Various core and stretches
 ---
 
 ## You know what to do. Come on out to The Roux!
+
+### Q
+
+FlatTire
 
 ### Warmup
 
@@ -41001,6 +46217,10 @@ Mosey back to flags
 
 ## Been a while
 
+### Q
+
+Freshman
+
 ### Warmup
 
 Grass grabbers
@@ -41025,6 +46245,10 @@ Round 2 burpees
 ---
 
 ## Foreman's fury
+
+### Q
+
+BrownOut
 
 ### Warmup
 
@@ -41055,6 +46279,10 @@ Repeated 5 times.
 
 ## Weekend Relaxation
 
+### Q
+
+Jed
+
 ### Warmup
 
 5-1 Motivators
@@ -41079,6 +46307,10 @@ Farmer carry to end
 
 ## Fight Fatigue with Focus
 
+### Q
+
+Clotshot
+
 ### Warmup
 
 SSHs
@@ -41100,6 +46332,10 @@ Ran 3 miles in six 800m intervals. First 400m of each interval was recovery pace
 
 ## Backblast
 
+### Q
+
+Drizzle
+
 ### Warmup
 
 5 to 1 motivators, able vigodas, grass grabbers, 5 burpees, 5 to 1 motivators
@@ -41116,6 +46352,10 @@ none
 
 ## Name Game!
 
+### Q
+
+SledDogg
+
 ### Warmup
 
 SSH, Imperial Walkers, Grass Grabbers, Abe Vigodas, Arm Circles Front/Back
@@ -41131,6 +46371,10 @@ Flutter Kicks, Runner's stretch, Pigeon, Flutter Kicks
 ---
 
 ## Big Ball Bocce in the Dark
+
+### Q
+
+Charmin
 
 ### Warmup
 
@@ -41151,6 +46395,10 @@ Last 2 rounds picked core exercises (American hammers and Penguin tappers)
 ---
 
 ## Gotta Get Down on Friday!
+
+### Q
+
+FlatTire
 
 ### Warmup
 
@@ -41193,6 +46441,10 @@ Lap around the track
 
 ## Monthly Murph prep- double trouble
 
+### Q
+
+Silicone, Rorschach
+
 ### Warmup
 
 PAX took us through SSH, WMH, LBAC, WGS, then run up hill with coupon
@@ -41212,6 +46464,10 @@ brutal balancing plank PAX that was intense!
 ---
 
 ## Lets Try This Again
+
+### Q
+
+Data Dump
 
 ### Warmup
 
@@ -41241,6 +46497,10 @@ Flutter Kicks - 30 - IC
 ---
 
 ## WABD
+
+### Q
+
+Dowry
 
 ### Warmup
 
@@ -41306,6 +46566,10 @@ Flutter kicks
 
 ## Shoulda gone on spring break!
 
+### Q
+
+Forrest
+
 ### Warmup
 
 5:1 Motivators
@@ -41367,6 +46631,10 @@ Chid pose
 
 ## Fielder’s Choice
 
+### Q
+
+Bliss
+
 ### Warmup
 
 - 5:1 Motivators
@@ -41396,6 +46664,10 @@ We got a gore core workout in as part of the Thang.
 
 ## Shower House Special
 
+### Q
+
+Shower House
+
 ### Warmup
 
 25 SSH – IC
@@ -41423,6 +46695,10 @@ Included in the Thang
 
 ## Back in the Saddle
 
+### Q
+
+BUB
+
 ### Warmup
 
 Goofballs
@@ -41438,6 +46714,10 @@ Grass Grabbers
 ---
 
 ## Hump Day
+
+### Q
+
+Karat
 
 ### Warmup
 
@@ -41484,6 +46764,10 @@ Squats to Bring Sally Up
 
 ## Workout Grab Bag Around the Trap
 
+### Q
+
+Tiger King
+
 ### Warmup
 
 5 to 1 motivators, grass grabbers, Willie Mayes Hayes, arm circles, downward dog, runners stretch
@@ -41499,6 +46783,10 @@ Flutter kicks, big boy sit ups, heel tappers American hammers, chest press
 ---
 
 ## On Your Six
+
+### Q
+
+Ratigan
 
 ### Warmup
 
@@ -41520,6 +46808,10 @@ Flutter Kicks 30 IC
 ---
 
 ## Countdown Complete
+
+### Q
+
+FlyBoy
 
 ### Warmup
 
@@ -41548,6 +46840,10 @@ COR, NOR
 ---
 
 ## The Arm Farm
+
+### Q
+
+Clotshot
 
 ### Warmup
 
@@ -41600,6 +46896,10 @@ Rd 5
 
 ## Mt. Gherkin Free Throw Madness
 
+### Q
+
+Rock Chalk
+
 ### Warmup
 
 - 10 burpees
@@ -41647,6 +46947,10 @@ circle up around the hoop. Everyone holds a basketball defensive stance. If you 
 
 ## Arkham King Test
 
+### Q
+
+Olav
+
 ### Warmup
 
 Willy Mayes Hayes
@@ -41677,6 +46981,10 @@ none today
 ---
 
 ## The Four Horsemen
+
+### Q
+
+Finkle
 
 ### Warmup
 
@@ -41718,6 +47026,10 @@ Some stretches
 ---
 
 ## Honor Thy Father and Mother
+
+### Q
+
+Big Spoon
 
 ### Warmup
 
@@ -41764,6 +47076,10 @@ hello dolly
 
 ## Share your luck on St. Paddy's Day!
 
+### Q
+
+Rumple Minze
+
 ### Warmup
 
 8-1 Motivators
@@ -41787,6 +47103,10 @@ Murder Bunny to Cone / Skip to wall
 ---
 
 ## Thrust mountain
+
+### Q
+
+5 on 2
 
 ### Warmup
 
@@ -41836,6 +47156,10 @@ Recover to Mary
 
 ## Make it happen Monday!
 
+### Q
+
+Outhouse
+
 ### Warmup
 
 50 SSH - we wanted to jump right in to the Thang
@@ -41873,6 +47197,10 @@ none
 ---
 
 ## no power no cel no problem
+
+### Q
+
+Avis
 
 ### Warmup
 
@@ -41921,6 +47249,10 @@ plank
 
 ## Circle of HIMs
 
+### Q
+
+D2
+
 ### Warmup
 
 5 Motivators IC
@@ -41958,6 +47290,10 @@ PAX - 20 Burpees
 
 ## Town and Country Square
 
+### Q
+
+Stanley, Keynote
+
 ### Warmup
 
 - SSH
@@ -41978,6 +47314,10 @@ PAX - 20 Burpees
 
 ## Power Out Poker
 
+### Q
+
+BBQ
+
 ### Thang
 
 Round 1: Poker
@@ -41991,6 +47331,10 @@ Out of Time.
 ---
 
 ## The FUDD
+
+### Q
+
+Lambeau (The Chuck)
 
 ### Thang
 
@@ -42022,6 +47366,10 @@ Did the RAMA’S.
 
 ## Fun Full Moon Friday!
 
+### Q
+
+Emilio
+
 ### Warmup
 
 - 5-1 Motivators
@@ -42046,6 +47394,10 @@ Ran short on time for Mary
 ---
 
 ## Passing the Burden
+
+### Q
+
+Thumper
 
 ### Warmup
 
@@ -42073,6 +47425,10 @@ Worlds greatest stretch
 ---
 
 ## Road to 1000
+
+### Q
+
+Flatley
 
 ### Warmup
 
@@ -42108,6 +47464,10 @@ Count	Exercise
 
 ## Fridays Are For Fitness!
 
+### Q
+
+Jed
+
 ### Warmup
 
 5-1 Motivators
@@ -42130,6 +47490,10 @@ Once completed will run back to partner and pickup count where they left off.
 
 ## PJWHQ Flag Hand-off 2025 - Out of the Pothole, into the Jimmy?
 
+### Q
+
+Slippin' Jimmy, Pothole (SoSTL)
+
 ### Warmup
 
 PAX led PAX in US Army Preparation Drill.
@@ -42141,6 +47505,10 @@ PAX led Pax in US Army Individual Movement technique. PAX paired up, and one PAX
 ---
 
 ## Get out and enjoy this weather
+
+### Q
+
+Bliss
 
 ### Warmup
 
@@ -42163,6 +47531,10 @@ PAX completed an 11s ladder. One side was burpees and the other was Thrusters. T
 ---
 
 ## Let the March Madness begin...
+
+### Q
+
+SledDogg
 
 ### Warmup
 
@@ -42209,6 +47581,10 @@ Mixed exercises IC
 
 ## Personal Records 2025 Quarter 1
 
+### Q
+
+BigTex
+
 ### Warmup
 
 SSH
@@ -42222,6 +47598,10 @@ See results for list of exercises. Most were performed either for time or AMRAP 
 ---
 
 ## Worm’s wet dream Wednesday
+
+### Q
+
+Matchbox
 
 ### Warmup
 
@@ -42249,6 +47629,10 @@ plank kick merkins, karaoke planks, flutter kicks, LBCs
 ---
 
 ## Backblast
+
+### Q
+
+Charmin
 
 ### Thang
 
@@ -42290,6 +47674,10 @@ Broga including inch worm, Downward dog, cobra, Warrior pose, world's greatest s
 
 ## Number 5
 
+### Q
+
+Avis
+
 ### Warmup
 
 SSH x 5
@@ -42321,6 +47709,10 @@ Plank 5 count for each PAX for total of 30 count
 ---
 
 ## Leg Day
+
+### Q
+
+Satellite
 
 ### Warmup
 
@@ -42354,6 +47746,10 @@ Results: what a victory for F3 World Headquarters. Official _Winner_ based on a 
 ---
 
 ## Karaoke Dokie
+
+### Q
+
+BrownOut
 
 ### Warmup
 
@@ -42402,6 +47798,10 @@ Plank for 30second-1 minute
 
 ## Holding Steady
 
+### Q
+
+Seeds
+
 ### Warmup
 
 Willy mays
@@ -42431,6 +47831,10 @@ Reverse toe taps
 
 ## All Mixed Up
 
+### Q
+
+Flatley
+
 ### Warmup
 
 10-6 Motivators
@@ -42447,6 +47851,10 @@ We completed 50 of each exercise totaling 300 reps. see attachement
 ---
 
 ## FORE!
+
+### Q
+
+Otter
 
 ### Warmup
 
@@ -42476,6 +47884,10 @@ Ran out of time and could only complete 12 stations
 ---
 
 ## Spring, Is That You?
+
+### Q
+
+Jed
 
 ### Warmup
 
@@ -42518,6 +47930,10 @@ Blockees
 
 ## Pick Your Poison
 
+### Q
+
+Wilson (SpiritSTL)
+
 ### Warmup
 
 SSH IC
@@ -42553,6 +47969,10 @@ One more sprint
 
 ## Cheese Grater
 
+### Q
+
+TheBeav
+
 ### Warmup
 
 5:1 motivators
@@ -42578,6 +47998,10 @@ Mosey back around to flag
 ---
 
 ## INTRODUCING THE VIKING MAKER!
+
+### Q
+
+Gumbo (STL)
 
 ### Warmup
 
@@ -42625,6 +48049,10 @@ Core Exercises from Plank Position then quickly transitioning to our Six!  Compl
 ---
 
 ## Backblast
+
+### Q
+
+Dowry
 
 ### Warmup
 
@@ -42683,6 +48111,10 @@ High Low Planks IC x 15
 
 ## Never Miss a Monday!
 
+### Q
+
+Jayhawk
+
 ### Warmup
 
 10/1 Motivators
@@ -42714,6 +48146,10 @@ Not today
 
 ## Sunday Family Funday
 
+### Q
+
+Karat
+
 ### Warmup
 
 SSH ICx20
@@ -42733,6 +48169,10 @@ Not today
 ---
 
 ## Backblast
+
+### Q
+
+Slippin' Jimmy, M-I-Z, SledDogg
 
 ### Warmup
 
@@ -42754,6 +48194,10 @@ Various Yoga Stretches and 1 Ric Flair.
 
 ## Supporting the flag handoff run
 
+### Q
+
+KANSAS, Stanley
+
 ### Warmup
 
 6 to 1 Motivators
@@ -42768,6 +48212,10 @@ Returning in time for the flag hand
 ---
 
 ## Oldie but goodie!!!
+
+### Q
+
+9 to 5
 
 ### Warmup
 
@@ -42793,6 +48241,10 @@ Returning in time for the flag hand
 
 ## Trip Around the Park, What will we Find? Lots of Flags
 
+### Q
+
+Twin Peaks, SledDogg
+
 ### Warmup
 
 Lead by PAX
@@ -42817,6 +48269,10 @@ Downward dog into a Cobra
 ---
 
 ## Just another Friday
+
+### Q
+
+Tuition
 
 ### Warmup
 
@@ -42849,6 +48305,10 @@ No Mary, we ran long.
 
 ## A Little of This, A Little of That
 
+### Q
+
+FlyBoy
+
 ### Warmup
 
 7-1 motivators
@@ -42874,6 +48334,10 @@ Collected lights after 4th station+ Intermission and worked back down the ladder
 ---
 
 ## Storm before the storm
+
+### Q
+
+Data Dump
 
 ### Warmup
 
@@ -42909,6 +48373,10 @@ High Plank - 61 count IC
 ---
 
 ## where it all began
+
+### Q
+
+Drop Out (SpiritSTL)
 
 ### Warmup
 
@@ -42951,6 +48419,10 @@ broga (various and sundry yoga poses)
 
 ## Inmate Exchange
 
+### Q
+
+Bucky, SledDogg
+
 ### Warmup
 
 5 to 1 motivators
@@ -42992,6 +48464,10 @@ Swing sets 20 OYO
 
 ## Down the Block
 
+### Q
+
+Flatley
+
 ### Warmup
 
 Goofballs
@@ -43022,6 +48498,10 @@ Downward Dog
 ---
 
 ## Backblast
+
+### Q
+
+Emilio
 
 ### Warmup
 
@@ -43087,6 +48567,10 @@ Round  Eight
 
 ## March Madness at Mothra
 
+### Q
+
+Jayhawk
+
 ### Warmup
 
 SSH x100
@@ -43138,6 +48622,10 @@ Flutter kicks
 
 ## Let's Go
 
+### Q
+
+KANSAS
+
 ### Warmup
 
 5-1 Motivators
@@ -43168,6 +48656,10 @@ Travel: Farmers Carry
 ---
 
 ## Ash (and Snowy) Wednesday
+
+### Q
+
+SledDogg
 
 ### Warmup
 
@@ -43206,6 +48698,10 @@ flutter kicks, mountain climbers, downward dog, scorpion stretch, hello dollies,
 ---
 
 ## Backblast
+
+### Q
+
+Avis
 
 ### Warmup
 
@@ -43248,6 +48744,10 @@ Coupon  Press and Step ups
 
 ## Sheltered Leg Day, Baby
 
+### Q
+
+Flounder
+
 ### Warmup
 
 - 5 to 1 motivators
@@ -43267,6 +48767,10 @@ Pivoted to Tabata under the covered walkway to avoid the wind and snow, unless y
 ---
 
 ## Gravel Pit Schmavel Pit
+
+### Q
+
+Data Dump
 
 ### Warmup
 
@@ -43297,6 +48801,10 @@ Same Partners - PAX1 no cheat merkins PAX 2 - Run from Flag up-hill and to the r
 ---
 
 ## Plan B
+
+### Q
+
+FlatTire
 
 ### Warmup
 
@@ -43337,6 +48845,10 @@ None
 
 ## The Pit Stop
 
+### Q
+
+BrownOut
+
 ### Warmup
 
 20 SSH IC
@@ -43370,6 +48882,10 @@ Part 6 - 11 Bag curls, 20 Side Straddle Hops
 ---
 
 ## Prepare for the Fight
+
+### Q
+
+Schlitz
 
 ### Warmup
 
@@ -43418,6 +48934,10 @@ Got a good rain soaking during Mary
 
 ## California Dreamin' pt2
 
+### Q
+
+FlyBoy
+
 ### Warmup
 
 5-1 Motivators, Hairy Rockettes 20 IC, PAX Pickers 15(?)
@@ -43441,6 +48961,10 @@ Hello Dolly’s 20 IC
 ---
 
 ## Tuesday Funsies!
+
+### Q
+
+Neymar, SledDogg
 
 ### Warmup
 
@@ -43472,6 +48996,10 @@ Yoga- downward dog and cobra
 ---
 
 ## Monday March Madness
+
+### Q
+
+Jayhawk
 
 ### Warmup
 
@@ -43515,6 +49043,10 @@ Round of 2
 
 ## Relay races
 
+### Q
+
+Matchbox, Keys
+
 ### Warmup
 
 5-1 motivators, grass grabbers, 5 burpees, Batwings, piano tappers, WMH, 5 burpees
@@ -43544,6 +49076,10 @@ flutter kicks, FM, LBCs, 1 min plank, 10 burpees
 
 ## Mondee Fundee
 
+### Q
+
+TheBeav
+
 ### Warmup
 
 Learning to Phelps
@@ -43559,6 +49095,10 @@ Pax partnered up. Each team got a disc. Proceed to hole 1. Each person on the te
 ---
 
 ## Parkway Central Round 2
+
+### Q
+
+Dowry
 
 ### Warmup
 
@@ -43628,6 +49168,10 @@ Flutter Kicks IC x 26
 
 ## Sounds like somebody's got a case of the Mondays
 
+### Q
+
+FlatTire
+
 ### Warmup
 
 SSH x 30
@@ -43677,6 +49221,10 @@ Penguin Tappers x 25
 
 ## Dreams of California
 
+### Q
+
+FlyBoy
+
 ### Warmup
 
 5-1 motivators
@@ -43701,6 +49249,10 @@ Hello Dolly’s 20 IC
 ---
 
 ## Cheese Trap Adventure
+
+### Q
+
+Fish Fry, WetnWild
 
 ### Warmup
 
@@ -43743,6 +49295,10 @@ See Stop 4
 
 ## Blame Slippin’ Jimmy
 
+### Q
+
+Bill Nye, M-I-Z
+
 ### Warmup
 
 -motivators
@@ -43768,6 +49324,10 @@ Emom timer w 20 sit-ups x 3
 
 ## Forbit Park Run Club Take 2
 
+### Q
+
+PillowFight
+
 ### Thang
 
 5.6 mi FP loop
@@ -43779,6 +49339,10 @@ Tabata WGS and pushups
 ---
 
 ## ARMageddon
+
+### Q
+
+Bushwood
 
 ### Warmup
 
@@ -43841,6 +49405,10 @@ Rifle Carry 40 Yards Down and 40 Yards Back in Parking Lot
 
 ## Support 'da Trap & MATCHBOX!
 
+### Q
+
+Bucky
+
 ### Warmup
 
 Imperial Walkers
@@ -43858,6 +49426,10 @@ Pyramid Planks
 ---
 
 ## TGIF
+
+### Q
+
+WetnWild
 
 ### Warmup
 
@@ -43892,6 +49464,10 @@ Did this twice
 ---
 
 ## Friday fitness
+
+### Q
+
+Stanley
 
 ### Warmup
 
@@ -43939,6 +49515,10 @@ Recover that.
 
 ## See ya, February!
 
+### Q
+
+FlatTire
+
 ### Warmup
 
 SSH x 30
@@ -43974,6 +49554,10 @@ Timed 2-minute Plank
 
 ## Unleash the Beast.
 
+### Q
+
+Wayne Babies
+
 ### Thang
 
 The Beast progression
@@ -43987,6 +49571,10 @@ Slow Asphalt grabbers on account of Q sore hammie
 ---
 
 ## Huckleberry CSAUP BlackOps-Des Peres Park
+
+### Q
+
+Hamburglar
 
 ### Warmup
 
@@ -44006,6 +49594,10 @@ No time ran over.
 ---
 
 ## Conquer the Rock
+
+### Q
+
+Big Spoon
 
 ### Warmup
 
@@ -44059,6 +49651,10 @@ Mary was incorporated into the BD
 
 ## Lets Go!
 
+### Q
+
+KANSAS
+
 ### Warmup
 
 6-1 Motivators
@@ -44090,6 +49686,10 @@ Travel: Farmers Carry
 
 ## Get Rid of the Midweek Slump
 
+### Q
+
+Dead Broke
+
 ### Warmup
 
 5 to 1 Motivators
@@ -44115,6 +49715,10 @@ Bottom: 25 Skull Crushers jailbreak Top 25 Big Boy Sit-ups
 ---
 
 ## Cauldron of Fire ? ? ✨
+
+### Q
+
+Bear Spray, AirBiscuit
 
 ### Warmup
 
@@ -44168,6 +49772,10 @@ Goal: Burnout to test our refinement.
 
 ## Let's Go!
 
+### Q
+
+KANSAS
+
 ### Warmup
 
 6-1 Motivators
@@ -44199,6 +49807,10 @@ Travel: Farmers Carry
 
 ## We Figured It Out Together
 
+### Q
+
+Ratigan
+
 ### Warmup
 
 Card featured a PAX warmup:
@@ -44220,6 +49832,10 @@ Cobra Pose
 ---
 
 ## Weighted Vest Wednesday
+
+### Q
+
+Jayhawk
 
 ### Warmup
 
@@ -44259,6 +49875,10 @@ No time today
 
 ## web crawler
 
+### Q
+
+Drop Out (SpiritSTL)
+
 ### Warmup
 
 side straddle hops
@@ -44292,6 +49912,10 @@ mountain climbers
 
 ## Back at Picklejar!
 
+### Q
+
+Neymar
+
 ### Warmup
 
 - grass grabbers
@@ -44311,6 +49935,10 @@ After each set, rifle carry about 15 yards, do 10 BBSU's, go up the hill and on 
 ---
 
 ## Backblast
+
+### Q
+
+Emilio
 
 ### Warmup
 
@@ -44341,6 +49969,10 @@ PAX then traveled to the track where we completed one warm up lap, followed by 4
 ---
 
 ## Spring Camp
+
+### Q
+
+Klinger
 
 ### Warmup
 
@@ -44378,6 +50010,10 @@ PAX then traveled to the track where we completed one warm up lap, followed by 4
 
 ## Freedom Ops Training - Part Deux
 
+### Q
+
+Jed
+
 ### Warmup
 
 5-1 Motivators
@@ -44402,6 +50038,10 @@ March back to flag
 ---
 
 ## New to the neighborhood
+
+### Q
+
+WetnWild
 
 ### Warmup
 
@@ -44437,6 +50077,10 @@ Additional work
 ---
 
 ## Heatwave
+
+### Q
+
+Criss-cross
 
 ### Warmup
 
@@ -44481,6 +50125,10 @@ Abs
 
 ## Restocked and Ready to Roux
 
+### Q
+
+Big Spoon
+
 ### Warmup
 
 ssh
@@ -44516,6 +50164,10 @@ plank side to sides
 ---
 
 ## Two steps forward, two steps back.
+
+### Q
+
+FlatTire
 
 ### Warmup
 
@@ -44571,6 +50223,10 @@ Plank hold for audible 60 count
 
 ## FOR Male Community Leadership
 
+### Q
+
+Rock Ride
+
 ### Warmup
 
 OYO before start
@@ -44582,6 +50238,10 @@ broke into 3 different groups based on relative pace and headed out. One group r
 ---
 
 ## D’ohminating the Ladder
+
+### Q
+
+BrownOut
 
 ### Warmup
 
@@ -44614,6 +50274,10 @@ Started with 5, added 5 per ladder "rung".
 ---
 
 ## Fun Friday - shuffle board sprints
+
+### Q
+
+Outhouse
 
 ### Warmup
 
@@ -44652,6 +50316,10 @@ Hillbilly walkers - PAX
 
 ## A Snowy Flag Handoff
 
+### Q
+
+Rock Chalk, Brad Pitt
+
 ### Warmup
 
 led by The PAX
@@ -44678,6 +50346,10 @@ Football field ladder, cones set every 25 yards
 ---
 
 ## Team building…blocks
+
+### Q
+
+Matchbox
 
 ### Warmup
 
@@ -44708,6 +50380,10 @@ Repeat. Team with most blocks wins.
 
 ## Rebecca Black or Beck Martin? Pick your poison
 
+### Q
+
+9 to 5
+
 ### Warmup
 
 - Goofballs
@@ -44733,6 +50409,10 @@ COR & NOR
 ---
 
 ## Continuation of the Artic
+
+### Q
+
+rogerroger
 
 ### Warmup
 
@@ -44770,6 +50450,10 @@ Completed 2.5 circuits
 
 ## Let’s Get Moving Around The Way!
 
+### Q
+
+Emilio
+
 ### Warmup
 
 - 5-1 Motivators
@@ -44806,6 +50490,10 @@ Exercises included:
 
 ## Friday at The Pit
 
+### Q
+
+Dowry
+
 ### Warmup
 
 SSH IC x 20
@@ -44821,6 +50509,10 @@ See thread
 ---
 
 ## hammers, barriers, reflection.
+
+### Q
+
+PillowFight
 
 ### Warmup
 
@@ -44839,6 +50531,10 @@ Bernie Sanders &amp; Squats
 ---
 
 ## Yeah…we’re in the Rockies
+
+### Q
+
+Silicone
 
 ### Thang
 
@@ -44861,6 +50557,10 @@ Imperial Walkers
 ---
 
 ## Just trying to get a yeti patch
+
+### Q
+
+Criss-cross
 
 ### Warmup
 
@@ -44895,6 +50595,10 @@ More side bends
 
 ## It's too cold to stop moving
 
+### Q
+
+Petey
+
 ### Warmup
 
 5-1 Motivators
@@ -44912,6 +50616,10 @@ Round: Coupon Squats, SSH on the way out, merkins, SSH on the way back
 ---
 
 ## March to the South pole
+
+### Q
+
+Klinger
 
 ### Warmup
 
@@ -44931,6 +50639,10 @@ None Today
 ---
 
 ## Battle of the Cold(s)
+
+### Q
+
+Forrest
 
 ### Warmup
 
@@ -44996,6 +50708,10 @@ Downward dog to cobra stretch
 
 ## Do you Control your Limits
 
+### Q
+
+Hamburglar, BUB
+
 ### Warmup
 
 - Goofballs (IC)
@@ -45018,6 +50734,10 @@ Another PAX creation. LBCs with feet down, feet halfway up, fully elevated, half
 ---
 
 ## More snow isn’t that scary after all
+
+### Q
+
+Jayhawk
 
 ### Warmup
 
@@ -45049,6 +50769,10 @@ BBSU
 
 ## Cold exposure
 
+### Q
+
+BrownOut
+
 ### Warmup
 
 7-1 Motivators
@@ -45078,6 +50802,10 @@ Round 2
 
 ## We Got Tropical
 
+### Q
+
+Rock Chalk, PillowFight
+
 ### Warmup
 
 Tour De Roux - Indian Run Snow Shovel Through the Park
@@ -45101,6 +50829,10 @@ Tour De Roux - Indian Run Snow Shovel Through the Park
 ---
 
 ## Backblast
+
+### Q
+
+Brad Pitt
 
 ### Warmup
 
@@ -45148,6 +50880,10 @@ Superman's - hold for 40 sec.
 ---
 
 ## Ain't No Hill for a Mountain Climber
+
+### Q
+
+BUB
 
 ### Warmup
 
@@ -45200,6 +50936,10 @@ Little Baby Crunches (Q’s count)
 
 ## Freeze if You Please (AKA Old Man Day at the Park)
 
+### Q
+
+FlatTire
+
 ### Warmup
 
 Side Straddle Hops x 25
@@ -45238,6 +50978,10 @@ Held a plank for slow verbal count to 60.
 ---
 
 ## Winter Wonder-Asylum!
+
+### Q
+
+Emilio
 
 ### Warmup
 
@@ -45290,6 +51034,10 @@ Imperial Walkers IC, and Goof Balls IC
 
 ## Path to Glory
 
+### Q
+
+Klinger
+
 ### Warmup
 
 - x12 IC
@@ -45319,6 +51067,10 @@ None.
 
 ## Two options - weather will decide
 
+### Q
+
+Brad Pitt
+
 ### Warmup
 
 Lateral High Knees for 40 Sec.
@@ -45339,6 +51091,10 @@ Superman's - hold for 40 sec.
 ---
 
 ## Ice ice baby!so
+
+### Q
+
+Neymar
 
 ### Warmup
 
@@ -45368,6 +51124,10 @@ cone 2
 
 ## Down Arrow Down Arrow 300 MINUS X
 
+### Q
+
+PillowFight
+
 ### Warmup
 
 51SSH, Old Man Stretch
@@ -45384,6 +51144,10 @@ Results2: Final Score: HIMS of Spirit: 1, B1tch-ass Weather: 0, something else t
 ---
 
 ## Let’s Get A Workout in Before the Snow
+
+### Q
+
+Dead Broke
 
 ### Warmup
 
@@ -45408,6 +51172,10 @@ We finished round 3
 ---
 
 ## What did AI just come up with?
+
+### Q
+
+Fish Fry
 
 ### Warmup
 
@@ -45456,6 +51224,10 @@ None
 
 ## Monday Again
 
+### Q
+
+Thumper
+
 ### Warmup
 
 in cadence
@@ -45484,6 +51256,10 @@ Mountain Climbers-Plank Jacks
 ---
 
 ## Vest’em if you got’em
+
+### Q
+
+Fazoli
 
 ### Warmup
 
@@ -45527,6 +51303,10 @@ BBSUs
 
 ## The Heat is On
 
+### Q
+
+AirBiscuit
+
 ### Warmup
 
 - SSH
@@ -45547,6 +51327,10 @@ BBSUs
 
 ## Mondays with Matchbox visits the stable
 
+### Q
+
+Matchbox
+
 ### Warmup
 
 5-1M, GGs, BWs, L2P,
@@ -45558,6 +51342,10 @@ As a group we went up and down the runway with 25 supermans, 25 dips, 25 curls, 
 ---
 
 ## Flipping the Pathfinder Flag
+
+### Q
+
+Bill Nye
 
 ### Warmup
 
@@ -45590,6 +51378,10 @@ LBC
 ---
 
 ## Backblast
+
+### Q
+
+Rumple Minze
 
 ### Warmup
 
@@ -45634,6 +51426,10 @@ Lap
 
 ## Miata with that Killer Base
 
+### Q
+
+Twin Peaks
+
 ### Warmup
 
 5 to 1 motivators PAX Style
@@ -45662,6 +51458,10 @@ keys tappers and since it’s Valentine’s Day we did pickle pounders and pickl
 
 ## That Sound Tracks Vol. 1
 
+### Q
+
+Ratigan
+
 ### Warmup
 
 5-1s
@@ -45684,6 +51484,10 @@ LBCs, American Hammers, Flutter Kicks, Box Cutters
 ---
 
 ## The Lover's Ladder
+
+### Q
+
+Rock Chalk
 
 ### Warmup
 
@@ -45715,6 +51519,10 @@ the Lover's Ladder - 10 Reps per exercise, Run 50 yards down and back, add a new
 
 ## Backblast
 
+### Q
+
+Silicone
+
 ### Thang
 
 Partner Murph (modified)
@@ -45734,6 +51542,10 @@ stretch oyo
 ---
 
 ## Let’s Get A Workout in Before the Valentine Celebration!
+
+### Q
+
+Dead Broke
 
 ### Warmup
 
@@ -45757,6 +51569,10 @@ The travel just went to the top of the bridge.
 ---
 
 ## Frigid Windy Pickles in the Snow
+
+### Q
+
+Rock Chalk
 
 ### Warmup
 
@@ -45800,6 +51616,10 @@ The travel just went to the top of the bridge.
 ---
 
 ## Simple Man-Something You Love and Understand-30/30
+
+### Q
+
+Hamburglar
 
 ### Warmup
 
@@ -45852,6 +51672,10 @@ none
 
 ## We went sledding!
 
+### Q
+
+Uncle Buck
+
 ### Warmup
 
 5-1 Motivators
@@ -45880,6 +51704,10 @@ Recover, Recover:
 ---
 
 ## Thursday Caries..not
+
+### Q
+
+Neymar
 
 ### Warmup
 
@@ -45916,6 +51744,10 @@ Emon timer the entire workout, every 5 min we stopped and hit them burpees.
 
 ## A little bit of everything
 
+### Q
+
+Silicone
+
 ### Thang
 
 3 rounds of Negatives In Cadence
@@ -45935,6 +51767,10 @@ Yoga
 ---
 
 ## Midweek Grind
+
+### Q
+
+Jed
 
 ### Warmup
 
@@ -45995,6 +51831,10 @@ Lap
 
 ## School might be cancelled, F3 will not be
 
+### Q
+
+Duke
+
 ### Thang
 
 Dirty 11s on the hill.
@@ -46011,6 +51851,10 @@ Counting reps:
 ---
 
 ## Parkway Central
+
+### Q
+
+Dowry
 
 ### Warmup
 
@@ -46034,6 +51878,10 @@ High Low Planks IC x 10
 ---
 
 ## No Snow, Yet
+
+### Q
+
+Flounder
 
 ### Warmup
 
@@ -46072,6 +51920,10 @@ Round 3:
 
 ## Backblast
 
+### Q
+
+9 to 5
+
 ### Warmup
 
 - SSH
@@ -46106,6 +51958,10 @@ COR & NOR
 ---
 
 ## Backblast
+
+### Q
+
+FlatTire
 
 ### Warmup
 
@@ -46170,6 +52026,10 @@ Recover to the flag for Mary.
 
 ## The Foundation
 
+### Q
+
+BrownOut
+
 ### Warmup
 
 Light jog around track
@@ -46211,6 +52071,10 @@ Figure 4 leg pull Right
 
 ## Feb 24 SLT Mtg BD
 
+### Q
+
+DOS
+
 ### Warmup
 
 8to1, toe touches, old man's
@@ -46228,6 +52092,10 @@ DOS Error, flutter kicks
 ---
 
 ## Backblast
+
+### Q
+
+AirBiscuit
 
 ### Warmup
 
@@ -46258,6 +52126,10 @@ DOS Error, flutter kicks
 ---
 
 ## These go two-eleven
+
+### Q
+
+Stanley
 
 ### Warmup
 
@@ -46307,6 +52179,10 @@ Intermission:
 ---
 
 ## Thank You Philly
+
+### Q
+
+Rock Chalk
 
 ### Warmup
 
@@ -46362,6 +52238,10 @@ THE THANG pt2: repeated Thang 1 until time up
 
 ## Tour of the trap
 
+### Q
+
+Matchbox
+
 ### Warmup
 
 5-1 motivators, bat wings, learning to Phelps, grass grabbers, piano tappers
@@ -46377,6 +52257,10 @@ ran out of time
 ---
 
 ## Bop It, Twist It, Pull It
+
+### Q
+
+Thumper
 
 ### Warmup
 
@@ -46414,6 +52298,10 @@ Boats and Canoes 30 OYO
 
 ## Sweat that Super Bowl celebration off...
 
+### Q
+
+Shower House
+
 ### Warmup
 
 25 SSH – IC
@@ -46436,6 +52324,10 @@ PAX Selected. Did BBSU, Dead cockroaches, Box cutters, Flutter kicks
 
 ## Super Run: The Post-Super Bowl Climb
 
+### Q
+
+Petey
+
 ### Warmup
 
 WMH
@@ -46455,6 +52347,10 @@ Stretches
 ---
 
 ## Super bowl Hangover
+
+### Q
+
+WetnWild
 
 ### Warmup
 
@@ -46491,6 +52387,10 @@ Close grip merkins- 15
 
 ## Weekend Warriors
 
+### Q
+
+Jed
+
 ### Warmup
 
 5-1 Motivators (IC)
@@ -46514,6 +52414,10 @@ Curls
 ---
 
 ## The Menagerie
+
+### Q
+
+Slippin' Jimmy
 
 ### Warmup
 
@@ -46542,6 +52446,10 @@ Run around Pathfinder campus including graveyard. Stopped periodically to do Mer
 
 ## River's Edge Park
 
+### Q
+
+Dowry
+
 ### Warmup
 
 SSH IC
@@ -46565,6 +52473,10 @@ High Low Planks
 ---
 
 ## Happy F3 Friday (pre Super Bowl)
+
+### Q
+
+Lotus Notes
 
 ### Warmup
 
@@ -46590,6 +52502,10 @@ Round 6 Overhead press
 
 ## Chasing Sasquatch
 
+### Q
+
+Olav
+
 ### Warmup
 
 5-1 motivators
@@ -46611,6 +52527,10 @@ The Flutter Kick in Cadence
 ---
 
 ## Dora the Destroyer
+
+### Q
+
+Hamburglar
 
 ### Warmup
 
@@ -46642,6 +52562,10 @@ Leg Lift to Hello Dollys
 ---
 
 ## Backblast
+
+### Q
+
+Rock Ride
 
 ### Warmup
 
@@ -46676,6 +52600,10 @@ none
 ---
 
 ## Fast Foundation
+
+### Q
+
+AirBiscuit
 
 ### Warmup
 
@@ -46718,6 +52646,10 @@ Completed 2 circuits
 
 ## Rent Is Due On Friday
 
+### Q
+
+Dead Broke
+
 ### Warmup
 
 5 to 1 Motivators
@@ -46741,6 +52673,10 @@ We completed 6 rounds
 
 ## Bring Your Planks!
 
+### Q
+
+Flounder
+
 ### Warmup
 
 - 5-1 motivators
@@ -46763,6 +52699,10 @@ We completed 6 rounds
 ---
 
 ## A Mountain Mama BD
+
+### Q
+
+Fish Fry
 
 ### Warmup
 
@@ -46805,6 +52745,10 @@ F3 SUITCASES Farmer Carry
 ---
 
 ## The Rock is back!
+
+### Q
+
+Dowry
 
 ### Warmup
 
@@ -46851,6 +52795,10 @@ High Low Planks x 12 IC
 
 ## The Super Bowl
 
+### Q
+
+Schooner
+
 ### Warmup
 
 6 to 1 motivators
@@ -46890,6 +52838,10 @@ Travel: farmers carry
 ---
 
 ## The road not traveled
+
+### Q
+
+BUB
 
 ### Warmup
 
@@ -46952,6 +52904,10 @@ old man stretch
 
 ## It’s always better when it wet
 
+### Q
+
+Duke
+
 ### Warmup
 
 - SSH
@@ -46976,6 +52932,10 @@ Counting reps:
 ---
 
 ## Good to be back
+
+### Q
+
+Bliss
 
 ### Warmup
 
@@ -47010,6 +52970,10 @@ We knocked out the core along the way.
 
 ## This one goes to 11
 
+### Q
+
+Munchies
+
 ### Warmup
 
 25 LBACs front thwn 25 reverse
@@ -47031,6 +52995,10 @@ CPRs, Crabwalk, Merkins, Mosey
 ---
 
 ## The Way...to Free Back Pain Relief
+
+### Q
+
+BrownOut
 
 ### Warmup
 
@@ -47100,6 +53068,10 @@ Figure 4 Left Leg - 30 seconds
 
 ## Wednesday
 
+### Q
+
+Stanley
+
 ### Warmup
 
 5-1 Motivators
@@ -47146,6 +53118,10 @@ Rinse, repeat till PAX complete their round
 
 ## Let’s Move
 
+### Q
+
+TheBeav
+
 ### Warmup
 
 Learning to Phelps
@@ -47184,6 +53160,10 @@ Bear crawl suicides
 
 ## The Return of the Prodigal Son Returns
 
+### Q
+
+Olav
+
 ### Warmup
 
 Willy Mayes Hayes
@@ -47215,6 +53195,10 @@ Walrus Tappers
 
 ## Another 75 Days
 
+### Q
+
+Manny
+
 ### Warmup
 
 - mosey to sandbags and bring them to swing set
@@ -47235,6 +53219,10 @@ Walrus Tappers
 ---
 
 ## Just Do It
+
+### Q
+
+Petey
 
 ### Warmup
 
@@ -47264,6 +53252,10 @@ Willie Mays Hays
 ---
 
 ## You will never regret investing in your 2.0s
+
+### Q
+
+Rock Ride
 
 ### Warmup
 
@@ -47308,6 +53300,10 @@ none
 
 ## Dora the Destroyer
 
+### Q
+
+Hamburglar
+
 ### Warmup
 
 - Goofballs
@@ -47338,6 +53334,10 @@ Goblet Squat Hold Duck Walk Taint Scrappers
 ---
 
 ## Black History Month!
+
+### Q
+
+Ratigan
 
 ### Warmup
 
@@ -47397,6 +53397,10 @@ American Hammers 20 IC
 
 ## Mondays with Matchbox (coupon heist)
 
+### Q
+
+Matchbox
+
 ### Thang
 
 Rinse and repeat. The goal being to steal more blocks than the other team.
@@ -47408,6 +53412,10 @@ losing team had Jillian Michaels, winners lbcs
 ---
 
 ## Move It Monday
+
+### Q
+
+Thumper
 
 ### Warmup
 
@@ -47439,6 +53447,10 @@ Penguin tapers
 ---
 
 ## Pivot - Random rules the day
+
+### Q
+
+Brad Pitt
 
 ### Warmup
 
@@ -47482,6 +53494,10 @@ Not necessarily in order
 
 ## On the Trail Again
 
+### Q
+
+Manny
+
 ### Warmup
 
 Stretch OYO
@@ -47499,6 +53515,10 @@ None
 ---
 
 ## Best of the Vest
+
+### Q
+
+Bucky
 
 ### Warmup
 
@@ -47534,6 +53554,10 @@ Bonus: Suitcase farmer carry w/ 15 deadlifts. Rotating HIM:suitecase:
 
 ## MABA is over
 
+### Q
+
+Thumper
+
 ### Warmup
 
 Various squats, stretches and arm circles
@@ -47554,6 +53578,10 @@ Pulled random cards from the F3 card deck.
 
 ## Burpee Free Zone
 
+### Q
+
+Shower House
+
 ### Warmup
 
 25 SSH - IC
@@ -47573,6 +53601,10 @@ PAX Selected.  Did BBSU - 40, Alphabet, Heels to Heaven
 ---
 
 ## Come get your Phil - MABA Addition
+
+### Q
+
+Olav
 
 ### Warmup
 
@@ -47607,6 +53639,10 @@ We did Thang 2 instead
 
 ## Last day of MABA!!!!   Get your burpee on and get your Phil
 
+### Q
+
+Shower House
+
 ### Warmup
 
 25 SSH - IC
@@ -47639,6 +53675,10 @@ Round 7: 5 reps each
 ---
 
 ## Come Get Your Phil...Of MABA
+
+### Q
+
+Rock Chalk
 
 ### Warmup
 
@@ -47675,6 +53715,10 @@ P1 runs 50m down and back while P2 reps out burpees
 ---
 
 ## Come Get Your Phil... of MABA
+
+### Q
+
+Schlitz
 
 ### Warmup
 
@@ -47713,6 +53757,10 @@ BONUS THANG:
 
 ## Come get your final Phil of MABA
 
+### Q
+
+TheBeav
+
 ### Warmup
 
 5:1 motivators
@@ -47746,6 +53794,10 @@ Partner up. Take turns doing AMRP burpees in 5 minutes. Go for each pax was 50.
 ---
 
 ## Thursday the 30th/Pothole's Return/The Last Two Days
+
+### Q
+
+Pothole (SoSTL)
 
 ### Warmup
 
@@ -47791,6 +53843,10 @@ Individual Movement Technique
 
 ## Is it February yet?
 
+### Q
+
+rogerroger
+
 ### Warmup
 
 3 Rounds - 1 min per exercise
@@ -47819,6 +53875,10 @@ Mosie
 ---
 
 ## Let’s celebrate stable turning 1!
+
+### Q
+
+Fazoli
 
 ### Warmup
 
@@ -47853,6 +53913,10 @@ Pax choice…one chose exercise one chose reps
 
 ## Thirsty Thursday
 
+### Q
+
+Data Dump
+
 ### Warmup
 
 - Slow jog around parking lot ( 300 yrd)
@@ -47885,6 +53949,10 @@ Did 20 minute circuit with following stations
 ---
 
 ## If this Paddock is rockin…
+
+### Q
+
+Stanley
 
 ### Warmup
 
@@ -47920,6 +53988,10 @@ Added 5 bonus burpees at the end to help make sure most everyone hit the 100+ ta
 
 ## Backblast
 
+### Q
+
+Data Dump
+
 ### Warmup
 
 5-1 Motivators IC
@@ -47941,6 +54013,10 @@ Added 5 bonus burpees at the end to help make sure most everyone hit the 100+ ta
 ---
 
 ## Mosey around park
+
+### Q
+
+WetnWild, Criss-cross
 
 ### Warmup
 
@@ -47998,6 +54074,10 @@ Back to flag
 
 ## Midweek Hustle!
 
+### Q
+
+Jed
+
 ### Warmup
 
 5-1 Motivators
@@ -48033,6 +54113,10 @@ Coupon work.
 ---
 
 ## Is January over Yet?
+
+### Q
+
+Yogi, Ferkloch
 
 ### Warmup
 
@@ -48074,6 +54158,10 @@ Flutter Kicks
 ---
 
 ## Workout Wednesday
+
+### Q
+
+Clotshot
 
 ### Warmup
 
@@ -48126,6 +54214,10 @@ PAX = 116
 
 ## Keep on moving
 
+### Q
+
+Klinger
+
 ### Warmup
 
 - 5to1 Motivators
@@ -48154,6 +54246,10 @@ Hip Flexor Raises x 10 IC
 ---
 
 ## Xtreme Tic Tac Toe
+
+### Q
+
+Rock Chalk
 
 ### Warmup
 
@@ -48195,6 +54291,10 @@ XTREME TIC TAC TOE
 
 ## Passing of the Flags
 
+### Q
+
+Drop Out (SpiritSTL), Ratigan, Norton
+
 ### Warmup
 
 - Smurf jacks
@@ -48229,6 +54329,10 @@ LBCs
 ---
 
 ## DB Combat Standards Test-FreedomOps Initial Training
+
+### Q
+
+Hamburglar, TheBeav
 
 ### Warmup
 
@@ -48271,6 +54375,10 @@ Not today
 
 ## There WERE burpees
 
+### Q
+
+Rock Ride
+
 ### Thang
 
 35 minute EMOM timer. Do as many burpees in a minute as you'd like rinse and repeat 35 times.
@@ -48287,6 +54395,10 @@ none
 ---
 
 ## Last week to log those burpees
+
+### Q
+
+Fazoli
 
 ### Warmup
 
@@ -48328,6 +54440,10 @@ King Kong planks
 
 ## MwM
 
+### Q
+
+Matchbox
+
 ### Warmup
 
 5-1 motivators, Batwings, learning to Phelps, 10 burpees, grass grabbers
@@ -48343,6 +54459,10 @@ crunches, penguin tappers, flutter kicks
 ---
 
 ## come find out
+
+### Q
+
+Drop Out (SpiritSTL)
 
 ### Warmup
 
@@ -48376,6 +54496,10 @@ the rounds:
 ---
 
 ## Final MABA Monday of ‘25!
+
+### Q
+
+Jed
 
 ### Warmup
 
@@ -48419,6 +54543,10 @@ Round 5:
 
 ## Rollercoaster
 
+### Q
+
+Flatley
+
 ### Warmup
 
 5 Burpees
@@ -48438,6 +54566,10 @@ Pax has option to run the PAX mile for time or complete as many squats as they c
 ---
 
 ## Three is company
+
+### Q
+
+Bill Nye
 
 ### Warmup
 
@@ -48480,6 +54612,10 @@ Part of BD
 
 ## Climb the Block Tower
 
+### Q
+
+AirBiscuit, Klinger
+
 ### Warmup
 
 - Arm circles
@@ -48506,6 +54642,10 @@ Travel back to main parking lot. Skipped Mary to squeeze in the 10th rep
 
 ## Twin Peaks Burp-Day Party Part 2
 
+### Q
+
+Twin Peaks
+
 ### Warmup
 
 5 motivators
@@ -48524,6 +54664,10 @@ Ladder style BD similar to Mondays Burp-Day Party Part 1, but 2 stations were re
 ---
 
 ## A chilly Friday with burpees
+
+### Q
+
+Jayhawk
 
 ### Warmup
 
@@ -48561,6 +54705,10 @@ R4
 
 ## Mush 'n MABA
 
+### Q
+
+SledDogg
+
 ### Warmup
 
 25 SSH
@@ -48585,6 +54733,10 @@ Run/Burpee :burpee:Dora - PAX paired up took turns doing burpees or jogging to/f
 ---
 
 ## BfUrRiPdEaEy
+
+### Q
+
+Bushwood
 
 ### Warmup
 
@@ -48687,6 +54839,10 @@ ROUND #5 (80 Burpees total) - We did not get to round 5.
 
 ## Another fresh air event, probably burpees
 
+### Q
+
+Brad Pitt
+
 ### Warmup
 
 With the Thang
@@ -48703,6 +54859,10 @@ with the Thang
 ---
 
 ## Burpee Buffet
+
+### Q
+
+Rorschach
 
 ### Warmup
 
@@ -48729,6 +54889,10 @@ Stretching of the neck
 ---
 
 ## Fridays are for flipping!
+
+### Q
+
+Jed
 
 ### Warmup
 
@@ -48768,6 +54932,10 @@ Run to flags
 
 ## It’s a Dean Broke Workout
 
+### Q
+
+Dead Broke
+
 ### Warmup
 
 Side straddle hop x20
@@ -48791,6 +54959,10 @@ Station 4: 20 Burpees, 20 Thrusters, 20 Smurf Jacks
 ---
 
 ## When you go to the bullpen, you never know what you're going to get
+
+### Q
+
+Slippin' Jimmy
 
 ### Warmup
 
@@ -48824,6 +54996,10 @@ An additional 1:30 of burpees!
 ---
 
 ## Backblast
+
+### Q
+
+Fazoli
 
 ### Warmup
 
@@ -48873,6 +55049,10 @@ Pax achieved between 100-200 burpees each…great work fellas!
 
 ## Release the Clydesdales
 
+### Q
+
+Schlitz, Wayne Babies
+
 ### Warmup
 
 - Goofballs
@@ -48901,6 +55081,10 @@ Completed 10 rounds.
 ---
 
 ## Ballroom Dancing
+
+### Q
+
+Karat
 
 ### Warmup
 
@@ -48932,6 +55116,10 @@ Started Burpees to Up Down by Morgan Wallen
 ---
 
 ## Let's Drain January
+
+### Q
+
+BrownOut
 
 ### Warmup
 
@@ -48993,6 +55181,10 @@ LBC - 2- OYO
 
 ## Brrr...It's cold outside
 
+### Q
+
+Charmin
+
 ### Warmup
 
 mountain man poopers, toy soldier's, line agility
@@ -49038,6 +55230,10 @@ ABC Abs
 ---
 
 ## January 458th
+
+### Q
+
+TheBeav
 
 ### Warmup
 
@@ -49093,6 +55289,10 @@ Flutter kicks IC
 
 ## Care Bear Squared
 
+### Q
+
+AirBiscuit
+
 ### Warmup
 
 - SSH
@@ -49121,6 +55321,10 @@ AMRAP for 25 minutes
 ---
 
 ## We're having a heat wave...
+
+### Q
+
+Slippin' Jimmy
 
 ### Warmup
 
@@ -49154,6 +55358,10 @@ None
 ---
 
 ## Backblast
+
+### Q
+
+WetnWild
 
 ### Warmup
 
@@ -49189,6 +55397,10 @@ Finished with sprints from merkin position and on backs
 
 ## Rock at Gravel Pit
 
+### Q
+
+Silicone
+
 ### Warmup
 
 SSH/butt kickers/high knees/LTP
@@ -49210,6 +55422,10 @@ cool down stretching
 ---
 
 ## What goes around, comes around - Optimus Prime style ? ??
+
+### Q
+
+9 to 5
 
 ### Warmup
 
@@ -49250,6 +55466,10 @@ COR & NOR
 
 ## Screw Jack Frost!
 
+### Q
+
+Otter
+
 ### Warmup
 
 SSH IC
@@ -49277,6 +55497,10 @@ Partner A starts to mosey with sandbag around Logan loop. Partner B does 5 burpe
 ---
 
 ## The Heat is On
+
+### Q
+
+Bill Nye
 
 ### Warmup
 
@@ -49307,6 +55531,10 @@ Part of BD
 ---
 
 ## Winter warm-up
+
+### Q
+
+Shower House
 
 ### Warmup
 
@@ -49339,6 +55567,10 @@ Round 10: 25 OH Press - lunge walk to cone, 5 burpees, lunge walk to wall 5 burp
 
 ## Backblast
 
+### Q
+
+Twin Peaks
+
 ### Warmup
 
 5-1 Motivators
@@ -49363,6 +55595,10 @@ Ladder style Burpee BD . 5 to 25
 ---
 
 ## Bring the heat
+
+### Q
+
+Outhouse
 
 ### Warmup
 
@@ -49398,6 +55634,10 @@ Repeat: 4x
 
 ## No Holidays Off
 
+### Q
+
+Flounder
+
 ### Warmup
 
 20 SSH IC
@@ -49419,6 +55659,10 @@ Waterfall burpees. 60 seconds to do 10 burpees, followed by 55 seconds for 9, et
 
 ## in sheeps clothing
 
+### Q
+
+DOS
+
 ### Warmup
 
 5 burpees, toe touches, 5 burpees, SSH
@@ -49438,6 +55682,10 @@ flutter kicks IC, piano tappers
 ---
 
 ## Who doesn’t love a Monday workout?
+
+### Q
+
+WetnWild
 
 ### Warmup
 
@@ -49473,6 +55721,10 @@ Finished with some different sprints
 
 ## To Burpee or not to Burpee
 
+### Q
+
+Karat
+
 ### Warmup
 
 5-1 burpivators
@@ -49489,6 +55741,10 @@ Burpees to The Stroke by Billy Squire
 ---
 
 ## Anger Management
+
+### Q
+
+Road Rage
 
 ### Warmup
 
@@ -49512,6 +55768,10 @@ Flutter Kicks (in cadence x10)
 ---
 
 ## Backblast
+
+### Q
+
+Bushwood
 
 ### Warmup
 
@@ -49599,6 +55859,10 @@ ROUND #5 (80 Burpees total) - We did not get to round 5.
 
 ## That's a W.A.P.
 
+### Q
+
+Criss-cross
+
 ### Warmup
 
 Return of the Mack
@@ -49639,6 +55903,10 @@ Humps by black eyed pease
 
 ## Does AI know how to have fun?
 
+### Q
+
+Schlitz
+
 ### Warmup
 
 1. SSH (Side Straddle Hops) - 20 reps
@@ -49677,6 +55945,10 @@ Team 2 won this challenge
 
 ## Be a Man!
 
+### Q
+
+rogerroger
+
 ### Warmup
 
 - 5:1 Motivators
@@ -49711,6 +55983,10 @@ Total Workout Burpees:  50
 
 ## Strive
 
+### Q
+
+Silicone
+
 ### Warmup
 
 Learning to Phelps
@@ -49733,6 +56009,10 @@ cool down stretches
 ---
 
 ## Logan Mile Pro Max Edition
+
+### Q
+
+Dowry
 
 ### Warmup
 
@@ -49802,6 +56082,10 @@ Broad Jump 25 yards
 
 ## Tic Tac Snoe
 
+### Q
+
+Rock Chalk
+
 ### Warmup
 
 - made sure not to bust ya azs on the ice
@@ -49840,6 +56124,10 @@ Broad Jump 25 yards
 ---
 
 ## Bringing out the blocks
+
+### Q
+
+Forrest
 
 ### Warmup
 
@@ -49902,6 +56190,10 @@ Cobra stretch
 
 ## Warm up this winter with the burp
 
+### Q
+
+Fazoli
+
 ### Warmup
 
 5-1 motivators
@@ -49947,6 +56239,10 @@ Each Pax member completed between 100-235 burpees today
 
 ## grinder
 
+### Q
+
+Drop Out (SpiritSTL)
+
 ### Warmup
 
 6-1 Motivators
@@ -49987,6 +56283,10 @@ not today
 ---
 
 ## Launching from The Paddock
+
+### Q
+
+Satellite
 
 ### Warmup
 
@@ -50041,6 +56341,10 @@ little baby crunches, 37-man Merkin Waterfall
 
 ## What goes around, comes around - Optimus Prime style
 
+### Q
+
+9 to 5
+
 ### Warmup
 
 - SSHs
@@ -50077,6 +56381,10 @@ Didn’t complete the below due to time
 ---
 
 ## Backblast
+
+### Q
+
+Forrest
 
 ### Warmup
 
@@ -50117,6 +56425,10 @@ Child’s pose
 
 ## Ted “lasso” talks - BeCurious not judgmental
 
+### Q
+
+Outhouse
+
 ### Warmup
 
 50 SSH
@@ -50150,6 +56462,10 @@ thang ran through Mary
 
 ## The Next 43 Feet
 
+### Q
+
+Schlitz
+
 ### Warmup
 
 - 43 Side Straddle Hops
@@ -50180,6 +56496,10 @@ thang ran through Mary
 ---
 
 ## Backblast
+
+### Q
+
+Shower House
 
 ### Warmup
 
@@ -50212,6 +56532,10 @@ Round 10: 25 Merkins, Lt. Dans there, 10 burpees and mosey back.
 ---
 
 ## Winter is here…let’s warm up with some burpees
+
+### Q
+
+Fazoli
 
 ### Warmup
 
@@ -50264,6 +56588,10 @@ WW3 sit ups
 
 ## Get Movin’!
 
+### Q
+
+Bisquick
+
 ### Warmup
 
 - Side Straddle Hops
@@ -50294,6 +56622,10 @@ WW3 sit ups
 
 ## Burpees and Negatives
 
+### Q
+
+Manny
+
 ### Warmup
 
 - Willie Mays Hayes
@@ -50318,6 +56650,10 @@ WW3 sit ups
 ---
 
 ## We’ve got each other
+
+### Q
+
+Data Dump
 
 ### Warmup
 
@@ -50348,6 +56684,10 @@ Run to Logan sign at hill top and back
 
 ## 14’s On The 14th
 
+### Q
+
+Jed
+
 ### Warmup
 
 5-1 Motivators
@@ -50372,6 +56712,10 @@ Since blockers count towards burpees, each PAX completed 163 burpees.
 
 ## It's about time to branch out
 
+### Q
+
+FlyBoy
+
 ### Warmup
 
 As learned last week 5-1 Motivator/Burpee-vators
@@ -50395,6 +56739,10 @@ Pay 5 Burpee Tax in the middle to and fro
 
 ## Mondays with Matchbox
 
+### Q
+
+Matchbox
+
 ### Warmup
 
 5-1 motivators, Batwings, learning to Phelps, Willy mays Hayes, arm stretches, 5 burpees between each warm up exercise
@@ -50410,6 +56758,10 @@ Pay 5 Burpee Tax in the middle to and fro
 ---
 
 ## No Quitting
+
+### Q
+
+Munchies
 
 ### Warmup
 
@@ -50449,6 +56801,10 @@ LBC & BB Sit Ups & Flutter Kicks
 ---
 
 ## Rocky IV Training Scene
+
+### Q
+
+Dowry
 
 ### Warmup
 
@@ -50498,6 +56854,10 @@ Mosey back to flags
 
 ## Monday Fun Run
 
+### Q
+
+Stanley
+
 ### Warmup
 
 5 to 1 Motivators IC
@@ -50531,6 +56891,10 @@ Back into Downward Dog
 
 ## Les Quatre Coins
 
+### Q
+
+Slippin' Jimmy
+
 ### Warmup
 
 5-1 motivators, Willie Mays Hays, Goofballs, lap around the parking lot.
@@ -50556,6 +56920,10 @@ Bonus MARY: 10 more burpees!
 ---
 
 ## Do You Wanna Build a Snowman?
+
+### Q
+
+Bill Nye
 
 ### Warmup
 
@@ -50584,6 +56952,10 @@ Part of BD
 
 ## Circuit city
 
+### Q
+
+Gangnam Style
+
 ### Warmup
 
 Goofballs, 5-to-1 motivators, grass (snow) grabbers, stretch on own
@@ -50605,6 +56977,10 @@ Flutter Kicks (in cadence x10)
 ---
 
 ## 4 Corners...with another round of Bangers!
+
+### Q
+
+Rumple Minze
 
 ### Warmup
 
@@ -50666,6 +57042,10 @@ Close out remaining Burpies to hit your 100!
 
 ## Oh Hi11 Yeah
 
+### Q
+
+Slippin' Jimmy
+
 ### Warmup
 
 5-1 Motivators
@@ -50701,6 +57081,10 @@ Included in Thang.
 
 ## No Dribble Basketball
 
+### Q
+
+Manny
+
 ### Warmup
 
 - Willie Mays Hayes
@@ -50719,6 +57103,10 @@ Included in Thang.
 ---
 
 ## Great day to be warm
+
+### Q
+
+Flounder
 
 ### Warmup
 
@@ -50754,6 +57142,10 @@ Bring Sally up with burpees. Begin on down, stay down until up is called. If you
 ---
 
 ## Exciting and Intriguingly Titled Beatdown
+
+### Q
+
+Bushwood
 
 ### Warmup
 
@@ -50832,6 +57224,10 @@ ROUND #5 (80 Burpees total)
 
 ## Yet Another Snow Day
 
+### Q
+
+Flounder
+
 ### Warmup
 
 - 5 burpees
@@ -50849,6 +57245,10 @@ ROUND #5 (80 Burpees total)
 ---
 
 ## Backblast
+
+### Q
+
+BrownOut
 
 ### Warmup
 
@@ -50888,6 +57288,10 @@ Little Baby Crunches x14 OYO
 
 ## Buddy System
 
+### Q
+
+Petey
+
 ### Warmup
 
 Downward Dog
@@ -50909,6 +57313,10 @@ Ring of Fire (x3)
 
 ## Brrr Pee and the legend of the yellow snow
 
+### Q
+
+Bucky
+
 ### Warmup
 
 - Deep Squat with pulses
@@ -50929,6 +57337,10 @@ One HIM drags the loaded sled to the cone.  Cones set along the access road cove
 ---
 
 ## Who doesn’t love burpeevators?
+
+### Q
+
+Jayhawk
 
 ### Warmup
 
@@ -50974,6 +57386,10 @@ Run
 
 ## Do the work
 
+### Q
+
+Klinger
+
 ### Warmup
 
 - Grass Grabbers IC x 12
@@ -51000,6 +57416,10 @@ Run
 ---
 
 ## Winter Warm-up
+
+### Q
+
+Shower House
 
 ### Warmup
 
@@ -51041,6 +57461,10 @@ Round 10: 25 Merkins, Lt. Dan's to wall, 10 burpees and mosey back.
 ---
 
 ## Burpee Ladder
+
+### Q
+
+Bushwood
 
 ### Warmup
 
@@ -51121,6 +57545,10 @@ ROUND #5 (80 Burpees total)
 
 ## Just Keep Moving
 
+### Q
+
+Thumper
+
 ### Warmup
 
 6-1 motivators
@@ -51149,6 +57577,10 @@ built in to thang
 
 ## Under the canopy where it will be warm
 
+### Q
+
+Brad Pitt
+
 ### Warmup
 
 Tabata: 40 Sec. Exercise - 20 Sec Rest - OYO
@@ -51171,6 +57603,10 @@ Mountain Climbers
 
 ## Rest if you must but don't stop
 
+### Q
+
+BUB
+
 ### Warmup
 
 Goofballs
@@ -51192,6 +57628,10 @@ Old man stretch and OYO stretches
 ---
 
 ## Backblast
+
+### Q
+
+1chain
 
 ### Warmup
 
@@ -51217,6 +57657,10 @@ Mosey to the Tennis Courts Burpees, bear crawls, hills
 ---
 
 ## Start the Year Strong
+
+### Q
+
+Worm
 
 ### Warmup
 
@@ -51245,6 +57689,10 @@ Ladder
 
 ## Peer Led in a Rotating Fashion
 
+### Q
+
+Big Spoon, Manny
+
 ### Warmup
 
 - 7-1 Semi-smurfivators
@@ -51267,6 +57715,10 @@ Ladder
 
 ## We Move To Stay Warm
 
+### Q
+
+Dead Broke
+
 ### Warmup
 
 Mosie around the parking lot
@@ -51284,6 +57736,10 @@ We completed 30 burpees
 ---
 
 ## Let it Snow
+
+### Q
+
+Dead Broke
 
 ### Warmup
 
@@ -51307,6 +57763,10 @@ Finshed off with a snow ball fight
 ---
 
 ## Snow Day...there is always an option
+
+### Q
+
+Fish Fry, Twin Peaks
 
 ### Warmup
 
@@ -51354,6 +57814,10 @@ Home BD
 
 ## Backblast
 
+### Q
+
+Ferkloch
+
 ### Warmup
 
 Jog 100 yards
@@ -51386,6 +57850,10 @@ Partner 1 holds a plank as partner 2 does Around The World‘s with a SB, switch
 
 ## Whiteout Wildcard
 
+### Q
+
+AirBiscuit
+
 ### Warmup
 
 on your own
@@ -51406,6 +57874,10 @@ Time cap of 30 minutes for the five rounds. Get some good stretching afterward.
 
 ## Snow Day
 
+### Q
+
+Worm
+
 ### Warmup
 
 Stretching OYO
@@ -51419,6 +57891,10 @@ Shovel Snow
 ---
 
 ## Sat rotation where it all started- Picklejar
+
+### Q
+
+Neymar
 
 ### Warmup
 
@@ -51443,6 +57919,10 @@ run around top pond with two stops for 10 more burpees, giving you a total of 20
 
 ## Noitcidda Nopuoc Rednifhtap
 
+### Q
+
+Slippin' Jimmy
+
 ### Warmup
 
 25 burpees.
@@ -51463,6 +57943,10 @@ Merkins (with a partner, one holding coupons)
 ---
 
 ## Happy F3 Friday!
+
+### Q
+
+Lotus Notes
 
 ### Warmup
 
@@ -51489,6 +57973,10 @@ time for 8 of the pax to lead a core exercise (1 minute of less)
 
 ## 12 More Pains
 
+### Q
+
+Olav
+
 ### Thang
 
 12 “other” PAINS
@@ -51513,6 +58001,10 @@ None Today, ran out of time
 ---
 
 ## Winter is coming and so are Les Burpees
+
+### Q
+
+Fazoli
 
 ### Warmup
 
@@ -51559,6 +58051,10 @@ Freddy Mercuries for 1 min to Queens Bicycle
 
 ## Third Time Around
 
+### Q
+
+rogerroger
+
 ### Warmup
 
 - 5:1 Motivators
@@ -51594,6 +58090,10 @@ Round 1
 
 ## Monthly Murph prep - Supersets
 
+### Q
+
+Silicone
+
 ### Warmup
 
 LTP, WMH, WHS, LBAC
@@ -51617,6 +58117,10 @@ To the tune of “Roxanne” -on your 6, legs straight w heels held 6 inches off
 ---
 
 ## Fantastic Friday!
+
+### Q
+
+Data Dump
 
 ### Warmup
 
@@ -51647,6 +58151,10 @@ Mosey back to flag
 ---
 
 ## MABA Day 2
+
+### Q
+
+Dowry
 
 ### Warmup
 
@@ -51717,6 +58225,10 @@ High Low Planks IC x 10
 
 ## Back to the grind
 
+### Q
+
+Forrest
+
 ### Warmup
 
 25’ish Side Straddle Hops IC
@@ -51782,6 +58294,10 @@ PAX completed 75+ burpees today
 
 ## Attack
 
+### Q
+
+DOS (Spirit StL)
+
 ### Thang
 
 cones 30 yards apart
@@ -51802,6 +58318,10 @@ if you didn't run twice in the relays you did 60 burpees during this BD for MABA
 ---
 
 ## A pain is a pain
+
+### Q
+
+Olav
 
 ### Warmup
 
@@ -51836,6 +58356,10 @@ Boats and Canoes
 ---
 
 ## MABA Day #2
+
+### Q
+
+Shower House
 
 ### Warmup
 
@@ -51877,6 +58401,10 @@ Total burpees:  115 + any extras done waiting for the 6.
 
 ## A little of everything
 
+### Q
+
+Stanley, Hot Runs
+
 ### Warmup
 
 - 25 Side Straddle Hops (Jumping Jacks) (IC)
@@ -51915,6 +58443,10 @@ American Hammers - 10 count
 
 ## Happy New Year!
 
+### Q
+
+Captain Underpants
+
 ### Warmup
 
 9 to 5 motivators-accelerators-burpavators
@@ -51940,6 +58472,10 @@ Flutter kicks x 21 IC
 ---
 
 ## loading F3 Year 2025 Level Mousetrap
+
+### Q
+
+DOS (Spirit StL)
 
 ### Warmup
 
@@ -51974,6 +58510,10 @@ MABA burpee count for today was 90
 
 ## New Year, Same Goal
 
+### Q
+
+Thumper
+
 ### Warmup
 
 SSH
@@ -52006,6 +58546,10 @@ Worlds greatest stretch
 
 ## Backblast
 
+### Q
+
+Drizzle
+
 ### Warmup
 
 Thunderstruck burpees
@@ -52027,6 +58571,10 @@ With the warmup, PAX got well over the daily 100
 ---
 
 ## Starting The New Year with Marginal Gains
+
+### Q
+
+Rock Ride
 
 ### Warmup
 
@@ -52064,6 +58612,10 @@ Flutter Kicks 20 IC
 
 ## A Knock Out New Years Eve Beatdown
 
+### Q
+
+Karat
+
 ### Warmup
 
 7-1 motivators
@@ -52099,6 +58651,10 @@ Not today
 
 ## bump bump bump
 
+### Q
+
+Bobbit
+
 ### Warmup
 
 ssh, old man stretch, lil baby arm circles
@@ -52115,6 +58671,10 @@ standing bicycles sue to cold ass wet weather
 
 ## New Year's 30 for 30
 
+### Q
+
+Hermey
+
 ### Warmup
 
 stuff
@@ -52130,6 +58690,10 @@ Mary stuff
 ---
 
 ## 2024 Reflective Exercise(s)
+
+### Q
+
+Double D
 
 ### Warmup
 
@@ -52172,6 +58736,10 @@ Less: Share something you hope to see less of in 2025, or to leave behind in 202
 
 ## Building Toughness and Discipline
 
+### Q
+
+Rock Ride
+
 ### Warmup
 
 Learning to Phelps 15 IC
@@ -52204,6 +58772,10 @@ none
 ---
 
 ## Regifting
+
+### Q
+
+Drizzle
 
 ### Warmup
 
@@ -52252,6 +58824,10 @@ none
 
 ## Ode to the tree
 
+### Q
+
+Wilson (SpiritSTL)
+
 ### Warmup
 
 Abe vagodas, grass grabbers, Learning to fly, Goofballs, all IC
@@ -52294,6 +58870,10 @@ Plank an raise knees to elbows IC
 
 ## Trap 2024 in review.
 
+### Q
+
+Bucky
+
 ### Warmup
 
 - Carolina Bear Dogs
@@ -52324,6 +58904,10 @@ Nada-timed out
 
 ## Avec du bacon, tout est possible
 
+### Q
+
+DOS (Spirit StL)
+
 ### Warmup
 
 6 to 1 Motivators
@@ -52344,6 +58928,10 @@ mosey back to flag
 ---
 
 ## Keep it Simple Stupid
+
+### Q
+
+Brad Pitt
 
 ### Warmup
 
@@ -52367,6 +58955,10 @@ Side Planks - Both sides for a minute
 
 ## Finishing Strong! ??
 
+### Q
+
+Fusz
+
 ### Warmup
 
 Stretching
@@ -52385,6 +58977,10 @@ Worlds greatest stretch
 ---
 
 ## New Years Eve…Eve
+
+### Q
+
+Jed
 
 ### Warmup
 
@@ -52420,6 +59016,10 @@ Merkins
 ---
 
 ## Finish ?
+
+### Q
+
+Big Spoon
 
 ### Warmup
 
@@ -52482,6 +59082,10 @@ Mountain tappers
 
 ## Course Des Peres (roughly translates to “Dads Running”)
 
+### Q
+
+Schlitz
+
 ### Warmup
 
 PAX led us through some 5-1 smurfivators, piano tappers, learning to phelps, old man stretch, arm circles, and seal claps.
@@ -52493,6 +59097,10 @@ PAX led us through some 5-1 smurfivators, piano tappers, learning to phelps, old
 ---
 
 ## We Did Weird Stuff
+
+### Q
+
+BigTex
 
 ### Warmup
 
@@ -52521,6 +59129,10 @@ Did a few of the exercises and a jailbreak
 ---
 
 ## Pavilion Party
+
+### Q
+
+Worm
 
 ### Warmup
 
@@ -52555,6 +59167,10 @@ Rotated through the following muscles for 5 rounds:
 
 ## Broom Hockey Burpee fun Friday
 
+### Q
+
+Outhouse, Silicone
+
 ### Warmup
 
 - olt man stretch slow
@@ -52572,6 +59188,10 @@ played through Mary
 ---
 
 ## Holiday Punch
+
+### Q
+
+Bucky
 
 ### Warmup
 
@@ -52646,6 +59266,10 @@ See round
 
 ## Black Diamond Worthy BD ?‍♂️
 
+### Q
+
+Hamburglar
+
 ### Warmup
 
 - SSHs
@@ -52703,6 +59327,10 @@ Not today
 
 ## Backblast
 
+### Q
+
+Room Service
+
 ### Warmup
 
 Willie Mays Hays, Abe Vigoda, Learning to Phelps. All 10 counts IC.
@@ -52725,6 +59353,10 @@ Repeat until time was out. Finished 1.5 times around
 
 ## Let's burn some Christmas calories
 
+### Q
+
+Drizzle
+
 ### Warmup
 
 7-1 motivators, yoga, old man stretch, learning to Phelps
@@ -52745,6 +59377,10 @@ none
 ---
 
 ## Longview BlackOps #3
+
+### Q
+
+Satellite
 
 ### Warmup
 
@@ -52770,6 +59406,10 @@ another mosey loop
 ---
 
 ## Getting Ready for a New Year!
+
+### Q
+
+Noah
 
 ### Warmup
 
@@ -52797,6 +59437,10 @@ LBCs
 ---
 
 ## A bro-split Christmas
+
+### Q
+
+Schooner
 
 ### Warmup
 
@@ -52838,6 +59482,10 @@ PAX picked from various muscle group workouts. They selected a random workout an
 ---
 
 ## ARMageddon
+
+### Q
+
+Bushwood
 
 ### Warmup
 
@@ -52902,6 +59550,10 @@ Rifle Carry 40 Yards Down and 40 Yards Back in Parking Lot
 
 ## Backblast
 
+### Q
+
+Karat
+
 ### Warmup
 
 7-1 motivators
@@ -52929,6 +59581,10 @@ Round 5 50 curls
 ---
 
 ## What did Santa leave us this year?
+
+### Q
+
+Drizzle
 
 ### Warmup
 
@@ -52970,6 +59626,10 @@ LBCs oyo
 
 ## Ho, Ho, Ho
 
+### Q
+
+Ferkloch, Yogi
+
 ### Warmup
 
 Old Man Stretch, Abe Begoda‘s 10 IC, Grass Grabbers 10 IC, LBAC For/Rev 10 IC, Learning To Phelps 10 IC
@@ -52986,6 +59646,10 @@ More Stretching
 
 ## Reindeer Games
 
+### Q
+
+Ferkloch
+
 ### Warmup
 
 Imperial Walkers 12 IC, Goofballs 12 IC, LBAC For/Rev 10 IC, Learning To Phelps 12 IC
@@ -53001,6 +59665,10 @@ Thang 1: Tabata 30/10 Blockees and SSH for 4 rounds;  Thang 2: Exercises-Thruste
 ---
 
 ## Journey to Bethlehem
+
+### Q
+
+Finkle
 
 ### Warmup
 
@@ -53056,6 +59724,10 @@ Exercise 11 and travel 11, you choose.
 
 ## Twas the morning before Christmas and all through the outlet...
 
+### Q
+
+Drizzle
+
 ### Warmup
 
 SSHs, yoga, bat wings, seal claps, pretzels, cherry pickers
@@ -53079,6 +59751,10 @@ After the squats, PAX would take a sandbag/pack to or from the north pole
 
 ## at the Gobi-Mongolian Steppes
 
+### Q
+
+DOS (Spirit StL)
+
 ### Warmup
 
 5to1s, toe touches, 6to1s, hollywoods
@@ -53100,6 +59776,10 @@ Flutterkicks
 ---
 
 ## 12 Pains of Christmas Part 2
+
+### Q
+
+Dowry
 
 ### Warmup
 
@@ -53135,6 +59815,10 @@ Even Rounds: Broad Jump 21 yards, mosey back
 
 ## White Elephant Exchange
 
+### Q
+
+Bucky
+
 ### Thang
 
 - 10-sandees/10-burpees
@@ -53159,6 +59843,10 @@ Post Party
 ---
 
 ## Monday- back to work
+
+### Q
+
+Munchies
 
 ### Warmup
 
@@ -53187,6 +59875,10 @@ Bridge with coupon, Penguin tappers, Bridge w/ coupon, BBSU, Hillbillies
 ---
 
 ## Backblast
+
+### Q
+
+9 to 5
 
 ### Warmup
 
@@ -53228,6 +59920,10 @@ COR & NOR
 
 ## You Choose, Hills or Flat Road
 
+### Q
+
+Petey
+
 ### Warmup
 
 OYO, Willie Mays Hays
@@ -53243,6 +59939,10 @@ Recover Recover
 ---
 
 ## Wild Horses Love TUT & HIIT
+
+### Q
+
+Rock Ride
 
 ### Warmup
 
@@ -53264,6 +59964,10 @@ in the Thang
 ---
 
 ## 'Twas the Saturday before Christmas
+
+### Q
+
+BrownOut
 
 ### Warmup
 
@@ -53402,6 +60106,10 @@ Cobra
 
 ## So Long, Youth and Young Manhood
 
+### Q
+
+Amber Alert
+
 ### Warmup
 
 - 5:1 motivators
@@ -53424,6 +60132,10 @@ Cobra
 
 ## Twas the Friday before Christmas and all through the garage!
 
+### Q
+
+Jayhawk
+
 ### Warmup
 
 see above
@@ -53439,6 +60151,10 @@ King Kong planks
 ---
 
 ## We don't need no stinking reindeer!
+
+### Q
+
+Bad Santa
 
 ### Warmup
 
@@ -53477,6 +60193,10 @@ Extra time - Sled races
 
 ## Fun Friday: Speedball
 
+### Q
+
+Manny
+
 ### Warmup
 
 - Willie Mays Hayes
@@ -53495,6 +60215,10 @@ Team 1 won but it was close and Team 1 had an extra man, so everyone earned an i
 ---
 
 ## Practice Makes Perfect
+
+### Q
+
+FlyBoy
 
 ### Warmup
 
@@ -53545,6 +60269,10 @@ Flutter Kicks – 20 IC
 
 ## White Christmas
 
+### Q
+
+Keynote Catnip
+
 ### Warmup
 
 - 7-to-1 Jingle Jacks
@@ -53575,6 +60303,10 @@ Flutter Kicks – 20 IC
 ---
 
 ## Functional Friday
+
+### Q
+
+Otter
 
 ### Warmup
 
@@ -53611,6 +60343,10 @@ Round 2
 
 ## Monthly Physical Fitness Test
 
+### Q
+
+Pothole (SoSTL)
+
 ### Warmup
 
 - Grass grabbers IC
@@ -53632,6 +60368,10 @@ None
 ---
 
 ## Would a Beat Down by another name be as Sweet?
+
+### Q
+
+rogerroger
 
 ### Warmup
 
@@ -53680,6 +60420,10 @@ RND 3
 ---
 
 ## Black Stallion Ops - Longview Farm Park
+
+### Q
+
+Stanley
 
 ### Warmup
 
@@ -53734,6 +60478,10 @@ Around the Worlds Waterfall
 
 ## Backblast
 
+### Q
+
+Noah
+
 ### Warmup
 
 WMaysH, Grass Grabbers, Abe V, Goof Balls, 7-1 Motivators
@@ -53758,6 +60506,10 @@ Supermans, Flutter Kicks, Mt. Climbers, LBCs
 ---
 
 ## Back to the Future
+
+### Q
+
+McFly
 
 ### Warmup
 
@@ -53790,6 +60542,10 @@ Freddy Mercury
 
 ## It’s official, you made the nice list if you showed up today!
 
+### Q
+
+Jayhawk
+
 ### Warmup
 
 SSH x50
@@ -53820,6 +60576,10 @@ Travel was murder bunnies  and reverse murder bunnies
 
 ## Midweek Slump
 
+### Q
+
+Dead Broke
+
 ### Warmup
 
 6 to 1 Motivators
@@ -53840,6 +60600,10 @@ Not Today
 ---
 
 ## The gift that keeps giving the whole year Clark
+
+### Q
+
+Forrest
 
 ### Warmup
 
@@ -53911,6 +60675,10 @@ Cobra stretch
 
 ## Another Wednesday at the Roux
 
+### Q
+
+Charmin
+
 ### Warmup
 
 Opening the gates, Hillbilly walkers, old man stretch, cobra
@@ -53962,6 +60730,10 @@ High plank Hokey-pokey
 
 ## 10 Lords a Leaping
 
+### Q
+
+Blowout River Dance
+
 ### Warmup
 
 1. 20 Side Straddle Hop
@@ -53995,6 +60767,10 @@ PAX (10 exercises x 45 seconds each, 15 seconds rest) - 2 rounds
 
 ## Christmas Star
 
+### Q
+
+AirBiscuit
+
 ### Warmup
 
 - Willie Mays Hayes
@@ -54019,6 +60795,10 @@ Stretching & mobility: world's greatest stretch, pigeon, down dog & cobra, deep 
 ---
 
 ## Curb your enthusiasm
+
+### Q
+
+Bucky
 
 ### Warmup
 
@@ -54058,6 +60838,10 @@ Round Two:
 
 ## Center of the Universe
 
+### Q
+
+Karat
+
 ### Warmup
 
 7 to 1 motivators
@@ -54077,6 +60861,10 @@ Not today
 ---
 
 ## You Better Watch Out
+
+### Q
+
+LugNut
 
 ### Warmup
 
@@ -54106,6 +60894,10 @@ abbreviated since the "song" took so long. Bicycles
 ---
 
 ## Winter Picnic
+
+### Q
+
+Stanley
 
 ### Warmup
 
@@ -54158,6 +60950,10 @@ Around the Worlds – 10 each direction
 
 ## Cheeseburger in Paradise
 
+### Q
+
+Data Dump
+
 ### Warmup
 
 10 Burpees OYO
@@ -54185,6 +60981,10 @@ Bernie to crosswalk and run back - (2X’s)
 ---
 
 ## Ode to IronPax
+
+### Q
+
+Bill Nye
 
 ### Warmup
 
@@ -54225,6 +61025,10 @@ Supermen
 ---
 
 ## Monday Motivation
+
+### Q
+
+Jed
 
 ### Warmup
 
@@ -54273,6 +61077,10 @@ Run to top level of garage - Lap it - Return to coupon
 
 ## Backblast
 
+### Q
+
+Fish Fry
+
 ### Warmup
 
 5-1 Motivators
@@ -54302,6 +61110,10 @@ None.
 
 ## Laissez les bon temps rouler
 
+### Q
+
+Rock Ride
+
 ### Warmup
 
 SSH 20 IC
@@ -54322,6 +61134,10 @@ none
 ---
 
 ## Wakey Wakey
+
+### Q
+
+Flounder
 
 ### Warmup
 
@@ -54370,6 +61186,10 @@ Bring Sally Up, body weight squat edition
 
 ## Christmas Countdown
 
+### Q
+
+ledger
+
 ### Warmup
 
 Side straddle hops, learning to phelps, Willie mays
@@ -54385,6 +61205,10 @@ World's greatest stretch, downward dog, cobra stretch
 ---
 
 ## We battled together with ropes and all in the rain!
+
+### Q
+
+Uncle Buck
 
 ### Warmup
 
@@ -54410,6 +61234,10 @@ Recover, Recover:
 ---
 
 ## 12 Pains
+
+### Q
+
+Thumper, Norton, Manny
 
 ### Warmup
 
@@ -54442,6 +61270,10 @@ Divide up into 4 teams for sandbag Guardian run back to Outlet
 
 ## Friday Funday!
 
+### Q
+
+Karat
+
 ### Warmup
 
 7 to 1 motivators
@@ -54463,6 +61295,10 @@ MAKE SURE TO HAVE FUN!!!
 ---
 
 ## Saving Private Cindy (and picking up the six)
+
+### Q
+
+Bucky
 
 ### Warmup
 
@@ -54503,6 +61339,10 @@ Rounds:
 
 ## Advent Trivia BD
 
+### Q
+
+Outhouse
+
 ### Warmup
 
 Triva Question - Right Answer was given = 30XSSH
@@ -54528,6 +61368,10 @@ Favorite Topic: What is your favorite type of drink?
 ---
 
 ## Friday Funday at The Way
+
+### Q
+
+Bushwood
 
 ### Warmup
 
@@ -54574,6 +61418,10 @@ North Side of Square - Log Roll to the Corner Near the Bleachers
 
 ## The Beast
 
+### Q
+
+Wayne Babies
+
 ### Thang
 
 Curls, overhead press and reverses
@@ -54595,6 +61443,10 @@ Cool down stretches
 ---
 
 ## The 1000
+
+### Q
+
+DRP
 
 ### Warmup
 
@@ -54631,6 +61483,10 @@ Dutch Ovens IC 34
 
 ## Thursday Throw Down
 
+### Q
+
+Otter
+
 ### Warmup
 
 SSH IC
@@ -54657,6 +61513,10 @@ EXERCISES:
 ---
 
 ## Round and round we go
+
+### Q
+
+Forrest
 
 ### Warmup
 
@@ -54714,6 +61574,10 @@ Child pose
 
 ## 2nd Manniversary Longview Farms Blackops
 
+### Q
+
+Manny
+
 ### Warmup
 
 - Willie Mays Hayes
@@ -54759,6 +61623,10 @@ Head to Tennis courts for boats and canoes (duck duck PAX style):
 
 ## Wormsource
 
+### Q
+
+Worm
+
 ### Warmup
 
 50 SSH
@@ -54773,6 +61641,10 @@ Batwings
 ---
 
 ## Working Wednesday
+
+### Q
+
+Jed
 
 ### Warmup
 
@@ -54811,6 +61683,10 @@ Lap around garage (Run)
 
 ## Chutes and Ladder
 
+### Q
+
+Bill Nye
+
 ### Warmup
 
 5 to 1 motivators
@@ -54831,6 +61707,10 @@ Chutes and Ladder - schematic in the comments section.
 
 ## Giving All 100
 
+### Q
+
+Munchies
+
 ### Warmup
 
 Motivators, learning to Phelps, LBAC, more motivators, mosey
@@ -54847,6 +61727,10 @@ Penguins, 66 Flutter kicks, Hillbillies, 34 Flutter kicks (100)
 ---
 
 ## Two Year Mash-Up - Thanks
+
+### Q
+
+FlyBoy
 
 ### Warmup
 
@@ -54908,6 +61792,10 @@ Plank Jacks IC -2x, 11 and 12 count
 
 ## 3 (8:20)s
 
+### Q
+
+Rorschach
+
 ### Warmup
 
 Side straddle hops
@@ -54935,6 +61823,10 @@ Pass the Fist bump. Plank position, passed the fist bump around the circle.
 
 ## Backblast
 
+### Q
+
+Neymar
+
 ### Warmup
 
 baby arms, toe touches, learning the Phelps and grass grabbers
@@ -54960,6 +61852,10 @@ lap around the pond with three pit stops for:
 ---
 
 ## Raising the Bar!
+
+### Q
+
+Bucky
 
 ### Warmup
 
@@ -55001,6 +61897,10 @@ Climb the rope IC
 
 ## Bring out your Best! Let’s get weird. ?
 
+### Q
+
+Hamburglar
+
 ### Warmup
 
 - Smurf Jacks
@@ -55037,6 +61937,10 @@ Run paved loop and when you get back you pick another PAX’s weight for 2nd rou
 
 ## Pump up the jam
 
+### Q
+
+Silicone
+
 ### Warmup
 
 SSH IC
@@ -55067,6 +61971,10 @@ Red light = mountain climbers
 ---
 
 ## Backblast
+
+### Q
+
+Dowry
 
 ### Warmup
 
@@ -55118,6 +62026,10 @@ Mosey back to flags
 
 ## Function IS Form
 
+### Q
+
+Power Clean (JeffCo)
+
 ### Warmup
 
 Run about 1/4 mile, copperhead squats and copperhead merkins with some form pointers, run back to the flags.
@@ -55133,6 +62045,10 @@ Heavy 11s - with at least a 60 sandbag, Sandies and thrusters with rifle carry i
 ---
 
 ## Level Up!
+
+### Q
+
+Bucky
 
 ### Warmup
 
@@ -55168,6 +62084,10 @@ Flutter Kicks-IC(x2)
 
 ## Give your calves a rest
 
+### Q
+
+BrownOut
+
 ### Warmup
 
 SSH x 20 IC
@@ -55199,6 +62119,10 @@ Flutter Kicks X 20 - IC
 ---
 
 ## Monday Motivation
+
+### Q
+
+Jed
 
 ### Warmup
 
@@ -55246,6 +62170,10 @@ Run 1 Lap
 
 ## Back at The Way
 
+### Q
+
+TheBeav
+
 ### Warmup
 
 goofballs
@@ -55276,6 +62204,10 @@ double time back to flags
 ---
 
 ## Saturday Morning Routine
+
+### Q
+
+D2
 
 ### Warmup
 
@@ -55310,6 +62242,10 @@ Exercises:
 
 ## Personal Records 2024 Quarter 4
 
+### Q
+
+BigTex
+
 ### Warmup
 
 SSH
@@ -55327,6 +62263,10 @@ We have been doing this for a while now. Please share any feedback on if you wan
 ---
 
 ## Spicy Dragon Tacos
+
+### Q
+
+Worm
 
 ### Warmup
 
@@ -55370,6 +62310,10 @@ Q messed up and wasn't clear on picking up the 6 after the 11s. This led to peop
 
 ## Fun Friday: Togetherness
 
+### Q
+
+Thumper
+
 ### Warmup
 
 in cadence
@@ -55394,6 +62338,10 @@ Big boys, WW2 sit-ups
 
 ## Rifle Relay...Again
 
+### Q
+
+Mello Yello
+
 ### Warmup
 
 Half lap mosey, side Straddle Hops, Willie Mays hayes
@@ -55405,6 +62353,10 @@ Rifle carry relay around the parking lot. Teams of two (one team of 3), 1 runner
 ---
 
 ## Picking Up The 6!
+
+### Q
+
+Jed
 
 ### Warmup
 
@@ -55421,6 +62373,10 @@ We ended with coupon movements while gathered around the flag.
 ---
 
 ## the frozen grinder
+
+### Q
+
+Drop Out (SpiritSTL)
 
 ### Warmup
 
@@ -55450,6 +62406,10 @@ rinse and repeat till Mary
 ---
 
 ## What's in a Year?
+
+### Q
+
+Schlitz
 
 ### Warmup
 
@@ -55496,6 +62456,10 @@ rinse and repeat till Mary
 
 ## A “Do Work” Day
 
+### Q
+
+Schooner
+
 ### Warmup
 
 5 to 1 motivators
@@ -55530,6 +62494,10 @@ V-ups
 
 ## King of Mosura Hill
 
+### Q
+
+DOS (Spirit StL), Bucky
+
 ### Warmup
 
 - 7 to 1 Motivators
@@ -55553,6 +62521,10 @@ Part : Challenge 10 minutes to conquer 17 monsters.  3 blockees in the Pit of Mo
 ---
 
 ## Wednesday is for winners!
+
+### Q
+
+Jayhawk
 
 ### Warmup
 
@@ -55600,6 +62572,10 @@ BBSU’s
 
 ## The Dark Fields of Mousetrap
 
+### Q
+
+Rock Ride
+
 ### Warmup
 
 SSH 30 IC
@@ -55629,6 +62605,10 @@ none
 ---
 
 ## Clear the lungs - Step up part 3
+
+### Q
+
+Outhouse
 
 ### Warmup
 
@@ -55683,6 +62663,10 @@ Guantanamos
 
 ## Trigger Man
 
+### Q
+
+Karat
+
 ### Warmup
 
 7-1Motivators
@@ -55705,6 +62689,10 @@ Not today
 ---
 
 ## Calisthenics, Cardio, and Coupon Work
+
+### Q
+
+Hamburglar
 
 ### Warmup
 
@@ -55742,6 +62730,10 @@ Coupon Complex Set (after each Circuit round)
 ---
 
 ## Tuesdays are terrific for tacos and beatdowns!
+
+### Q
+
+Shower House
 
 ### Warmup
 
@@ -55793,6 +62785,10 @@ None
 
 ## Dashing Through The Snow!
 
+### Q
+
+Emilio
+
 ### Warmup
 
 5-1 Motivators, Piano Tapers, Bat Wings, Pretzels, Imperial Walkers.
@@ -55816,6 +62812,10 @@ Traveled with coupon around the field and stopped twice to perform coupon squats
 ---
 
 ## Simple as 1-2-3
+
+### Q
+
+Clotshot
 
 ### Warmup
 
@@ -55846,6 +62846,10 @@ Hello dollies
 
 ## The Circle of Thanks ? ?
 
+### Q
+
+9 to 5
+
 ### Thang
 
 - Break white board into sections of 20
@@ -55860,6 +62864,10 @@ Hello dollies
 ---
 
 ## Just a Tuesday at #ao_diamondback
+
+### Q
+
+Karat
 
 ### Warmup
 
@@ -55882,6 +62890,10 @@ BBSUs
 ---
 
 ## 7 of Diamonds
+
+### Q
+
+Rock Ride
 
 ### Warmup
 
@@ -56000,6 +63012,10 @@ None
 
 ## Center of the Universe
 
+### Q
+
+Karat
+
 ### Warmup
 
 7 to 1 motivators
@@ -56032,6 +63048,10 @@ LBC
 
 ## Mondays with Matchbox
 
+### Q
+
+Matchbox
+
 ### Warmup
 
 5-1 motivators, Batwings, learning to Phelps, grass grabbers, WMH, 5-1 motivators
@@ -56047,6 +63067,10 @@ cut due to time (the ice slowed us down a bit)
 ---
 
 ## A Frozen ? Quarter Pounder w/ Cheese
+
+### Q
+
+Hamburglar
 
 ### Warmup
 
@@ -56071,6 +63095,10 @@ Travel from baseline: Coupon lunge walk to 100 yard line. Do (25) Merkins, (50) 
 
 ## Post Stuffing, Pre Christmas Cookies Calorie Burn
 
+### Q
+
+Ferkloch
+
 ### Warmup
 
 4-1 Motivators, Bat wings forward & reverse x10 IC, Seal Claps x10 IC, High Knees x10 IC
@@ -56090,6 +63118,10 @@ Flutter Kicks x10 IC, 20 LBC’s OYO
 ---
 
 ## Canine Rex
+
+### Q
+
+Silicone
 
 ### Warmup
 
@@ -56117,6 +63149,10 @@ Downward dog
 
 ## Backblast
 
+### Q
+
+Worm
+
 ### Warmup
 
 5-1 Motivators
@@ -56138,6 +63174,10 @@ Purposely keeping it vague to avoid spoiling any fun for later this week
 ---
 
 ## Let's get after it before the snow comes
+
+### Q
+
+Drizzle
 
 ### Warmup
 
@@ -56162,6 +63202,10 @@ WW3 sit ups
 ---
 
 ## Let’s Lose The Weight We Gained!
+
+### Q
+
+Dead Broke
 
 ### Warmup
 
@@ -56189,6 +63233,10 @@ We completed 5 rounds.
 
 ## Backblast
 
+### Q
+
+9 to 5
+
 ### Thang
 
 - Break white board into sections of 20
@@ -56203,6 +63251,10 @@ We completed 5 rounds.
 ---
 
 ## Gobbler Challenge
+
+### Q
+
+Olav
 
 ### Warmup
 
@@ -56236,6 +63288,10 @@ none today
 
 ## Legions of Lux
 
+### Q
+
+AirBiscuit, Keynote
+
 ### Warmup
 
 SSH, Abe Vigoda, Side Lunges, Squats, stretch OYO
@@ -56255,6 +63311,10 @@ Both teams showed grit and strategy, with daring plays and relentless energy. Ea
 ---
 
 ## Thanksgiving Manniversary
+
+### Q
+
+Jed, Pothole (SoSTL)
 
 ### Warmup
 
@@ -56287,6 +63347,10 @@ Big Boy Sit-Up’s
 
 ## Leg Day: The Rock at The Outlet: 30for30
 
+### Q
+
+Manny, Norton
+
 ### Thang
 
 45s on/15s off circuit
@@ -56312,6 +63376,10 @@ Not today
 
 ## Gobble...gobble.
 
+### Q
+
+Uncle Buck
+
 ### Warmup
 
 Toe Touches, Arm across chest, Willy Mays Hays, 5 to 1 Motivators.
@@ -56333,6 +63401,10 @@ Jumped rope for about 2 to 3 minutes.
 ---
 
 ## Criss Cross Apple Sauce w. a Side of Bangers
+
+### Q
+
+Rumple Minze
 
 ### Warmup
 
@@ -56370,6 +63442,10 @@ Repeat the Criss Cross in some similar fashion  until Time
 
 ## Express BD
 
+### Q
+
+Bucky
+
 ### Warmup
 
 - Downward Dog
@@ -56405,6 +63481,10 @@ Second set of cones-10 reps the first round 20 the second time through.
 
 ## Tuesday Evening Workout
 
+### Q
+
+Ferkloch
+
 ### Warmup
 
 SSH, stretching as needed
@@ -56416,6 +63496,10 @@ SSH, stretching as needed
 ---
 
 ## Feast Mode Squad
+
+### Q
+
+Big Spoon
 
 ### Warmup
 
@@ -56449,6 +63533,10 @@ merkin waterfall
 
 ## Sponsored by Temu
 
+### Q
+
+BrownOut
+
 ### Warmup
 
 Side Straddle Hops IC X 30
@@ -56471,6 +63559,10 @@ Freddy Mercury 30 OYO
 ---
 
 ## Gratitude Amid Adversity
+
+### Q
+
+Noah
 
 ### Warmup
 
@@ -56497,6 +63589,10 @@ Waterfall merkins 2
 ---
 
 ## Take Care of Your Heart
+
+### Q
+
+Schlitz
 
 ### Thang
 
@@ -56525,6 +63621,10 @@ Little Baby Oblique Crunches, each side
 ---
 
 ## Simple Yet Effective
+
+### Q
+
+Jed
 
 ### Warmup
 
@@ -56557,6 +63657,10 @@ Lap around parking lot
 
 ## NevervMiss A Monday
 
+### Q
+
+Karat
+
 ### Warmup
 
 7:1 motivators
@@ -56581,6 +63685,10 @@ Burpees to The Stroke
 ---
 
 ## Everyone Pulls Their Own Weight
+
+### Q
+
+Bushwood
 
 ### Warmup
 
@@ -56608,6 +63716,10 @@ After 11s, PAX travelled back to the parking lot with a double Farmer's Carry. F
 ---
 
 ## No ? or ? legs here!
+
+### Q
+
+Thumper
 
 ### Warmup
 
@@ -56643,6 +63755,10 @@ Ab Stuff
 
 ## A Case of the Mondays
 
+### Q
+
+FlyBoy
+
 ### Warmup
 
 11-1 and 25-1 motivators seemed a bit dangerous, so settled for Side Straddle Hops to Danger Zone song, Squats or other exercise on the 19 times the word “Danger Zone” is said.
@@ -56671,6 +63787,10 @@ Formed Odds in the first row, and Evens in the Second 10 feet behind first row. 
 
 ## Guardians of the hill
 
+### Q
+
+Mello Yello
+
 ### Warmup
 
 Side Straddle Hops, Learning To Phelps, Willie Mays, Hayes, Hairy Flamingos
@@ -56686,6 +63806,10 @@ Stretch and cool down OYO
 ---
 
 ## Esteemed Gentlemen of the Stable
+
+### Q
+
+BrownOut
 
 ### Warmup
 
@@ -56724,6 +63848,10 @@ Child's Pose
 
 ## Pathfinder 2.0 BD!
 
+### Q
+
+Slippin' Jimmy
+
 ### Thang
 
 Travels:
@@ -56743,6 +63871,10 @@ Adults - 25 Merkins
 ---
 
 ## The Pain Train ?
+
+### Q
+
+Hamburglar
 
 ### Warmup
 
@@ -56818,6 +63950,10 @@ No Time. Plus we did (150) V-Ups during the BD.
 
 ## Kettle all coming!
 
+### Q
+
+Criss-cross
+
 ### Warmup
 
 5-1
@@ -56845,6 +63981,10 @@ Repeat till time
 ---
 
 ## FAFO Friday
+
+### Q
+
+Dowry
 
 ### Warmup
 
@@ -56901,6 +64041,10 @@ High Low Planks IC x 10
 
 ## Passing the flags aka Fire and Ice
 
+### Q
+
+Silicone
+
 ### Warmup
 
 Mountain Man Poopers IC
@@ -56937,6 +64081,10 @@ we had 4 core stations so no Mary...also short on time
 
 ## Bundle Up!
 
+### Q
+
+Otter
+
 ### Warmup
 
 SSH IC
@@ -56966,6 +64114,10 @@ MOUNTAIN CLIMBERS HW – LUNGE WALK
 
 ## Monthly Physical Fitness Test
 
+### Q
+
+Pothole (SoSTL)
+
 ### Warmup
 
 - SSH IC
@@ -56987,6 +64139,10 @@ None
 ---
 
 ## UnBEARable....Cluster $!&#!
+
+### Q
+
+Bucky
 
 ### Warmup
 
@@ -57033,6 +64189,10 @@ return the same.
 
 ## Mobilitus Maximus
 
+### Q
+
+Wayne Babies
+
 ### Thang
 
 Peanut's Revenge Progression
@@ -57053,6 +64213,10 @@ Round it out with some stretching
 ---
 
 ## Game on
+
+### Q
+
+Bill Nye
 
 ### Warmup
 
@@ -57098,6 +64262,10 @@ Part of BD
 
 ## Don't be a jive turkey so close to Thanksgiving
 
+### Q
+
+Shower House
+
 ### Warmup
 
 5 to 2 motivators / accelerator - IC
@@ -57132,6 +64300,10 @@ None
 ---
 
 ## The Reverse Ageism Games
+
+### Q
+
+Kelly
 
 ### Warmup
 
@@ -57176,6 +64348,10 @@ Freddie Mercuries
 
 ## Midweek with Matchbox
 
+### Q
+
+Matchbox
+
 ### Warmup
 
 5-1
@@ -57210,6 +64386,10 @@ Rope pulls
 ---
 
 ## Stick & Move
+
+### Q
+
+Bucky
 
 ### Warmup
 
@@ -57276,6 +64456,10 @@ Round 8
 
 ## The Way (Is this the?)
 
+### Q
+
+BrownOut
+
 ### Warmup
 
 SSH x 20 IC
@@ -57309,6 +64493,10 @@ Child's Pose
 
 ## Hotspur’s 1st Q
 
+### Q
+
+Hotspur, Stanley
+
 ### Warmup
 
 Side Straddle Hops / Learning to Phelps/ Grass Grabbers / Mountain Climbers / Willie Mays Hayes
@@ -57329,6 +64517,10 @@ Stretch on own
 ---
 
 ## JWoww’s 1 Year F3-versary
+
+### Q
+
+JWoww
 
 ### Warmup
 
@@ -57355,6 +64547,10 @@ Gratitude copperhead merkins led in cadence by PAX
 ---
 
 ## Backblast
+
+### Q
+
+Shower House
 
 ### Warmup
 
@@ -57389,6 +64585,10 @@ none
 
 ## How about a little field work!?
 
+### Q
+
+BUB
+
 ### Warmup
 
 Stretch OYO while Q noted core principles, mission, credo, and disclaimer. Following disclaimer, Q led the pax in a series of SSHs, squats, and goofballs to the jammin' sounds of Higher Ground performed by Grinderswitch.
@@ -57405,6 +64605,10 @@ LBCs, flutter kicks, around the square
 ---
 
 ## Agents of ShieldLock
+
+### Q
+
+Catnip Frozone Scalper (STL) Wolverine STL
 
 ### Warmup
 
@@ -57435,6 +64639,10 @@ Three man groups with a trigger man doing the travel. Each PAX rotated through a
 
 ## 3 Years in the Gloom
 
+### Q
+
+TheBeav
+
 ### Warmup
 
 Goofballs
@@ -57464,6 +64672,10 @@ Indian run around track
 ---
 
 ## Find a Penny... or loose one
+
+### Q
+
+Wilson (SpiritSTL)
 
 ### Warmup
 
@@ -57498,6 +64710,10 @@ Plank with penny on back of head - IC
 
 ## Hog Wild - Modified
 
+### Q
+
+Olav
+
 ### Warmup
 
 10-1 Motivators
@@ -57519,6 +64735,10 @@ Under the Pavilion as a team, do 100 Merkins, 200 Big Bois and 300 Mountain Clim
 
 ## Under the Pavilion Again
 
+### Q
+
+Manny
+
 ### Warmup
 
 - Out of order batwings, just to keep you guessing
@@ -57536,6 +64756,10 @@ Under the Pavilion as a team, do 100 Merkins, 200 Big Bois and 300 Mountain Clim
 ---
 
 ## Backblast
+
+### Q
+
+FlyBoy
 
 ### Warmup
 
@@ -57563,6 +64787,10 @@ Mountain Climbers
 
 ## Burn the Legs then Run
 
+### Q
+
+Rorschach
+
 ### Warmup
 
 Mosey, Willie Mays, Grass Grabbers, Monkey Humpers
@@ -57585,6 +64813,10 @@ Stretch on your own
 ---
 
 ## Saturday Surprise
+
+### Q
+
+Shower House
 
 ### Warmup
 
@@ -57616,6 +64848,10 @@ none
 
 ## Forest Park visit
 
+### Q
+
+PillowFight
+
 ### Warmup
 
 Stretches OYO
@@ -57631,6 +64867,10 @@ That last never ending uphill stretch of Skinker
 ---
 
 ## Tyson & Buckets
+
+### Q
+
+Bucky
 
 ### Warmup
 
@@ -57675,6 +64915,10 @@ Dead Bugs IC
 
 ## Back to ?fun? Friday
 
+### Q
+
+Munchies
+
 ### Warmup
 
 Bobby Hurlys, LBAC, 1 to 5 motivators
@@ -57700,6 +64944,10 @@ not today
 
 ## Thank God it’s Friday
 
+### Q
+
+Brad Pitt
+
 ### Warmup
 
 5 to 1 motivators
@@ -57721,6 +64969,10 @@ Flutter kicks
 ---
 
 ## Full ROM AMRAR
+
+### Q
+
+Manny
 
 ### Warmup
 
@@ -57748,6 +65000,10 @@ Flutter kicks
 ---
 
 ## Century Club
+
+### Q
+
+Otter
 
 ### Warmup
 
@@ -57789,6 +65045,10 @@ Mountain Climber IC
 
 ## Back to the basics
 
+### Q
+
+Neymar
+
 ### Warmup
 
 grass grabbers, baby arm circles, toe stretches, doing the phelps
@@ -57804,6 +65064,10 @@ check image. Tabata style workout. Started and ended with a light jog.
 ---
 
 ## Fail Forward
+
+### Q
+
+Rock Ride
 
 ### Thang
 
@@ -57839,6 +65103,10 @@ Little Baby Crunches (LBC) 10 IC
 
 ## One Rung At A Time
 
+### Q
+
+Bliss
+
 ### Warmup
 
 - 5 to 1 Motivators
@@ -57862,6 +65130,10 @@ Little Baby Crunches (LBC) 10 IC
 ---
 
 ## The Duel at Mothra
+
+### Q
+
+Bushwood
 
 ### Warmup
 
@@ -57913,6 +65185,10 @@ Little Baby Crunches (LBC) 10 IC
 
 ## Let’s Give Our Legs A Rest
 
+### Q
+
+BigTex
+
 ### Warmup
 
 Bat Wings IC
@@ -57939,6 +65215,10 @@ Curls IC
 
 ## sledding in a winter wonderland
 
+### Q
+
+BBQ
+
 ### Warmup
 
 Quick Warmup Lap / 20 side straddle hops / Ten count (toe touch / piano tapper / grass grabber)
@@ -57958,6 +65238,10 @@ winners pick - 40 supermen on your own
 ---
 
 ## Continuous Movement
+
+### Q
+
+Charmin
 
 ### Warmup
 
@@ -58010,6 +65294,10 @@ Recover-Recover
 
 ## Tabata Heavy
 
+### Q
+
+Ferkloch
+
 ### Warmup
 
 3-1 Motivators, Grass Grabbers IC x10, Bat Wings IC x10 (forward and backward), Seal Claps IC x10, Learning To Phelps IC x10
@@ -58025,6 +65313,10 @@ Plank Jacks IC x20, Flutter Kicks IC x10
 ---
 
 ## Unleash the Beast
+
+### Q
+
+AirBiscuit
 
 ### Warmup
 
@@ -58070,6 +65362,10 @@ Various stretches, including squat + reach for sky, world's greatest stretch, pi
 
 ## Happy Tuesday
 
+### Q
+
+Drizzle
+
 ### Warmup
 
 SSHs, grass grabbers, Willie Mays Hayes, bat wings
@@ -58092,6 +65388,10 @@ partnered up for Dora, teammate farmer carried 2 coupons up the hill while other
 ---
 
 ## Crocodile teeth.....don't get bit
+
+### Q
+
+Fish Fry
 
 ### Warmup
 
@@ -58171,6 +65471,10 @@ PAX Abs
 
 ## Marching Orders
 
+### Q
+
+DOS (Spirit StL)
+
 ### Warmup
 
 10 burpees and a few stretches
@@ -58197,6 +65501,10 @@ Hand to feet? What was that called again PAX ? ​
 ---
 
 ## Failure is a Necessary Part of Success & Growth
+
+### Q
+
+Rock Ride
 
 ### Warmup
 
@@ -58235,6 +65543,10 @@ none
 
 ## Chadx1000 Veterans Day
 
+### Q
+
+Captain Underpants
+
 ### Warmup
 
 - SSH x 17 IC
@@ -58247,6 +65559,10 @@ none
 ---
 
 ## CHAD 1000 - Veteran Hero's WOD
+
+### Q
+
+DOS (Spirit StL)
 
 ### Warmup
 
@@ -58263,6 +65579,10 @@ No Mary today
 ---
 
 ## Chad1000 Challenge: The Roux vs The Gravel Pit
+
+### Q
+
+Manny
 
 ### Warmup
 
@@ -58301,6 +65621,10 @@ not today
 ---
 
 ## CHAD 1000x Veteran’s Day challenge
+
+### Q
+
+Stanley
 
 ### Warmup
 
@@ -58346,6 +65670,10 @@ Worlds Greatest stretch OYO
 
 ## 90s remix
 
+### Q
+
+Fazoli
+
 ### Warmup
 
 8-1 motivators
@@ -58378,6 +65706,10 @@ Last round was 10 reps to complete the 4-1 rounds (replaced Mary)
 
 ## Football watch party at Dogwood Social
 
+### Q
+
+Shower House
+
 ### Thang
 
 Watched the Chiefs win!   Great time was had chatting and watching the game.
@@ -58385,6 +65717,10 @@ Watched the Chiefs win!   Great time was had chatting and watching the game.
 ---
 
 ## BroGames
+
+### Q
+
+Bucky, Tofu
 
 ### Warmup
 
@@ -58412,6 +65748,10 @@ PAX was benched.
 
 ## Halloween is behind us, but a scary BD is always in season
 
+### Q
+
+Twin Peaks
+
 ### Warmup
 
 5 to 1 motivators, toe touch stretch, no weight Romanian Dead Lifts
@@ -58429,6 +65769,10 @@ penguin tappers and LBCs
 ---
 
 ## Finally Friday
+
+### Q
+
+Jayhawk
 
 ### Warmup
 
@@ -58462,6 +65806,10 @@ King Kong planks
 
 ## 1000 yards of fun
 
+### Q
+
+Criss-cross
+
 ### Warmup
 
 5/1 motivators
@@ -58482,6 +65830,10 @@ R/L hamstring
 ---
 
 ## Tis the Season
+
+### Q
+
+Thumper
 
 ### Warmup
 
@@ -58525,6 +65877,10 @@ J♦️ Dips
 
 ## LIGHT EM UP!!!
 
+### Q
+
+Bobbit
+
 ### Warmup
 
 pigeon stretch, willly, ssh, lil baby arm circles
@@ -58543,6 +65899,10 @@ four corners setup and three larger coupons placed in the center to use includei
 ---
 
 ## Connect 4
+
+### Q
+
+Fusz, Keynote
 
 ### Warmup
 
@@ -58585,6 +65945,10 @@ Skipped due to time.
 ---
 
 ## Take 2- Diamondback
+
+### Q
+
+Bushwood
 
 ### Warmup
 
@@ -58672,6 +66036,10 @@ Round #5
 
 ## Choices and Priorities
 
+### Q
+
+Manny
+
 ### Warmup
 
 - Willie Mays Hayes
@@ -58700,6 +66068,10 @@ After completing, partners took one more lap around the track.  One partner woul
 
 ## Backblast
 
+### Q
+
+Worm
+
 ### Warmup
 
 5-1 Motivators - PAX
@@ -58724,6 +66096,10 @@ Last round ignored the prior exercises and did 25 burpees followed by a lap
 ---
 
 ## It's Not Always Rainbows and Butterflies
+
+### Q
+
+Hamburglar
 
 ### Warmup
 
@@ -58769,6 +66145,10 @@ Coupon Complex Set (after each Circuit round)
 
 ## And the winner is you, HIMS!
 
+### Q
+
+Lotus Notes
+
 ### Warmup
 
 7-1 Motivators, Grass Grabbers, Imperial Walkers and LBAC
@@ -58789,6 +66169,10 @@ Plenty of time for Mary led by about 1/2 the pax (time permitting)
 ---
 
 ## Let's Play Risk
+
+### Q
+
+BrownOut
 
 ### Warmup
 
@@ -58831,6 +66215,10 @@ Child’s Pose – ~1 minute
 
 ## The Day After
 
+### Q
+
+Outhouse
+
 ### Warmup
 
 Old man hang
@@ -58861,6 +66249,10 @@ Guantanamo’s x9
 ---
 
 ## Backblast
+
+### Q
+
+Dowry
 
 ### Warmup
 
@@ -58908,6 +66300,10 @@ World War 3 Situps
 
 ## Manniversary - Election Hangover Edition
 
+### Q
+
+Satellite
+
 ### Warmup
 
 · Little baby arm circles · 5-1 motivators · 5-1 smurf evaders
@@ -58923,6 +66319,10 @@ Howling Monkeys
 ---
 
 ## Pre Election Day workout
+
+### Q
+
+Freshman
 
 ### Warmup
 
@@ -58951,6 +66351,10 @@ Mountain climbers till the end of the song
 ---
 
 ## Election Day! Every Rep Counts!
+
+### Q
+
+Emilio
 
 ### Warmup
 
@@ -58989,6 +66393,10 @@ TABATA Timer - 45 second work, 20 second rest. 12 exercises. After each 4 run la
 
 ## It's time to VOTE!
 
+### Q
+
+Hermey, LugNut
+
 ### Warmup
 
 Grass Grabbers, Willie Mays Hayes, Goofballs, Monkey Humpers
@@ -59004,6 +66412,10 @@ High Plank, LBCs, Boats & Canoes, More HIgh Plank,
 ---
 
 ## It's that day (finally)
+
+### Q
+
+Drizzle
 
 ### Warmup
 
@@ -59026,6 +66438,10 @@ went through the presidents with each one having an exercise and number of reps.
 ---
 
 ## Electing to stay Dry (and not get washed away)
+
+### Q
+
+TheBeav
 
 ### Warmup
 
@@ -59054,6 +66470,10 @@ Plank hold approx 2 min
 
 ## It’s Election Day, Let’s Get A Sweat In Before The Lines
 
+### Q
+
+Dead Broke
+
 ### Warmup
 
 5 to 1 Motivators,
@@ -59074,6 +66494,10 @@ After completing all 4 rounds, we started over and did 2 rounds.
 ---
 
 ## UP UP AND AWAY!
+
+### Q
+
+Bobbit
 
 ### Warmup
 
@@ -59100,6 +66524,10 @@ REP COUNTS WERE 30(one time)-69 reps of each
 
 ## Practice? Talking about practice
 
+### Q
+
+WetnWild
+
 ### Warmup
 
 hanging stretch, Willie mays Hayes, monkey grabbers, shoulder stretches
@@ -59119,6 +66547,10 @@ cobra, butterfly
 ---
 
 ## Gazeebos and picnic tables in the rain
+
+### Q
+
+Charmin
 
 ### Warmup
 
@@ -59145,6 +66577,10 @@ boats and canoes, American Hammers
 ---
 
 ## Backblast
+
+### Q
+
+Rock Chalk
 
 ### Warmup
 
@@ -59177,6 +66613,10 @@ x2 sets
 
 ## Drizzle Dash
 
+### Q
+
+AirBiscuit
+
 ### Warmup
 
 - Abe Vigoda
@@ -59204,6 +66644,10 @@ Ran one rainy loop from picnic shelter, down road past GP, up Hawk Ridge Trail, 
 ---
 
 ## Four Corners ?️ Modified
+
+### Q
+
+Slippin' Jimmy
 
 ### Warmup
 
@@ -59234,6 +66678,10 @@ PAX Choice: Freddie Mercuries, Some type of situp, American Hammers, Downward Do
 
 ## Fun in the Park on a Saturday
 
+### Q
+
+TheBeav
+
 ### Warmup
 
 5:1 motivators (turbo speed PAX style)
@@ -59254,6 +66702,10 @@ Pax did flutter kick chest presses with coupon while each man bear crawled aroun
 
 ## One Confusing BD
 
+### Q
+
+Bill Nye
+
 ### Warmup
 
 20 motivators
@@ -59272,6 +66724,10 @@ See image below
 ---
 
 ## Backblast
+
+### Q
+
+9 to 5
 
 ### Warmup
 
@@ -59304,6 +66760,10 @@ COR &amp; NOR
 ---
 
 ## ARMageddon
+
+### Q
+
+Bushwood
 
 ### Warmup
 
@@ -59364,6 +66824,10 @@ COR &amp; NOR
 
 ## NO DROP ZONE
 
+### Q
+
+Bobbit
+
 ### Warmup
 
 ssh
@@ -59389,6 +66853,10 @@ REP COUNTS WERE 37-59 reps of each
 
 ## Be a Saint
 
+### Q
+
+Brad Pitt
+
 ### Warmup
 
 Goofballs IC 25
@@ -59407,6 +66875,10 @@ The final 4 cards was the Mary
 ---
 
 ## Monthly Murph prep inside out
+
+### Q
+
+Silicone
 
 ### Thang
 
@@ -59427,6 +66899,10 @@ PAX took turns leading a stretch or cooldown exercise
 ---
 
 ## Simple but Effective
+
+### Q
+
+Rock Ride
 
 ### Warmup
 
@@ -59464,6 +66940,10 @@ None
 
 ## Tuesday arms, Thursday legs
 
+### Q
+
+Neymar
+
 ### Warmup
 
 toe touches, grass grabbers, little baby arm circles, learning the Phelps
@@ -59479,6 +66959,10 @@ view image. Modified circuit to simple leg knee raise travel under gazebo.
 ---
 
 ## Trick or treat HIMS
+
+### Q
+
+BrownOut
 
 ### Warmup
 
@@ -59527,6 +67011,10 @@ Station 5: Full Body
 
 ## Trick or Treat: The Great Pumpkin
 
+### Q
+
+Bucky
+
 ### Warmup
 
 - Gargoyles (super stupid fun)
@@ -59569,6 +67057,10 @@ Round 4:
 
 ## Let’s Get a Sweat In Before Halloween.
 
+### Q
+
+Dead Broke
+
 ### Warmup
 
 7 to 1 Motivators,
@@ -59592,6 +67084,10 @@ Complete this for all rounds.
 ---
 
 ## Rot Gut Rocks
+
+### Q
+
+Rot Gut
 
 ### Warmup
 
@@ -59625,6 +67121,10 @@ Flutterkicks – 10 IC
 
 ## COUPON ADDICTION-don't set it down
 
+### Q
+
+Bobbit
+
 ### Warmup
 
 ssh
@@ -59653,6 +67153,10 @@ ran up hill to 100
 ---
 
 ## Leg Day on Hump Day
+
+### Q
+
+Sandtrap
 
 ### Warmup
 
@@ -59702,6 +67206,10 @@ NOR✅
 
 ## 11:1, But Fun
 
+### Q
+
+ledger, Mello Yello
+
 ### Warmup
 
 Side Straddle Hops
@@ -59723,6 +67231,10 @@ Waterfall of Boats and Canoes (& Hoes)
 ---
 
 ## Unoriginal Tuesday Beatdown - Rinse and Repeat at Picklejar
+
+### Q
+
+Bushwood
 
 ### Warmup
 
@@ -59783,6 +67295,10 @@ Waterfall of Boats and Canoes (& Hoes)
 
 ## Around and around we go
 
+### Q
+
+Drizzle
+
 ### Warmup
 
 7-1 motivators, yoga, bat wings
@@ -59800,6 +67316,10 @@ Got a little messy with the faster travels, but we all kept moving
 ---
 
 ## Uh! Double Up Uh! Uh!
+
+### Q
+
+Big Spoon
 
 ### Warmup
 
@@ -59842,6 +67362,10 @@ Around the Worlds
 
 ## Backblast
 
+### Q
+
+9 to 5
+
 ### Warmup
 
 - SSHs
@@ -59873,6 +67397,10 @@ COR &amp; NOR
 
 ## Passing the Flag
 
+### Q
+
+Otter, TheBeav
+
 ### Warmup
 
 25 SSH IC=100 SSH for the 100th AO
@@ -59893,6 +67421,10 @@ Buy out 3 more laps around the track
 ---
 
 ## Backblast
+
+### Q
+
+Bushwood
 
 ### Warmup
 
@@ -59932,6 +67464,10 @@ Buy out 3 more laps around the track
 
 ## Red Rover.  Red Rover.
 
+### Q
+
+Bucky
+
 ### Warmup
 
 10x8 Motivators
@@ -59953,6 +67489,10 @@ Captain Thors
 ---
 
 ## Full ROM AMRAP
+
+### Q
+
+Manny
 
 ### Warmup
 
@@ -59982,6 +67522,10 @@ Captain Thors
 
 ## It’s never too late!
 
+### Q
+
+Room Service
+
 ### Warmup
 
 Willy Mays Hays
@@ -60003,6 +67547,10 @@ No mary. (Forgot it was date night)
 
 ## Starting another great week
 
+### Q
+
+Brad Pitt
+
 ### Warmup
 
 Goofballs IC 25
@@ -60023,6 +67571,10 @@ No Mary
 
 ## 10 Laps
 
+### Q
+
+AirBiscuit, Rorschach
+
 ### Warmup
 
 - SSH (IC)
@@ -60041,6 +67593,10 @@ Run one lap around the parking lot (~0.25 mi). Then perform 10 burpees, 10 squat
 ---
 
 ## The Return of Uncle Buck-ets
+
+### Q
+
+Bill Nye
 
 ### Warmup
 
@@ -60067,6 +67623,10 @@ Plank walks, Bicycle, bring sally up, mountain climber, big boys, boats and cano
 ---
 
 ## Saturday at THE Way
+
+### Q
+
+Bushwood
 
 ### Warmup
 
@@ -60115,6 +67675,10 @@ Repeat Twice
 
 ## Run It Til You Dun It!
 
+### Q
+
+M-I-Z
+
 ### Warmup
 
 10 motivators, arm circles, reach for the stars, grass grabbers
@@ -60148,6 +67712,10 @@ closed with downward dog and cobra positions
 
 ## Friday Fun Day
 
+### Q
+
+Karat
+
 ### Warmup
 
 5-1 Motivators
@@ -60168,6 +67736,10 @@ not today
 ---
 
 ## It’s Friday - Let’s Bounce
+
+### Q
+
+Outhouse
 
 ### Warmup
 
@@ -60196,6 +67768,10 @@ PAX Freddy mercury while losing team ran stairs.
 ---
 
 ## Semi Smashfest
+
+### Q
+
+Rock Ride
 
 ### Warmup
 
@@ -60227,6 +67803,10 @@ LBC's 15 IC
 
 ## Let’s Sweat on the Last Friday of October
 
+### Q
+
+Dead Broke
+
 ### Warmup
 
 5 to 1 Motivators
@@ -60255,6 +67835,10 @@ No Mary Ran Out of Time
 ---
 
 ## Just another Thursday at The Pickle Jar
+
+### Q
+
+Karat
 
 ### Warmup
 
@@ -60287,6 +67871,10 @@ Burpees to Morgan Wallen Up/Down
 ---
 
 ## Backblast
+
+### Q
+
+Forrest
 
 ### Warmup
 
@@ -60360,6 +67948,10 @@ Cobra stretch
 
 ## The Powers of 2️⃣. Two Years of Gratitude
 
+### Q
+
+Hamburglar
+
 ### Warmup
 
 - 7 to 5 Motivators
@@ -60391,6 +67983,10 @@ Each Team has to complete reps by Powers of 2 of following various exercises usi
 
 ## Thursday Throwdown
 
+### Q
+
+Bliss
+
 ### Warmup
 
 - 5 to 1 Motivators
@@ -60420,6 +68016,10 @@ Not Today
 ---
 
 ## Grow Your Anterior Mid-cingulate Cortex
+
+### Q
+
+Rock Ride
 
 ### Warmup
 
@@ -60451,6 +68051,10 @@ Single leg pulses 10 each leg
 ---
 
 ## What can we do on Wednesday?
+
+### Q
+
+BigTex
 
 ### Warmup
 
@@ -60484,6 +68088,10 @@ BBSU
 
 ## Backblast
 
+### Q
+
+Bliss
+
 ### Warmup
 
 - 5 to 1 Motivators
@@ -60514,6 +68122,10 @@ knocked it during the thang
 ---
 
 ## Gardens and Deserts
+
+### Q
+
+Schlitz
 
 ### Warmup
 
@@ -60552,6 +68164,10 @@ Hold a plank for In-A-Gadda-Da-Vida by Iron Butterfly; unfortunately (fortunatel
 
 ## Another Brick in the Wall
 
+### Q
+
+Freshman
+
 ### Warmup
 
 Side straddle hops
@@ -60578,6 +68194,10 @@ Repeat and add 5 reps each time
 
 ## Q school
 
+### Q
+
+Silicone
+
 ### Warmup
 
 lead by PAX PAX PAX PAX PAX PAX
@@ -60593,6 +68213,10 @@ lead by PAX
 ---
 
 ## Double the fun
+
+### Q
+
+Dowry
 
 ### Warmup
 
@@ -60653,6 +68277,10 @@ High Low Planks IC x 10
 
 ## Backblast
 
+### Q
+
+Worm
+
 ### Warmup
 
 5-1 Motivators
@@ -60709,6 +68337,10 @@ Partner BBS
 
 ## Spirit SiteQ BD
 
+### Q
+
+DOS (Spirit StL)
+
 ### Warmup
 
 SSH, Toe Touces
@@ -60732,6 +68364,10 @@ Box Breathing
 ---
 
 ## 3rd Bi-Annual Tractor Pull!!
+
+### Q
+
+Klinger
 
 ### Warmup
 
@@ -60773,6 +68409,10 @@ None
 
 ## Come one, come all
 
+### Q
+
+Drizzle
+
 ### Warmup
 
 5-1 motivators, yoga, stretches
@@ -60788,6 +68428,10 @@ American hammers, Sharon stones, lemon squeezers
 ---
 
 ## Never miss a Monday!
+
+### Q
+
+Jayhawk
 
 ### Warmup
 
@@ -60819,6 +68463,10 @@ Flutter kicks
 ---
 
 ## 99 problems and a battle rope is one
+
+### Q
+
+Fish Fry
 
 ### Warmup
 
@@ -60875,6 +68523,10 @@ None worked into BD
 
 ## Let’s Hangout
 
+### Q
+
+Manny
+
 ### Warmup
 
 - Learning to Phelps
@@ -60899,6 +68551,10 @@ Cool down guardian yog
 
 ## Backblast
 
+### Q
+
+Room Service
+
 ### Warmup
 
 Grass Grabbers
@@ -60916,6 +68572,10 @@ Trigger man carries the big green fart sack to the end of the field (80 yds), 5 
 ---
 
 ## Start the week off right
+
+### Q
+
+Brad Pitt
 
 ### Warmup
 
@@ -60951,6 +68611,10 @@ BBSU OYO 10
 
 ## Uphill Each Way
 
+### Q
+
+Satellite
+
 ### Warmup
 
 mosy down the big hill, Willie Mayes Hayes, Harry Flamingos, calf stretch
@@ -60966,6 +68630,10 @@ shoulder tap waterfall, 3 rounds
 ---
 
 ## Bad To The Core
+
+### Q
+
+Bill Nye
 
 ### Warmup
 
@@ -61006,6 +68674,10 @@ Tabata core repeat - slight mod
 
 ## Run, Lift, Repeat
 
+### Q
+
+Schooner
+
 ### Warmup
 
 5 to 1 motivators
@@ -61042,6 +68714,10 @@ Big boy sit-ups
 
 ## What it was, was football...kind of
 
+### Q
+
+Slippin' Jimmy
+
 ### Warmup
 
 7 Motivators, Grass Grabbers, LBAC, Seal Claps, Overhead Claps, Goof Balls
@@ -61069,6 +68745,10 @@ Downward Dog, Cobras
 ---
 
 ## Backblast
+
+### Q
+
+9 to 5
 
 ### Warmup
 
@@ -61105,6 +68785,10 @@ COR & NOR
 ---
 
 ## Need to get ready for the weekend
+
+### Q
+
+Fish Fry
 
 ### Warmup
 
@@ -61148,6 +68832,10 @@ PAX Abs
 
 ## FUNctional Friday
 
+### Q
+
+Otter
+
 ### Warmup
 
 SSH IC
@@ -61170,6 +68858,10 @@ Cut the last circuit to 5 minuets, due to time
 ---
 
 ## Backblast
+
+### Q
+
+Bushwood
 
 ### Warmup
 
@@ -61253,6 +68945,10 @@ Jail Break Back
 
 ## Keep it Simple
 
+### Q
+
+Keynote, Catnip
+
 ### Warmup
 
 - Side Straddle Hops
@@ -61276,6 +68972,10 @@ Jail Break Back
 
 ## 1 Year and 1 Day y Dear
 
+### Q
+
+TheBeav
+
 ### Warmup
 
 learning to fly
@@ -61296,6 +68996,10 @@ American Hammers onyl got through about 10 as Q may have pooped himself if we ke
 ---
 
 ## Monthly Physical Fitness Test
+
+### Q
+
+Pothole (SoSTL)
 
 ### Warmup
 
@@ -61319,6 +69023,10 @@ None
 ---
 
 ## CPR Training
+
+### Q
+
+Karat
 
 ### Warmup
 
@@ -61348,6 +69056,10 @@ Run 1 lap around the playground after each round
 ---
 
 ## Promise of NO Batwings This Time!
+
+### Q
+
+Bushwood
 
 ### Warmup
 
@@ -61398,6 +69110,10 @@ Square #3 - 20 Yard Iron Crab Between 4 Corners - Different Exercises at Each Co
 
 ## Leaders Lead
 
+### Q
+
+Rock Ride
+
 ### Warmup
 
 SSH 26 IC
@@ -61423,6 +69139,10 @@ LBCs on Q count with hold at top 20
 ---
 
 ## Just a hump day beatdown
+
+### Q
+
+Karat
 
 ### Warmup
 
@@ -61451,6 +69171,10 @@ Burpees to Up, down Morgan Wallen
 ---
 
 ## Core Corners
+
+### Q
+
+Forrest
 
 ### Warmup
 
@@ -61501,6 +69225,10 @@ Cobra stretch hold for :30
 ---
 
 ## WARM UP
+
+### Q
+
+Outhouse
 
 ### Warmup
 
@@ -61553,6 +69281,10 @@ shoulder stretch; hanging hamstring
 
 ## Burpee Mania
 
+### Q
+
+Sandtrap
+
 ### Warmup
 
 - Grass Grabbers x10 IC
@@ -61592,6 +69324,10 @@ NOR ✅
 
 ## Twinning is Winning
 
+### Q
+
+AirBiscuit
+
 ### Warmup
 
 - SSH (IC)
@@ -61621,6 +69357,10 @@ Completed the cycle - each set of exercises and MOT - twice.
 ---
 
 ## Guess Who’s Back!
+
+### Q
+
+Jed
 
 ### Warmup
 
@@ -61677,6 +69417,10 @@ Mosey back to coupon
 
 ## Classified
 
+### Q
+
+Bucky
+
 ### Warmup
 
 - 5x1 smurf -tators
@@ -61709,6 +69453,10 @@ Lap around lot.
 
 ## leg day
 
+### Q
+
+DOS (Spirit StL)
+
 ### Warmup
 
 8to1 motivators IC, Foot Touches, Hollywoods, Old man sunrises
@@ -61738,6 +69486,10 @@ Some stretching, DOS error and more stretching
 ---
 
 ## Ratigan's 1 Year Manniversary
+
+### Q
+
+Ratigan
 
 ### Warmup
 
@@ -61790,6 +69542,10 @@ Ratigan's Coconut Mosey around the parking lot.
 
 ## A black mile to the surface
 
+### Q
+
+PillowFight
+
 ### Warmup
 
 1 black mile a.k.a a gas-you-out Indian run around the normal course with a stop to stretch.
@@ -61807,6 +69563,10 @@ Bernie Sanders up the hill on 90 seconds.
 ---
 
 ## AO MOTHRA X POTHOLE
+
+### Q
+
+Pothole (SoSTL)
 
 ### Warmup
 
@@ -61862,6 +69622,10 @@ Freddie Mercurys IC
 
 ## Back and Forth
 
+### Q
+
+Wilson (SpiritSTL)
+
 ### Warmup
 
 5-1 Motivators
@@ -61914,6 +69678,10 @@ Crawl bears
 
 ## 3 year manniverary
 
+### Q
+
+Fazoli
+
 ### Warmup
 
 5-1 motivators
@@ -61937,6 +69705,10 @@ Pick up six after each lap
 
 ## Gumbo made a few stops at The Roux This Week!
 
+### Q
+
+Gumbo (STL)
+
 ### Warmup
 
 We Did some Cool Shit! Shoulda been here!
@@ -61956,6 +69728,10 @@ Did some cool Mary Stretches!
 ---
 
 ## Pick up six or Cards
+
+### Q
+
+Thumper
 
 ### Warmup
 
@@ -62010,6 +69786,10 @@ Q♥️ Burpee (shortened to 10)
 
 ## Belated B-Day
 
+### Q
+
+rogerroger
+
 ### Warmup
 
 - 5-1 motivators
@@ -62058,6 +69838,10 @@ RND 3
 
 ## It’s just one mile…almost one mile!
 
+### Q
+
+Hamburglar
+
 ### Warmup
 
 - SSHs
@@ -62083,6 +69867,10 @@ The “almost” Impossible Mile Challenge. Modified to 0.8 mile challenge for t
 
 ## Border wars - Korean Edition
 
+### Q
+
+Gangnam Style
+
 ### Warmup
 
 Arm circles, 5-to-1 Motivators, Grass Grabbers
@@ -62105,6 +69893,10 @@ American Hammers (in cadence), Alphabet Soup (at own pace)
 ---
 
 ## Straights and curves
+
+### Q
+
+Criss-cross
 
 ### Warmup
 
@@ -62129,6 +69921,10 @@ keys tappers, knee raises
 ---
 
 ## It's no longer September
+
+### Q
+
+Brad Pitt
 
 ### Warmup
 
@@ -62155,6 +69951,10 @@ Learning to Phelps IC 11
 ---
 
 ## Clever Title
+
+### Q
+
+Dowry
 
 ### Warmup
 
@@ -62199,6 +69999,10 @@ Rotated through each station
 
 ## Thursday at F3 World HQ
 
+### Q
+
+Bushwood
+
 ### Warmup
 
 - 9-to-5 Motivators
@@ -62232,6 +70036,10 @@ Every 90 seconds for 8 Rounds
 ---
 
 ## Odds or Evens for Travel
+
+### Q
+
+Emilio
 
 ### Warmup
 
@@ -62274,6 +70082,10 @@ Cone 3
 
 ## There will be running
 
+### Q
+
+Petey
+
 ### Warmup
 
 Downward Dog
@@ -62292,6 +70104,10 @@ Total Run: 2 Miles
 ---
 
 ## The Mini Murph
+
+### Q
+
+Bill Nye
 
 ### Warmup
 
@@ -62315,6 +70131,10 @@ skipped for time
 ---
 
 ## Running down a dream
+
+### Q
+
+Shower House
 
 ### Warmup
 
@@ -62348,6 +70168,10 @@ Walked to pick up lights and cardboard to cool down.
 
 ## Miles and miles and miles
 
+### Q
+
+Shower House
+
 ### Warmup
 
 20 goofballs IC
@@ -62380,6 +70204,10 @@ none
 
 ## Run and Roll- Q100
 
+### Q
+
+Bobbit
+
 ### Warmup
 
 mobile one
@@ -62403,6 +70231,10 @@ hand release merkins, ballerina squats, burpees, carolina dry docks, dips on gua
 ---
 
 ## WVW!
+
+### Q
+
+Dowry
 
 ### Warmup
 
@@ -62476,6 +70308,10 @@ None
 
 ## Backblast
 
+### Q
+
+Silicone
+
 ### Thang
 
 PAX ran 400m laps interspersed with exercises:
@@ -62491,6 +70327,10 @@ not today
 
 ## Babler 5k for The Covering House
 
+### Q
+
+Olav
+
 ### Warmup
 
 Mostly Leg stretches and Poorly executed yoga poses.
@@ -62502,6 +70342,10 @@ Mostly Leg stretches and Poorly executed yoga poses.
 ---
 
 ## Backblast
+
+### Q
+
+9 to 5
 
 ### Warmup
 
@@ -62542,6 +70386,10 @@ COR &amp; NOR
 
 ## Getting ready for IronPax
 
+### Q
+
+Karat
+
 ### Warmup
 
 7-1Motivators
@@ -62562,6 +70410,10 @@ not today
 ---
 
 ## Shared Suffering Is Good
+
+### Q
+
+Rock Ride
 
 ### Warmup
 
@@ -62616,6 +70468,10 @@ none
 
 ## Not IronPax, KaratPax?
 
+### Q
+
+Karat
+
 ### Warmup
 
 7-1Motivators
@@ -62645,6 +70501,10 @@ not today
 ---
 
 ## 3 Mile Island
+
+### Q
+
+BrownOut
 
 ### Warmup
 
@@ -62690,6 +70550,10 @@ Cooldown (5 minutes)
 
 ## The NO burpee, NO thruster beatdown
 
+### Q
+
+Charmin
+
 ### Warmup
 
 Hamstring stretch, Harry flamingos, Willie Mayes Hayes
@@ -62733,6 +70597,10 @@ X factor
 
 ## Mondaze
 
+### Q
+
+Rock Chalk
+
 ### Warmup
 
 - 5-1 Motivators
@@ -62761,6 +70629,10 @@ Running Some Laps, Yay Covering House
 
 ## Miles4TCH
 
+### Q
+
+Schlitz
+
 ### Warmup
 
 Stretch OYO during Core Principles, Disclaimer, Mission, etc.
@@ -62776,6 +70648,10 @@ not today
 ---
 
 ## Sunday Funday = Monday Mayhem
+
+### Q
+
+Worm
 
 ### Warmup
 
@@ -62795,6 +70671,10 @@ Bring Sally Up
 
 ## Iron Pax Week 4
 
+### Q
+
+Twin Peaks
+
 ### Warmup
 
 5 to 1 motivators, Grass Grabbers, Piano Tappers, Little Bay Arm Circles
@@ -62806,6 +70686,10 @@ Iron Pax Week 4
 ---
 
 ## Play the hits man
+
+### Q
+
+Stanley
 
 ### Warmup
 
@@ -62823,6 +70707,10 @@ Stretch OYO,
 ---
 
 ## Three Square
+
+### Q
+
+Bushwood
 
 ### Warmup
 
@@ -62868,6 +70756,10 @@ PAX Iron Crabbed betwen all 4 corners of the Square perofrming 10 reps of a diff
 ---
 
 ## Week 4 of 2024 IPAX at Mousetrap
+
+### Q
+
+Fish Fry
 
 ### Warmup
 
@@ -62946,6 +70838,10 @@ None
 
 ## Balls to the Wall
 
+### Q
+
+Thumper
+
 ### Warmup
 
 in cadence
@@ -62977,6 +70873,10 @@ Dying Cockroaches
 ---
 
 ## Iron Pax Revisit
+
+### Q
+
+FlyBoy
 
 ### Warmup
 
@@ -63025,6 +70925,10 @@ Toe Touch 10 count, cross over both ways 10 count each
 
 ## Week 4 IRONPAX - the finale
 
+### Q
+
+Stanley
+
 ### Warmup
 
 Stretch OYO prior to 5:30
@@ -63049,6 +70953,10 @@ RECOVER, RECOVER
 
 ## MAUL’S BACKYARD BURPEE BEATDOWN – IPC 2024 – Week 4 + FORGE
 
+### Q
+
+Hamburglar, TheBeav
+
 ### Warmup
 
 Led by TheBeav
@@ -63072,6 +70980,10 @@ Led by TheBeav
 
 ## Screw the Exicon
 
+### Q
+
+Freshman
+
 ### Warmup
 
 grass grabbers
@@ -63090,6 +71002,10 @@ Bring Sally up
 ---
 
 ## The Longest Mile
+
+### Q
+
+Olav
 
 ### Warmup
 
@@ -63124,6 +71040,10 @@ LBC
 
 ## IronPAX Week IV
 
+### Q
+
+Noah
+
 ### Warmup
 
 5-to-1 Motivators; Abe Vigodas; Learning Phelps; Overhead Clap; DwnwrdDog-Conra; World’s Greatest Stretch
@@ -63135,6 +71055,10 @@ See Attached.
 ---
 
 ## Thursday Takeover Pt2
+
+### Q
+
+Bill Nye
 
 ### Warmup
 
@@ -63169,6 +71093,10 @@ High plank, low plank, high to low plank, bicycles, penguin tapper, walrus tappe
 ---
 
 ## MAUL’S BACKYARD BURPEE BEATDOWN – IPC 2024 – Week 4
+
+### Q
+
+Bucky
 
 ### Warmup
 
@@ -63228,6 +71156,10 @@ Burpees until 40:00 mark
 
 ## Backblast
 
+### Q
+
+Rumple Minze
+
 ### Warmup
 
 8-1 Motivators
@@ -63254,6 +71186,10 @@ Roll the Dice and perform the corresponding exercise with Lap in-between each Ro
 
 ## Iron Pax week 4
 
+### Q
+
+Thumper
+
 ### Warmup
 
 Abigotas
@@ -63273,6 +71209,10 @@ Worlds greatest stretch
 ---
 
 ## MAUL’S BACKYARD BURPEE BEATDOWN – IPC 2024 – Week 4
+
+### Q
+
+Brad Pitt
 
 ### Warmup
 
@@ -63332,6 +71272,10 @@ Stretch OYO
 
 ## 6 Year Soberversary
 
+### Q
+
+Big Spoon
+
 ### Warmup
 
 5-1 Motivators
@@ -63376,6 +71320,10 @@ Boat and Canoe Waterfall
 ---
 
 ## MAUL’S BACKYARD BURPEE BEATDOWN – IPC 2024 – Week 4
+
+### Q
+
+Duke
 
 ### Warmup
 
@@ -63448,6 +71396,10 @@ Stretched things out
 ---
 
 ## MAUL’S BACKYARD BURPEE BEATDOWN – IPC 2024 – Week 4
+
+### Q
+
+BrownOut
 
 ### Warmup
 
@@ -63526,6 +71478,10 @@ Out of Time / Retrieve Equipment Cooldown
 
 ## No running No burpees
 
+### Q
+
+BUB
+
 ### Warmup
 
 Goofballs
@@ -63556,6 +71512,10 @@ Included
 
 ## MAUL’S BACKYARD BURPEE BEATDOWN – IPC 2024 – Week 4
 
+### Q
+
+Hamburglar
+
 ### Warmup
 
 OYO Stretch
@@ -63571,6 +71531,10 @@ None
 ---
 
 ## We did something
+
+### Q
+
+Dowry
 
 ### Warmup
 
@@ -63621,6 +71585,10 @@ Plank jacks 30 seconds
 
 ## IPAX 4 Maul's Backyard Burpee Beatdown
 
+### Q
+
+Karat
+
 ### Warmup
 
 5-1Motivators
@@ -63635,6 +71603,10 @@ Maul's Backyard Burpee Beatdown
 ---
 
 ## Rock paper derkins
+
+### Q
+
+Matchbox
 
 ### Warmup
 
@@ -63651,6 +71623,10 @@ penguin tappers, flutter kicks
 ---
 
 ## Got to get it in
+
+### Q
+
+Thumper
 
 ### Warmup
 
@@ -63689,6 +71665,10 @@ LBC’s
 
 ## Get yourself some!
 
+### Q
+
+Room Service
+
 ### Warmup
 
 Piano tappers
@@ -63719,6 +71699,10 @@ Ran out of time for Rd 3 and 4.
 
 ## Backblast
 
+### Q
+
+FlyBoy
+
 ### Warmup
 
 9-1 Motivators
@@ -63747,6 +71731,10 @@ Box Cutters – 19
 
 ## Monday Runday
 
+### Q
+
+Schlitz
+
 ### Warmup
 
 Hairy Flamingos
@@ -63765,6 +71753,10 @@ A lot of flutter kicks
 
 ## IPAX Week 3 Denton Sandwich
 
+### Q
+
+Room Service
+
 ### Warmup
 
 Piano Tappers, Willy Mays Hays, 20 count toe touches, 5-1 motivators
@@ -63780,6 +71772,10 @@ Denton Sandwich IPAX Week 3
 ---
 
 ## Orbit Launch!
+
+### Q
+
+AirBiscuit
 
 ### Warmup
 
@@ -63800,6 +71796,10 @@ Not today
 ---
 
 ## Its Raining, Men!
+
+### Q
+
+Jed
 
 ### Warmup
 
@@ -63834,6 +71834,10 @@ None
 ---
 
 ## IPAX Week 3
+
+### Q
+
+DOS (Spirit StL)
 
 ### Warmup
 
@@ -63874,6 +71878,10 @@ Good Mornings, box breathing
 
 ## Filty Fifty - Recovery and Restoration
 
+### Q
+
+Outhouse
+
 ### Warmup
 
 - 50 side straddle hops
@@ -63894,6 +71902,10 @@ recovered after abs
 ---
 
 ## All Mighty Roses And Pearls (AMRAP)
+
+### Q
+
+Sandtrap
 
 ### Warmup
 
@@ -63936,6 +71948,10 @@ Round 2 - 15 reps, 12 minutes
 
 ## IPAX Week 3
 
+### Q
+
+Satellite
+
 ### Warmup
 
 ssh, ltp, gg, quad stretch
@@ -63952,6 +71968,10 @@ not today
 
 ## IPax Week 3 Brenton Sandwich
 
+### Q
+
+Room Service
+
 ### Warmup
 
 Piano tappers
@@ -63967,6 +71987,10 @@ IPax week 4
 ---
 
 ## Bringing The Black Diamond to You
+
+### Q
+
+Rock Ride
 
 ### Warmup
 
@@ -64004,6 +72028,10 @@ LBCs with hold at top 20
 ---
 
 ## The Blockbuster
+
+### Q
+
+BrownOut
 
 ### Warmup
 
@@ -64045,6 +72073,10 @@ Child's Pose Stretch
 
 ## IPC 2024 Week 3-Brenton Sandwich
 
+### Q
+
+Hamburglar
+
 ### Warmup
 
 - SSHs
@@ -64065,6 +72097,10 @@ None
 ---
 
 ## Backblast
+
+### Q
+
+Worm
 
 ### Warmup
 
@@ -64088,6 +72124,10 @@ Rest of the PAX arrived to a lit up basketball court for some full court 5v5 fun
 ---
 
 ## IronPax Week 3. The Brenton Sandwich
+
+### Q
+
+Shower House
 
 ### Warmup
 
@@ -64146,6 +72186,10 @@ Walked a short lap as a cool down.
 
 ## Teamwork makes the dream work
 
+### Q
+
+Shower House
+
 ### Warmup
 
 20 Side straddle hops - IC
@@ -64176,6 +72220,10 @@ Called for time during Big Boi sit-ups.
 ---
 
 ## Chutes and Ladders
+
+### Q
+
+Bucky
 
 ### Warmup
 
@@ -64211,6 +72259,10 @@ Rounds & Starting # of reps:
 
 ## IPAX Week 3 - Benton Sandwich
 
+### Q
+
+Boilermaker
+
 ### Warmup
 
 15 Side Straddle Hops IC
@@ -64229,6 +72281,10 @@ IPAX Week 3 - Benton Dandwich
 
 ## Week 3 IronPax 2024 - Brenton Sandwich
 
+### Q
+
+Bushwood
+
 ### Warmup
 
 PAX Warmed up on their own while Q walked them thru the beatdown.
@@ -64244,6 +72300,10 @@ No Mary, short on time
 ---
 
 ## Iron Out the Kinks
+
+### Q
+
+AirBiscuit
 
 ### Warmup
 
@@ -64274,6 +72334,10 @@ In lieu of additional core work, we wrapped with stretching:
 ---
 
 ## IronPax week 3
+
+### Q
+
+Otter
 
 ### Warmup
 
@@ -64315,6 +72379,10 @@ Brenton WOD – 3 rounds
 ---
 
 ## IronPAX IPC 2024 Week 3 Brenton Sandwich
+
+### Q
+
+Bucky
 
 ### Warmup
 
@@ -64362,6 +72430,10 @@ Brenton WOD – 3 rounds
 
 ## 30 for 30
 
+### Q
+
+Klinger, Big Spoon
+
 ### Warmup
 
 Abe Vigoda, baby arm circles, grass grabbers
@@ -64377,6 +72449,10 @@ Merking Waterfall
 ---
 
 ## Backblast
+
+### Q
+
+9 to 5
 
 ### Warmup
 
@@ -64400,6 +72476,10 @@ The Brenton Sandwich
 
 ## A Walk (Run) in the Park
 
+### Q
+
+Rock Ride
+
 ### Warmup
 
 Goofballs 20 IC
@@ -64420,6 +72500,10 @@ Flutter Kicks 15 IC
 
 ## IronPax 3 (the one the Q messed up)
 
+### Q
+
+Karat
+
 ### Warmup
 
 5-1 motivators,  LBAC'S,  Grass Grabbers
@@ -64436,6 +72520,10 @@ LBC'S x 25 OYO
 ---
 
 ## It's You vs You.. sometimes
+
+### Q
+
+DOS (Spirit StL)
 
 ### Warmup
 
@@ -64473,6 +72561,10 @@ Incline Merkins IC
 ---
 
 ## An Oldie But a Goodie
+
+### Q
+
+Rock Ride
 
 ### Warmup
 
@@ -64521,6 +72613,10 @@ Dying Cockroaches 15 IC
 
 ## No excuses!  You have a.m. and p.m.!
 
+### Q
+
+Room Service
+
 ### Warmup
 
 Willy Mays Hayes
@@ -64553,6 +72649,10 @@ Ran out of time, no Mary
 ---
 
 ## 6 is a Serious Number
+
+### Q
+
+Dowry
 
 ### Warmup
 
@@ -64614,6 +72714,10 @@ High Low Planks IC x 10
 
 ## Monday 5K
 
+### Q
+
+Petey
+
 ### Warmup
 
 Stretch OYO, Willie Mays Hayes
@@ -64629,6 +72733,10 @@ Recover Recover
 ---
 
 ## IronPax III
+
+### Q
+
+Bill Nye
 
 ### Warmup
 
@@ -64649,6 +72757,10 @@ Light stretch
 ---
 
 ## Saturday Rotating Beatdown - 9-21-24
+
+### Q
+
+Bushwood
 
 ### Warmup
 
@@ -64720,6 +72832,10 @@ Square #3 - 20 Yard Iron Crab Between 4 Corners - Different Exercises at Each Co
 
 ## March to the Arch - IPC 2024 Week 2
 
+### Q
+
+Amber Alert
+
 ### Warmup
 
 - 15 learning to Phelps IC
@@ -64751,6 +72867,10 @@ Square #3 - 20 Yard Iron Crab Between 4 Corners - Different Exercises at Each Co
 
 ## Orbital Path - Gravel Pit
 
+### Q
+
+Stanley
+
 ### Warmup
 
 stretching and the Saturday Rotating BD crew.
@@ -64766,6 +72886,10 @@ PAX shoulder torture
 ---
 
 ## Lots of Thangs
+
+### Q
+
+Dowry
 
 ### Warmup
 
@@ -64827,6 +72951,10 @@ High Low Planks IC x 10
 
 ## It’s STILL September? Interesting.
 
+### Q
+
+FlyBoy
+
 ### Warmup
 
 9-1 motivators, 20-Abe Vigoda's
@@ -64858,6 +72986,10 @@ LBC’s IC – 20
 
 ## IPAX week 2
 
+### Q
+
+Silicone
+
 ### Thang
 
 IPAX week 2
@@ -64865,6 +72997,10 @@ IPAX week 2
 ---
 
 ## Monthly Physical Fitness Test
+
+### Q
+
+Pothole (SoSTL)
 
 ### Warmup
 
@@ -64886,6 +73022,10 @@ None
 ---
 
 ## The Running Intervals of Life
+
+### Q
+
+Breaking Bad
 
 ### Warmup
 
@@ -64924,6 +73064,10 @@ V-ups OYO 15
 ---
 
 ## IPAX Week 2
+
+### Q
+
+Wayne Babies
 
 ### Warmup
 
@@ -64976,6 +73120,10 @@ No Mary
 
 ## Beach Bum
 
+### Q
+
+Bucky
+
 ### Warmup
 
 - Monkey Humpers
@@ -65009,6 +73157,10 @@ No Mary
 
 ## Backblast
 
+### Q
+
+Worm
+
 ### Warmup
 
 5-1 Motivators
@@ -65031,6 +73183,10 @@ Kept it light and fun.
 
 ## IPAX 2024 Week 2  - March to the Arch
 
+### Q
+
+Hamburglar
+
 ### Warmup
 
 - SSHs
@@ -65051,6 +73207,10 @@ None
 
 ## Personal Records Q3 2024
 
+### Q
+
+BigTex
+
 ### Warmup
 
 SSH IC
@@ -65067,6 +73227,10 @@ Merkin counts are a little lower due to IronPAX...
 ---
 
 ## Lets get mobile around the park!
+
+### Q
+
+Emilio
 
 ### Warmup
 
@@ -65100,6 +73264,10 @@ Travel to Stops was Mosey, Deon, or Lung Walk
 
 ## IronPAX Week2
 
+### Q
+
+Otter
+
 ### Warmup
 
 SSH IC - 20 ct.
@@ -65125,6 +73293,10 @@ SSH IC - 20 ct.
 
 ## Ironpax Week 2 Backblast!!!
 
+### Q
+
+Bushwood
+
 ### Warmup
 
 PAX Warmed up on their own while Q walked them thru the beatdown.
@@ -65141,6 +73313,10 @@ No mary, short on time
 ---
 
 ## Backblast
+
+### Q
+
+Manny
 
 ### Warmup
 
@@ -65159,6 +73335,10 @@ No mary, short on time
 ---
 
 ## IronPAX Week 2
+
+### Q
+
+Dowry
 
 ### Warmup
 
@@ -65180,6 +73360,10 @@ SSH IC x 20
 ---
 
 ## Backblast
+
+### Q
+
+Bobbit
 
 ### Warmup
 
@@ -65223,6 +73407,10 @@ _Travel 3_
 
 ## Can You Hang (reprise)
 
+### Q
+
+Manny
+
 ### Warmup
 
 - Willie Mays Hayes
@@ -65245,6 +73433,10 @@ Winning team picks next exercise while members of  the losing team perform 3 bur
 ---
 
 ## Week 2 IRON PAX
+
+### Q
+
+Ratigan
 
 ### Warmup
 
@@ -65271,6 +73463,10 @@ Skipped
 ---
 
 ## Start your day off the right way
+
+### Q
+
+Room Service
 
 ### Warmup
 
@@ -65303,6 +73499,10 @@ Penguin taps
 ---
 
 ## IronPax Week 2 - March to the Arch
+
+### Q
+
+Shower House
 
 ### Warmup
 
@@ -65344,6 +73544,10 @@ none
 
 ## Rock to rock
 
+### Q
+
+Matchbox
+
 ### Warmup
 
 5-1 motivators, Batwings, learning to Phelps, grass grabbers, Willy mays Hayes, arm stretches, 5-1 motivators again
@@ -65359,6 +73563,10 @@ with a partner complete 160 reps of 2 arm exercises at odd rocks, 160 reps of 1 
 ---
 
 ## Interested or Committed?
+
+### Q
+
+Rock Ride
 
 ### Warmup
 
@@ -65383,6 +73591,10 @@ Single leg pulses - 10 each leg
 ---
 
 ## Backblast
+
+### Q
+
+Worm
 
 ### Warmup
 
@@ -65432,6 +73644,10 @@ _Travel 3_
 
 ## Dora Explored Teamwork
 
+### Q
+
+Sandtrap
+
 ### Warmup
 
 - Grass Grabbers - IC x10
@@ -65467,6 +73683,10 @@ Deion Sanders to cone (about 20 yards), 20 SSH, mosey to spot, takeover exercise
 
 ## Morning Mosey at Mercy Retreat Center
 
+### Q
+
+Schlitz
+
 ### Thang
 
 2.5 mile morning run around the Mercy Retreat Center property to kick off Saturday of the ACTS men’s retreat (St. Gerard Majella parish)
@@ -65474,6 +73694,10 @@ Deion Sanders to cone (about 20 yards), 20 SSH, mosey to spot, takeover exercise
 ---
 
 ## Backblast
+
+### Q
+
+Kelly
 
 ### Warmup
 
@@ -65525,6 +73749,10 @@ Boats and Canoes
 
 ## Orbiting Around the Outlet
 
+### Q
+
+Hamburglar
+
 ### Warmup
 
 5 to 1 Motivators
@@ -65542,6 +73770,10 @@ see #AO for further details
 ---
 
 ## 3 year maniversary
+
+### Q
+
+Shower House
 
 ### Warmup
 
@@ -65572,6 +73804,10 @@ Side Straddle Hops
 
 ## Week 1 of 2024 IPAX at Mousetrap
 
+### Q
+
+Fish Fry
+
 ### Warmup
 
 Toe touches
@@ -65592,6 +73828,10 @@ See Attachment
 ---
 
 ## Backblast
+
+### Q
+
+Double D
 
 ### Warmup
 
@@ -65620,6 +73860,10 @@ Tabata (8 rounds :20/:10 per exercise, :30 rest between exercises)
 ---
 
 ## Cpl. Russell M. Makowski, KIA, Iraq 09/14/2006
+
+### Q
+
+Ferkloch
 
 ### Warmup
 
@@ -65658,6 +73902,10 @@ DOS Error
 
 ## Iron Pax Week 1
 
+### Q
+
+Keynote, Big Spoon
+
 ### Warmup
 
 - Side Straddle Hops
@@ -65678,6 +73926,10 @@ DOS Error
 ---
 
 ## Plush Pilots
+
+### Q
+
+BrownOut
 
 ### Warmup
 
@@ -65706,6 +73958,10 @@ Rinse and repeat until time.
 
 ## IPC Week 1: World's Toughest 11s
 
+### Q
+
+Schlitz
+
 ### Warmup
 
 Grass Grabbers
@@ -65720,6 +73976,10 @@ World's Toughest 11s
 ---
 
 ## Abs of steel
+
+### Q
+
+Fazoli
 
 ### Warmup
 
@@ -65760,6 +74020,10 @@ PAX choice (4 more exercises)
 
 ## The World's Toughest 11s (IronPax Week 1)
 
+### Q
+
+Gilligan
+
 ### Warmup
 
 Side straddle hops, helicopters, imperial walkers, monkey humpers, etc.
@@ -65783,6 +74047,10 @@ EMOM starts workout with 3 burpees
 ---
 
 ## You all know what day it is...
+
+### Q
+
+Rumple Minze
 
 ### Warmup
 
@@ -65840,6 +74108,10 @@ Travel back downstairs to stage w. Coupons on back
 
 ## ??9/11??
 
+### Q
+
+Bucky
+
 ### Warmup
 
 - Abe Vigodas
@@ -65863,6 +74135,10 @@ Bonus: rotating sandbag pulley pulls.
 
 ## IPC 2024 Week 1-Worlds Toughest 11’s
 
+### Q
+
+Hamburglar
+
 ### Warmup
 
 - SSHs
@@ -65883,6 +74159,10 @@ IPC 2024 Week 1-Worlds Toughest 11’s BD as Prescribed or Modified by F3 Greenw
 
 ## Iron Pax Week 1
 
+### Q
+
+Brad Pitt
+
 ### Warmup
 
 Learning to Phelps 16 IC
@@ -65902,6 +74182,10 @@ LBCs 15 IC
 
 ## 9/11
 
+### Q
+
+Schlitz
+
 ### Warmup
 
 Hairy Flamingos during core principles, mission, etc.
@@ -65917,6 +74201,10 @@ PAX completed 37 rounds
 ---
 
 ## week 1 IronPAX!
+
+### Q
+
+Neymar
 
 ### Warmup
 
@@ -65938,6 +74226,10 @@ Option 2: 10 WW3 (majority chose this...)
 ---
 
 ## Scavenger Hunt
+
+### Q
+
+LugNut
 
 ### Warmup
 
@@ -65962,6 +74254,10 @@ Winshield Wipers, Box Cutters
 
 ## Backblast
 
+### Q
+
+9 to 5 Klinger
+
 ### Warmup
 
 - SSHs
@@ -65985,6 +74281,10 @@ Forgot COR &amp; NOR; Took boy band instead
 
 ## LFG
 
+### Q
+
+Drizzle
+
 ### Warmup
 
 7-1 motivators, yoga, bat wings
@@ -66002,6 +74302,10 @@ none
 ---
 
 ## Let’s Get Ready for IronPax
+
+### Q
+
+Dead Broke
 
 ### Warmup
 
@@ -66038,6 +74342,10 @@ Flutter Kicks x10
 
 ## iPax week 1- The hardest 11's
 
+### Q
+
+Shower House
+
 ### Warmup
 
 25 SSH IC
@@ -66062,6 +74370,10 @@ BOAT CANOES
 
 ## Rock, Paper, Burpees
 
+### Q
+
+Matchbox
+
 ### Warmup
 
 5-1 motivators, Batwings, learning to Phelps, Willy Mays Hayes, Grass grabbers
@@ -66077,6 +74389,10 @@ Rock, Paper, Burpees version 1, to be improved upon in future versions
 ---
 
 ## Alternative to iPAX
+
+### Q
+
+Norton
 
 ### Warmup
 
@@ -66127,6 +74443,10 @@ American Hammers
 
 ## It’s September Already? When did that happen?
 
+### Q
+
+FlyBoy
+
 ### Warmup
 
 Learning to Phelps - 9 IC
@@ -66154,6 +74474,10 @@ Box Cutters - 9
 
 ## Monday Kickstart
 
+### Q
+
+AirBiscuit
+
 ### Warmup
 
 - SSH
@@ -66173,6 +74497,10 @@ Box Cutters - 9
 ---
 
 ## IRON PAX - WEEK 1
+
+### Q
+
+Bliss
 
 ### Warmup
 
@@ -66212,6 +74540,10 @@ Not Today
 
 ## Heavy stuff
 
+### Q
+
+Criss-cross
+
 ### Warmup
 
 5-1 motivators
@@ -66250,6 +74582,10 @@ Crosswalk run
 
 ## Week zero
 
+### Q
+
+Fix-it Felix
+
 ### Warmup
 
 grass grabbers
@@ -66267,6 +74603,10 @@ Run 400 meters
 
 ## Flat Course
 
+### Q
+
+Petey
+
 ### Warmup
 
 Stretch OYO
@@ -66282,6 +74622,10 @@ Catch your breath
 ---
 
 ## Happy Friday, Football & Flutterkicks!
+
+### Q
+
+Lotus Notes
 
 ### Warmup
 
@@ -66299,6 +74643,10 @@ Round 4 - 100 Burpees
 ---
 
 ## Week 0 of 2024 IPAX at Mousetrap
+
+### Q
+
+Fish Fry
 
 ### Warmup
 
@@ -66354,6 +74702,10 @@ PAX Abs
 
 ## These Go to 11
 
+### Q
+
+Bad News
+
 ### Warmup
 
 - LBACs
@@ -66373,6 +74725,10 @@ Incorporated into The Thang
 ---
 
 ## What the Hill?!
+
+### Q
+
+Bushwood
 
 ### Warmup
 
@@ -66402,6 +74758,10 @@ Exercises Completed:
 
 ## IPAX Week 0
 
+### Q
+
+Klinger, Big Spoon
+
 ### Warmup
 
 Various stretches OYO while Q gave details of IPAX Week 0
@@ -66417,6 +74777,10 @@ Mosey around the parking lot
 ---
 
 ## IPC week 0: Kalsu and Back Again
+
+### Q
+
+Schlitz
 
 ### Warmup
 
@@ -66436,6 +74800,10 @@ Various Stretches
 ---
 
 ## Better Than IronPAX?
+
+### Q
+
+Dowry
 
 ### Warmup
 
@@ -66464,6 +74832,10 @@ High Low Planks IC x 10
 ---
 
 ## Easy daze
+
+### Q
+
+Drop Out (SpiritSTL)
 
 ### Warmup
 
@@ -66517,6 +74889,10 @@ various and sundry yoga stretches
 
 ## IPAX Week 0
 
+### Q
+
+Manny
+
 ### Warmup
 
 a few leg stretches in preparation for so many thrusters
@@ -66533,6 +74909,10 @@ A few leg stretches to recover from so many burpees
 ---
 
 ## Xap nori
+
+### Q
+
+Criss-cross
 
 ### Warmup
 
@@ -66559,6 +74939,10 @@ Superset: chess press / skull crusher
 ---
 
 ## Week 0 IronPax
+
+### Q
+
+Bushwood
 
 ### Warmup
 
@@ -66587,6 +74971,10 @@ Everyone please enter your times!!!!
 ---
 
 ## Hump day stroll.
+
+### Q
+
+Jayhawk
 
 ### Warmup
 
@@ -66622,6 +75010,10 @@ King Kong planks
 ---
 
 ## What to do next
+
+### Q
+
+Tuition
 
 ### Warmup
 
@@ -66672,6 +75064,10 @@ Name O’rama:
 
 ## IronPax Week 0
 
+### Q
+
+Thumper
+
 ### Warmup
 
 in cadence
@@ -66693,6 +75089,10 @@ cool down stretching
 
 ## Pull!
 
+### Q
+
+Silicone
+
 ### Thang
 
 Station 1-pull-up bars
@@ -66710,6 +75110,10 @@ Pickles to the sky IC (and double time )
 ---
 
 ## IRONPAX:  WEEK 0
+
+### Q
+
+Emilio
 
 ### Warmup
 
@@ -66751,6 +75155,10 @@ NOTE - See comments for results of the timed IronPax BD, along with link to post
 
 ## Week O Ironpax/Forge Convergence @ F3 World HeadQuarters - AKA PIckle Jar
 
+### Q
+
+Bushwood
+
 ### Warmup
 
 - 15 - 4 Ct Side Straddle Hops
@@ -66777,6 +75185,10 @@ WEEK 0 IronPax
 
 ## Backblast
 
+### Q
+
+Vanilla Ice
+
 ### Warmup
 
 Maybe not the smartest idea to warm-up with ~35 burpees in ~3mins. But how else do you get ready for burpees…than…with…burpees?!?!
@@ -66795,6 +75207,10 @@ PAX — 21:30
 ---
 
 ## September Potluck
+
+### Q
+
+TheBeav
 
 ### Warmup
 
@@ -66839,6 +75255,10 @@ Buy in carry suitcases around parking lot
 
 ## IPAX Prep
 
+### Q
+
+Schlitz
+
 ### Warmup
 
 Some stretches
@@ -66877,6 +75297,10 @@ Little baby oblique crunches, each side
 
 ## IronPAX week 0
 
+### Q
+
+Drizzle
+
 ### Warmup
 
 5-1 motivators
@@ -66901,6 +75325,10 @@ Oblique crunches
 
 ## Walk in the Park
 
+### Q
+
+Bucky
+
 ### Warmup
 
 Left Lunge Hold/pulse
@@ -66921,6 +75349,10 @@ One HIM carries the suitcases to failure. Upon failure leads the Pax in copperhe
 ---
 
 ## Daily Red Pill Even on Holidays
+
+### Q
+
+Rock Ride
 
 ### Warmup
 
@@ -66950,6 +75382,10 @@ None, We did plenty of core.
 
 ## Easy IPax Training
 
+### Q
+
+Ferkloch
+
 ### Warmup
 
 - 5-1 Motivators
@@ -66978,6 +75414,10 @@ Crawl travel
 
 ## Singletrack
 
+### Q
+
+Silicone
+
 ### Thang
 
 PAX set out North along the Owl Creek Trail. Completed the steady, gradual climb to the top then descended via the equestrian trail running parallel on the northern side. At the bottom we lunge walked the beginning of the hill then completed the hill with another run to the top. This time we utilized the eastern side equestrian trail to the bottom then continued down Owl Creek, turned right and circled the building with a last push up the hill to finish strong. Totaled 3.2 miles in 32:00 averaging 10 minute miles.
@@ -66990,6 +75430,10 @@ Pfifer scissors - switch on Qs call
 ---
 
 ## Backblast
+
+### Q
+
+Worm
 
 ### Warmup
 
@@ -67026,6 +75470,10 @@ _Reverse Kalsu – 100 burpees_
 
 ## Business up Front
 
+### Q
+
+Bill Nye
+
 ### Warmup
 
 6-1 motivators
@@ -67054,6 +75502,10 @@ Stretches
 
 ## Is this IronPAX? No this is Patrick!
 
+### Q
+
+BigTex
+
 ### Warmup
 
 Goofballs IC
@@ -67075,6 +75527,10 @@ Rinse and Repeat
 ---
 
 ## Crazy 88’s
+
+### Q
+
+lil’ badger and Tuition
 
 ### Warmup
 
@@ -67101,6 +75557,10 @@ Do 88 X-Factors and bear crawl to the other side and do 88 more X-Factors and re
 ---
 
 ## The Hills are Alive with the Sound of Music
+
+### Q
+
+Schlitz
 
 ### Warmup
 
@@ -67129,6 +75589,10 @@ Mountain Climbers (fast-slow-fast)
 
 ## Its Friday
 
+### Q
+
+Klinger
+
 ### Thang
 
 4 Rounds in descending reps: 27,21,15,9
@@ -67145,6 +75609,10 @@ Big boy situps in cadence
 ---
 
 ## Gotta Keep Moving
+
+### Q
+
+Freshman
 
 ### Warmup
 
@@ -67198,6 +75666,10 @@ Toe touch crunch
 
 ## Adventure Awaits
 
+### Q
+
+Fazoli
+
 ### Warmup
 
 5-1 motivators
@@ -67229,6 +75701,10 @@ Freddy Mercuries to song bicycle
 
 ## Chutes &amp; Ladders
 
+### Q
+
+Sandtrap
+
 ### Warmup
 
 - Grass Grabbers - IC x10
@@ -67259,6 +75735,10 @@ Set 3 &amp; 4: 30 reps
 ---
 
 ## 30 for 30: Lets get mythical and do some labors.
+
+### Q
+
+Seeds
 
 ### Warmup
 
@@ -67296,6 +75776,10 @@ Side to Side planks.
 
 ## Pit of Isolation
 
+### Q
+
+Bucky
+
 ### Warmup
 
 ~5 to 1 Motivators.~ Reset
@@ -67328,6 +75812,10 @@ Plank Jacks
 
 ## Patience is a virtue
 
+### Q
+
+Jayhawk
+
 ### Warmup
 
 SSH
@@ -67355,6 +75843,10 @@ not today
 ---
 
 ## Summer Concert Series Volume II moved indoors due to weather concerns...
+
+### Q
+
+Rumple Minze
 
 ### Warmup
 
@@ -67390,6 +75882,10 @@ Walking Bobby Hurleys
 
 ## Explore the Space
 
+### Q
+
+Bliss
+
 ### Warmup
 
 - 5 to 1 Motivators
@@ -67418,6 +75914,10 @@ PAX split into two lines of 8. We then mosied through the park in line passing a
 
 ## Backblast
 
+### Q
+
+TheBeav
+
 ### Warmup
 
 7:1 motivators
@@ -67444,6 +75944,10 @@ Coupon Guantanamo
 ---
 
 ## BLEACHER RUNS! jk it was too wet
+
+### Q
+
+Rock Chalk
 
 ### Warmup
 
@@ -67475,6 +75979,10 @@ once you finish all seven rounds, go back to the top and keep moving. Most pax f
 ---
 
 ## Embrace the Chaos
+
+### Q
+
+Stanley
 
 ### Warmup
 
@@ -67533,6 +76041,10 @@ Bernie Sanders up hill
 
 ## Drop Off
 
+### Q
+
+Bucky
+
 ### Warmup
 
 Swing aided CopperHead Squats
@@ -67570,6 +76082,10 @@ Hanging Knee Up
 
 ## Ghost of IronPAX Past
 
+### Q
+
+Drizzle
+
 ### Warmup
 
 Willie Mays Hayes
@@ -67590,6 +76106,10 @@ Oblique crunches
 ---
 
 ## Diamond Week - Day 2
+
+### Q
+
+Rub Down TheBeav
 
 ### Warmup
 
@@ -67634,6 +76154,10 @@ Had to have many guys go at once due to time.
 
 ## Back and Forth
 
+### Q
+
+Wilson (SpiritSTL)
+
 ### Warmup
 
 SSH x 50 IC
@@ -67663,6 +76187,10 @@ Planks into Broga
 ---
 
 ## For the greater good
+
+### Q
+
+Room Service
 
 ### Warmup
 
@@ -67699,6 +76227,10 @@ Took a run through the parking lot, down south outer 40 and bear crawled up hill
 
 ## Backblast
 
+### Q
+
+Avis
+
 ### Warmup
 
 old man stretches
@@ -67725,6 +76257,10 @@ Rinse and Repeat 3 X
 ---
 
 ## The Forge Comes to the Gravel Pit
+
+### Q
+
+Schlitz Catnip
 
 ### Warmup
 
@@ -67757,6 +76293,10 @@ Freddie Mercuries and Big Boy Sit-ups to “Bicycle Race” by Queen
 
 ## Avoiding a case of the ‘Mondays’
 
+### Q
+
+Puma
+
 ### Warmup
 
 - 5:1 motivators
@@ -67783,6 +76323,10 @@ Not today.
 ---
 
 ## Pure Saturday Enjoyment
+
+### Q
+
+Room Service
 
 ### Warmup
 
@@ -67825,6 +76369,10 @@ Jail Break from bottom of hill to fence and back
 
 ## Wiffle Ball at <#C05AWT18FSQ|>
 
+### Q
+
+Hamburglar Karat
+
 ### Warmup
 
 5-1Motivators
@@ -67852,6 +76400,10 @@ Team 1 was victorious with the PAX walk off home run.
 ---
 
 ## Friday Funday
+
+### Q
+
+Bushwood
 
 ### Warmup
 
@@ -67888,6 +76440,10 @@ Team 1 was victorious with the PAX walk off home run.
 ---
 
 ## Anything but a coupon
+
+### Q
+
+Criss-cross
 
 ### Warmup
 
@@ -67945,6 +76501,10 @@ Keys tappers
 
 ## Sandy Pickle - part 2
 
+### Q
+
+Outhouse
+
 ### Warmup
 
 piano tappers, Willie mays hays, lil baby arm circles (forward and reverse)
@@ -67964,6 +76524,10 @@ played thru Mary
 ---
 
 ## Best Day of the Week
+
+### Q
+
+rogerroger
 
 ### Warmup
 
@@ -67992,6 +76556,10 @@ Tabata
 ---
 
 ## Story Time!
+
+### Q
+
+Otter
 
 ### Warmup
 
@@ -68047,6 +76615,10 @@ stop.
 
 ## Monthly Fitness Test
 
+### Q
+
+Pothole (SoSTL)
+
 ### Warmup
 
 - SSH
@@ -68067,6 +76639,10 @@ None
 ---
 
 ## Back to life, back to reality?
+
+### Q
+
+Drizzle
 
 ### Warmup
 
@@ -68089,6 +76665,10 @@ Travels and exercises attached:
 
 ## Committed > Interested
 
+### Q
+
+Rock Ride
+
 ### Warmup
 
 SSH 20 IC
@@ -68109,6 +76689,10 @@ none, included in thang
 ---
 
 ## Backblast
+
+### Q
+
+Worm
 
 ### Warmup
 
@@ -68143,6 +76727,10 @@ Leg Raises to Bring Sally Up
 
 ## Backblast
 
+### Q
+
+Jed
+
 ### Warmup
 
 5-1 Motivators
@@ -68175,6 +76763,10 @@ Crunches
 
 ## Put in Work
 
+### Q
+
+TheBeav
+
 ### Warmup
 
 7:1 motivators
@@ -68203,6 +76795,10 @@ Guantanamo
 
 ## It's a Jeep thing!
 
+### Q
+
+Bucky
+
 ### Warmup
 
 - Elephant Walks
@@ -68230,6 +76826,10 @@ Finished BD with a impromptu tug of war.
 ---
 
 ## Full Body Challenge-What Goes Up Must Come Down
+
+### Q
+
+Hamburglar
 
 ### Warmup
 
@@ -68264,6 +76864,10 @@ Rotate between various exercises for 45sec AmRAP/ ISO HOLD till PAX can no longe
 ---
 
 ## Back to Reality
+
+### Q
+
+Dowry
 
 ### Warmup
 
@@ -68316,6 +76920,10 @@ Freddy Mercury's IC x 12 - !
 
 ## Ode to the Gravel Pit
 
+### Q
+
+Big Spoon
+
 ### Warmup
 
 SSH, Hairy Flamingo, Grass Grabbers, Learning to Phelps, Arm Circles, Seal Claps
@@ -68352,6 +76960,10 @@ Mosey back to parking lot, up the steps for sunrise views
 
 ## The Preseason Burn
 
+### Q
+
+Flounder
+
 ### Warmup
 
 - 5 to 1 motivators
@@ -68376,6 +76988,10 @@ Only switch between sets 1 and 2 after completing your turn as the trigger man. 
 ---
 
 ## Prepare to ee!!
+
+### Q
+
+5 on 2
 
 ### Warmup
 
@@ -68404,6 +77020,10 @@ Recovery squat for a minute
 ---
 
 ## Backblast
+
+### Q
+
+Hamburglar NameTag
 
 ### Warmup
 
@@ -68452,6 +77072,10 @@ EMOM 4 aerobic exercises for 44/16 AMRAP for 4 total rounds. GO!
 
 ## School is in Session!!
 
+### Q
+
+Bobbit
+
 ### Thang
 
 Went to Parking lot where Q had a list of 6 travels and 6 exercises.  SEVEN cones set up about 14 feet apart throughout the parking lot in a circle.  Simple workout where someone rolls the dice and the red die tells the travel and white die tells exercise.  Each cone represents an hour of the day  1-7and the number of reps to do.   There is an emom timer that goes off every 2 min for "recess" where PAX will run the circle and  back to their exercise. We made it through 5.5 rnds
@@ -68473,6 +77097,10 @@ Had two PAX pick then we did 12 hw of each
 ---
 
 ## Moving Heavy Sh1t!
+
+### Q
+
+Rock Ride
 
 ### Warmup
 
@@ -68503,6 +77131,10 @@ Hand Release Merkins 20 oyo
 ---
 
 ## Dont Fall Off the Ladder
+
+### Q
+
+Bill Nye
 
 ### Warmup
 
@@ -68545,6 +77177,10 @@ Included in Bd
 
 ## Tending the Fire
 
+### Q
+
+Olav
+
 ### Warmup
 
 Side Straddle Hops
@@ -68577,6 +77213,10 @@ Flutter Kicks
 ---
 
 ## Mix Em and Cook Em in a Pot Like Gumbo
+
+### Q
+
+Gumbo (STL) Thumper Hamburglar
 
 ### Warmup
 
@@ -68611,6 +77251,10 @@ S-Sandbag Suicides progress to each cone carrying sandie. Rinse and repeat.
 
 ## For the greater good
 
+### Q
+
+Room Service
+
 ### Warmup
 
 Willie Mays Hayes
@@ -68638,6 +77282,10 @@ Plank taps to mountain climbers 2x
 ---
 
 ## Id like to make it a combo
+
+### Q
+
+Bill Nye
 
 ### Warmup
 
@@ -68675,6 +77323,10 @@ part of bd
 ---
 
 ## Backblast
+
+### Q
+
+9 to 5
 
 ### Warmup
 
@@ -68722,6 +77374,10 @@ COR &amp; NOR
 
 ## Saturday Morning Special
 
+### Q
+
+Shower House
+
 ### Warmup
 
 20 SSH - IC
@@ -68763,6 +77419,10 @@ Dead Lifts
 
 ## Battle of the coupon
 
+### Q
+
+Bill Nye
+
 ### Warmup
 
 SSH
@@ -68797,6 +77457,10 @@ Series (set of 35)
 
 ## 4 Years
 
+### Q
+
+Lotus Notes
+
 ### Warmup
 
 9-1 Motivators, Learning to Phelps, Grass Grabbers & GoofBall
@@ -68825,6 +77489,10 @@ Recover, Recover (sweat on!)
 ---
 
 ## 4 Quarters of HELL....
+
+### Q
+
+Bad Santa
 
 ### Warmup
 
@@ -68855,6 +77523,10 @@ Back to the flag
 
 ## Backblast
 
+### Q
+
+Numb Chuck (STCE TWP)
+
 ### Warmup
 
 Abe Vigoda's, Grass Grabbers, Piano tappers, Imperial Squat Walkers
@@ -68875,6 +77547,10 @@ We ran one lap around the parking lot.
 
 ## Friday Fun Day!
 
+### Q
+
+Noah
+
 ### Warmup
 
 OYO warm up; SSH; WMH; Abe Vs; Grass Gr; 2 lap mosey around courts.
@@ -68890,6 +77566,10 @@ Frisbee Goal Competition ish
 ---
 
 ## Neymar’s 41 BD Bdays Bash
+
+### Q
+
+Neymar
 
 ### Warmup
 
@@ -68908,6 +77588,10 @@ dance 30 seconds show your best moves and 20 big boy sit-ups
 ---
 
 ## Ubering to Club Arkham at 11
+
+### Q
+
+BrownOut
 
 ### Warmup
 
@@ -68967,6 +77651,10 @@ Child's Pose
 
 ## Throwin' Coupons
 
+### Q
+
+5 on 2
+
 ### Warmup
 
 6-1 Motivators
@@ -68995,6 +77683,10 @@ PAX and PAX led an exercise of their choice at the bottom of the hill next to ou
 ---
 
 ## Get Your Pump On
+
+### Q
+
+Bliss
 
 ### Warmup
 
@@ -69041,6 +77733,10 @@ we got Mary in as part of the workout
 
 ## Timing is Everything
 
+### Q
+
+Bucky
+
 ### Warmup
 
 - Monkey Humpers
@@ -69072,6 +77768,10 @@ Time under Tension-TUT (3 count for each movement)
 
 ## The Awakening 4 year anniversary!!
 
+### Q
+
+Lotus Notes BigTex Karat
+
 ### Warmup
 
 8-1Motivators
@@ -69102,6 +77802,10 @@ Boat, Canoes by PAX
 ---
 
 ## It was supposed to be a light day... YEAH RIGHT!
+
+### Q
+
+5 on 2
 
 ### Warmup
 
@@ -69142,6 +77846,10 @@ Murdertrap from parking lot end to the stop sign.
 ---
 
 ## Rain or shine we'll be out there
+
+### Q
+
+Charmin
 
 ### Warmup
 
@@ -69210,6 +77918,10 @@ RECOVER-RECOVER
 
 ## School is in Session!!
 
+### Q
+
+Bobbit
+
 ### Warmup
 
 - 12 - Mountain Climbers
@@ -69239,6 +77951,10 @@ Had two PAX pick then we did 12 hw of each
 
 ## PJWHQ Tuesday - Pax Choice
 
+### Q
+
+Rock Chalk
+
 ### Warmup
 
 - Goofballs
@@ -69263,6 +77979,10 @@ TABATA Workout. 40 secs on, 20 sec rest, 8 movements, 3 circuits total
 ---
 
 ## Between the cones
+
+### Q
+
+5 on 2
 
 ### Warmup
 
@@ -69294,6 +78014,10 @@ Chicken noodle soup
 
 ## Full ROM AMRAP
 
+### Q
+
+Manny
+
 ### Warmup
 
 guardian run around the park path
@@ -69324,6 +78048,10 @@ guardian run around the park path
 ---
 
 ## Surprise, Black Diamond BD
+
+### Q
+
+Rock Ride
 
 ### Warmup
 
@@ -69366,6 +78094,10 @@ none
 
 ## Build-A-Bear Workshop
 
+### Q
+
+AirBiscuit
+
 ### Warmup
 
 - Grass Grabbers
@@ -69395,6 +78127,10 @@ none
 ---
 
 ## Let’s Keep the Week Going Strong!
+
+### Q
+
+Dead Broke
 
 ### Warmup
 
@@ -69432,6 +78168,10 @@ Completed 11s
 ---
 
 ## A Complete Body Experience
+
+### Q
+
+Hamburglar
 
 ### Warmup
 
@@ -69494,6 +78234,10 @@ Set #3 Repeat with 11 reps~
 
 ## 47th
 
+### Q
+
+Kelly
+
 ### Warmup
 
 - Goofballs
@@ -69531,6 +78275,10 @@ Set #3 Repeat with 11 reps~
 
 ## Always Open
 
+### Q
+
+Keys
+
 ### Warmup
 
 - Learning to Phelps
@@ -69544,6 +78292,10 @@ Took a solo jog from <#C031Z2SB2DD|> to <#C032G0ELCKW|> along the Wildwood Green
 ---
 
 ## Juliet's Revenge
+
+### Q
+
+Romeo
 
 ### Warmup
 
@@ -69572,6 +78324,10 @@ Various stretching exercises
 
 ## Battle for Thor's Mjölnir Hammer
 
+### Q
+
+Brad Pitt Rock Ride
+
 ### Warmup
 
 SSH 25 IC
@@ -69596,6 +78352,10 @@ Station 5 - Tire
 ---
 
 ## Team Tempo Run
+
+### Q
+
+Petey
 
 ### Warmup
 
@@ -69623,6 +78383,10 @@ LBC OYO
 
 ## The 38 Challenge
 
+### Q
+
+Olav
+
 ### Warmup
 
 5 to 1 Motivators
@@ -69644,6 +78408,10 @@ Repeat for 38 Mins
 
 ## Working towards iron pax par dos
 
+### Q
+
+Neymar
+
 ### Warmup
 
 baby arms, toe stretches and monkey jumpers
@@ -69655,6 +78423,10 @@ baby arms, toe stretches and monkey jumpers
 ---
 
 ## Backblast
+
+### Q
+
+Flatley
 
 ### Warmup
 
@@ -69672,6 +78444,10 @@ PAX ran 8 miles
 
 ## Friday Fun Day
 
+### Q
+
+Karat
+
 ### Warmup
 
 7-1Motivators
@@ -69686,6 +78462,10 @@ PAX broke into teams for a game of wiffle ball.  Various exercises to be perform
 ---
 
 ## Fall is coming…
+
+### Q
+
+WetnWild
 
 ### Warmup
 
@@ -69708,6 +78488,10 @@ Mousetrap with shut out 6-0
 ---
 
 ## Backblast
+
+### Q
+
+Five-Hole
 
 ### Warmup
 
@@ -69760,6 +78544,10 @@ The remaining team members on “the bench” are doing body weight reps until t
 
 ## Friday Funday
 
+### Q
+
+Bushwood
+
 ### Warmup
 
 - 10 - Grass Grabbers
@@ -69799,6 +78587,10 @@ The remaining team members on “the bench” are doing body weight reps until t
 
 ## It’s Friday, let’s get it!!
 
+### Q
+
+Jed
+
 ### Warmup
 
 7-1 Motivators
@@ -69818,6 +78610,10 @@ Partner Up: While one partner performs the exercises below the other ran halfway
 ---
 
 ## The Beach is That Way
+
+### Q
+
+Dowry
 
 ### Warmup
 
@@ -69872,6 +78668,10 @@ Bearcrawl down the hill
 
 ## Take Nothing for Granted
 
+### Q
+
+Petey
+
 ### Warmup
 
 Downward Dog
@@ -69924,6 +78724,10 @@ Plank Waterfall
 
 ## There's a first time for everything.
 
+### Q
+
+Puma
+
 ### Warmup
 
 - 5:1 motivators
@@ -69953,6 +78757,10 @@ Not today - we left it all on the parking lot...
 
 ## Butterfly Blackjack
 
+### Q
+
+Gilligan
+
 ### Warmup
 
 ssh (50), through the tunnel, imperial walkers, burpees, goofballs, mh, etc.
@@ -69974,6 +78782,10 @@ Speed interlude: 2 rounds quick curbs step ups: 2 minutes and 1 minute
 ---
 
 ## Where we're going we don't need Coupons...
+
+### Q
+
+Rumple Minze
 
 ### Warmup
 
@@ -70018,6 +78830,10 @@ And then do the whole thing in reverse back to Flags...
 
 ## Smoke’em if you gott’em
 
+### Q
+
+Olav
+
 ### Warmup
 
 5-1 Motivators
@@ -70038,6 +78854,10 @@ First teammate runs to the rock at the end of the road and does a burpee.  Teamm
 ---
 
 ## Progressive Overload
+
+### Q
+
+Otter
 
 ### Warmup
 
@@ -70062,6 +78882,10 @@ Exercises
 ---
 
 ## Backblast
+
+### Q
+
+Ferkloch
 
 ### Warmup
 
@@ -70092,6 +78916,10 @@ COR, NOR
 ---
 
 ## Minute to win it
+
+### Q
+
+Bucky
 
 ### Warmup
 
@@ -70126,6 +78954,10 @@ Dos Error
 ---
 
 ## Respect Respect BD
+
+### Q
+
+Shower House
 
 ### Warmup
 
@@ -70199,6 +79031,10 @@ Gerkin Hill
 
 ## The Rock Olympic Games
 
+### Q
+
+Mayfield
+
 ### Warmup
 
 6-1 motivators
@@ -70227,6 +79063,10 @@ Winner PAX / PAX
 ---
 
 ## Backblast
+
+### Q
+
+9 to 5
 
 ### Thang
 
@@ -70257,6 +79097,10 @@ Norton - 0, 1, 0, 0, 1, 2, 3, 3, 2, 0 = 12
 
 ## Backblast
 
+### Q
+
+9 to 5
+
 ### Thang
 
 F3 Olympics
@@ -70285,6 +79129,10 @@ Lotus Notes - 0, 0, 1, 1, 1, 2, 1, 0, 1, 0 = 7
 
 ## A Case of the Mondays
 
+### Q
+
+Charmin
+
 ### Warmup
 
 Harry flamingos, Hamstring stretch, Learning to Phelps, high knees, butt-kicks
@@ -70311,6 +79159,10 @@ RECOVER-RECOVER
 ---
 
 ## Backblast
+
+### Q
+
+Fish Fry Bobbit
 
 ### Warmup
 
@@ -70366,6 +79218,10 @@ Not today
 
 ## Where does the time go?
 
+### Q
+
+FlyBoy
+
 ### Warmup
 
 8-1 Motivators, Mosey a lap around the track– pick up 6
@@ -70389,6 +79245,10 @@ Recover Recover, COR
 ---
 
 ## The Few the Proud
+
+### Q
+
+rogerroger
 
 ### Warmup
 
@@ -70419,6 +79279,10 @@ Recover Recover, COR
 
 ## Hard to the core
 
+### Q
+
+Fix-it Felix
+
 ### Warmup
 
 15 grass grabbers
@@ -70448,6 +79312,10 @@ Rinse rather repeat
 ---
 
 ## Pickup Sticks
+
+### Q
+
+BioBreak
 
 ### Warmup
 
@@ -70484,6 +79352,10 @@ Pretzels
 
 ## How do you eat an elephant?
 
+### Q
+
+Drizzle
+
 ### Warmup
 
 7-1 motivators
@@ -70503,6 +79375,10 @@ Lemon squeezers
 
 ## Connect 4 Relay
 
+### Q
+
+Outhouse
+
 ### Warmup
 
 Mosey to basketball court
@@ -70518,6 +79394,10 @@ carried workout into Mary
 ---
 
 ## Chaos is a Ladder
+
+### Q
+
+Flounder
 
 ### Warmup
 
@@ -70542,6 +79422,10 @@ Suicides up the ladder, at the top rung do 10 No Surrenders, then reverse order 
 
 ## Friday Funday - Tennis Court Whiffle Ball
 
+### Q
+
+Noah
+
 ### Warmup
 
 - 5to1 Motivators
@@ -70560,6 +79444,10 @@ PAX counted off in twos. Team 2 at bat first. After five innings someone won. Bu
 ---
 
 ## Hero Workout
+
+### Q
+
+Freshman Room Service Neymar
 
 ### Thang
 
@@ -70595,6 +79483,10 @@ PAX counted off in twos. Team 2 at bat first. After five innings someone won. Bu
 
 ## The Ultimate Burpee - part 2
 
+### Q
+
+Breaking Bad
+
 ### Warmup
 
 5 to 1 Motivators
@@ -70620,6 +79512,10 @@ Big Boy Sit-Ups OYO x15
 
 ## This is for the FNG’s
 
+### Q
+
+Room Service
+
 ### Warmup
 
 Willy Mays Hays IC
@@ -70643,6 +79539,10 @@ Mountain climbers with intermittent plank taps
 ---
 
 ## It's Summer, it's hot and humid, and it's the first day of August. Let's don't get too crazy
+
+### Q
+
+BUB
 
 ### Warmup
 
@@ -70673,6 +79573,10 @@ Leg raises
 ---
 
 ## BEATDOWN : HANGMAN EDITION
+
+### Q
+
+Schooner
 
 ### Warmup
 
@@ -70709,6 +79613,10 @@ included in the thang
 
 ## Butterflies in the Sky
 
+### Q
+
+TheBeav
+
 ### Warmup
 
 5:1 motivators
@@ -70735,6 +79643,10 @@ PAX Partnered up and work through 100 CPRs; 100 taint scrappers; 100 WWIIIs.  On
 
 ## It’s only a mile!
 
+### Q
+
+Jayhawk
+
 ### Warmup
 
 Side straddle hops
@@ -70759,6 +79671,10 @@ Broad jump burpees
 ---
 
 ## Dog days of summer
+
+### Q
+
+WetnWild
 
 ### Warmup
 
@@ -70794,6 +79710,10 @@ wall sit and pass the small coupon and 10 wall pushups
 
 ## 3 Years Running
 
+### Q
+
+Thumper
+
 ### Warmup
 
 in cadence
@@ -70820,6 +79740,10 @@ included in beatdown
 ---
 
 ## Prepare to hump
+
+### Q
+
+5 on 2
 
 ### Warmup
 
@@ -70860,6 +79784,10 @@ Bearcrawl entire length of the field
 
 ## Quarter Pounder with Cheese, Please!
 
+### Q
+
+Karat Hamburglar
+
 ### Warmup
 
 - 7 to 1 Motivators IC
@@ -70898,6 +79826,10 @@ Coupon lunge walk 100 yards
 
 ## 3 years and counting
 
+### Q
+
+Charmin
+
 ### Warmup
 
 Learning to Phelps
@@ -70934,6 +79866,10 @@ RECOVER-RECOVER
 
 ## Terrible~ Terrific Tuesday
 
+### Q
+
+Hamburglar, Karat
+
 ### Warmup
 
 7-1Motivators, willy Mays Hayes,  Grass Grabbers,  LBAC'S,  Pretzels, old man Stretch (oyo)
@@ -70957,6 +79893,10 @@ Round 4
 
 ## B&B in the JaiHouse
 
+### Q
+
+BrownandBrown
+
 ### Warmup
 
 3-1 BANGER motivators;
@@ -70975,6 +79915,10 @@ Prison Break!
 ---
 
 ## Stormin
+
+### Q
+
+Bobbit
 
 ### Warmup
 
@@ -71021,6 +79965,10 @@ Boats and Canoes
 
 ## Thank You, Thank You
 
+### Q
+
+Keys
+
 ### Warmup
 
 - Learning to Phelps
@@ -71042,6 +79990,10 @@ HIM 4- 15 Curls
 ---
 
 ## This is for the FNG’s
+
+### Q
+
+Room Service
 
 ### Warmup
 
@@ -71069,6 +80021,10 @@ Thrusters
 
 ## Positive Vibes, Negative Splits
 
+### Q
+
+AirBiscuit
+
 ### Warmup
 
 - Side Straddle Hop
@@ -71092,6 +80048,10 @@ Mobility + core moves:
 ---
 
 ## If You’re Not First
+
+### Q
+
+Bill Nye
 
 ### Warmup
 
@@ -71132,6 +80092,10 @@ Flutter kicks
 
 ## On the Run Again
 
+### Q
+
+Manny
+
 ### Thang
 
 loop: phantom forest to bittersweet woods, to pond adjacent to bittersweet and back to start, repeat as time allowed. Loop was 1.35m with 187ft total ascent and 194ft total descent
@@ -71139,6 +80103,10 @@ loop: phantom forest to bittersweet woods, to pond adjacent to bittersweet and b
 ---
 
 ## The Average Joe’s Part Deux
+
+### Q
+
+D2
 
 ### Warmup
 
@@ -71168,6 +80136,10 @@ MVP: PAX
 ---
 
 ## Downright Nasty Saturday Rotating BD
+
+### Q
+
+DOS (Spirit StL), Hamburglar, Rock Ride, PillowFight
 
 ### Warmup
 
@@ -71227,6 +80199,10 @@ COR, NOR
 
 ## Backblast
 
+### Q
+
+9 to 5
+
 ### Warmup
 
 Yoga  - most of our bodies weren’t having it. Might need to work that in more often
@@ -71264,6 +80240,10 @@ Worked in Rebecca Black as is tradition
 
 ## What Comes Up Must Come Down
 
+### Q
+
+Bliss
+
 ### Warmup
 
 - 5 to 1 Motivators
@@ -71295,6 +80275,10 @@ Ran out of time.
 
 ## 90 Secs of “What?!”
 
+### Q
+
+Gumbo (STL)
+
 ### Warmup
 
 Some Fun, New Movements_
@@ -71318,6 +80302,10 @@ _Recover Recover Called!_
 ---
 
 ## SoccerTennis Social
+
+### Q
+
+Keynote
 
 ### Warmup
 
@@ -71352,6 +80340,10 @@ Sky Touches
 
 ## Monthly Fitness Test
 
+### Q
+
+Pothole (SoSTL)
+
 ### Warmup
 
 - 5-1 Motivators
@@ -71373,6 +80365,10 @@ None
 ---
 
 ## Backblast
+
+### Q
+
+Bobbit
 
 ### Warmup
 
@@ -71396,6 +80392,10 @@ did 50 reps 5 exercises in a row- toe touches, boats and cnoes, crunches, freddy
 ---
 
 ## 30 for 30 - A Solid Foundation
+
+### Q
+
+Schlitz
 
 ### Warmup
 
@@ -71441,6 +80441,10 @@ Extended Mary to get some extra core work!
 
 ## Backblast
 
+### Q
+
+Nikola
+
 ### Warmup
 
 Arm Stretches
@@ -71472,6 +80476,10 @@ Oblique coupon raises
 ---
 
 ## Mothra Medley
+
+### Q
+
+Dowry
 
 ### Warmup
 
@@ -71532,6 +80540,10 @@ Return to flags
 
 ## Summer Concert Series
 
+### Q
+
+Rumple Minze
+
 ### Warmup
 
 7-1 Motivators
@@ -71559,6 +80571,10 @@ Team did American Hammers w. Coupon while Team 2 traveled Lap around Amphitheate
 
 ## Return of the Rock!
 
+### Q
+
+Bobbit
+
 ### Thang
 
 The rock run-  5 lines like an old school suicide with travel workout each line.  E
@@ -71577,6 +80593,10 @@ American hammers IC while pax bear crawled around the circle until everyon was a
 ---
 
 ## Let the Good Times Roll
+
+### Q
+
+Thumper
 
 ### Warmup
 
@@ -71611,6 +80631,10 @@ In cadence
 ---
 
 ## To Hill or Not to Hill 2
+
+### Q
+
+rogerroger
 
 ### Warmup
 
@@ -71670,6 +80694,10 @@ Mosie Back to Start
 
 ## Put In The Work
 
+### Q
+
+Mello Yello
+
 ### Thang
 
 Station work w/ human timer
@@ -71699,6 +80727,10 @@ Just shy of 2 full rotations for the PAX
 
 ## Launch Day? (Solo Mission)
 
+### Q
+
+Pothole (SoSTL)
+
 ### Warmup
 
 Leg swings, WMH, Open the gates
@@ -71714,6 +80746,10 @@ Leg swings, WMH, Open the gates
 ---
 
 ## Backblast
+
+### Q
+
+Drop Out (SpiritSTL)
 
 ### Warmup
 
@@ -71734,6 +80770,10 @@ various and sundry stretches
 ---
 
 ## Mountains of Man
+
+### Q
+
+Big Spoon
 
 ### Warmup
 
@@ -71773,6 +80813,10 @@ Mountain Climbers
 
 ## Backblast
 
+### Q
+
+9 to 5
+
 ### Warmup
 
 Yoga
@@ -71793,6 +80837,10 @@ Alphabet Soup
 ---
 
 ## We Have Launched!
+
+### Q
+
+Jed
 
 ### Warmup
 
@@ -71819,6 +80867,10 @@ Flutter Kicks x 20
 
 ## Backblast
 
+### Q
+
+Drizzle
+
 ### Warmup
 
 7-1 motivators
@@ -71839,6 +80891,10 @@ Pretzels
 
 ## Monday with Matchbox
 
+### Q
+
+Matchbox
+
 ### Warmup
 
 5-1 motivators, Batwings, learning to Phelps, Willy mays Hayes, grass grabbers, stretches
@@ -71854,6 +80910,10 @@ lbcs, flutter kicks, penguin tappers, TBD planks
 ---
 
 ## Backblast
+
+### Q
+
+Otter
 
 ### Warmup
 
@@ -71880,6 +80940,10 @@ Plank Up - Downs
 ---
 
 ## Round Round Get Around
+
+### Q
+
+Avis
 
 ### Warmup
 
@@ -71909,6 +80973,10 @@ One minute Plank.
 
 ## Active recovery
 
+### Q
+
+Silicone
+
 ### Thang
 
 Walk to tennis courts for:
@@ -71930,6 +80998,10 @@ Not today
 
 ## Backblast
 
+### Q
+
+Worm
+
 ### Warmup
 
 5-1 Motivators
@@ -71950,6 +81022,10 @@ PAX was a cheat code. 5 man team won over 6 man.
 ---
 
 ## Introducing... New Stuff!
+
+### Q
+
+Gumbo (STL)
 
 ### Warmup
 
@@ -71980,6 +81056,10 @@ _RECOVER, RECOVER!_
 ---
 
 ## Shared Leadership
+
+### Q
+
+Rock Ride
 
 ### Warmup
 
@@ -72056,6 +81136,10 @@ Flutter Kicks till you die
 
 ## We have a responsibility
 
+### Q
+
+Room Service
+
 ### Warmup
 
 5-1 Motivators, learning to Phelps, Willy Mays Hays. 5 perfect formed Merkens
@@ -72084,6 +81168,10 @@ Merken, walked to right in plank position, Merken, repeat. 10 to the right, 10 t
 
 ## Dodgeball! and..... "Remember the 5 D's of dodgeball: Dodge, duck, dip, dive and dodge." - Patches O'Houlihan
 
+### Q
+
+BUB
+
 ### Warmup
 
 white_check_mark:
@@ -72102,6 +81190,10 @@ Divided group into two teams
 ---
 
 ## Wheeler Dealer part Deux
+
+### Q
+
+Otter
 
 ### Warmup
 
@@ -72129,6 +81221,10 @@ Flutter Kicks IC
 
 ## Wheeler Dealer
 
+### Q
+
+Otter
+
 ### Warmup
 
 5 -1 Motivators IC
@@ -72147,6 +81243,10 @@ Spades = Bonnie Blairs HW
 ---
 
 ## Today like all days, should never be underestimated.
+
+### Q
+
+Tuition
 
 ### Warmup
 
@@ -72188,6 +81288,10 @@ Rinse and repeat.  Second circuit reps reduced by half.
 
 ## Backblast
 
+### Q
+
+Seeds
+
 ### Warmup
 
 Willy mays hays, Grass grabbers, Goofballs, Jump squats
@@ -72219,6 +81323,10 @@ Tree pose
 
 ## Run and BG Bible Study
 
+### Q
+
+Keynote
+
 ### Warmup
 
 Side Straddle Hops
@@ -72238,6 +81346,10 @@ Ran 2.5 miles.  Took the PAX to #ao_roux and back!
 ---
 
 ## Wild Stallions
+
+### Q
+
+Bucky
 
 ### Warmup
 
@@ -72263,6 +81375,10 @@ Gaga pit to the core.  We did like 96 exercises.
 ---
 
 ## soreness
+
+### Q
+
+DOS
 
 ### Warmup
 
@@ -72294,6 +81410,10 @@ Walking DOS errors
 ---
 
 ## A little bit of this, a little bit of that
+
+### Q
+
+Drizzle
 
 ### Warmup
 
@@ -72330,6 +81450,10 @@ Oblique crunches oyo
 ---
 
 ## Hidden Gems
+
+### Q
+
+Bucky
 
 ### Warmup
 
@@ -72389,6 +81513,10 @@ Core work
 
 ## Backblast
 
+### Q
+
+Worm, Fazoli
+
 ### Warmup
 
 Old Man Stretch
@@ -72424,6 +81552,10 @@ All were winners for not having the cops called
 
 ## We can be heroes
 
+### Q
+
+Silicone
+
 ### Warmup
 
 white_check_mark:
@@ -72454,6 +81586,10 @@ Fry like bacon
 
 ## Up in the morning with the rising sun....
 
+### Q
+
+Drizzle
+
 ### Warmup
 
 SSH
@@ -72467,6 +81603,10 @@ Ran to Mousetrap and back
 ---
 
 ## Let’s have a F-AB-ulous morning!
+
+### Q
+
+LugNut
 
 ### Warmup
 
@@ -72491,6 +81631,10 @@ then step up to stretch; pidgeon stretch of IT bands.
 ---
 
 ## Heat Wave - We’re going to sweat so let’s make it worth it
+
+### Q
+
+Brad Pitt
 
 ### Warmup
 
@@ -72537,6 +81681,10 @@ Flutter Kicks - IC - 21 Count
 
 ## Hard
 
+### Q
+
+DOS
+
 ### Warmup
 
 10 burpees x5
@@ -72553,6 +81701,10 @@ Only had time and PAX to be work horses and push to the first cone.. about 70+ y
 ---
 
 ## Tour 'de 'Trap
+
+### Q
+
+Bucky
 
 ### Warmup
 
@@ -72594,6 +81746,10 @@ Bridge March (IC)
 
 ## A Three-Strand Cord
 
+### Q
+
+Smuggz (NoCo)
+
 ### Warmup
 
 Gave most of disclaimer, 5 core principles, credo, and mission while warming up.
@@ -72617,6 +81773,10 @@ Exercises:
 ---
 
 ## Backblast
+
+### Q
+
+Flounder
 
 ### Warmup
 
@@ -72648,6 +81808,10 @@ Single Leg RDL - IC - 10 each leg
 
 ## Backblast
 
+### Q
+
+BrownandBrown, Brad Pitt
+
 ### Warmup
 
 Mosey 1 lap on the track:
@@ -72670,6 +81834,10 @@ One more?
 
 ## IronPax warmups
 
+### Q
+
+Neymar
+
 ### Warmup
 
 - 5 to 1 motivators
@@ -72685,6 +81853,10 @@ Theme: give 100% of you and get prepped for Iron PAX.
 ---
 
 ## Mosey through The Awakening
+
+### Q
+
+Jayhawk
 
 ### Warmup
 
@@ -72723,6 +81895,10 @@ Lbc’s
 
 ## Practice, we are talking about practice?
 
+### Q
+
+WetnWild
+
 ### Warmup
 
 active stretching
@@ -72760,6 +81936,10 @@ none
 
 ## Sandy pickle
 
+### Q
+
+Outhouse
+
 ### Warmup
 
 - Irradiation articulated shoulder work
@@ -72779,6 +81959,10 @@ extra time learning how to play the Sandy Pickle
 ---
 
 ## You vs. YouIII
+
+### Q
+
+Brad Pitt
 
 ### Warmup
 
@@ -72801,6 +81985,10 @@ Penguin Tappers - IC - 20 Count
 ---
 
 ## Top Soccer
+
+### Q
+
+Manny
 
 ### Warmup
 
@@ -72825,6 +82013,10 @@ We took a 20 burpee intermission after the first few rounds.
 
 ## Honey Badger Don't Care
 
+### Q
+
+Dowry
+
 ### Warmup
 
 6:1 Motivators
@@ -72844,6 +82036,10 @@ Mountain Climbers IC x 10
 ---
 
 ## Backblast
+
+### Q
+
+Fish Fry
 
 ### Warmup
 
@@ -72882,6 +82078,10 @@ PAX Abs
 
 ## It seems like only yesterday… the power of 40.
 
+### Q
+
+Noah
+
 ### Warmup
 
 5-to-1 Motivators; WMH, Grass Grabbers; Phelps; Seal Claps; Arm Circles
@@ -72902,6 +82102,10 @@ No Mary - Time ran out.
 
 ## Built Ford Tough
 
+### Q
+
+Bliss
+
 ### Warmup
 
 - Grass Grabbers
@@ -72921,6 +82125,10 @@ We completed 1 mile
 ---
 
 ## Backblast
+
+### Q
+
+BigTex
 
 ### Warmup
 
@@ -72967,6 +82175,10 @@ LBC
 
 ## Codename: MOUSETRAP
 
+### Q
+
+Rock Chalk
+
 ### Warmup
 
 - Parking lot lap
@@ -73004,6 +82216,10 @@ PAX spread out at the base of the hill and grabbed a partner
 
 ## crop duster 500 (530)
 
+### Q
+
+crop duster
+
 ### Warmup
 
 grass grabbers
@@ -73031,6 +82247,10 @@ No Mary due to time
 ---
 
 ## Too Many Thangs
+
+### Q
+
+Dowry
 
 ### Warmup
 
@@ -73093,6 +82313,10 @@ Guantanamo Bay
 
 ## Positives and Negatives
 
+### Q
+
+Clotshot
+
 ### Warmup
 
 SSH x20 IC
@@ -73129,6 +82353,10 @@ PAX completed a circuit of "positive" exercises OYO, followed by a travel, then 
 
 ## Backblast
 
+### Q
+
+Drizzle
+
 ### Warmup
 
 5-1 motivators
@@ -73147,6 +82375,10 @@ Station 4: 100 dips
 ---
 
 ## Backblast
+
+### Q
+
+Emilio
 
 ### Warmup
 
@@ -73205,6 +82437,10 @@ Completed several yoga type stretches.
 ---
 
 ## Backblast
+
+### Q
+
+Norton
 
 ### Warmup
 
@@ -73268,6 +82504,10 @@ Finished with a Sprint
 
 ## It’s only a mile-audible
 
+### Q
+
+Jayhawk
+
 ### Warmup
 
 11/1 motivators
@@ -73306,6 +82546,10 @@ Not today
 
 ## Backblast
 
+### Q
+
+Wilson (SpiritSTL)
+
 ### Warmup
 
 PAX Bunyans IC
@@ -73339,6 +82583,10 @@ Heals to Heaven, Back Plank, Bear Holds
 
 ## Monday with Matchbox
 
+### Q
+
+Matchbox
+
 ### Warmup
 
 Laps 60/30s
@@ -73367,6 +82615,10 @@ Rope climbers
 
 ## Runaway Monday
 
+### Q
+
+Harry C
+
 ### Warmup
 
 7-1 Motivators and a mosey
@@ -73393,6 +82645,10 @@ PAX led us with a strong showing of flutter kicks.
 
 ## An Interval Sandwich
 
+### Q
+
+AirBiscuit
+
 ### Warmup
 
 - Side Straddle Hops
@@ -73418,6 +82674,10 @@ PAX led us with a strong showing of flutter kicks.
 
 ## Backblast
 
+### Q
+
+Munchies
+
 ### Warmup
 
 SSH, Grass Grabbers, LBACs, Abe Virgodas
@@ -73431,6 +82691,10 @@ RECOVER-RECOVER
 
 ## Blackops Run
 
+### Q
+
+Stanley
+
 ### Thang
 
 2.8mile run with option to continue on for 4.5 total miles.
@@ -73438,6 +82702,10 @@ RECOVER-RECOVER
 ---
 
 ## Backblast
+
+### Q
+
+Worm, Schooner
 
 ### Warmup
 
@@ -73467,6 +82735,10 @@ Part of BD (BBS)
 ---
 
 ## Fireworx
+
+### Q
+
+Bucky
 
 ### Warmup
 
@@ -73515,6 +82787,10 @@ Arm stretches
 
 ## Backblast
 
+### Q
+
+Drop Out (SpiritSTL)
+
 ### Warmup
 
 8-1 Motivators
@@ -73543,6 +82819,10 @@ recover to Mary
 
 ## Freedom Friday
 
+### Q
+
+Bushwood
+
 ### Warmup
 
 - 10 - Grass Grabbers
@@ -73568,6 +82848,10 @@ Carry both coupons back to the bleachers anyway you can/want.
 ---
 
 ## Fun Friday - What a Pickle
+
+### Q
+
+Stanley
 
 ### Warmup
 
@@ -73603,6 +82887,10 @@ Each team won 1 singles match so everyone did ladder run.
 
 ## Stuff and Thangs
 
+### Q
+
+TheBeav
+
 ### Warmup
 
 5 to 1 motivators
@@ -73630,6 +82918,10 @@ Cooldown lap around the track.
 ---
 
 ## Independence Day Bonanaza
+
+### Q
+
+Rock Chalk
 
 ### Warmup
 
@@ -73671,6 +82963,10 @@ Cooldown lap around the track.
 
 ## Backblast
 
+### Q
+
+5 on 2
+
 ### Warmup
 
 5-1 Motivators
@@ -73701,6 +82997,10 @@ Mosey to different area and then lunge walk back to overhang
 
 ## Lake Geneva 2: USA USA !
 
+### Q
+
+PillowFight
+
 ### Thang
 
 6.5 + push-ups and pull-ups
@@ -73711,6 +83011,10 @@ Have a safe and happy 4th!
 ---
 
 ## We Did Some Things
+
+### Q
+
+Manny
 
 ### Warmup
 
@@ -73752,6 +83056,10 @@ run in the rain
 
 ## Happy 4th of July!
 
+### Q
+
+Uncle Buck
+
 ### Warmup
 
 Toe touches
@@ -73777,6 +83085,10 @@ American hammers, WW3':s, flutter kicks with coupon, Freddy Mercuries, toe touch
 ---
 
 ## Celebrating the 3rd of July w. The IVth...
+
+### Q
+
+Rumple Minze
 
 ### Warmup
 
@@ -73811,6 +83123,10 @@ On your 6 Knee to Toe Touches
 ---
 
 ## Backblast
+
+### Q
+
+Fish Fry
 
 ### Warmup
 
@@ -73857,6 +83173,10 @@ PAX Abs
 
 ## Gonna feel that in the quadratus lumborum
 
+### Q
+
+La Gordita (STL)
+
 ### Warmup
 
 4 to 1 motivators and Learning to Phelps
@@ -73875,6 +83195,10 @@ RECOVER-RECOVER
 ---
 
 ## Go Heavy or Go Home
+
+### Q
+
+Rock Ride
 
 ### Warmup
 
@@ -73904,6 +83228,10 @@ Single leg pulses 10 each leg
 ---
 
 ## Backblast
+
+### Q
+
+Five-Hole
 
 ### Warmup
 
@@ -73944,6 +83272,10 @@ Run Lap
 
 ## Backblast
 
+### Q
+
+Worm
+
 ### Warmup
 
 7-1 Motivators
@@ -73975,6 +83307,10 @@ Part of the BD
 ---
 
 ## Leg Day at The Rock
+
+### Q
+
+Bushwood
 
 ### Warmup
 
@@ -74010,6 +83346,10 @@ Farmer's Carry Both coupons back to the parking lot
 
 ## Are you Lost?
 
+### Q
+
+Drizzle
+
 ### Warmup
 
 5-1 motivators
@@ -74037,6 +83377,10 @@ Oblique crunches oyo
 
 ## Let the holiday week begin....Gimme your best, Brock!
 
+### Q
+
+Lotus Notes
+
 ### Warmup
 
 7-1 Motivators for 7-1-2024, Grass Grabbers, Imperial Walkers, LBAC
@@ -74056,6 +83400,10 @@ Each HIM called out a Core exercise!
 ---
 
 ## Happy July Trappers
+
+### Q
+
+BrownOut
 
 ### Warmup
 
@@ -74096,6 +83444,10 @@ Plank - Hold for 1 minute
 
 ## Backblast
 
+### Q
+
+Charmin
+
 ### Warmup
 
 Leg swings IC (side to side, front to back), Goofballs, 5 Burpees, Learning to Phelps, Bonnie Blairs
@@ -74113,6 +83465,10 @@ RECOVER-RECOVER
 ---
 
 ## Round and Round We Go
+
+### Q
+
+Rock Chalk
 
 ### Warmup
 
@@ -74140,6 +83496,10 @@ RECOVER-RECOVER
 ---
 
 ## Scavenger Runt
+
+### Q
+
+Keynote
 
 ### Warmup
 
@@ -74178,6 +83538,10 @@ Returned to flags.
 ---
 
 ## Stable BD
+
+### Q
+
+Dowry
 
 ### Warmup
 
@@ -74228,6 +83592,10 @@ High Low Planks IC x 15
 
 ## When Did We Launch the Roux?
 
+### Q
+
+Thumper
+
 ### Warmup
 
 - Mosey
@@ -74257,6 +83625,10 @@ Dora exercise/travel
 
 ## Top of the mountain
 
+### Q
+
+Drizzle
+
 ### Warmup
 
 5-1 motivators
@@ -74276,6 +83648,10 @@ Freddy mercuries
 ---
 
 ## Backblast
+
+### Q
+
+Shower House
 
 ### Warmup
 
@@ -74331,6 +83707,10 @@ If you complete all rounds, Wash Rinse and REPEAT until time.
 
 ## Drilling to Resistance
 
+### Q
+
+Kelly
+
 ### Warmup
 
 - 5-to-1 Motivators
@@ -74362,6 +83742,10 @@ Then Rinse & Repeat 3X for a total of 64 reps of each exercise.
 
 ## It's another fun Friday
 
+### Q
+
+Drizzle
+
 ### Warmup
 
 7-1 motivators
@@ -74386,6 +83770,10 @@ Boats and canoes
 
 ## Ultimate Showdown
 
+### Q
+
+Baaarf
+
 ### Warmup
 
 - 5 to 1 motivators
@@ -74408,6 +83796,10 @@ One more 5-minute round of ultimate
 ---
 
 ## Backblast
+
+### Q
+
+Pothole (SoSTL)
 
 ### Warmup
 
@@ -74432,6 +83824,10 @@ Figure 4s, Cross leg back twist, Butterflies, Down dog/Cobra, Cat/Cow
 ---
 
 ## Backblast
+
+### Q
+
+Karat
 
 ### Warmup
 
@@ -74467,6 +83863,10 @@ Flutterkicks ICx20
 
 ## Olympic Qualifier
 
+### Q
+
+Klinger
+
 ### Warmup
 
 lots of OYO with some suggested movements while Q gave disclaimer and other key details.
@@ -74486,6 +83886,10 @@ Squat Waterfall, each PAX held a bottom position of squat while waterfall HIM pe
 ---
 
 ## Backblast
+
+### Q
+
+Worm
 
 ### Warmup
 
@@ -74517,6 +83921,10 @@ Wallsit Challenge
 
 ## Hump Day
 
+### Q
+
+Karat
+
 ### Warmup
 
 7-1Motivators
@@ -74539,6 +83947,10 @@ Flutterkicks ICx20
 ---
 
 ## NFL Combine
+
+### Q
+
+WetnWild
 
 ### Warmup
 
@@ -74569,6 +83981,10 @@ Pushed the sled one time around the parking lot to finish
 
 ## Diamond 7s
 
+### Q
+
+Boilermaker
+
 ### Warmup
 
 15 Side Straddle Hops
@@ -74598,6 +84014,10 @@ Diamond 7s
 ---
 
 ## WVWW Leg Day. Old Guys Rule!
+
+### Q
+
+Hamburglar
 
 ### Warmup
 
@@ -74638,6 +84058,10 @@ Next cycle through the rep count was changed to 10 and 15 for exercises in inter
 
 ## The Men of 300!
 
+### Q
+
+Stanley
+
 ### Warmup
 
 Cobra Squats
@@ -74669,6 +84093,10 @@ Skipped due to time.
 
 ## Bear Week at F3 WHQ Part1: 100 Navy Seals
 
+### Q
+
+PillowFight
+
 ### Warmup
 
 Lap around the infield
@@ -74684,6 +84112,10 @@ OHP&amp; Squats &amp; 2001 Lunges
 ---
 
 ## Backblast
+
+### Q
+
+Fish Fry
 
 ### Warmup
 
@@ -74724,6 +84156,10 @@ PAX Abs
 ---
 
 ## Fitty
+
+### Q
+
+Dowry
 
 ### Warmup
 
@@ -74774,6 +84210,10 @@ Burpees
 
 ## Backblast
 
+### Q
+
+9 to 5
+
 ### Warmup
 
 Yoga  - most of our bodies weren’t having it. Might need to work that in more often
@@ -74808,6 +84248,10 @@ P90x -
 
 ## Boys and Their Toys
 
+### Q
+
+Otter
+
 ### Warmup
 
 SSH IC
@@ -74834,6 +84278,10 @@ In teams of 2.  Partner A does stationary exercise until relieved by Partner B. 
 
 ## Tour De Awakening
 
+### Q
+
+Harry C
+
 ### Warmup
 
 Willy Mayes hayes and alternate leg stretch’s
@@ -74849,6 +84297,10 @@ started by PAX and passed to other members of the PAX that were Voluntold
 ---
 
 ## Friend or Foe, Both.
+
+### Q
+
+Keys
 
 ### Warmup
 
@@ -74871,6 +84323,10 @@ Guardian run back to flag.
 ---
 
 ## Step Up
+
+### Q
+
+Outhouse
 
 ### Warmup
 
@@ -74936,6 +84392,10 @@ recover, recover
 
 ## Moving Monday
 
+### Q
+
+Karat
+
 ### Warmup
 
 7-1Motivators
@@ -74964,6 +84424,10 @@ Travels were bear crawl one way, crab walk back
 ---
 
 ## Backblast
+
+### Q
+
+Drizzle
 
 ### Warmup
 
@@ -75001,6 +84465,10 @@ Taint scrapers until time was called (like 30 seconds)
 
 ## Embrace the ordinary
 
+### Q
+
+Silicone
+
 ### Thang
 
 Speedball. Team 2 dominated through individual effort, movement without the ball, and rewarding runs with excellent passing. Team 1 did lots of BBSUs during the unrelenting onslaught of scoring and persevered to the end.
@@ -75010,6 +84478,10 @@ Mary/COR/NOR:
 ---
 
 ## Target Practice
+
+### Q
+
+Bill Nye
 
 ### Warmup
 
@@ -75056,6 +84528,10 @@ part of BD
 
 ## Personal Records 2024 Quarter 2
 
+### Q
+
+BigTex
+
 ### Warmup
 
 SSH IC
@@ -75072,6 +84548,10 @@ All exercises are performed for 2 minutes. Rep count taken at the end of the two
 ---
 
 ## Competitions with cross-cross
+
+### Q
+
+Criss-cross
 
 ### Warmup
 
@@ -75112,6 +84592,10 @@ Every time you complete a lap, 50 hard way flutter kicks
 
 ## Fun Friday Fútbol
 
+### Q
+
+Baaarf
+
 ### Warmup
 
 - SSH
@@ -75136,6 +84620,10 @@ Nah we did enough running during soccer
 ---
 
 ## It's only been 2 Years
+
+### Q
+
+Brad Pitt
 
 ### Warmup
 
@@ -75164,6 +84652,10 @@ Right Side Pax took turns using a sandbag ilo coupon
 
 ## Gone Fishin’
 
+### Q
+
+Flatley
+
 ### Warmup
 
 SSH
@@ -75187,6 +84679,10 @@ Indian Run (1 lap) near lake
 ---
 
 ## A Hard BD
+
+### Q
+
+Schlitz
 
 ### Warmup
 
@@ -75223,6 +84719,10 @@ Round 7: 5 reps each, run shorter parking lot loop
 
 ## Pickle Jar Open II
 
+### Q
+
+Duke
+
 ### Warmup
 
 - SSH
@@ -75248,6 +84748,10 @@ Round 7: 5 reps each, run shorter parking lot loop
 
 ## Accountable Together
 
+### Q
+
+rogerroger
+
 ### Warmup
 
 - 5-1 Motivators
@@ -75271,6 +84775,10 @@ You vs. You -  Repeat for Duration
 
 ## Do You Want to Pull a Sled, Man?
 
+### Q
+
+Manny
+
 ### Warmup
 
 - learning to Phelps
@@ -75293,6 +84801,10 @@ Exercises performed each round were picked by the PAX in this manner:
 ---
 
 ## Friday Eve
+
+### Q
+
+Karat
 
 ### Warmup
 
@@ -75321,6 +84833,10 @@ Flutter kicks ICx20
 ---
 
 ## Hump Day!
+
+### Q
+
+Karat
 
 ### Warmup
 
@@ -75356,6 +84872,10 @@ Flutter kicks ICx30
 
 ## Feeling Murph’ish
 
+### Q
+
+Short Circuit
+
 ### Warmup
 
 - 7 to 1 Motivators
@@ -75380,6 +84900,10 @@ COR, NOR
 ---
 
 ## This & That
+
+### Q
+
+crop duster
 
 ### Warmup
 
@@ -75417,6 +84941,10 @@ Plank with Variations 1 time
 
 ## escargot!
 
+### Q
+
+PillowFight
+
 ### Thang
 
 4.5 miles + push-ups and pull-ups
@@ -75424,6 +84952,10 @@ Plank with Variations 1 time
 ---
 
 ## Wednesday Inspiration
+
+### Q
+
+Bushwood
 
 ### Warmup
 
@@ -75474,6 +85006,10 @@ Formed two lines and both groups Indian Run to the Bottom of the Steep Hill
 ---
 
 ## 5 x 5
+
+### Q
+
+Dowry
 
 ### Warmup
 
@@ -75534,6 +85070,10 @@ Guantanamo Bay
 
 ## Terribly Terrific Tuesday
 
+### Q
+
+Karat
+
 ### Warmup
 
 7-1 Motivators
@@ -75555,6 +85095,10 @@ Burpees to Billy Squire The Stroke
 ---
 
 ## The Longest, Swollest Week
+
+### Q
+
+Olav
 
 ### Warmup
 
@@ -75582,6 +85126,10 @@ No time today!
 
 ## with purpose
 
+### Q
+
+DOS
+
 ### Warmup
 
 8to1 Motivators, stretches
@@ -75600,6 +85148,10 @@ DOS error + some stretches
 
 ## Back to basics
 
+### Q
+
+Drizzle
+
 ### Warmup
 
 Thunderstruck burpee challenge
@@ -75615,6 +85167,10 @@ Rinse and repeat
 ---
 
 ## On the Clock!!!
+
+### Q
+
+Bobbit
 
 ### Warmup
 
@@ -75646,6 +85202,10 @@ COR, NOR
 
 ## Moving Monday
 
+### Q
+
+Karat
+
 ### Warmup
 
 7-1 Motivators
@@ -75667,6 +85227,10 @@ Low/high planks, flutter kicks,  LBC's
 ---
 
 ## Baseline pt2- You vs. You
+
+### Q
+
+FlyBoy
 
 ### Warmup
 
@@ -75695,6 +85259,10 @@ Recover-Recover
 
 ## no more horsing around
 
+### Q
+
+DOS
+
 ### Warmup
 
 8to1 motivators, Hollywoods, arm stretches
@@ -75720,6 +85288,10 @@ Flutter Kicks IC
 
 ## 1YR Manniversary - Casino Edition
 
+### Q
+
+D2
+
 ### Warmup
 
 Short Jog around the closest Goal post
@@ -75737,6 +85309,10 @@ Did 3 Rounds of 5 Card Studs then Rotate Groups
 
 ## BATTLEBEAR!
 
+### Q
+
+DOS
+
 ### Warmup
 
 2-1 motivators.. something else then we scrammed to the LHS Football field
@@ -75752,6 +85328,10 @@ nope
 ---
 
 ## Top Gun Fun
+
+### Q
+
+Thumper
 
 ### Warmup
 
@@ -75780,6 +85360,10 @@ ab day no Mary
 ---
 
 ## Come get your Phil
+
+### Q
+
+Schlitz
 
 ### Warmup
 
@@ -75812,6 +85396,10 @@ Round 6: 10 reps each, 20m/40m
 ---
 
 ## Iron Lion or Lyin’ Iron? You Choose!
+
+### Q
+
+Hamburglar
 
 ### Warmup
 
@@ -75855,6 +85443,10 @@ Iron Lion: 15 ~30~ WW3 Sit-UPs
 
 ## Backblast
 
+### Q
+
+BrownandBrown
+
 ### Warmup
 
 High knees
@@ -75878,6 +85470,10 @@ American hammers
 ---
 
 ## Re-mo (Emo part deux)
+
+### Q
+
+BrownOut
 
 ### Warmup
 
@@ -75924,6 +85520,10 @@ Bonus Rounds
 
 ## Let's get moving
 
+### Q
+
+Petey
+
 ### Warmup
 
 Downward Dog
@@ -75967,6 +85567,10 @@ Little baby crunches
 
 ## Competitions with cross cross-US Open
 
+### Q
+
+Criss-cross
+
 ### Warmup
 
 5-1, Willy mays hats, curl squat halo combo
@@ -76005,6 +85609,10 @@ jog it out
 
 ## Stable Games
 
+### Q
+
+Bill Nye
+
 ### Warmup
 
 SSH (IC)
@@ -76034,6 +85642,10 @@ Boats and Canoes
 
 ## Broga
 
+### Q
+
+Brigham Young
+
 ### Thang
 
 Broga. Stretching. Breathing.
@@ -76041,6 +85653,10 @@ Broga. Stretching. Breathing.
 ---
 
 ## Tribute
+
+### Q
+
+Outhouse
 
 ### Warmup
 
@@ -76089,6 +85705,10 @@ Hamstring stretch and upper torso stretch
 
 ## You Know What Your Getting
 
+### Q
+
+Ferkloch
+
 ### Warmup
 
 - Carried our blocks along the track while we did warm up exercises/stretches OYO
@@ -76112,6 +85732,10 @@ Hamstring stretch and upper torso stretch
 ---
 
 ## 49s are wild
+
+### Q
+
+Stanley
 
 ### Warmup
 
@@ -76165,6 +85789,10 @@ Travel – Rifle Carry to Station 1.
 
 ## Backblast
 
+### Q
+
+1chain
+
 ### Warmup
 
 Piano tappers
@@ -76197,6 +85825,10 @@ American Hammers
 ---
 
 ## Backblast
+
+### Q
+
+Fish Fry
 
 ### Warmup
 
@@ -76236,6 +85868,10 @@ Went longer with BD to get through all rounds.
 
 ## Nicest Day
 
+### Q
+
+DOS
+
 ### Warmup
 
 8to1 Motivators
@@ -76272,6 +85908,10 @@ DOS Error
 
 ## Top Gun WOD (The Air Force One)
 
+### Q
+
+Hamburglar
+
 ### Warmup
 
 - Open the Gates (IC)
@@ -76298,6 +85938,10 @@ PAX rocked this WOD completing ahead of time so we did an Indian run around The 
 ---
 
 ## Partner Work
+
+### Q
+
+Rock Ride
 
 ### Warmup
 
@@ -76326,6 +85970,10 @@ Run Logan Mile slick - didn't have time for this.
 ---
 
 ## AWAKENING
+
+### Q
+
+Schlitz
 
 ### Warmup
 
@@ -76365,6 +86013,10 @@ Made it through 3.5 rounds
 
 ## Suicide Snakes: don't ask what ask why
 
+### Q
+
+TheBeav
+
 ### Warmup
 
 Imperial Walkers
@@ -76385,6 +86037,10 @@ Set up 5 cones about 10-15 yards apart (3 parking spaces).  1st cone is home bas
 ---
 
 ## Ultimate Adventures
+
+### Q
+
+rogerroger
 
 ### Warmup
 
@@ -76410,6 +86066,10 @@ Ultimate Frisbee - On Lowest Field
 
 ## are you up for the challenge?
 
+### Q
+
+Drizzle
+
 ### Warmup
 
 SSH's
@@ -76423,6 +86083,10 @@ Learning to fly
 ---
 
 ## Backblast
+
+### Q
+
+Tofu, Ratigan
 
 ### Warmup
 
@@ -76477,6 +86141,10 @@ The 4 Headed Hydra
 
 ## Manniversary Merriment
 
+### Q
+
+Amber Alert
+
 ### Warmup
 
 - 21 high knees
@@ -76500,6 +86168,10 @@ Following 365 reps, broke into two teams for 7 on 7 ultimate frisbee. 5 burpees 
 
 ## Just a Friday Fun Day!
 
+### Q
+
+Karat
+
 ### Warmup
 
 7-1 Motivators
@@ -76521,6 +86193,10 @@ Burpees to Morgan Wallen Up/Down
 ---
 
 ## Competitions with cross cross
+
+### Q
+
+Criss-cross
 
 ### Warmup
 
@@ -76564,6 +86240,10 @@ keyhole stretch and pigeon
 
 ## WIFFLEBALL II - THE REMATCH
 
+### Q
+
+Schlitz
+
 ### Warmup
 
 - Abe Vigodas
@@ -76593,6 +86273,10 @@ Mary was the final inning.
 ---
 
 ## Embrace the Suck of The Complete Beatdown
+
+### Q
+
+Rock Ride
 
 ### Warmup
 
@@ -76644,6 +86328,10 @@ Single straight leg pulses 15 each side.
 
 ## Thursday Grind
 
+### Q
+
+DOS
+
 ### Warmup
 
 Foot Touches IC
@@ -76671,6 +86359,10 @@ Plank Hold, DOS error, bicycles
 ---
 
 ## Backblast
+
+### Q
+
+Drop Out (SpiritSTL)
 
 ### Warmup
 
@@ -76731,6 +86423,10 @@ plank to the song by UFO
 
 ## Operation Overlord
 
+### Q
+
+Wayne Babies
+
 ### Warmup
 
 SSH
@@ -76750,6 +86446,10 @@ Plank-a-rama and recovery stretch
 ---
 
 ## Backblast
+
+### Q
+
+Schooner
 
 ### Warmup
 
@@ -76783,6 +86483,10 @@ Flutter kicks
 ---
 
 ## Concert Rainout led to Country Club Workout
+
+### Q
+
+Rumple Minze
 
 ### Warmup
 
@@ -76848,6 +86552,10 @@ Lap
 
 ## It’s good to be back
 
+### Q
+
+Bliss
+
 ### Warmup
 
 - 5:1 Motivators
@@ -76872,6 +86580,10 @@ We completed 3 rounds of the below but reduced the reps by 10 with each rounds.
 ---
 
 ## Rays of sun
+
+### Q
+
+Charmin
 
 ### Warmup
 
@@ -76911,6 +86623,10 @@ RECOVER-RECOVER
 ---
 
 ## Hot Dad Summer (and EGB!!)
+
+### Q
+
+Girlie Man
 
 ### Warmup
 
@@ -76954,6 +86670,10 @@ Station 4: Cardio
 
 ## Aintcent
 
+### Q
+
+DOS
+
 ### Warmup
 
 15 burpees
@@ -76981,6 +86701,10 @@ Penguin Tappers, Flutter Kicks, DOS Error
 
 ## K9 Kitt
 
+### Q
+
+Otter
+
 ### Warmup
 
 SSH IC
@@ -77005,6 +86729,10 @@ PAX got a little carried away with this one!
 ---
 
 ## Good Things Come in Threes
+
+### Q
+
+Schlitz
 
 ### Warmup
 
@@ -77040,6 +86768,10 @@ Single Leg Flutters - each side
 
 ## Don't Worry About It!
 
+### Q
+
+NameTag
+
 ### Thang
 
 Part I: Indian Runaround the park - While PAX was the only one to announce himself when leading the PAX.
@@ -77068,6 +86800,10 @@ Exercise 10 - Overhead Press / Bear Crawl
 ---
 
 ## It's that Time Again!
+
+### Q
+
+TheBeav
 
 ### Warmup
 
@@ -77106,6 +86842,10 @@ Pax headed back to the track. 1st pax had suitcase weights and carried them arou
 ---
 
 ## Never miss a Monday!
+
+### Q
+
+Jayhawk
 
 ### Warmup
 
@@ -77153,6 +86893,10 @@ No time today
 
 ## Uphill battle
 
+### Q
+
+Bucky
+
 ### Warmup
 
 ·        Yoga Stretches
@@ -77188,6 +86932,10 @@ for the six)
 
 ## Running the Roux
 
+### Q
+
+Rock Ride
+
 ### Warmup
 
 SSH IC
@@ -77214,6 +86962,10 @@ Dying Cockroaches IC
 ---
 
 ## Accelerating the 3rd F
+
+### Q
+
+Bill Nye
 
 ### Warmup
 
@@ -77244,6 +86996,10 @@ Part of BD
 
 ## KT82 - Kings of Queeny
 
+### Q
+
+Stanley
+
 ### Warmup
 
 Stretch OYO before your leg.
@@ -77271,6 +87027,10 @@ You can totally do this.
 
 ## 2.0 BD
 
+### Q
+
+Emilio, Worm
+
 ### Thang
 
 Started with F3 basics
@@ -77289,6 +87049,10 @@ Relay Races. Had the group divide up into 5 teams, starting behind the cones. Ea
 ---
 
 ## Expedition: Mousetrap
+
+### Q
+
+WetnWild, Bucky
 
 ### Warmup
 
@@ -77336,6 +87100,10 @@ Captain Thor x10
 
 ## Accelerating the 2nd F
 
+### Q
+
+Bill Nye
+
 ### Warmup
 
 SSH IC
@@ -77363,6 +87131,10 @@ part of BD
 ---
 
 ## The Passing of the Flags
+
+### Q
+
+BigTex, Wilson (SpiritSTL)
 
 ### Warmup
 
@@ -77399,6 +87171,10 @@ Mosey down to third island and Bernie Sanders back
 
 ## 5%:sonic_run:40 yard dash:sonic_run:
 
+### Q
+
+Bucky
+
 ### Thang
 
 40 yard dash (The first twenty yard is a special movement. The last twenty is a jailbreak)
@@ -77420,6 +87196,10 @@ BONUS: each group had a suitcase for use!
 ---
 
 ## Fun Frisbee Friday
+
+### Q
+
+Thumper
 
 ### Warmup
 
@@ -77447,6 +87227,10 @@ Ultimate frisbee for 4 minutes then exercise and repeat
 ---
 
 ## Dirty 30!!
+
+### Q
+
+Freshman
 
 ### Warmup
 
@@ -77495,6 +87279,10 @@ Bring Sally up
 
 ## The Viking-Maker
 
+### Q
+
+Gumbo (STL)
+
 ### Warmup
 
 - SSHs - in Control Freak Cadence.
@@ -77526,6 +87314,10 @@ No separate _Mary as we worked through the Final Round.. and we_ did plenty of B
 
 ## The Ultimate Burpee
 
+### Q
+
+Breaking Bad
+
 ### Warmup
 
 5 to 1 Motivators
@@ -77550,6 +87342,10 @@ Big Boy Sit-Ups OYO x15
 ---
 
 ## Center of Attention
+
+### Q
+
+Bucky
 
 ### Warmup
 
@@ -77578,6 +87374,10 @@ Dirty Hook Ups.
 
 ## legs are people too
 
+### Q
+
+DOS
+
 ### Warmup
 
 - 6to1 Motivators
@@ -77604,6 +87404,10 @@ Dirty Hook Ups.
 ---
 
 ## 1 Year In - Accelerating the First F
+
+### Q
+
+Bill Nye
 
 ### Warmup
 
@@ -77659,6 +87463,10 @@ At end - Mountain Climber
 
 ## Back to work
 
+### Q
+
+Baaarf
+
 ### Warmup
 
 - 5-1 motivators
@@ -77706,6 +87514,10 @@ Second cones: Blockbusters
 
 ## Backblast
 
+### Q
+
+JanBrady
+
 ### Warmup
 
 SSH 25 IC
@@ -77747,6 +87559,10 @@ Plank 60 seconds
 
 ## Backblast
 
+### Q
+
+Worm
+
 ### Warmup
 
 5-1 Motivators
@@ -77775,6 +87591,10 @@ Coupon Flutter Kicks
 ---
 
 ## First Time at The Outlet
+
+### Q
+
+Dowry
 
 ### Warmup
 
@@ -77827,6 +87647,10 @@ High Low Planks IC x 10
 
 ## Backblast
 
+### Q
+
+Shower House
+
 ### Warmup
 
 25 Side Straddle Hops - IC
@@ -77852,6 +87676,10 @@ Roller Skates 54:25
 ---
 
 ## 45/15 tabada
+
+### Q
+
+Avis
 
 ### Warmup
 
@@ -77896,6 +87724,10 @@ Big Boy setups
 
 ## The Murph!!!
 
+### Q
+
+Keynote
+
 ### Warmup
 
 Calf Stretches
@@ -77921,6 +87753,10 @@ Rick Flare!
 
 ## the Murph at Table Rock Lake
 
+### Q
+
+DOS, PillowFight
+
 ### Warmup
 
 Dynamic warmup with Tony the manager
@@ -77944,6 +87780,10 @@ Still can't do this crazy swinging pullup things.. stayed old school which was t
 
 ## Backblast
 
+### Q
+
+Shower House
+
 ### Warmup
 
 26 Goofballs - IC
@@ -77965,6 +87805,10 @@ Romanian deadlifts
 ---
 
 ## Beast Mode (Keepin' up with the Joneses)
+
+### Q
+
+Pothole (SoSTL)
 
 ### Warmup
 
@@ -78036,6 +87880,10 @@ US Army Recovery Drill (Static Stretching) -
 
 ## Last minute pool season sculpting
 
+### Q
+
+Twin Peaks
+
 ### Warmup
 
 Light Mozy
@@ -78064,6 +87912,10 @@ Heal Taps - in cadence
 ---
 
 ## Winner Take All
+
+### Q
+
+Thumper
 
 ### Warmup
 
@@ -78098,6 +87950,10 @@ Corn Hole for reps; divided into to teams, miss 10 reps, on board 5
 
 ## 12-1pyramids
 
+### Q
+
+Chief
+
 ### Warmup
 
 -5:1 motivators
@@ -78129,6 +87985,10 @@ Recover for MARY
 
 ## Friday funday - game on!
 
+### Q
+
+Silicone
+
 ### Warmup
 
 Mosey and various lower body agility warmups
@@ -78145,6 +88005,10 @@ flutter kicks IC
 ---
 
 ## Backblast
+
+### Q
+
+Rock Ride
 
 ### Warmup
 
@@ -78183,6 +88047,10 @@ Dying Cockroaches IC
 
 ## Feeling emo, how bout you?
 
+### Q
+
+BrownOut
+
 ### Warmup
 
 13 Side Straddle Hops IC
@@ -78219,6 +88087,10 @@ Rounds 3-5 will be executed at a later date!
 
 ## Closest to the Pin
 
+### Q
+
+Big Spoon
+
 ### Warmup
 
 5-1 Motivators
@@ -78251,6 +88123,10 @@ Team 2 won the match 9-5.  Full PAX did 20 jump squats to certify the result.
 
 ## Horse Racing Game
 
+### Q
+
+Hamburglar
+
 ### Warmup
 
 - SSHs (IC)
@@ -78280,6 +88156,10 @@ All horses (PAX) pick # for race lineup. Each PAX rolls dice first and if number
 
 ## Cachen in
 
+### Q
+
+DOS
+
 ### Warmup
 
 - 8to1 Motivators IC
@@ -78304,6 +88184,10 @@ EMOMs run to end of time
 ---
 
 ## Competitions with Criss/Cross - Survivor Edition
+
+### Q
+
+Criss-cross
 
 ### Warmup
 
@@ -78390,6 +88274,10 @@ Stretches: Flutter Kicks to Failure
 
 ## Murph Prep
 
+### Q
+
+crop duster
+
 ### Warmup
 
 Grass Grabber
@@ -78416,6 +88304,10 @@ Plank with Variations 1 time
 
 ## Q Source Impact (Q2.1)
 
+### Q
+
+Stanley
+
 ### Warmup
 
 the beatdown
@@ -78427,6 +88319,10 @@ Source: Impact (Q2.1)
 ---
 
 ## Choose Your Hard!
+
+### Q
+
+Bushwood
 
 ### Warmup
 
@@ -78476,6 +88372,10 @@ Source: Impact (Q2.1)
 
 ## Master the Monotonous
 
+### Q
+
+Big Spoon
+
 ### Warmup
 
 SSH
@@ -78505,6 +88405,10 @@ PAX completed each round twice for a total of 8 rounds (2 progressive blocks)
 
 ## it's a terrific Tuesday
 
+### Q
+
+Drizzle
+
 ### Warmup
 
 SSH's
@@ -78530,6 +88434,10 @@ Rick flair
 
 ## tabata sets
 
+### Q
+
+PillowFight
+
 ### Warmup
 
 25 Burpees &amp; Mike Tyson Pushups
@@ -78546,6 +88454,10 @@ Results: A fast paced victory for the HIM of the Awakening. A strong start to th
 ---
 
 ## Backblast
+
+### Q
+
+Candyland
 
 ### Warmup
 
@@ -78572,6 +88484,10 @@ Stretches: knees-to-chest, seal stretch, butterflies, hamstring stretches, Holly
 ---
 
 ## Backblast
+
+### Q
+
+1chain
 
 ### Warmup
 
@@ -78606,6 +88522,10 @@ Rick Flair woo
 ---
 
 ## Ain’t no Mountain High Enough
+
+### Q
+
+FlyBoy
 
 ### Warmup
 
@@ -78651,6 +88571,10 @@ Leave Coupon Mosey going to next Station
 
 ## Stable VQ/Rotating Circle of Man
 
+### Q
+
+Rock Chalk
+
 ### Warmup
 
 - 5-1 Motivators
@@ -78679,6 +88603,10 @@ On the blacktop, PAX performs one constant movement while each member rotates a 
 ---
 
 ## Murder Bunnies for Everyone
+
+### Q
+
+crop duster
 
 ### Warmup
 
@@ -78709,6 +88637,10 @@ Plank for 30. Rock side to side for 10. rock forward and back for 10.
 ---
 
 ## Engage with Your Community
+
+### Q
+
+rogerroger
 
 ### Warmup
 
@@ -78751,6 +88683,10 @@ Jog around building
 
 ## Employee of the month
 
+### Q
+
+Harry C
+
 ### Warmup
 
 mosey
@@ -78766,6 +88702,10 @@ led by three selected PAX victims
 ---
 
 ## BBSU'S
+
+### Q
+
+Uncle Buck
 
 ### Warmup
 
@@ -78819,6 +88759,10 @@ One secret abe exercise that can't be disclosed.
 
 ## mind muscle connection
 
+### Q
+
+PillowFight
+
 ### Warmup
 
 25 Burpees
@@ -78835,6 +88779,10 @@ One secret abe exercise that can't be disclosed.
 ---
 
 ## Crawl, Walk, Run
+
+### Q
+
+Schlitz
 
 ### Warmup
 
@@ -78863,6 +88811,10 @@ One secret abe exercise that can't be disclosed.
 
 ## strike
 
+### Q
+
+DOS
+
 ### Warmup
 
 Light Stretching, Mosey w/ coupon to north entrance
@@ -78883,6 +88835,10 @@ Flutter Kicks, BBSU, DOS Error
 ---
 
 ## Happy Hump Day!
+
+### Q
+
+Karat
 
 ### Warmup
 
@@ -78907,6 +88863,10 @@ Low/high planks to Bring Sally Up
 
 ## Pain and Suffering
 
+### Q
+
+Karat
+
 ### Warmup
 
 7-1Motivators
@@ -78930,6 +88890,10 @@ Squats to Bring Sally Up
 ---
 
 ## Backblast
+
+### Q
+
+Bliss
 
 ### Warmup
 
@@ -78959,6 +88923,10 @@ knocked it out as part of the Thang
 ---
 
 ## Last minute garage workout cause it rained last night
+
+### Q
+
+Rot Gut
 
 ### Warmup
 
@@ -78992,6 +88960,10 @@ Flutterkicks – 10 IC
 ---
 
 ## It is Wednesday.
+
+### Q
+
+BrownOut
 
 ### Warmup
 
@@ -79030,6 +89002,10 @@ Child’s Pose
 
 ## DORA + suicides
 
+### Q
+
+Baaarf
+
 ### Warmup
 
 Mosey to the pool entrance
@@ -79057,6 +89033,10 @@ PAX circled up and held high plank. Went around the circle one at a time and eac
 
 ## Monthly Murph Prep - Work together
 
+### Q
+
+Silicone
+
 ### Warmup
 
 Side straddle hops IC
@@ -79081,6 +89061,10 @@ Sun Salutations
 
 ## Bearing is caring
 
+### Q
+
+Freshman
+
 ### Warmup
 
 Grass grabbers
@@ -79104,6 +89088,10 @@ Suicides with 5 burpees at each line
 ---
 
 ## Come for the Qsource and coffeeteria, stay for the beatdown
+
+### Q
+
+BUB
 
 ### Warmup
 
@@ -79136,6 +89124,10 @@ LBC’s – legs halfway, legs 90 degrees, legs halfway (10 reps for each IC)
 
 ## Back to Basics
 
+### Q
+
+Otter
+
 ### Warmup
 
 SSH IC
@@ -79167,6 +89159,10 @@ EACH MEMBER OF THE PAX COMPLETED THE FIRST SECTION AND THE RUN AND WERE ON THE L
 
 ## complaint box
 
+### Q
+
+DOS
+
 ### Warmup
 
 - 8to1 Motivators
@@ -79195,6 +89191,10 @@ Did this for 3ish minutes then switched...
 
 ## Backblast
 
+### Q
+
+Bobbit
+
 ### Warmup
 
 duck bouncers
@@ -79219,6 +89219,10 @@ DORA – 1 HIM travels, 1 does the exercise
 ---
 
 ## Diamond Dogs Mount Up
+
+### Q
+
+Thumper
 
 ### Warmup
 
@@ -79252,6 +89256,10 @@ Pivoted to Dora: 200 air squats while partner Bernie Sanders up hill with 5 SSH 
 
 ## Baseline - You vs. You
 
+### Q
+
+Brad Pitt
+
 ### Warmup
 
 High Knees - 20 IC
@@ -79272,6 +89280,10 @@ As many Burpees in 2 minutes
 ---
 
 ## First Time at The Stable
+
+### Q
+
+Dowry
 
 ### Warmup
 
@@ -79325,6 +89337,10 @@ Wheel barrow, switch as needed
 
 ## Golden Spiral Circuit
 
+### Q
+
+BrownOut
+
 ### Warmup
 
 5 to 1 motivators
@@ -79371,6 +89387,10 @@ Double tap lunges travel
 
 ## Just an easy Saturday morning workout
 
+### Q
+
+Fix-it Felix
+
 ### Warmup
 
 5 to 1 motivators,  little baby arm circles. Calf stretches
@@ -79391,6 +89411,10 @@ Twin Peaks lead us on downward dog and cobra
 ---
 
 ## Practice for the Murph
+
+### Q
+
+Jayhawk
 
 ### Warmup
 
@@ -79414,6 +89438,10 @@ Flutter kicks
 ---
 
 ## Backblast
+
+### Q
+
+Fish Fry
 
 ### Warmup
 
@@ -79459,6 +89487,10 @@ PAX Abs
 
 ## What Goes Down Must Come Up
 
+### Q
+
+rogerroger
+
 ### Warmup
 
 - Grass Grabbers
@@ -79473,6 +89505,10 @@ PAX Abs
 
 ## Shakira's Bane
 
+### Q
+
+Wayne Babies
+
 ### Thang
 
 Hip and butt stuff
@@ -79484,6 +89520,10 @@ The 1 Minute Merkin
 ---
 
 ## That Gravel Pit Sunrise
+
+### Q
+
+Schlitz
 
 ### Warmup
 
@@ -79518,6 +89558,10 @@ Yoga set:
 
 ## free workout
 
+### Q
+
+PillowFight
+
 ### Warmup
 
 Navy Seals on 16 seconds & slant routes
@@ -79535,6 +89579,10 @@ Bernie Sanders Hill Hustle
 ---
 
 ## Let’s Climb that ~Mountain~ Hill Together
+
+### Q
+
+Hamburglar
 
 ### Warmup
 
@@ -79568,6 +89616,10 @@ At Top of Hill perform (9) Mountain Man Poopers. Travel back down hill to base o
 
 ## Faust Park
 
+### Q
+
+Dowry
+
 ### Warmup
 
 SSH IC x 20
@@ -79586,6 +89638,10 @@ See thread
 ---
 
 ## The Middle
+
+### Q
+
+Bill Nye
 
 ### Warmup
 
@@ -79620,6 +89676,10 @@ Lunge HW, Squat, LT Dan
 
 ## Backblast
 
+### Q
+
+Shower House
+
 ### Warmup
 
 28 SSH IC
@@ -79638,6 +89698,10 @@ Round 4:  Everyone bear crawl 43 feet.
 ---
 
 ## Monster Motivation
+
+### Q
+
+Five-Hole
 
 ### Warmup
 
@@ -79676,6 +89740,10 @@ Mosey around the circle drive and back
 
 ## Backblast
 
+### Q
+
+Ferkloch
+
 ### Warmup
 
 4-1 Motivators
@@ -79703,6 +89771,10 @@ We did Air Squats for 3:24 to the song Bring Up Sally.
 ---
 
 ## The Break Away
+
+### Q
+
+Stanley
 
 ### Warmup
 
@@ -79737,6 +89809,10 @@ Plank X – 20
 
 ## Tuesday Tabata w/ a side of Tornado
 
+### Q
+
+Pothole (SoSTL)
+
 ### Warmup
 
 SSH x20 IC
@@ -79764,6 +89840,10 @@ Round 2
 
 ## Backblast
 
+### Q
+
+Charmin, Thumper
+
 ### Warmup
 
 Learning to Phelps, grass grabbers, Willie Mayes Hayes
@@ -79777,6 +89857,10 @@ RECOVER-RECOVER
 ---
 
 ## Freed to lead
+
+### Q
+
+Drizzle
 
 ### Warmup
 
@@ -79813,6 +89897,10 @@ Freddy mercuries IC
 
 ## THE FALCON-026
 
+### Q
+
+Dowry
+
 ### Warmup
 
 Willy Mays Hayes IC x 8
@@ -79836,6 +89924,10 @@ Buy Out - 14 SSH IC
 ---
 
 ## Backblast
+
+### Q
+
+Candyland
 
 ### Warmup
 
@@ -79864,6 +89956,10 @@ Stretches: knees-to-chest, seal stretch, butterflies, hamstring stretches, seate
 ---
 
 ## Jason Richards (F3 Falcon) Tribute BD aka “We’re in this together”
+
+### Q
+
+FlyBoy
 
 ### Warmup
 
@@ -79894,6 +89990,10 @@ BuyOut:  Together In-cadence 14 SSH
 
 ## For Falcon!
 
+### Q
+
+Gumbo (STL)
+
 ### Warmup
 
 - Willy Mays Hayes - IC
@@ -79921,6 +90021,10 @@ _RECOVER, RECOVER!_
 ---
 
 ## An Oldie
+
+### Q
+
+Dowry
 
 ### Warmup
 
@@ -79965,6 +90069,10 @@ Body weight - 25 Shoulder tap merkins
 
 ## The Second Annual Kessel Run
 
+### Q
+
+Manny, Klinger
+
 ### Warmup
 
 - Jar Jar Binks (goofballs)
@@ -79995,6 +90103,10 @@ PAX calculated their route for The Kessel Run by choosing one of two exercises f
 ---
 
 ## Rain or Shine
+
+### Q
+
+Wilson (SpiritSTL)
 
 ### Warmup
 
@@ -80036,6 +90148,10 @@ Bear Hold for about a minute
 
 ## Backblast
 
+### Q
+
+Worm, Savers
+
 ### Warmup
 
 5-1 Motivators
@@ -80075,6 +90191,10 @@ Finished with an Everest at the staircase. Everest was Mario jumps to 1 squat ti
 ---
 
 ## Emergency Broadcast System
+
+### Q
+
+Bobbit
 
 ### Warmup
 
@@ -80135,6 +90255,10 @@ Pax jogs 1 parking lot lap
 
 ## XXXXXTREME Cornhole
 
+### Q
+
+Rock Chalk
+
 ### Warmup
 
 - 6-1 Motivators
@@ -80166,6 +90290,10 @@ skipped, kept playing XXXXTREME bags
 
 ## Mini Murph
 
+### Q
+
+Bucky
+
 ### Warmup
 
 Walking Knee Pulls
@@ -80191,6 +90319,10 @@ Butterfly Stretch
 ---
 
 ## Crop Duster 500
+
+### Q
+
+crop duster
 
 ### Warmup
 
@@ -80221,6 +90353,10 @@ Planks with variations
 ---
 
 ## Finding Joy
+
+### Q
+
+Bobbit
 
 ### Warmup
 
@@ -80264,6 +90400,10 @@ COR-/NOR
 
 ## A little of this, little of that
 
+### Q
+
+WetnWild
+
 ### Warmup
 
 5:1 Motivators, little baby arm circles, coupon plyometrics
@@ -80288,6 +90428,10 @@ Recovery:
 ---
 
 ## Heavy Thoughts
+
+### Q
+
+Thumper
 
 ### Warmup
 
@@ -80315,6 +90459,10 @@ Station Work: Timer is Suitcase Carry around parking islands (round 2 switched t
 ---
 
 ## It’s gonna be May
+
+### Q
+
+Freshman
 
 ### Warmup
 
@@ -80348,6 +90496,10 @@ Station 6
 
 ## Making the Most of This Life
 
+### Q
+
+Noah
+
 ### Warmup
 
 5-to-1 Motiators, Abe V, Willie MH, :monkey:Hs, jog around the parking lot.
@@ -80364,6 +90516,10 @@ Pick-a-card - from the F3 Official Workout Deck; with Coupon Travel up/down the 
 ---
 
 ## Tribute to Mr. Jason Richards
+
+### Q
+
+Dowry
 
 ### Warmup
 
@@ -80420,6 +90576,10 @@ Minutes 4 &amp; 5 - Modified up to 9 reps of each
 
 ## ride the lightning
 
+### Q
+
+DOS
+
 ### Warmup
 
 foot touches, grass Grabbers, Abe Vigodas
@@ -80439,6 +90599,10 @@ DOS Error
 ---
 
 ## 30 for 30 on 4/30
+
+### Q
+
+Stanley
 
 ### Warmup
 
@@ -80460,6 +90624,10 @@ No time for Mary.
 ---
 
 ## Block Party
+
+### Q
+
+crop duster
 
 ### Warmup
 
@@ -80499,6 +90667,10 @@ Planks with rocking forward and side to side on Q's call x2
 
 ## A moment of silence as unfortunate news was shared today.  Prayers to and for many this evening!
 
+### Q
+
+Lotus Notes
+
 ### Warmup
 
 7-1Motivators
@@ -80525,6 +90697,10 @@ Pax were able to do 10 Core Exercises
 ---
 
 ## slow to accelerate
+
+### Q
+
+Criss-cross
 
 ### Warmup
 
@@ -80555,6 +90731,10 @@ Station 8: pigeon or child
 ---
 
 ## Murder Bunny Day
+
+### Q
+
+crop duster
 
 ### Warmup
 
@@ -80587,6 +90767,10 @@ Planks with rocking forward and side to side on Q's call.
 
 ## 3.8 Mason Miles
 
+### Q
+
+Keynote
+
 ### Warmup
 
 - Grass Grabbers
@@ -80605,6 +90789,10 @@ Skipped due to time it took to 3.8!
 ---
 
 ## Thunderstruck &amp; 11’s
+
+### Q
+
+Truckstop
 
 ### Warmup
 
@@ -80637,6 +90825,10 @@ Short mosey around the parking lot
 
 ## Murph prep - don’t go chasing waterfalls
 
+### Q
+
+Silicone
+
 ### Thang
 
 PAX held plank or Al Gore while 2 PAX came to middle and performed pull-ups merkins and squats then returned to circle and resumed plank or Al Gore. After all complete, mosey 1 lap. We completed 5 rounds.
@@ -80644,6 +90836,10 @@ PAX held plank or Al Gore while 2 PAX came to middle and performed pull-ups merk
 ---
 
 ## Pain and Suffering
+
+### Q
+
+Karat
 
 ### Warmup
 
@@ -80671,6 +90867,10 @@ BBSUs to Bring Sally Up
 
 ## Cribbage
 
+### Q
+
+Munchies
+
 ### Warmup
 
 Long slow Mosey, with a few stops for stretching
@@ -80688,6 +90888,10 @@ Imperial walkers and Hillbillies (also barely)
 
 ## Start Praying
 
+### Q
+
+Brad Pitt
+
 ### Warmup
 
 10 Burpees and 10 Hand Release Merkins
@@ -80699,6 +90903,10 @@ Abandon original plan and pivoted BD to under the canopy. Used the F3 deck of ca
 ---
 
 ## Three Amigos
+
+### Q
+
+Room Service, Jed
 
 ### Warmup
 
@@ -80742,6 +90950,10 @@ Rifle Carry back to point A
 ---
 
 ## Roll The Dice-  Vegas Baby!
+
+### Q
+
+Bobbit
 
 ### Warmup
 
@@ -80798,6 +91010,10 @@ No Mary
 
 ## Buy the Race!
 
+### Q
+
+Bucky
+
 ### Warmup
 
 Yoga stretching: Toe touches; downward dog; plank; pigeon right/left (reverse back up)
@@ -80832,6 +91048,10 @@ Freddie Mercury.
 
 ## Let’s Get Huge
 
+### Q
+
+BigTex
+
 ### Warmup
 
 Goofballs
@@ -80853,6 +91073,10 @@ Bear Brawls back up the Hill
 ---
 
 ## THUNDERSTRUCK & 4 Corners
+
+### Q
+
+Truckstop
 
 ### Warmup
 
@@ -80880,6 +91104,10 @@ Round 3:
 ---
 
 ## Hump Day!
+
+### Q
+
+Otter
 
 ### Warmup
 
@@ -80921,6 +91149,10 @@ Shoulder Taps
 
 ## Draft Day
 
+### Q
+
+Freshman
+
 ### Warmup
 
 (stretch OYO before)
@@ -80957,6 +91189,10 @@ Jerry Rice Hills
 
 ## Get a Grip (again but tougher)
 
+### Q
+
+Manny
+
 ### Warmup
 
 Willie Mays Hayes
@@ -80981,6 +91217,10 @@ Finished 3 rounds
 
 ## Let’s have some fun!
 
+### Q
+
+Dead Broke
+
 ### Thang
 
 3 rounds Start at the bottom of the hill and wait for the 6 to complete.
@@ -80996,6 +91236,10 @@ Skipped Mary
 ---
 
 ## Terrible Terrific Tuesday
+
+### Q
+
+Karat
 
 ### Warmup
 
@@ -81018,6 +91262,10 @@ After 14 minutes PAX switched
 ---
 
 ## Backblast
+
+### Q
+
+Rock Ride
 
 ### Warmup
 
@@ -81048,6 +91296,10 @@ Blockbusters and Alternating Coupon Merkins
 ---
 
 ## Don’t Be So Nosy
+
+### Q
+
+Hamburglar
 
 ### Warmup
 
@@ -81087,6 +91339,10 @@ Mosey back to flag with coupons
 
 ## Working Harder than A Panda Bear!
 
+### Q
+
+Gumbo (STL)
+
 ### Warmup
 
 Still warming up
@@ -81102,6 +91358,10 @@ white_check_mark:
 ---
 
 ## Mondays with Matchbox Rnd2 V3
+
+### Q
+
+Matchbox
 
 ### Warmup
 
@@ -81129,6 +91389,10 @@ Flutter kicks
 ---
 
 ## Mosey About
+
+### Q
+
+Thumper
 
 ### Warmup
 
@@ -81170,6 +91434,10 @@ Mosey up hill back to flags.
 
 ## A case of the Mondays
 
+### Q
+
+Karat
+
 ### Warmup
 
 7-1Motivators
@@ -81194,6 +91462,10 @@ After 16 minutes the groups switched.
 
 ## Monday- Runday
 
+### Q
+
+Stanley
+
 ### Warmup
 
 Grass grabbers
@@ -81211,6 +91483,10 @@ Rick Flair.
 ---
 
 ## The Bank Take 3: The Schism
+
+### Q
+
+PillowFight
 
 ### Warmup
 
@@ -81231,6 +91507,10 @@ Control Freak Merkin
 ---
 
 ## What a Difference a Year Makes
+
+### Q
+
+Schlitz
 
 ### Warmup
 
@@ -81303,6 +91583,10 @@ Station 5: PATHFINDER
 
 ## Backblast
 
+### Q
+
+D2
+
 ### Warmup
 
 - quick jog around soccer goals
@@ -81342,6 +91626,10 @@ PAX 10 count between each exercise
 
 ## Looked good on paper!
 
+### Q
+
+Jayhawk
+
 ### Warmup
 
 7/1 motivators
@@ -81378,6 +91666,10 @@ Freddie mercury
 ---
 
 ## Backblast
+
+### Q
+
+Worm
 
 ### Warmup
 
@@ -81417,6 +91709,10 @@ Losing Team Also gets to do 10 burpees
 ---
 
 ## Five Hole’s Fun Friday Beatdown
+
+### Q
+
+Five-Hole
 
 ### Warmup
 
@@ -81476,6 +91772,10 @@ Big Boy Sit Ups x 1
 
 ## It’s been a year … COOL RUNNINGS!
 
+### Q
+
+Sanka
+
 ### Warmup
 
 5-1 Motivators
@@ -81519,6 +91819,10 @@ And “the a sled crashed” and the Jamaicans were forced to finish the race an
 
 ## Blockeebuster Video
 
+### Q
+
+Catnip, Frozone
+
 ### Warmup
 
 - Rocky toe taps
@@ -81550,6 +91854,10 @@ PAX had to guess the titles of movies from the IMdB Top 250 based on clues. If t
 
 ## Battle Bear!
 
+### Q
+
+DOS
+
 ### Warmup
 
 Foot Touches IC
@@ -81577,6 +91885,10 @@ flutter kicks IC
 
 ## Terrible Terrific Thursday
 
+### Q
+
+Karat
+
 ### Warmup
 
 7-1Motivators
@@ -81601,6 +91913,10 @@ Low/hi planks to Bring Sally Up
 
 ## Backblast
 
+### Q
+
+Klinger
+
 ### Warmup
 
 - Grass Grabbers IC
@@ -81622,6 +91938,10 @@ No Mary
 ---
 
 ## Walk Worthy
+
+### Q
+
+rogerroger
 
 ### Warmup
 
@@ -81659,6 +91979,10 @@ Split into 2 Groups
 
 ## The Gingerbread Man-MYSTERY BOX FORGE
 
+### Q
+
+9 to 5
+
 ### Warmup
 
 4 things pax choice free to lead but make sort of fast so no 12-1 etc 5 min max
@@ -81689,6 +92013,10 @@ Held side plank ring of fire. Switched sides when had to drop. Lasted about 3 mi
 
 ## The Gingerbread Man-MYSTERY BOX FORGE
 
+### Q
+
+Bucky
+
 ### Warmup
 
 SSH/GoofBalls/Merkins/SSH
@@ -81714,6 +92042,10 @@ RND 10: Calf Raises 50
 ---
 
 ## The Gingerbread Man-MYSTERY BOX FORGE!
+
+### Q
+
+Hamburglar
 
 ### Warmup
 
@@ -81741,6 +92073,10 @@ ROUND 10: Calf Raises 50
 ---
 
 ## The Gingerbread Man-MYSTERY BOX FORGE
+
+### Q
+
+FlyBoy
 
 ### Warmup
 
@@ -81773,6 +92109,10 @@ COR, NOR
 
 ## The Gingerbread Man-MYSTERY BOX FORGE
 
+### Q
+
+Stanley
+
 ### Warmup
 
 Learning to Phelps
@@ -81799,6 +92139,10 @@ RND 5: Bent Rows 50
 ---
 
 ## Round and round we go
+
+### Q
+
+Baaarf
 
 ### Warmup
 
@@ -81833,6 +92177,10 @@ PAX made it through 2 cycles. The second cycle we paired up for the sled push an
 ---
 
 ## Arm Yourselves
+
+### Q
+
+Bushwood
 
 ### Warmup
 
@@ -81881,6 +92229,10 @@ Q tried to focus on going slow with a full range of motion on our reps. No half 
 
 ## Back to Basics
 
+### Q
+
+BUB
+
 ### Warmup
 
 SSHs
@@ -81907,6 +92259,10 @@ Flutter Kicks
 
 ## Backblast
 
+### Q
+
+Rock Ride
+
 ### Warmup
 
 - SSH IC
@@ -81928,6 +92284,10 @@ Round 4  | Run a lap + run to crosswalk & back    | 5 burpee tossovers, 10 clean
 ---
 
 ## Loneliness - the Burden
+
+### Q
+
+PillowFight
 
 ### Warmup
 
@@ -81974,6 +92334,10 @@ Parking Lot hustle.
 ---
 
 ## Loneliness - the Burden
+
+### Q
+
+Matchbox
 
 ### Warmup
 
@@ -82022,6 +92386,10 @@ Round B (10-15 min) without coupons. Connected and Encouraging
 ---
 
 ## Loneliness - the Burden
+
+### Q
+
+DOS
 
 ### Warmup
 
@@ -82079,6 +92447,10 @@ COR, NOR
 
 ## Loneliness - the Burden
 
+### Q
+
+Bobbit
+
 ### Warmup
 
 duck bouncers
@@ -82124,6 +92496,10 @@ Round B without coupons. Connected and Encouraging
 
 ## Backblast
 
+### Q
+
+Flatley
+
 ### Warmup
 
 5-1 Motivators
@@ -82151,6 +92527,10 @@ Mile Marker
 
 ## Pasta House
 
+### Q
+
+Fazoli
+
 ### Warmup
 
 5-1 motivators
@@ -82176,6 +92556,10 @@ Yoga Stretch
 ---
 
 ## Huckleberry CSAUP
+
+### Q
+
+Hamburglar, Klinger
 
 ### Warmup
 
@@ -82230,6 +92614,10 @@ Captain Thors (Started 1: 4 to 5: 20)
 
 ## The Taxman Cometh
 
+### Q
+
+Drizzle
+
 ### Warmup
 
 SSH's
@@ -82253,6 +92641,10 @@ Oblique crunches oyo
 ---
 
 ## Friday Slack! (This one definitely looked better on paper!)
+
+### Q
+
+Karat
 
 ### Warmup
 
@@ -82278,6 +92670,10 @@ Started a final round of 50 blockees with a rifle carry when time ran out.
 ---
 
 ## Backblast
+
+### Q
+
+Fish Fry
 
 ### Warmup
 
@@ -82334,6 +92730,10 @@ PAX Abs
 
 ## The Daily [COMPLETE]
 
+### Q
+
+Avis
+
 ### Warmup
 
 5-1 Motivators
@@ -82349,6 +92749,10 @@ Intervals were determined by PAX pulling a coupon (anchor) attached to a ~50 ft 
 ---
 
 ## A Twisted Fartlek'r
+
+### Q
+
+Big Spoon
 
 ### Warmup
 
@@ -82384,6 +92788,10 @@ Sitting Punches
 
 ## Buns of Steel
 
+### Q
+
+Klinger
+
 ### Warmup
 
 - Grass Grabbers IC
@@ -82412,6 +92820,10 @@ Sitting Punches
 ---
 
 ## Backblast
+
+### Q
+
+Pothole (SoSTL)
 
 ### Warmup
 
@@ -82460,6 +92872,10 @@ Continued to the right. New PAX tapped, new PAX ran. Random amount of time.
 
 ## 11’s on 4/11, THUNDER!
 
+### Q
+
+Truckstop
+
 ### Warmup
 
 12 Willy Mays Hays
@@ -82484,6 +92900,10 @@ Count A Rama = 12
 ---
 
 ## Carry that Weight
+
+### Q
+
+Schlitz
 
 ### Warmup
 
@@ -82539,6 +92959,10 @@ COR, NOR
 
 ## Dirty Diego
 
+### Q
+
+Rock Ride
+
 ### Warmup
 
 Goofballs IC
@@ -82567,6 +92991,10 @@ None
 ---
 
 ## DROP IT LIKE ITS HOT FRISBEE CHALLENGE
+
+### Q
+
+Bobbit
 
 ### Warmup
 
@@ -82623,6 +93051,10 @@ V ups ring of fire 5 ea, lemon squeezer ring of fire 5 ea,
 
 ## Backblast
 
+### Q
+
+Worm
+
 ### Warmup
 
 5-1 Motivators
@@ -82656,6 +93088,10 @@ Made it through 30 rounds.
 ---
 
 ## Wednesday Wake-up Call
+
+### Q
+
+Pothole (SoSTL)
 
 ### Warmup
 
@@ -82708,6 +93144,10 @@ Figure 4 stretch
 
 ## Training Day [COMPLETE]
 
+### Q
+
+BrownandBrown
+
 ### Warmup
 
 High Knees
@@ -82732,6 +93172,10 @@ Travel included crab walks, bear crawls, moseying, and imaginary rifle / farmer 
 
 ## Run The Race With Purpose
 
+### Q
+
+Rock Ride
+
 ### Warmup
 
 Goofballs (IC)
@@ -82751,6 +93195,10 @@ None
 ---
 
 ## How big is that field?
+
+### Q
+
+BUB
 
 ### Warmup
 
@@ -82806,6 +93254,10 @@ On six(es), Pax held leg raise position while each Pax called a particular hold 
 
 ## Loneliness- The Burden
 
+### Q
+
+D2
+
 ### Warmup
 
 Willie Mays Hayes 10 IC
@@ -82855,6 +93307,10 @@ PAX in a circle facing each other, hold a plank for 3-5 minutes. Q calls off an 
 
 ## Loneliness - the Burden
 
+### Q
+
+Bucky
+
 ### Warmup
 
 Monkey Humpers
@@ -82901,6 +93357,10 @@ Round B (10-15 min) without coupons. Connected and Encouraging
 ---
 
 ## Loneliness - the Burden
+
+### Q
+
+Stanley
 
 ### Warmup
 
@@ -82959,6 +93419,10 @@ PAX in a circle facing each other, hold a plank for 5 minutes. Q randomly called
 
 ## Loneliness - the Burden
 
+### Q
+
+Hamburglar
+
 ### Warmup
 
 Goofballs
@@ -83011,6 +93475,10 @@ PAX in a circle facing each other, hold a plank for 3-5 minutes. Q calls off an 
 ---
 
 ## Loneliness - the Burden
+
+### Q
+
+Otter
 
 ### Warmup
 
@@ -83070,6 +93538,10 @@ PAX in a circle facing each other, hold a plank for about 3 minutes. Q calls off
 
 ## It's Monday - Suck it Up Buttercup
 
+### Q
+
+Wilson (SpiritSTL)
+
 ### Warmup
 
 Abe Vagotas
@@ -83102,6 +93574,10 @@ Freddy Mercury's IC
 ---
 
 ## Mondays with Matchbox remix
+
+### Q
+
+Matchbox
 
 ### Warmup
 
@@ -83138,6 +93614,10 @@ Various leg and arm stretches
 
 ## Monday ~torture~ Fun!!
 
+### Q
+
+Freshman
+
 ### Warmup
 
 4 to 1 motivators
@@ -83152,6 +93632,10 @@ Alternating Tabata workout. Bleacher runs in between each set.
 ---
 
 ## Backblast
+
+### Q
+
+Worm
 
 ### Warmup
 
@@ -83181,6 +93665,10 @@ PAX jumped into the week with a little karaoke. Hits from everyone’s favorite 
 ---
 
 ## Pain is Nye
+
+### Q
+
+Bill Nye
 
 ### Warmup
 
@@ -83218,6 +93706,10 @@ Panic attach flutter kicks
 
 ## ? IT’S ALL ABOUT THE BENJAMINS, BABY ?
 
+### Q
+
+JWoww
+
 ### Warmup
 
 100 reps total
@@ -83253,6 +93745,10 @@ Child’s pose: smell the grass & taste the dirt
 
 ## Another Day at the Country Club
 
+### Q
+
+Rock Ride
+
 ### Warmup
 
 Learning to Phelps 10 IC
@@ -83285,6 +93781,10 @@ Abs Tabata timer, 30 seconds on, 5 seconds to change positions.
 
 ## Competitoins with Criss Cross
 
+### Q
+
+Criss-cross
+
 ### Warmup
 
 10 each in cadence - Seated Leg up and over the brick, stand it up if its to easy. No hands down if it is easy.
@@ -83310,6 +93810,10 @@ LBC's
 
 ## An Honest Day’s Work (Sorta)
 
+### Q
+
+Thumper
+
 ### Warmup
 
 - 5 to 1 motivators
@@ -83334,6 +93838,10 @@ in cadence
 ---
 
 ## This is The Way
+
+### Q
+
+Dowry
 
 ### Warmup
 
@@ -83414,6 +93922,10 @@ Stop 3: Freddy Mercurys IC x 20
 
 ## Pick Your Poison
 
+### Q
+
+Bushwood
+
 ### Warmup
 
 - 10 - Grass Grabbers
@@ -83459,6 +93971,10 @@ SQUARE #3 - Inner/Smallest Square - Crab Walk with Coupon Between Corners - Each
 
 ## 10x that  Friday morning workout
 
+### Q
+
+Dead Broke
+
 ### Warmup
 
 Grass Grabbers
@@ -83483,6 +93999,10 @@ Little Baby Crunches (LBC)
 ---
 
 ## Backblast
+
+### Q
+
+Jed
 
 ### Warmup
 
@@ -83510,6 +94030,10 @@ Bearcrawl to next station - Rinse and repeat
 ---
 
 ## MURDER MERKINS MODIFIED!
+
+### Q
+
+Bobbit
 
 ### Warmup
 
@@ -83562,6 +94086,10 @@ slow freedy straight leg mercuries
 
 ## 4's are Wild
 
+### Q
+
+Petey
+
 ### Warmup
 
 Downward Dog
@@ -83607,6 +94135,10 @@ Little baby crunches
 
 ## Let’s Get It!
 
+### Q
+
+Bliss
+
 ### Warmup
 
 - 5-to-1 Motivators
@@ -83638,6 +94170,10 @@ Lap around the Playground
 
 ## Hump Day!
 
+### Q
+
+Karat
+
 ### Warmup
 
 7-1Motivators
@@ -83659,6 +94195,10 @@ In between rounds were 40 yard jailbreaks.
 ---
 
 ## Inside Out Upside Down!
+
+### Q
+
+Bobbit
 
 ### Warmup
 
@@ -83690,6 +94230,10 @@ guantanamo!!!!  BIG GROUP
 
 ## Beach Body Time
 
+### Q
+
+Klinger
+
 ### Warmup
 
 Grass Grabbers, Abe Vigoda, Baby arm cicles both direction, IC x 10
@@ -83719,6 +94263,10 @@ We did Hipflexor raises over the coupon, IC x 10 each side. Next, we did a force
 
 ## Backblast
 
+### Q
+
+Breaking Bad
+
 ### Warmup
 
 5 to 1 Motivators
@@ -83747,6 +94295,10 @@ Big Boy Sit-Ups OYO x15
 ---
 
 ## Train Like a Gymnast
+
+### Q
+
+Hamburglar
 
 ### Warmup
 
@@ -83786,6 +94338,10 @@ Stations:
 
 ## Backblast
 
+### Q
+
+Room Service
+
 ### Warmup
 
 Abe Vigoda
@@ -83823,6 +94379,10 @@ Plank position yelling “Tap” you tap coupon, yell “Climb” switch to moun
 
 ## Backblast
 
+### Q
+
+Fazoli
+
 ### Warmup
 
 5-1 Motivators
@@ -83859,6 +94419,10 @@ Pick up 6 and 1 lap around the track
 ---
 
 ## Monty Python’s Flying Circus Season 1
+
+### Q
+
+Ratigan
 
 ### Warmup
 
@@ -83919,6 +94483,10 @@ Just a Flesh Wound Black Knight kicking and screaming (Flutter Kicks) 25 IC
 
 ## Check yourself before ya wreck yo self
 
+### Q
+
+TheBeav
+
 ### Warmup
 
 5 to 1 motivators
@@ -83950,6 +94518,10 @@ NOR yes
 
 ## We exercised, no foolin!
 
+### Q
+
+Truckstop
+
 ### Warmup
 
 12 Willy Mays Hays
@@ -83977,6 +94549,10 @@ Count A Rama = 12
 ---
 
 ## Defend the Wall
+
+### Q
+
+rogerroger
 
 ### Warmup
 
@@ -84030,6 +94606,10 @@ Mosie Back to Flags
 
 ## April Fools
 
+### Q
+
+JanBrady
+
 ### Warmup
 
 SSH 50 IC
@@ -84061,6 +94641,10 @@ Boats 'n Canoes, Flutter Kicks, Plank while PAX each shared one thing they are l
 
 ## Foolin' Around
 
+### Q
+
+Schlitz
+
 ### Warmup
 
 Stretch OYO during core principles, mission, credo, disclaimer, CPR
@@ -84078,6 +94662,10 @@ Flutter kicks
 ---
 
 ## April Fool's Day
+
+### Q
+
+Bushwood
 
 ### Warmup
 
@@ -84122,6 +94710,10 @@ SQUARE #3 - Inner/Smallest Square - Crab Walk with Coupon Between Corners - Each
 
 ## Why are you so far away?
 
+### Q
+
+Schlitz
+
 ### Warmup
 
 Little Baby Arm Circles
@@ -84146,6 +94738,10 @@ Single-leg Flutter Kicks, each side
 
 ## John Wick body count
 
+### Q
+
+Captain Underpants
+
 ### Warmup
 
 10 SSH / 10 Squats IC x 5 rounds
@@ -84165,6 +94761,10 @@ Figure 8 lap
 ---
 
 ## burden
+
+### Q
+
+DOS
 
 ### Warmup
 
@@ -84197,6 +94797,10 @@ good mornings
 
 ## This is Not Suffering
 
+### Q
+
+Schlitz
+
 ### Warmup
 
 Grass Grabbers
@@ -84222,6 +94826,10 @@ Mountain Climbers, alternating fast and slow
 ---
 
 ## Humans are Complex Beings
+
+### Q
+
+Schlitz
 
 ### Warmup
 
@@ -84258,6 +94866,10 @@ COR, NOR:
 ---
 
 ## Half Full
+
+### Q
+
+BrownOut
 
 ### Warmup
 
@@ -84301,6 +94913,10 @@ Child's Pose
 
 ## 30for30 - Pushing Past Our Limits
 
+### Q
+
+Gumbo (STL)
+
 ### Warmup
 
 - Goofballs w/ Disclaimer - OYO
@@ -84332,6 +94948,10 @@ Penguin Tappers - IC
 
 ## 30for30 - Pushing Past Our Limits
 
+### Q
+
+Gumbo (STL)
+
 ### Warmup
 
 - SSHs - In Control Freak Cadence!
@@ -84357,6 +94977,10 @@ RECOVER RECOVER called - and noted time RIGHT AT 6:00a!  VERY NICE, PAX!!!
 ---
 
 ## Back in Action
+
+### Q
+
+Bill Nye
 
 ### Warmup
 
@@ -84385,6 +95009,10 @@ Box jumps
 
 ## 2024 Quarter 1 Physical Fitness Test
 
+### Q
+
+BigTex
+
 ### Warmup
 
 SSH - IC
@@ -84410,6 +95038,10 @@ Low Plank for as long as possible
 ---
 
 ## Climbing the Ladder
+
+### Q
+
+Rock Chalk
 
 ### Warmup
 
@@ -84444,6 +95076,10 @@ PAX lined up at the field. Always perform 10 reps of each exercise, run to the l
 
 ## This week is different
 
+### Q
+
+FlyBoy
+
 ### Warmup
 
 6-1 Motivators
@@ -84471,6 +95107,10 @@ LBC’s IC - 20
 
 ## Monthly Murph prep- this is a test
 
+### Q
+
+Silicone
+
 ### Warmup
 
 Learning to Phelps x 10 IC
@@ -84489,6 +95129,10 @@ stretch and cooldown OYO
 ---
 
 ## Backblast
+
+### Q
+
+1chain
 
 ### Warmup
 
@@ -84528,6 +95172,10 @@ Gather around in a circle and take turns picking a workout from the hat. Everyon
 ---
 
 ## Backblast
+
+### Q
+
+Emilio
 
 ### Warmup
 
@@ -84582,6 +95230,10 @@ Imperial Walkers
 ---
 
 ## The Pain Train:tram:
+
+### Q
+
+Hamburglar
 
 ### Warmup
 
@@ -84662,6 +95314,10 @@ focus on cool down stretching~
 
 ## Backblast
 
+### Q
+
+Bushwood
+
 ### Warmup
 
 - 6 - SLOW Willie Mays Hayes
@@ -84713,6 +95369,10 @@ We tried to focus on going slow with a full range of motion on our reps. No half
 
 ## Men's Mental Health Matters
 
+### Q
+
+Rock Ride
+
 ### Warmup
 
 SSH 20 IC
@@ -84745,6 +95405,10 @@ none
 
 ## Get a Grip
 
+### Q
+
+Manny
+
 ### Warmup
 
 - Willie Mayes Hayes
@@ -84773,6 +95437,10 @@ Pt 2. NAMRAP circuit (45 seconds on, 15 off)
 ---
 
 ## Escape the Trap
+
+### Q
+
+Olav
 
 ### Warmup
 
@@ -84810,6 +95478,10 @@ Recover to the Flag
 
 ## Tag Team, Back Again
 
+### Q
+
+Baaarf
+
 ### Warmup
 
 - 5-1 motivators
@@ -84836,6 +95508,10 @@ PAX completed 9 laps
 
 ## Death by KC Runner
 
+### Q
+
+rogerroger
+
 ### Warmup
 
 - 5:1 Motivators
@@ -84861,6 +95537,10 @@ Heavy Step-ups on Bleachers
 
 ## This is going to be tough
 
+### Q
+
+Klinger
+
 ### Warmup
 
 Grass Grabbers x 10 IC
@@ -84881,6 +95561,10 @@ Hip Flexors OYO 10 x both legs
 ---
 
 ## The Mental Battle: Easier and Stronger
+
+### Q
+
+Truckstop
 
 ### Warmup
 
@@ -84933,6 +95617,10 @@ Count A Rama = 12
 
 ## Peace Treaty: No Civil War
 
+### Q
+
+Bucky
+
 ### Warmup
 
 SSH
@@ -84967,6 +95655,10 @@ Broga
 
 ## Friday Fun
 
+### Q
+
+Karat
+
 ### Warmup
 
 7-1 Motivators
@@ -84989,6 +95681,10 @@ Suicides consisted of
 ---
 
 ## Competitions with Criss Cross
+
+### Q
+
+Criss-cross
 
 ### Warmup
 
@@ -85052,6 +95748,10 @@ Jailbreak
 
 ## Get A Grip
 
+### Q
+
+Manny
+
 ### Warmup
 
 - Willie Mayes Hayes
@@ -85074,6 +95774,10 @@ AMRAP (45 seconds on, 15 off) circuit
 ---
 
 ## Backblast
+
+### Q
+
+9 to 5
 
 ### Warmup
 
@@ -85107,6 +95811,10 @@ AMRAP (45 seconds on, 15 off) circuit
 
 ## silicones manniversary beat down
 
+### Q
+
+Silicone
+
 ### Warmup
 
 - Learning to Phelps IC
@@ -85132,6 +95840,10 @@ Performed various stretches OYO
 
 ## Madness Begins!
 
+### Q
+
+DRP
+
 ### Thang
 
 PAX partnered up and switched back and forth with the following exercises
@@ -85154,6 +95866,10 @@ Cool Down Lap
 ---
 
 ## Backblast
+
+### Q
+
+Freshman
 
 ### Warmup
 
@@ -85186,6 +95902,10 @@ Bring Sally up
 ---
 
 ## Focus on Form NAMRAP
+
+### Q
+
+Manny
 
 ### Warmup
 
@@ -85220,6 +95940,10 @@ Stations:
 ---
 
 ## Guaranteed CPA Beatdown
+
+### Q
+
+Kelly
 
 ### Warmup
 
@@ -85272,6 +95996,10 @@ Crunchy Frog
 ---
 
 ## T.A.B.A.T.A.-
+
+### Q
+
+Hamburglar
 
 ### Warmup
 
@@ -85326,6 +96054,10 @@ Travel: ~Step backs and Row~ Mule Pull
 
 ## Love the Journey More Than the Destination
 
+### Q
+
+Rock Ride
+
 ### Warmup
 
 Goodballs 20 IC
@@ -85375,6 +96107,10 @@ COR /
 
 ## Flag Day
 
+### Q
+
+Brad Pitt
+
 ### Warmup
 
 5 to 1 Motivators
@@ -85393,6 +96129,10 @@ After Mosey completed the following exercises...15 perfect merkins....15 BBSUs..
 ---
 
 ## Awkward!
+
+### Q
+
+Stanley
 
 ### Warmup
 
@@ -85443,6 +96183,10 @@ Big Boy Sit Ups
 
 ## What goes up must come down.
 
+### Q
+
+Bucky
+
 ### Warmup
 
 - SSH
@@ -85486,6 +96230,10 @@ Superman
 
 ## Backblast
 
+### Q
+
+Drop Out (SpiritSTL)
+
 ### Warmup
 
 SSH IC 70
@@ -85512,6 +96260,10 @@ jog in place with tuck jumps
 ---
 
 ## Faust Park
+
+### Q
+
+Dowry
 
 ### Warmup
 
@@ -85559,6 +96311,10 @@ Mosey back to start
 
 ## Daily Red pill
 
+### Q
+
+Mayfield
+
 ### Warmup
 
 Goofballs
@@ -85591,6 +96347,10 @@ Sprint to lights and back
 
 ## Backblast
 
+### Q
+
+9 to 5
+
 ### Warmup
 
 - Goofballs
@@ -85617,6 +96377,10 @@ COR & NOR
 ---
 
 ## Burpee Ball!!!!
+
+### Q
+
+Manscapes
 
 ### Warmup
 
@@ -85661,6 +96425,10 @@ Boat Canoe
 
 ## Bucky's Bar!
 
+### Q
+
+Bucky
+
 ### Warmup
 
 Mosey to the light.
@@ -85689,6 +96457,10 @@ j.) Suit case Squats
 
 ## Monday Morning Blues.
 
+### Q
+
+Otter
+
 ### Warmup
 
 SSH IC
@@ -85709,6 +96481,10 @@ Rd 1                          Rd 2                          Rd3                 
 ---
 
 ## Backblast
+
+### Q
+
+Dowry
 
 ### Warmup
 
@@ -85743,6 +96519,10 @@ High Low Planks IC x 15
 ---
 
 ## Stroll Through the Woods...  or Tour of Chesterfield City Park
+
+### Q
+
+Wilson (SpiritSTL)
 
 ### Warmup
 
@@ -85789,6 +96569,10 @@ Mosey through the Amphitheater, then over to the new lake.  20 BBSU and then Mos
 
 ## Luck of the Irish
 
+### Q
+
+Rumple Minze
+
 ### Warmup
 
 7-1 Motivators
@@ -85816,6 +96600,10 @@ Luck of the Irish...a roll of the dice decided our fate which each round separat
 ---
 
 ## Swing Your Partner Round and Round!
+
+### Q
+
+Brigham Young
 
 ### Warmup
 
@@ -85847,6 +96635,10 @@ COR, NOR:
 
 ## Beward the Ides of March
 
+### Q
+
+Baaarf
+
 ### Warmup
 
 - SSH x 10 IC
@@ -85873,6 +96665,10 @@ Coupon race! PAX line up in the end zone on one sideline, perpendicular to the s
 
 ## Unpaid Landscaping Work
 
+### Q
+
+Topeka
+
 ### Warmup
 
 Drive to Topekas house
@@ -85884,6 +96680,10 @@ PAX moved about 30 heavy landscaping stones from Topeka’s backyard into a trai
 ---
 
 ## Kate Bush’s ideal Friday
+
+### Q
+
+Freshman
 
 ### Warmup
 
@@ -85921,6 +96721,10 @@ Sally is BACK!
 
 ## Shoulda, coulda, woulda
 
+### Q
+
+Flatley
+
 ### Warmup
 
 LB Arm Circles
@@ -85954,6 +96758,10 @@ Arnold with Boats and Canoes
 ---
 
 ## Be The Storm
+
+### Q
+
+Bobbit
 
 ### Warmup
 
@@ -86002,6 +96810,10 @@ Boats and Canoes too many speed rnd until time
 ---
 
 ## Workout with Sazon! Whepa!
+
+### Q
+
+Neymar
 
 ### Warmup
 
@@ -86052,6 +96864,10 @@ Salsa dancing- bring your best moves into the circle.
 
 ## a workout title
 
+### Q
+
+DOS
+
 ### Warmup
 
 Mosey round the track
@@ -86072,6 +96888,10 @@ Flutter Kicks IC
 ---
 
 ## It's Pi Day
+
+### Q
+
+BUB
 
 ### Warmup
 
@@ -86120,6 +96940,10 @@ Pax moved to their six for a round of LBCs. In consecutive 30 second increments,
 
 ## Cruisin USA
 
+### Q
+
+Bill Nye
+
 ### Warmup
 
 6 to 1 motivator
@@ -86159,6 +96983,10 @@ Tootsie Roll
 
 ## Perpetual Motion
 
+### Q
+
+Bill Nye
+
 ### Warmup
 
 5 to 1 motivators
@@ -86194,6 +97022,10 @@ Completed as part of BD
 
 ## 1781 Discovery
 
+### Q
+
+Munchies
+
 ### Warmup
 
 Motivators: 13-6 mixed in with Mission, Credo, Principles and a plethora of Uranus quips
@@ -86218,6 +97050,10 @@ Hillbillies, Prisoner Good Morning
 ---
 
 ## Nothin' Fancy
+
+### Q
+
+BUB
 
 ### Warmup
 
@@ -86246,6 +97082,10 @@ Finished BD with walkout merkin ladder from 10 to 1 = 55 reps total.
 
 ## Show and tell
 
+### Q
+
+Silicone
+
 ### Thang
 
 PAX completed several rounds of 45s intervals with each PAX coming up with an exercise for each “station”
@@ -86253,6 +97093,10 @@ PAX completed several rounds of 45s intervals with each PAX coming up with an ex
 ---
 
 ## Mix and Match
+
+### Q
+
+TheBeav
 
 ### Warmup
 
@@ -86269,6 +97113,10 @@ Bear Crawl Suicides
 ---
 
 ## Backblast
+
+### Q
+
+Fish Fry
 
 ### Warmup
 
@@ -86314,6 +97162,10 @@ Repeat
 
 ## DRP at GWL (Great Wolf Lodge, Gurnee, IL)
 
+### Q
+
+Schlitz
+
 ### Warmup
 
 - lap around the lot
@@ -86339,6 +97191,10 @@ Repeat
 ---
 
 ## Beach Body
+
+### Q
+
+Klinger
 
 ### Warmup
 
@@ -86384,6 +97240,10 @@ The thang consisted of rounds where we alternated our travel between the first a
 ---
 
 ## Find your happy place
+
+### Q
+
+Bucky
 
 ### Warmup
 
@@ -86431,6 +97291,10 @@ Various Broga moves
 ---
 
 ## MJC Exploration
+
+### Q
+
+Truckstop
 
 ### Warmup
 
@@ -86481,6 +97345,10 @@ Mosey around track .3 miles
 
 ## Backblast
 
+### Q
+
+Shower House
+
 ### Warmup
 
 30 Side Straddle Hops – IC
@@ -86514,6 +97382,10 @@ Played the Rock Chalk song.  Goofball while the song played and a burpee every t
 
 ## Mondays with Matchbox V3
 
+### Q
+
+Matchbox
+
 ### Warmup
 
 5-1 motivators, Batwings, Learning to Phelps, Piano Tappers, Grass Grabbers
@@ -86529,6 +97401,10 @@ Flutter Kicks, LBCs, PAX
 ---
 
 ## CORE, LEGS, CARDIO, CORE, LEGS
+
+### Q
+
+Charmin
 
 ### Warmup
 
@@ -86579,6 +97455,10 @@ RECOVER-RECOVER
 
 ## Blockee Bonanza
 
+### Q
+
+Rock Chalk
+
 ### Warmup
 
 - 6-1 Motivators
@@ -86609,6 +97489,10 @@ RECOVER-RECOVER
 
 ## Backblast
 
+### Q
+
+Silicone
+
 ### Warmup
 
 Mosey
@@ -86636,6 +97520,10 @@ cooled down with slow stretching
 ---
 
 ## wholesome
+
+### Q
+
+DOS
 
 ### Warmup
 
@@ -86670,6 +97558,10 @@ Flutter Kicks IC
 
 ## Backblast
 
+### Q
+
+Rot Gut
+
 ### Warmup
 
 Toe Touch – 10 count hold
@@ -86697,6 +97589,10 @@ Flutterkicks – 10 IC
 
 ## The takeoff of WetnWild!
 
+### Q
+
+Uncle Buck, WetnWild
+
 ### Thang
 
 Split into groups of 2 while one ran and other did the exercise on board.
@@ -86709,6 +97605,10 @@ New Zealand Heavy Holds
 ---
 
 ## Backblast
+
+### Q
+
+1chain
 
 ### Warmup
 
@@ -86754,6 +97654,10 @@ American Hammers- 15
 
 ## Friday Fun
 
+### Q
+
+Karat
+
 ### Warmup
 
 7-1 Motivators
@@ -86780,6 +97684,10 @@ High low planks to Bring Sally Up
 ---
 
 ## You are your own worst enemy
+
+### Q
+
+Schlitz
 
 ### Warmup
 
@@ -86821,6 +97729,10 @@ Star Jacks
 
 ## Bringing the City Madness to West County!
 
+### Q
+
+DRP
+
 ### Warmup
 
 Grass Grabbers
@@ -86845,6 +97757,10 @@ Everyone picked up the 6
 ---
 
 ## Passing of the Flags
+
+### Q
+
+Pothole (SoSTL), Dowry
 
 ### Warmup
 
@@ -86886,6 +97802,10 @@ La-Z Boys - everyone went around the circle telling the group something good or 
 
 ## It's almost Madness time!
 
+### Q
+
+Drizzle
+
 ### Warmup
 
 7-1 motivators
@@ -86904,6 +97824,10 @@ Lemon squeezers ic
 ---
 
 ## Let’s Hangout
+
+### Q
+
+Manny
 
 ### Warmup
 
@@ -86932,6 +97856,10 @@ Boats and canoes
 ---
 
 ## Backblast
+
+### Q
+
+Fish Fry
 
 ### Warmup
 
@@ -86992,6 +97920,10 @@ Repeat.  Did not repeat due to time.
 
 ## Backblast
 
+### Q
+
+Shower House
+
 ### Warmup
 
 35 Side Straddle Hops - IC
@@ -87020,6 +97952,10 @@ Monkey Humpers
 
 ## Backblast
 
+### Q
+
+Keys
+
 ### Warmup
 
 5 ×1 Motivators
@@ -87038,6 +97974,10 @@ Counted off by 3s.  Used a 10 minute Tabata timer (45 on and 15 rest).  Each gro
 ---
 
 ## Anniversary of Missouri Compromise
+
+### Q
+
+Munchies
 
 ### Warmup
 
@@ -87064,6 +98004,10 @@ Mountain Climbers, Hillbillies
 
 ## How are you doing?
 
+### Q
+
+FlyBoy
+
 ### Warmup
 
 6-1 Motivators (did we do 6-1 twice?)
@@ -87086,6 +98030,10 @@ LBC’s – 12
 ---
 
 ## A day at the rink
+
+### Q
+
+Mello Yello
 
 ### Warmup
 
@@ -87125,6 +98073,10 @@ For Fun- Jailbreak the hill, Mosey down
 ---
 
 ## Arkham Squares
+
+### Q
+
+Bushwood
 
 ### Warmup
 
@@ -87170,6 +98122,10 @@ SQUARE #3 - Inner/Smallest Square - Crab Walk with Coupon Between Corners - Each
 
 ## Change is Good & Necessary.
 
+### Q
+
+Noah, Manny
+
 ### Warmup
 
 5-1 Motivators
@@ -87191,6 +98147,10 @@ Ring of Fire, hold plank 3 pushups down to 1
 ---
 
 ## Early Tee-Time
+
+### Q
+
+Double D
 
 ### Warmup
 
@@ -87219,6 +98179,10 @@ Exercise 3: SSH's (2 rounds for the sake of time)
 
 ## Wake up, wake up, wake up, it’s the 4th of the month
 
+### Q
+
+TheBeav
+
 ### Warmup
 
 5:1 motivators
@@ -87240,6 +98204,10 @@ Murder bunny 15 yards out, stop 15 blockees, resurrection bunny 15 more yards ou
 
 ## Merkin Bunnies?
 
+### Q
+
+Gilligan
+
 ### Thang
 
 4 Corners, Merkin Version
@@ -87255,6 +98223,10 @@ AH with coupon, 4 count leg raises
 ---
 
 ## Mondays with Matchbox V2
+
+### Q
+
+Matchbox
 
 ### Warmup
 
@@ -87297,6 +98269,10 @@ LBCs
 
 ## Monday Morning Madness
 
+### Q
+
+Otter
+
 ### Warmup
 
 6-1 Motivators
@@ -87327,6 +98303,10 @@ Flutter Kicks IC 25 ct
 
 ## Lewis and Clark
 
+### Q
+
+Drizzle
+
 ### Warmup
 
 7-1 motivators
@@ -87352,6 +98332,10 @@ Lemon squeezers
 
 ## The After Party
 
+### Q
+
+Flatley
+
 ### Warmup
 
 - 5-1 Motivators
@@ -87376,6 +98360,10 @@ Run to new location
 
 ## How do you eat an elephant?
 
+### Q
+
+Schlitz
+
 ### Warmup
 
 Grass Grabbers
@@ -87392,6 +98380,10 @@ Queen's "Bicycle Race": Freddy Mercuries while they say "Bicycle", otherwise Big
 ---
 
 ## The Next 43 Feet
+
+### Q
+
+PillowFight, Rock Ride
 
 ### Warmup
 
@@ -87418,6 +98410,10 @@ Dying Cockroaches 20 IC
 ---
 
 ## 1 year Maniversary (Operation save Sad Clown)
+
+### Q
+
+Bucky
 
 ### Warmup
 
@@ -87456,6 +98452,10 @@ Decline plank to failure (Lasted 3 minutes before called for time)
 
 ## If it's Friday, then it must be Fun
 
+### Q
+
+Schlitz
+
 ### Warmup
 
 Grass Grabbers
@@ -87485,6 +98485,10 @@ Slow mountain climbers
 ---
 
 ## Travelin’ Men (We pivoted to the hallway due to YHC had ground work on the field planned originally)
+
+### Q
+
+Ferkloch
 
 ### Warmup
 
@@ -87525,6 +98529,10 @@ Plank (held for a 10 ct.)
 
 ## Man – iversary 1.1
 
+### Q
+
+Stanley
+
 ### Warmup
 
 5 to 1 motivators
@@ -87561,6 +98569,10 @@ Parker Peters to Single Leg Flutter Kicks (left leg)
 
 ## The Boy Bands Getting Back Together
 
+### Q
+
+Room Service
+
 ### Warmup
 
 Learning to Phelps
@@ -87586,6 +98598,10 @@ Bear crawl and crab walk until station 2 exercises were complete
 ---
 
 ## Man – iversary 1.0
+
+### Q
+
+Stanley
 
 ### Thang
 
@@ -87619,6 +98635,10 @@ Plankjacks to Leg Circles (counter clockwise)
 ---
 
 ## Hump day
+
+### Q
+
+Jayhawk
 
 ### Warmup
 
@@ -87665,6 +98685,10 @@ PAX led us in a round of boat/canoes
 
 ## 89 Days to Go
 
+### Q
+
+Schlitz
+
 ### Warmup
 
 Warrior pose - Core Principles, Mission, Credo
@@ -87701,6 +98725,10 @@ COR, NOR
 
 ## A Royale w/ Cheese
 
+### Q
+
+Hamburglar
+
 ### Warmup
 
 7 to 1 Motivators (IC)
@@ -87729,6 +98757,10 @@ DO (25) MERKINS, (50) JUMP SQUATS, (75) MOUNTAIN CLIMBERS, (100) SSH’S. RIFLE 
 
 ## Weighted Vest Wednesdays
 
+### Q
+
+Brad Pitt
+
 ### Warmup
 
 Mosey around the track with exercise at intervals
@@ -87751,6 +98783,10 @@ On the hill by the trees for a wind break
 ---
 
 ## Backblast
+
+### Q
+
+9 to 5
 
 ### Warmup
 
@@ -87788,6 +98824,10 @@ Recover Recover aka “The drugs stop here.” - The Culps
 
 ## Back to the Basics + the Beast
 
+### Q
+
+Rock Chalk
+
 ### Warmup
 
 - SSH IC
@@ -87813,6 +98853,10 @@ The Beast: Perform 6 reps of 6 exercises each, travel to next station and repeat
 ---
 
 ## Bring on the heat wave!
+
+### Q
+
+Emilio
 
 ### Warmup
 
@@ -87854,6 +98898,10 @@ Cat Stretch
 
 ## Stretch Yourself
 
+### Q
+
+Bisquick
+
 ### Warmup
 
 - 25 side straddle hops
@@ -87871,6 +98919,10 @@ Cat Stretch
 ---
 
 ## Backblast
+
+### Q
+
+9 to 5
 
 ### Warmup
 
@@ -87903,6 +98955,10 @@ Recover Recover aka “Everything is awesome” - The PAX Movie
 ---
 
 ## Weather is heating up…..you know what that means get ‘em guns out!
+
+### Q
+
+DRP
 
 ### Warmup
 
@@ -87937,6 +98993,10 @@ WW3 Sit Ups waterfall 3 rounds!
 
 ## Journey to 100
 
+### Q
+
+Drizzle
+
 ### Warmup
 
 7-1 motivators
@@ -87968,6 +99028,10 @@ American hammers IC
 
 ## Mondays with Matchbox V1
 
+### Q
+
+Matchbox
+
 ### Warmup
 
 5-1 motivators
@@ -87995,6 +99059,10 @@ Supermans (of the flex and hold variety)
 ---
 
 ## Roux 500
+
+### Q
+
+crop duster
 
 ### Warmup
 
@@ -88025,6 +99093,10 @@ None due to time
 
 ## Preparing the Road
 
+### Q
+
+TheBeav
+
 ### Warmup
 
 7:1 motivators
@@ -88053,6 +99125,10 @@ WWIII sit ups. Went around the circle twice each pax counted off one rep. Q coul
 ---
 
 ## Backblast
+
+### Q
+
+Nikola
 
 ### Warmup
 
@@ -88084,6 +99160,10 @@ Plank
 
 ## Dora visits Pathfinder
 
+### Q
+
+Drizzle
+
 ### Warmup
 
 SSH's
@@ -88109,6 +99189,10 @@ American hammers IC
 ---
 
 ## Freed To Lead Meets QSource!
+
+### Q
+
+Gumbo (STL)
 
 ### Warmup
 
@@ -88143,6 +99227,10 @@ _RECOVER, RECOVER!_
 
 ## So many versions of fun
 
+### Q
+
+DOS
+
 ### Warmup
 
 `Some moseying, some stretching, some more moseying`
@@ -88175,6 +99263,10 @@ _RECOVER, RECOVER!_
 
 ## Fun Friday!!!
 
+### Q
+
+Thumper
+
 ### Warmup
 
 - Abigotas
@@ -88198,6 +99290,10 @@ Mosey to Basketball Court- divide into teams.
 ---
 
 ## Choose Your Hard
+
+### Q
+
+rogerroger
 
 ### Warmup
 
@@ -88233,6 +99329,10 @@ Following Set Repeated 1x
 
 ## Monthly Murph Prep - Move
 
+### Q
+
+Silicone
+
 ### Warmup
 
 - Learning to Phelps (IC)
@@ -88263,6 +99363,10 @@ Recover x2
 ---
 
 ## Trifecta!
+
+### Q
+
+Otter
 
 ### Warmup
 
@@ -88308,6 +99412,10 @@ PAX PAX set the pace and didn't let up!
 
 ## 3-year Anniversary ….. an Ode to the HIMS of World Headquarters
 
+### Q
+
+Duke
+
 ### Warmup
 
 - SSH
@@ -88331,6 +99439,10 @@ See above
 ---
 
 ## Rain or Shine
+
+### Q
+
+DOS
 
 ### Warmup
 
@@ -88356,6 +99468,10 @@ flutter kicks IC
 ---
 
 ## Strength vs Cardio
+
+### Q
+
+Schlitz
 
 ### Warmup
 
@@ -88395,6 +99511,10 @@ Slow Mountain Climbers
 
 ## Backblast
 
+### Q
+
+Worm
+
 ### Warmup
 
 5-1 Motivators
@@ -88414,6 +99534,10 @@ Finished a bit early so did a lap around the school to close out.
 ---
 
 ## Backblast
+
+### Q
+
+Kelly
 
 ### Warmup
 
@@ -88452,6 +99576,10 @@ Finished with 20 American Hammers
 ---
 
 ## Backblast
+
+### Q
+
+Fish Fry
 
 ### Warmup
 
@@ -88499,6 +99627,10 @@ None
 
 ## Back Where We Started
 
+### Q
+
+FlyBoy
+
 ### Warmup
 
 11-8 Motivators
@@ -88529,6 +99661,10 @@ COR, NOR
 
 ## VQ Tug of War
 
+### Q
+
+Satellite
+
 ### Warmup
 
 - Learning to Phelps (IC)
@@ -88552,6 +99688,10 @@ Round#6 (Anyone remember?) - One last round of tug of war with no further exerci
 ---
 
 ## Tuesday To-Go
+
+### Q
+
+Pothole (SoSTL)
 
 ### Warmup
 
@@ -88612,6 +99752,10 @@ Leg lift x 1 Minute
 
 ## Hypertrophy Style
 
+### Q
+
+Karat
+
 ### Warmup
 
 7-1 Motivators
@@ -88640,6 +99784,10 @@ Flutterkicks ICx30
 ---
 
 ## Vegetables
+
+### Q
+
+DOS
 
 ### Warmup
 
@@ -88670,6 +99818,10 @@ Flutter Kicks IC
 ---
 
 ## Power Trio
+
+### Q
+
+Schlitz
 
 ### Warmup
 
@@ -88704,6 +99856,10 @@ Single Leg Flutters - each side
 
 ## 600 Rep Polyrhythmic Death Set
 
+### Q
+
+PillowFight
+
 ### Warmup
 
 25 6-count burpees / 1 lap / old man stretch
@@ -88728,6 +99884,10 @@ Walk a lap in silence.
 ---
 
 ## President's Day
+
+### Q
+
+Schlitz
 
 ### Warmup
 
@@ -88764,6 +99924,10 @@ Slow Hold Mountain Climbers
 ---
 
 ## Stay Fausty
+
+### Q
+
+Wayne Babies
 
 ### Warmup
 
@@ -88806,6 +99970,10 @@ American Hammer
 
 ## Backblast
 
+### Q
+
+Savers
+
 ### Warmup
 
 Cody Parkeys (Abe vigoda/ PAX combo)
@@ -88841,6 +100009,10 @@ PAX each took turns kicking about a 30yrd field goal. Make it everyone does 10 b
 
 ## Backblast
 
+### Q
+
+Bliss
+
 ### Warmup
 
 5 to 1 Motivators
@@ -88866,6 +100038,10 @@ Freddie Mercury’s for the duration of Bicycle
 ---
 
 ## The Way is F3
+
+### Q
+
+Bushwood, Brad Pitt
 
 ### Warmup
 
@@ -88894,6 +100070,10 @@ Freddie Mercury’s for the duration of Bicycle
 
 ## Runaway Groom
 
+### Q
+
+Harry C
+
 ### Warmup
 
 Willy May
@@ -88911,6 +100091,10 @@ A little Mary followed by a Fireball and water toast to PAX.
 ---
 
 ## Batter Up
+
+### Q
+
+Worm
 
 ### Warmup
 
@@ -88961,6 +100145,10 @@ Rifle Carry Home
 
 ## Bringing FunFridays Back to THE ROUX!!!
 
+### Q
+
+Gumbo (STL)
+
 ### Warmup
 
 - SSHs - IC
@@ -88991,6 +100179,10 @@ Roll-Over, Mary!!!_
 
 ## Embrace the Good Wolf Within
 
+### Q
+
+Blowout
+
 ### Warmup
 
 - 10 - Slow Count Grass Grabbers
@@ -89015,6 +100207,10 @@ Paused at 5:50 to head back to the rally point for Mary
 ---
 
 ## Filthy Fifty WOD
+
+### Q
+
+Hamburglar
 
 ### Warmup
 
@@ -89049,6 +100245,10 @@ High Plank - Low Plank Challenge
 
 ## The Opposite of Sex
 
+### Q
+
+PillowFight
+
 ### Warmup
 
 25 6-count Burpees / Old Man Stretch / Batwing
@@ -89065,6 +100265,10 @@ Even though TEAM2 lost very very badly, that really was a you VS you workout: le
 ---
 
 ## Backblast
+
+### Q
+
+Worm
 
 ### Warmup
 
@@ -89083,6 +100287,10 @@ ran out of time
 ---
 
 ## We MOVE!
+
+### Q
+
+Truckstop
 
 ### Warmup
 
@@ -89122,6 +100330,10 @@ Mosey to circle
 
 ## Oh HILL Yeah (and stairs)
 
+### Q
+
+Bucky
+
 ### Warmup
 
 Toe Touch
@@ -89154,6 +100366,10 @@ Round 3: Bird Dog   Round 4: Bird Dog
 ---
 
 ## The Lead Mile
+
+### Q
+
+BigTex
 
 ### Warmup
 
@@ -89199,6 +100415,10 @@ Low Plank Hold
 
 ## Climbing the Ladder (with a little Valentines day flare)
 
+### Q
+
+Rock Chalk
+
 ### Warmup
 
 - 6-1 Motivators
@@ -89230,6 +100450,10 @@ PAX lined up at one end of the parking lot. Always perform 10 reps of each exerc
 ---
 
 ## Things we Love
+
+### Q
+
+Truckstop
 
 ### Warmup
 
@@ -89276,6 +100500,10 @@ Rifle carry around parking lot and back
 
 ## Valentine's Day at The Way
 
+### Q
+
+Bushwood
+
 ### Warmup
 
 - 10 - Slow Count Grass Grabbers
@@ -89311,6 +100539,10 @@ Round #4 - 27 Perfect Merkins
 ---
 
 ## Love is a Battlefield
+
+### Q
+
+Stanley
 
 ### Warmup
 
@@ -89355,6 +100587,10 @@ Plank: 14 Plank Hops - 10 Plankjacks
 
 ## Tuesday at F3 World HQs
 
+### Q
+
+Bushwood
+
 ### Warmup
 
 - 10 - SLOW Count Grass Grabbers
@@ -89396,6 +100632,10 @@ SQUARE #3 - Inner/Smallest Square - Crab Walk with Coupon Between Corners - Each
 ---
 
 ## Let it Snow (or not)
+
+### Q
+
+rogerroger
 
 ### Warmup
 
@@ -89446,6 +100686,10 @@ Crab Cakes
 
 ## There will be Running
 
+### Q
+
+Manny
+
 ### Warmup
 
 - Grass grabbers
@@ -89467,6 +100711,10 @@ Pickle pounders IC
 
 ## post-Superbowl atonement
 
+### Q
+
+Gilligan
+
 ### Warmup
 
 12 to 1 Motivators, etc.
@@ -89485,6 +100733,10 @@ got up to 6 bbj, 6cm
 ---
 
 ## simple, not easy
+
+### Q
+
+Drizzle
 
 ### Warmup
 
@@ -89510,6 +100762,10 @@ American hammers IC
 ---
 
 ## Backblast
+
+### Q
+
+Charmin
 
 ### Warmup
 
@@ -89544,6 +100800,10 @@ Recover-Recover
 
 ## Backblast
 
+### Q
+
+Vanilla Ice
+
 ### Thang
 
 Station #1 — “Back To Basics”
@@ -89571,6 +100831,10 @@ _Coupon Mosey Back to Shovel Flag_
 
 ## Backblast
 
+### Q
+
+9 to 5
+
 ### Warmup
 
 - 47 T-Swifty Hops
@@ -89592,6 +100856,10 @@ _Coupon Mosey Back to Shovel Flag_
 ---
 
 ## Super Monday
+
+### Q
+
+Bill Nye
 
 ### Warmup
 
@@ -89635,6 +100903,10 @@ Cone 5: farmer carry
 
 ## It's a Trap!
 
+### Q
+
+Bucky, DOS
+
 ### Warmup
 
 Bucky things (see attachments)
@@ -89650,6 +100922,10 @@ DOS things (made up on the spot)
 ---
 
 ## Homage to the PAX
+
+### Q
+
+Bill Nye
 
 ### Warmup
 
@@ -89692,6 +100968,10 @@ Cone 5: farmer carry
 
 ## Good Old Friday Morning Work Out
 
+### Q
+
+Dead Broke
+
 ### Warmup
 
 5 to 1 Motivators
@@ -89722,6 +101002,10 @@ We completed one more group run halfway up the hill at Logan. The losing team ha
 
 ## A little of this and a Lot of that - Wih Burpees!!
 
+### Q
+
+Manscapes
+
 ### Thang
 
 Mosey to the Pavilion for a little change of Scenery
@@ -89751,6 +101035,10 @@ Exercises with a play List
 
 ## Backblast
 
+### Q
+
+Keys
+
 ### Warmup
 
 Grass Grabbers
@@ -89777,6 +101065,10 @@ Flutter Kicks, LBCs, American Hammers
 
 ## Friday Fun Day ???? (Worst Mile Reimagined)
 
+### Q
+
+Otter
+
 ### Warmup
 
 Toe touches
@@ -89802,6 +101094,10 @@ Alphabet Abs IC
 ---
 
 ## Preparedness is Key, but Knowing Why Is Critical!
+
+### Q
+
+Gumbo (STL)
 
 ### Warmup
 
@@ -89843,6 +101139,10 @@ Recover, Recover called
 
 ## Let's Break a Sweat
 
+### Q
+
+Schlitz
+
 ### Warmup
 
 Piano Tappers
@@ -89864,6 +101164,10 @@ no time left, but we got our ab workouts in throughout the Thang.
 ---
 
 ## Explore Your Potential by Testing Your Limits
+
+### Q
+
+Hamburglar
 
 ### Warmup
 
@@ -89901,6 +101205,10 @@ Two rounds of Tabletop Core 30 second Holds transition to New Zealand Heavy Hold
 
 ## Backblast
 
+### Q
+
+Worm
+
 ### Warmup
 
 5-1 Motivators
@@ -89928,6 +101236,10 @@ Ran out of time
 ---
 
 ## 2 Yr Manniversary Eve
+
+### Q
+
+Tom Tom
 
 ### Warmup
 
@@ -89957,6 +101269,10 @@ Merkin waterfall to 5
 
 ## Preparedness is Key
 
+### Q
+
+Gumbo (STL)
+
 ### Warmup
 
 - Goofballs - OYO
@@ -89984,6 +101300,10 @@ BONUS: 1 Minute Stretch on Coupons from Plank Position.  PAX had options to Stre
 ---
 
 ## Preparedness is Key
+
+### Q
+
+Rock Ride
 
 ### Warmup
 
@@ -90013,6 +101333,10 @@ BONUS: 1 Minute Stretch on Coupons from Plank Position.  PAX had options to Stre
 
 ## the horse party
 
+### Q
+
+PillowFight
+
 ### Warmup
 
 Quick Jog / Pushups IC / Copper Head Squat IC
@@ -90028,6 +101352,10 @@ Quadrophenia on the hill
 ---
 
 ## Workout
+
+### Q
+
+Captain Underpants
 
 ### Warmup
 
@@ -90054,6 +101382,10 @@ Mosey back to the flags. 5 burpees, 10 merkins.
 ---
 
 ## Arms Like Thor
+
+### Q
+
+Bushwood
 
 ### Warmup
 
@@ -90104,6 +101436,10 @@ No rest between exercises or sets, focus on our arms, shoulders and back this mo
 
 ## Block Party
 
+### Q
+
+crop duster
+
 ### Warmup
 
 SSH
@@ -90143,6 +101479,10 @@ Plank position. Switched to rocking front to back and side to side on Q's call
 ---
 
 ## Don't be the guy carrying the shoes!
+
+### Q
+
+Dowry
 
 ### Warmup
 
@@ -90187,6 +101527,10 @@ PAX 4 jailbreaks 100 m with sandbag, other 3 jailbreaks with him
 
 ## :zap:Thunder Thighs:zap:
 
+### Q
+
+Big Spoon
+
 ### Warmup
 
 mosey
@@ -90219,6 +101563,10 @@ climber taps
 
 ## Skip the Torso, Bring Your Legs!
 
+### Q
+
+BrownandBrown
+
 ### Warmup
 
 - LBACs w/the reverse
@@ -90240,6 +101588,10 @@ flutter kicks, v-ups, piano (something, not tappers, and then a pitiful boats & 
 ---
 
 ## The Rock Re-opening BD! In cadence...exercise.
+
+### Q
+
+BUB
 
 ### Warmup
 
@@ -90270,6 +101622,10 @@ Lt Leg Lunge (Lt leg on coupon)
 ---
 
 ## Execute Execute Execute
+
+### Q
+
+Rock Ride
 
 ### Warmup
 
@@ -90307,6 +101663,10 @@ Triple Bears
 ---
 
 ## BROGA
+
+### Q
+
+Bucky
 
 ### Warmup
 
@@ -90372,6 +101732,10 @@ Boat holds
 
 ## Lucky ? 7s
 
+### Q
+
+Olav
+
 ### Warmup
 
 Run toward the 109 entrance until you get to the Cross walk and run back.
@@ -90400,6 +101764,10 @@ Ran out of time
 
 ## Mondays are a DRAG!
 
+### Q
+
+Bushwood
+
 ### Warmup
 
 - 10 - Grass Grabbers
@@ -90426,6 +101794,10 @@ Ran out of time
 ---
 
 ## Break It Down
+
+### Q
+
+Schlitz
 
 ### Warmup
 
@@ -90454,6 +101826,10 @@ Big Boy Situps
 ---
 
 ## Mile Marker
+
+### Q
+
+Flatley
 
 ### Warmup
 
@@ -90489,6 +101865,10 @@ PAX 7:19
 
 ## Backblast
 
+### Q
+
+Worm
+
 ### Warmup
 
 5-1 Motivators
@@ -90518,6 +101898,10 @@ PAX mosey up to the front of the school for a modified stack workout (do exercis
 ---
 
 ## Around the World in 45 Minutes
+
+### Q
+
+Amber Alert
 
 ### Warmup
 
@@ -90551,6 +101935,10 @@ Cobra Pose IC (x10)
 
 ## Hypertrophy Style
 
+### Q
+
+Karat
+
 ### Warmup
 
 7-1 Motivators
@@ -90577,6 +101965,10 @@ Round 5
 ---
 
 ## King of the Hill
+
+### Q
+
+Brigham Young
 
 ### Warmup
 
@@ -90606,6 +101998,10 @@ COR, NOR:
 ---
 
 ## Groundhog Day
+
+### Q
+
+Baaarf
 
 ### Warmup
 
@@ -90640,6 +102036,10 @@ Guantanamo Bay
 ---
 
 ## Backblast
+
+### Q
+
+Fish Fry
 
 ### Warmup
 
@@ -90682,6 +102082,10 @@ Incorporated into BD.
 
 ## Carpool Chaos
 
+### Q
+
+Keynote
+
 ### Warmup
 
 - Skipped to confuse…
@@ -90699,6 +102103,10 @@ Incorporated into BD.
 ---
 
 ## EXECUTE EXECUTE EXECUTE!
+
+### Q
+
+Rock Ride
 
 ### Warmup
 
@@ -90740,6 +102148,10 @@ Plenty of core in the Thang
 
 ## Oh! You thought we were done with burpees???
 
+### Q
+
+Jed, Room Service
+
 ### Warmup
 
 Side Straddle Hops (x12)
@@ -90774,6 +102186,10 @@ Mosey around park
 ---
 
 ## We Have Liftoff - Stable
+
+### Q
+
+Bill Nye
 
 ### Warmup
 
@@ -90815,6 +102231,10 @@ Dos Error, lead by PAX
 
 ## Brotherhood of the Burpee
 
+### Q
+
+Gilligan
+
 ### Warmup
 
 SSH, overhead claps, helicopters, hip circles, toy soldiers, alarm clocks
@@ -90826,6 +102246,10 @@ Total burpee count for the brave Pax who posted this morning: 1760! A great effo
 ---
 
 ## Finish Strong
+
+### Q
+
+Schlitz
 
 ### Warmup
 
@@ -90856,6 +102280,10 @@ COR, NOR:
 
 ## Get That Bag!
 
+### Q
+
+Dowry
+
 ### Warmup
 
 None - Straight to the Thang
@@ -90873,6 +102301,10 @@ None
 
 ## Maba Mountain
 
+### Q
+
+DOS
+
 ### Warmup
 
 Burpees
@@ -90888,6 +102320,10 @@ Burpees (and a DOS error)
 ---
 
 ## Make America Burpee Again and Again and Again
+
+### Q
+
+JWoww, Neymar
 
 ### Warmup
 
@@ -90915,6 +102351,10 @@ None. Or maybe the 50 count-o-rama burpees were the Mary?
 ---
 
 ## Backblast
+
+### Q
+
+Norton, 9 to 5
 
 ### Warmup
 
@@ -90949,6 +102389,10 @@ PAX mistook some lucky fella to be PAX. We will give you credit for 10 burpees t
 
 ## Tour De #ao_diamondback!
 
+### Q
+
+DRP
+
 ### Warmup
 
 High knees
@@ -90968,6 +102412,10 @@ Within the thang
 ---
 
 ## Detroit did not win, we got burpees
+
+### Q
+
+Lotus Notes
 
 ### Warmup
 
@@ -90989,6 +102437,10 @@ Plenty of time for Mary...Each PAX led an exercise...including more Burpees (all
 ---
 
 ## Ground Hog Day Again
+
+### Q
+
+Bobbit
 
 ### Warmup
 
@@ -91019,6 +102471,10 @@ skin cat burpees 10
 
 ## Backblast
 
+### Q
+
+Boilermaker
+
 ### Warmup
 
 12 Grass Grabbers
@@ -91037,6 +102493,10 @@ quickly did a plank together to finish the BD
 ---
 
 ## MABA Circuit
+
+### Q
+
+Rock Chalk
 
 ### Warmup
 
@@ -91071,6 +102531,10 @@ Hope you all enjoyed the BD today, or as PAX called it, "an elevated kick to the
 
 ## Backblast
 
+### Q
+
+Fazoli
+
 ### Warmup
 
 Willy Mayes Hayes
@@ -91090,6 +102554,10 @@ Mosey around the site stopping along the way for burpees (80 in total)
 ---
 
 ## Backblast
+
+### Q
+
+D2, Amber Alert
 
 ### Warmup
 
@@ -91132,6 +102600,10 @@ Starfish Crunches IC (x10)
 
 ## January Heatwave
 
+### Q
+
+Sandy (The Kingdom)
+
 ### Warmup
 
 5-1 motivators, grass grabbers,
@@ -91150,6 +102622,10 @@ Last round 300 thrusters same travel
 ---
 
 ## Backblast
+
+### Q
+
+Uncle Buck
 
 ### Warmup
 
@@ -91180,6 +102656,10 @@ Coupon Press(20X), Lawn Mower(10X), Coupon Curls(30X)
 ---
 
 ## CODE 99 (The Double D/VQ Experience)
+
+### Q
+
+Double D
 
 ### Warmup
 
@@ -91213,6 +102693,10 @@ FINAL ROUND: Murder Bunny to lights, 10 x burpees, rifle carry to start.
 
 ## Backblast
 
+### Q
+
+Tuition
+
 ### Warmup
 
 5 to 1 Motivators
@@ -91242,6 +102726,10 @@ Plank for Count-o-rama
 
 ## Let’s Keep Those Cores Tight!
 
+### Q
+
+DRP
+
 ### Warmup
 
 50 IC Goof Balls
@@ -91268,6 +102756,10 @@ Then did Dog Wipes to far lights. Ran a Lap. 10 burpees. Dog Wipes back and repe
 
 ## Burpeevators!
 
+### Q
+
+Truckstop
+
 ### Warmup
 
 50 Curls
@@ -91293,6 +102785,10 @@ PAX Choice: 20 Lemon Squeezers &amp; 20 LBC’s or 20 burpees!
 ---
 
 ## Backblast
+
+### Q
+
+Drop Out (SpiritSTL)
 
 ### Warmup
 
@@ -91323,6 +102819,10 @@ various stretches IC
 ---
 
 ## Let’s Go!
+
+### Q
+
+Thumper
 
 ### Warmup
 
@@ -91385,6 +102885,10 @@ played poker (5 Burpee Buyin)
 
 ## Burpeevators!
 
+### Q
+
+Truckstop
+
 ### Warmup
 
 50 Curls
@@ -91410,6 +102914,10 @@ PAX Choice: 20 Lemon Squeezers & 20 LBC’s or 20 burpees!
 ---
 
 ## 3 Sets
+
+### Q
+
+Schlitz
 
 ### Thang
 
@@ -91442,6 +102950,10 @@ COR, NOR:
 
 ## Hump~ burpee day!
 
+### Q
+
+Karat
+
 ### Warmup
 
 SSH and Burpees and speed humpers
@@ -91468,6 +102980,10 @@ Burpees to The Stroke by Billy Squire
 ---
 
 ## just another hump day
+
+### Q
+
+Drizzle
 
 ### Warmup
 
@@ -91503,6 +103019,10 @@ Lemon squeezers IC
 
 ## Four-2-Tude
 
+### Q
+
+Hamburglar
+
 ### Warmup
 
 - Mosey around track (learn how PAX got their F3 name-got through about half) and stop at various points to perform warm-up exercises
@@ -91536,6 +103056,10 @@ Travel: Jail Break
 
 ## Motivated to move!
 
+### Q
+
+Truckstop
+
 ### Warmup
 
 50 Curls
@@ -91562,6 +103086,10 @@ Mosey by hockey entrance then Dion Sanders up hill to North lot and mosey back
 ---
 
 ## Another Day, Another Burpee
+
+### Q
+
+Pothole (SoSTL)
 
 ### Warmup
 
@@ -91614,6 +103142,10 @@ La-Z-Boys 20 count
 
 ## A burpee Tuesday part 2
 
+### Q
+
+Karat
+
 ### Warmup
 
 SSH and Burpees and speed humpers
@@ -91640,6 +103172,10 @@ Burpees to Up Down by Morgan Wallen
 ---
 
 ## Rain or shine
+
+### Q
+
+Stanley
 
 ### Thang
 
@@ -91676,6 +103212,10 @@ Plank-a-palooza (10 HW Mountain Climbers, 8 HW Peter Parker, 8 HW Plank Hops)
 
 ## Backblast
 
+### Q
+
+Klinger
+
 ### Warmup
 
 - Grass Grabbers in cadence x 10
@@ -91695,6 +103235,10 @@ Plank-a-palooza (10 HW Mountain Climbers, 8 HW Peter Parker, 8 HW Plank Hops)
 ---
 
 ## Raising the BAR
+
+### Q
+
+Bucky
 
 ### Warmup
 
@@ -91733,6 +103277,10 @@ f.	Horn Curls
 
 ## TUT + MABA = DRP
 
+### Q
+
+Rock Ride
+
 ### Warmup
 
 20 SSH IC
@@ -91762,6 +103310,10 @@ Split Squats Left
 
 ## Stay Safe Monday!
 
+### Q
+
+Bushwood
+
 ### Warmup
 
 - 10 - Grass Grabbers
@@ -91779,6 +103331,10 @@ Simply did 25 minutes of EMOM Burpees
 ---
 
 ## Virtual Stableman
+
+### Q
+
+Manny
 
 ### Warmup
 
@@ -91806,6 +103362,10 @@ To best live third, we have to take care of ourselves.  This is not a call to se
 
 ## 4yr Maniversary
 
+### Q
+
+Peloton
+
 ### Warmup
 
 - 5:1 Motivators
@@ -91830,6 +103390,10 @@ Relay Race
 ---
 
 ## Backblast
+
+### Q
+
+Twin Peaks
 
 ### Warmup
 
@@ -91856,6 +103420,10 @@ Flutter Kicks in cadence
 
 ## Finally Friday
 
+### Q
+
+Jayhawk
+
 ### Warmup
 
 8/1 Burpeevators
@@ -91873,6 +103441,10 @@ One end of parking garage is CPR’s. Travel to other end by way of Deion sander
 ---
 
 ## Backblast
+
+### Q
+
+Twin Peaks
 
 ### Warmup
 
@@ -91894,6 +103466,10 @@ Run to opposite side of parking lot to do 1 coupon squat (progressing up by 1 ea
 ---
 
 ## Keep Moving
+
+### Q
+
+Schlitz
 
 ### Warmup
 
@@ -91927,6 +103503,10 @@ COR, NOR:
 ---
 
 ## Burp(h) in the Murph!
+
+### Q
+
+BrownandBrown
 
 ### Warmup
 
@@ -91962,6 +103542,10 @@ ROUND 3 (PAX almost finished…):
 ---
 
 ## Orange crushin’ it
+
+### Q
+
+Stanley
 
 ### Warmup
 
@@ -92008,6 +103592,10 @@ RD 3 (2/7 rd) - 6 Burpees
 
 ## Backblast
 
+### Q
+
+Hamburglar
+
 ### Warmup
 
 - Abe Vigodas IC
@@ -92044,6 +103632,10 @@ No Mary
 
 ## An Oldie But a Goodie
 
+### Q
+
+Rock Chalk
+
 ### Warmup
 
 - 5 burpees
@@ -92068,6 +103660,10 @@ No Mary
 
 ## Backblast
 
+### Q
+
+Ferkloch
+
 ### Warmup
 
 Mosey around parking lot and talk about Cpl. Russell Makowski, PAX cousin, who was KIA in Iraq on 9/14/06
@@ -92082,6 +103678,10 @@ Travel: 25 yard Bear Crawl to cone, 5 Burpees, 25 Yard Bear Crawl back to the st
 ---
 
 ## Backblast
+
+### Q
+
+Silicone
 
 ### Warmup
 
@@ -92105,6 +103705,10 @@ Pick up 6
 
 ## everything is thawsome
 
+### Q
+
+DOS
+
 ### Warmup
 
 10 burpees, 5-1 smurfivators, some stretching, some deion sanders up the mini-hill
@@ -92124,6 +103728,10 @@ Flutter-kicks, DOS Error, some stretching, coupon high-plank
 ---
 
 ## 80's "Night" @ the Club
+
+### Q
+
+Rumple Minze
 
 ### Warmup
 
@@ -92154,6 +103762,10 @@ Lap
 
 ## Commiseration Celebration
 
+### Q
+
+crop duster
+
 ### Warmup
 
 SSH
@@ -92179,6 +103791,10 @@ Plank position. Switched to rocking front to back and side to side on Q's call.
 ---
 
 ## Constant movement without changing location
+
+### Q
+
+Truckstop
 
 ### Warmup
 
@@ -92206,6 +103822,10 @@ PAX Choice: 10 burpees or wall sits
 ---
 
 ## Backblast
+
+### Q
+
+Silicone
 
 ### Warmup
 
@@ -92244,6 +103864,10 @@ Plank/burpee waterfall
 
 ## A burpee Tuesday
 
+### Q
+
+Karat
+
 ### Warmup
 
 SSH and Burpees
@@ -92270,6 +103894,10 @@ Burpees to Up Down by Morgan Wallen
 ---
 
 ## Injured Reserve (Modify as necessary)
+
+### Q
+
+Bucky
 
 ### Warmup
 
@@ -92302,6 +103930,10 @@ DOS Error cntl alt R 10 count
 
 ## Not for the faint of heart.
 
+### Q
+
+Noah
+
 ### Warmup
 
 Lots.
@@ -92313,6 +103945,10 @@ High efficiency for 30 min. under the pavilion. A wholesome blend of burpees, cu
 ---
 
 ## Doing Hard Things
+
+### Q
+
+Schlitz
 
 ### Warmup
 
@@ -92347,6 +103983,10 @@ Little Baby Crunches
 ---
 
 ## Backblast
+
+### Q
+
+Tuition
 
 ### Warmup
 
@@ -92398,6 +104038,10 @@ Held Plank through
 
 ## The Summit
 
+### Q
+
+Otter
+
 ### Warmup
 
 10 burpees
@@ -92421,6 +104065,10 @@ Skipped due to the cold.
 ---
 
 ## Ring of Fire MLK Beatdown
+
+### Q
+
+Norton
 
 ### Warmup
 
@@ -92495,6 +104143,10 @@ Incorporated into Thang
 
 ## Go Out, Go Out
 
+### Q
+
+Schlitz
+
 ### Warmup
 
 5 Core Principles  + 5 burpees (one for each principle)
@@ -92510,6 +104162,10 @@ COR, NOR:
 ---
 
 ## Backblast
+
+### Q
+
+Bill Nye
 
 ### Warmup
 
@@ -92539,6 +104195,10 @@ Burpee
 
 ## 10-4!
 
+### Q
+
+PillowFight
+
 ### Warmup
 
 Bernie Sanders
@@ -92556,6 +104216,10 @@ Bernie Sanders
 ---
 
 ## Paths Colliding
+
+### Q
+
+Duke
 
 ### Warmup
 
@@ -92579,6 +104243,10 @@ Burpee 11s
 ---
 
 ## Let’s Do Some Burpees
+
+### Q
+
+BigTex
 
 ### Warmup
 
@@ -92610,6 +104278,10 @@ Cooled down with two rounds of jailbreaks
 ---
 
 ## Backblast
+
+### Q
+
+Fish Fry
 
 ### Warmup
 
@@ -92662,6 +104334,10 @@ Work until 6:04
 
 ## A Fiery Ring – Day II
 
+### Q
+
+Duke
+
 ### Warmup
 
 - SSH
@@ -92692,6 +104368,10 @@ AMRAP of 45 seconds on and 15 second off. 3 Rounds.
 ---
 
 ## MLK Friday
+
+### Q
+
+Norton
 
 ### Warmup
 
@@ -92764,6 +104444,10 @@ Skipped
 
 ## BJC Exploration: 4 corners
 
+### Q
+
+Truckstop
+
 ### Warmup
 
 50 Curls for the girls
@@ -92798,6 +104482,10 @@ Rifle Carry Back
 
 ## A Firey Ring
 
+### Q
+
+Duke
+
 ### Warmup
 
 - SSH
@@ -92829,6 +104517,10 @@ AMRAP of 45 seconds on and 15 second off. 3 Rounds.
 ---
 
 ## Backblast
+
+### Q
+
+Worm
 
 ### Warmup
 
@@ -92867,6 +104559,10 @@ Total Counts:
 
 ## Backblast
 
+### Q
+
+Hot Runs
+
 ### Warmup
 
 - Side Straddle Hops
@@ -92888,6 +104584,10 @@ Alternated Merkins with Big Boy Sit ups and Flutter Kicks
 ---
 
 ## Return of the Coupons
+
+### Q
+
+Kelly
 
 ### Warmup
 
@@ -92922,6 +104622,10 @@ Relay Race:
 
 ## Backblast
 
+### Q
+
+Short Circuit
+
 ### Warmup
 
 10 burpees
@@ -92949,6 +104653,10 @@ PAX what was the name of that exercise?
 ---
 
 ## Try not…Do! Or do not!
+
+### Q
+
+Silicone
 
 ### Warmup
 
@@ -92979,6 +104687,10 @@ Flutter kicks IC
 ---
 
 ## Four Corners + Burpees
+
+### Q
+
+Rock Ride
 
 ### Warmup
 
@@ -93098,6 +104810,10 @@ none, plenty of core in the Thang.
 
 ## Let’s Go Hunting. Not for the Weak of Heart.
 
+### Q
+
+Hamburglar
+
 ### Warmup
 
 5 to 1 Burpivators
@@ -93129,6 +104845,10 @@ PAX bunny hops while hunter is murdering bunnies. Once the hunter murdering bunn
 
 ## The Centurion Decathlon Event 1: VO2 Training
 
+### Q
+
+PillowFight
+
 ### Warmup
 
 Burpees every 6 seconds for 5 minutes [50]
@@ -93144,6 +104864,10 @@ Burpees every 6 seconds for 5 minutes [50]
 ---
 
 ## Backblast
+
+### Q
+
+Short Circuit
 
 ### Warmup
 
@@ -93177,6 +104901,10 @@ Recovery Recover
 
 ## 75 / /
 
+### Q
+
+Manny
+
 ### Warmup
 
 - Willie Mays Hayes
@@ -93196,6 +104924,10 @@ PAX choice, some used the time to get to 100 burpees, others did flutter kicks
 ---
 
 ## Backblast
+
+### Q
+
+Ratigan, 9 to 5
 
 ### Warmup
 
@@ -93233,6 +104965,10 @@ COR &amp; NOR
 
 ## Judgement Day
 
+### Q
+
+DOS
+
 ### Warmup
 
 6to1 Smurfivators
@@ -93260,6 +104996,10 @@ Flutter kicks IC
 ---
 
 ## Backblast
+
+### Q
+
+Drop Out (SpiritSTL)
 
 ### Warmup
 
@@ -93307,6 +105047,10 @@ Plank while COR   and NOR
 
 ## Backblast
 
+### Q
+
+1chain
+
 ### Warmup
 
 SSH IC 10 x2
@@ -93334,6 +105078,10 @@ American Hammers IC 10
 ---
 
 ## Dry January is over.  Let's SWEAT
+
+### Q
+
+Bucky
 
 ### Warmup
 
@@ -93371,6 +105119,10 @@ Pete Maravich 25 yards. 10 WW3 situps.
 
 ## DEMOLITION DERBY
 
+### Q
+
+Big Spoon
+
 ### Warmup
 
 SSH (IC)
@@ -93394,6 +105146,10 @@ PAX finished up any remaining burpees they had to get everyone to 100 total.  Du
 
 ## Saturday MABA Extravaganza
 
+### Q
+
+Wilson (SpiritSTL)
+
 ### Warmup
 
 -Grass Grabbers IC
@@ -93415,6 +105171,10 @@ PAX finished up any remaining burpees they had to get everyone to 100 total.  Du
 ---
 
 ## Not an Anniversary BD, just another Solid Beatdown led by Solid Men!
+
+### Q
+
+Gumbo (STL)
 
 ### Warmup
 
@@ -93451,6 +105211,10 @@ A crazy bit of Roll Over, Mary!
 
 ## Saturday MABA Extravaganza
 
+### Q
+
+Wilson (SpiritSTL)
+
 ### Warmup
 
 -Grass Grabbers IC
@@ -93475,6 +105239,10 @@ Rock Ride
 ---
 
 ## Around and Around We Go
+
+### Q
+
+Bill Nye
 
 ### Warmup
 
@@ -93504,6 +105272,10 @@ Station 6: high to low plank
 
 ## Burpee Evolution
 
+### Q
+
+Gilligan
+
 ### Warmup
 
 SSH, Helicopters, Toy Soldiers, MH
@@ -93528,6 +105300,10 @@ American Hammers, LBCs, Freddy Mercuries, Flutter Kicks, Alabama Prom Dates
 
 ## Backblast
 
+### Q
+
+Worm
+
 ### Warmup
 
 5-1 Motivators
@@ -93547,6 +105323,10 @@ Burpee count should be at 133 for the workout.
 ---
 
 ## To Be or Not to Burpee
+
+### Q
+
+Rock Chalk
 
 ### Warmup
 
@@ -93581,6 +105361,10 @@ Good to see so many guys helping pick up the six each round
 
 ## Back to School
 
+### Q
+
+Schlitz
+
 ### Warmup
 
 Abe Vigodas
@@ -93603,6 +105387,10 @@ Each HIM in the PAX led an exercise, including announcing, counting, etc. Q thou
 ---
 
 ## "HAVE TO" vs. "GET TO" || "FROM" vs. "FOR"
+
+### Q
+
+Nickelback
 
 ### Warmup
 
@@ -93637,6 +105425,10 @@ Hello Dollies IC
 ---
 
 ## The Redemption
+
+### Q
+
+Dowry
 
 ### Warmup
 
@@ -93708,6 +105500,10 @@ A few near Merlot splashes
 
 ## Twice as Nice
 
+### Q
+
+rogerroger
+
 ### Warmup
 
 Following Set Repeated 2x
@@ -93744,6 +105540,10 @@ Following Set Repeated 1x
 
 ## chesterfiel elementary blackops
 
+### Q
+
+DOS
+
 ### Warmup
 
 6to1 Motivators
@@ -93779,6 +105579,10 @@ some well earned stretching
 ---
 
 ## Ritual
+
+### Q
+
+Silicone
 
 ### Warmup
 
@@ -93831,6 +105635,10 @@ One leg opposite hand to knee twisting stretch
 
 ## Todd Christensen (#46)
 
+### Q
+
+Captain Underpants
+
 ### Warmup
 
 1 burpee
@@ -93856,6 +105664,10 @@ Side plank 23 seconds each side
 ---
 
 ## Don’t Skip Leg Day! AND IT IS MABA SEASON!!!
+
+### Q
+
+Ferkloch
 
 ### Warmup
 
@@ -93898,6 +105710,10 @@ Rinse and Repeat
 
 ## Tour de Roux 2024
 
+### Q
+
+Otter
+
 ### Warmup
 
 3 Burpees for the F3
@@ -93930,6 +105746,10 @@ Stop #10  15 Pull ups in playground
 
 ## Get A Grip
 
+### Q
+
+Manny
+
 ### Warmup
 
 Willie Mays Hayes IC
@@ -93960,6 +105780,10 @@ EMOM (50 seconds on, 10 off) circuit
 ---
 
 ## Merry New Year!
+
+### Q
+
+Five-Hole
 
 ### Warmup
 
@@ -94011,6 +105835,10 @@ BBSU OYO
 
 ## Backblast
 
+### Q
+
+Fazoli
+
 ### Warmup
 
 5-1 motivators
@@ -94030,6 +105858,10 @@ Logged about 2 miles with 100 burpees and a few monkey humpers peppered in.
 ---
 
 ## Bring it don’t sing it
+
+### Q
+
+Big Spoon
 
 ### Warmup
 
@@ -94101,6 +105933,10 @@ Flutter Kicks (IC)
 
 ## Backblast
 
+### Q
+
+9 to 5
+
 ### Warmup
 
 - What warm up???
@@ -94146,6 +105982,10 @@ Bloody Mary
 
 ## It Starts Right Here
 
+### Q
+
+TheBeav
+
 ### Warmup
 
 5:1 burpivators
@@ -94174,6 +106014,10 @@ Burpee total=approx. 75
 
 ## New Year burpee bash
 
+### Q
+
+Karat
+
 ### Warmup
 
 7 to 1 motivators
@@ -94193,6 +106037,10 @@ More burpees!  Played Up Down by Morgan Wallen.  1 burpee for each time they sin
 ---
 
 ## Choose your own workout
+
+### Q
+
+crop duster
 
 ### Warmup
 
@@ -94223,6 +106071,10 @@ No mary due to time
 ---
 
 ## A New Year is Upon Us! 2024!
+
+### Q
+
+Charmin
 
 ### Warmup
 
@@ -94264,6 +106116,10 @@ RECOVER-RECOVER
 ---
 
 ## Backblast
+
+### Q
+
+Dowry
 
 ### Warmup
 
@@ -94314,6 +106170,10 @@ High Low Planks IC x 10
 
 ## The Grand Prize Game
 
+### Q
+
+Olav
+
 ### Warmup
 
 5 to 1 Motivators
@@ -94346,6 +106206,10 @@ Captain Thors-30
 
 ## Last Run of the Year
 
+### Q
+
+Fix-it Felix
+
 ### Warmup
 
 7-1 motivators
@@ -94365,6 +106229,10 @@ increase by 5 reps, run a lap
 ---
 
 ## Backblast
+
+### Q
+
+9 to 5
 
 ### Warmup
 
@@ -94411,6 +106279,10 @@ Bloody Mary Time
 
 ## We finished the year off strong!
 
+### Q
+
+Uncle Buck
+
 ### Warmup
 
 -Lap around parking lot while sprinkling in a little Karaoke and Deion Sanders.
@@ -94447,6 +106319,10 @@ All 23 count.
 
 ## Backblast
 
+### Q
+
+Vanilla Ice
+
 ### Warmup
 
 100 Thrusters (5 rounds / 20 reps)
@@ -94471,6 +106347,10 @@ Absolutions
 ---
 
 ## Last Beatdown of the Year at #ao_the_way!!!
+
+### Q
+
+Bushwood
 
 ### Warmup
 
@@ -94519,6 +106399,10 @@ No rest between exercises or sets, focus on our arms, shoulders and back this mo
 
 ## Monthly Murph Prep - Just Hanging Out
 
+### Q
+
+Silicone
+
 ### Warmup
 
 Abe Vagoda
@@ -94533,6 +106417,10 @@ PAX performed a dead hang for 6 cumulative minutes. Any time you drop from the b
 ---
 
 ## Back to Basic(s)
+
+### Q
+
+Pothole (SoSTL)
 
 ### Warmup
 
@@ -94581,6 +106469,10 @@ PAX circled up in front leaning rest position (high plank).
 
 ## Backblast
 
+### Q
+
+Worm
+
 ### Warmup
 
 SSH / Burpees to Roxanne
@@ -94606,6 +106498,10 @@ PAX mosey to under the awning in front of the school for a triggerman station ci
 
 ## Get ready
 
+### Q
+
+Stanley
+
 ### Warmup
 
 - Downward Dog/Scorpion
@@ -94626,6 +106522,10 @@ Plank-o-rama: Plankjack, Mountain Climber, Peter Parker, Plank Hop, Shoulder tap
 ---
 
 ## Christmas leftovers
+
+### Q
+
+Karat
 
 ### Warmup
 
@@ -94655,6 +106555,10 @@ Penguin tappers ICx25
 
 ## Backblast
 
+### Q
+
+DOS
+
 ### Warmup
 
 `5-1 Motivators IC`
@@ -94678,6 +106582,10 @@ Penguin tappers ICx25
 ---
 
 ## It's the Wednesday after Christmas
+
+### Q
+
+Charmin
 
 ### Warmup
 
@@ -94725,6 +106633,10 @@ RECOVER-RECOVER
 
 ## Post-Christmas Merriment
 
+### Q
+
+JanBrady
+
 ### Warmup
 
 SSH 25 IC
@@ -94751,6 +106663,10 @@ Boat/Canoe IC
 ---
 
 ## Wheel of fun!
+
+### Q
+
+Flatley
 
 ### Warmup
 
@@ -94785,6 +106701,10 @@ Tombstone  (IC)
 
 ## Year’s End Crunch
 
+### Q
+
+BrownandBrown
+
 ### Warmup
 
 - WMHs
@@ -94811,6 +106731,10 @@ Tombstone  (IC)
 ---
 
 ## The Final Stretch
+
+### Q
+
+Olav
 
 ### Warmup
 
@@ -94840,6 +106764,10 @@ Hip tap Planks
 
 ## On the Second Day of Christmas….and a Burpee
 
+### Q
+
+Manny
+
 ### Warmup
 
 - Willie Mays Hayes
@@ -94867,6 +106795,10 @@ Catch the hoverball…PAX would take turns attempting to catch the hover all.  I
 ---
 
 ## burn off dem X-mas cookies
+
+### Q
+
+Savers
 
 ### Warmup
 
@@ -94903,6 +106835,10 @@ Catch the hoverball…PAX would take turns attempting to catch the hover all.  I
 
 ## F3 Xmas!
 
+### Q
+
+Lotus Notes
+
 ### Warmup
 
 SSH (25 of course), Grassgrabbers, Imperial Walkers, Learning to Phelps, take a lap in the garage
@@ -94917,6 +106853,10 @@ XMAS music echoing throughout the garage!
 ---
 
 ## Christmas!
+
+### Q
+
+Thumper
 
 ### Warmup
 
@@ -94958,6 +106898,10 @@ played cards (here’s what we did in no particular order)
 
 ## Christmas BD
 
+### Q
+
+Ferkloch
+
 ### Warmup
 
 5-1 Motivators
@@ -94988,6 +106932,10 @@ Rinse and Repeat
 
 ## A Glorious Monday ~Runday~ Beatdown
 
+### Q
+
+Schlitz
+
 ### Warmup
 
 Willy Mays Hays
@@ -95007,6 +106955,10 @@ Minute 4: 25 Big Boy Sit-ups
 ---
 
 ## SSDD
+
+### Q
+
+Drizzle
 
 ### Warmup
 
@@ -95030,6 +106982,10 @@ American hammers IC
 ---
 
 ## Mystery Box Holiday Surprise
+
+### Q
+
+Gumbo (STL)
 
 ### Warmup
 
@@ -95063,6 +107019,10 @@ PAX Team build, _Elf Games!_
 ---
 
 ## Mystery Box (or is it the peanut butter box)?
+
+### Q
+
+Shower House
 
 ### Warmup
 
@@ -95103,6 +107063,10 @@ None
 
 ## return of the mystery box
 
+### Q
+
+Drizzle
+
 ### Warmup
 
 SSHs
@@ -95128,6 +107092,10 @@ Forgot to add burpees for our brothers PAX and PAX
 
 ## Open the box
 
+### Q
+
+Baaarf
+
 ### Warmup
 
 5-to-1 motivators
@@ -95147,6 +107115,10 @@ MYSTERY BOX! Cones were set up 50 yards apart
 ---
 
 ## Mystery Box &amp; Spiritual Gifting
+
+### Q
+
+Rock Ride
 
 ### Warmup
 
@@ -95171,6 +107143,10 @@ none
 ---
 
 ## Mystery Box - Burdens/Blessings
+
+### Q
+
+Keynote
 
 ### Warmup
 
@@ -95206,6 +107182,10 @@ Round 6 (Run off Relay between 2 fastest teams for “200” meters):
 ---
 
 ## Sixty Six
+
+### Q
+
+Topeka, Baaarf
 
 ### Warmup
 
@@ -95245,6 +107225,10 @@ Heavy: Blockees
 ---
 
 ## It's a Christmas trap
+
+### Q
+
+BrownOut
 
 ### Warmup
 
@@ -95295,6 +107279,10 @@ Christmas Trap Mix 2024
 
 ## Enough of the cookies, time to go to work
 
+### Q
+
+Jayhawk
+
 ### Warmup
 
 9/1 man maker motivators
@@ -95334,6 +107322,10 @@ No time today
 
 ## Backblast
 
+### Q
+
+Matchbox
+
 ### Warmup
 
 5-1 motivators
@@ -95370,6 +107362,10 @@ Learning to Phelps
 
 ## Start the week strong
 
+### Q
+
+ginsu
+
 ### Warmup
 
 PAX Phelps
@@ -95388,6 +107384,10 @@ Standing twist opposite hand to knee
 ---
 
 ## B&amp;B Shuffle: COMPLETE
+
+### Q
+
+BrownandBrown
 
 ### Warmup
 
@@ -95417,6 +107417,10 @@ PAX persevered through a series running based exercises:
 ---
 
 ## Naughty or Nice Christmas Trivia
+
+### Q
+
+Stanley
 
 ### Warmup
 
@@ -95468,6 +107472,10 @@ Incorrect answers = 4 pushups
 
 ## Climb the Ladder
 
+### Q
+
+Otter
+
 ### Warmup
 
 6-1 Motivators IC
@@ -95502,6 +107510,10 @@ Complete each exercise then jail break up Gerkin hill, approximately 50 yards. 5
 ---
 
 ## Swingers!
+
+### Q
+
+Bucky
 
 ### Warmup
 
@@ -95542,6 +107554,10 @@ Hanging knee ups-IC x2
 
 ## Backblast
 
+### Q
+
+BUB
+
 ### Warmup
 
 Goofball
@@ -95576,6 +107592,10 @@ Onto our six for leg raises. Pax held feet six inches off ground for 10 count im
 
 ## On-Mission Purposefully
 
+### Q
+
+Rock Ride
+
 ### Warmup
 
 SSH 15 IC
@@ -95598,6 +107618,10 @@ nope
 ---
 
 ## Cincuenta
+
+### Q
+
+Bushwood
 
 ### Warmup
 
@@ -95628,6 +107652,10 @@ See Diagram - Complete Exercises at each Star/Light.
 ---
 
 ## Backblast
+
+### Q
+
+Fish Fry
 
 ### Warmup
 
@@ -95676,6 +107704,10 @@ Work until 5:47
 
 ## Start the week strong
 
+### Q
+
+Silicone
+
 ### Warmup
 
 Hairy rockettes
@@ -95705,6 +107737,10 @@ Standing twist opposite hand to knee
 
 ## Big Ball of Man
 
+### Q
+
+Rock Chalk
+
 ### Warmup
 
 - 6-1 Motivators
@@ -95733,6 +107769,10 @@ PAX stayed in a circle. Everyone does the same constant movement while one membe
 ---
 
 ## 12 Pains of Christmas
+
+### Q
+
+ginsu, Topeka
 
 ### Warmup
 
@@ -95765,6 +107805,10 @@ PAX stayed in a circle. Everyone does the same constant movement while one membe
 
 ## What? A BD, that's what!
 
+### Q
+
+Drizzle
+
 ### Warmup
 
 6-1 motivators
@@ -95789,6 +107833,10 @@ Flutter kicks IC
 
 ## Personal Records Quarter 4
 
+### Q
+
+BigTex
+
 ### Warmup
 
 SSH
@@ -95809,6 +107857,10 @@ Low Plank for time
 
 ## Puzzles in Cadence
 
+### Q
+
+PillowFight
+
 ### Warmup
 
 25 6-count burpees
@@ -95827,6 +107879,10 @@ Results: Winners include PAX who took home the coveted apple butter. Get that ma
 ---
 
 ## Choose your own workout
+
+### Q
+
+crop duster
 
 ### Warmup
 
@@ -95862,6 +107918,10 @@ Plank for 30 seconds switch to rocking front to back then side to side on Q's ca
 
 ## Friday ~Torture~ fun!
 
+### Q
+
+Freshman
+
 ### Warmup
 
 Grassgrabbers
@@ -95881,6 +107941,10 @@ We missed Sally
 ---
 
 ## Mannyversary Part 2
+
+### Q
+
+Manny
 
 ### Warmup
 
@@ -95910,6 +107974,10 @@ Not today
 
 ## Get after it
 
+### Q
+
+Silicone
+
 ### Warmup
 
 Hairy rockettes
@@ -95938,6 +108006,10 @@ Run 400 meters
 
 ## Forth and Back
 
+### Q
+
+ginsu, Topeka
+
 ### Warmup
 
 - Piano tappers
@@ -95961,6 +108033,10 @@ BBSU x 1
 ---
 
 ## Fun?
+
+### Q
+
+Drop Out (SpiritSTL)
 
 ### Warmup
 
@@ -95986,6 +108062,10 @@ various and sundry broga poses
 ---
 
 ## Countdown Beatdown
+
+### Q
+
+Schlitz
 
 ### Warmup
 
@@ -96032,6 +108112,10 @@ COR, NOR:
 
 ## Backblast
 
+### Q
+
+Captain Underpants
+
 ### Warmup
 
 - 5 burpees
@@ -96069,6 +108153,10 @@ WW3 sit ups
 
 ## Why is the carpet all wet, Todd?!?
 
+### Q
+
+Bliss
+
 ### Warmup
 
 5 to 1 Motivatora
@@ -96095,6 +108183,10 @@ Lap around the parking lot
 ---
 
 ## Rockin Around the Christmas Tree
+
+### Q
+
+Five-Hole
 
 ### Warmup
 
@@ -96137,6 +108229,10 @@ BBSU x 1
 
 ## Embrace the Mission
 
+### Q
+
+rogerroger
+
 ### Warmup
 
 - 5:1 Motivators
@@ -96170,6 +108266,10 @@ Travels:
 
 ## What is Love?
 
+### Q
+
+Silicone
+
 ### Warmup
 
 Mosey around courts
@@ -96196,6 +108296,10 @@ Imperial Squat Walkers IC
 ---
 
 ## 2 Qs are better than 1
+
+### Q
+
+Bucky, Shower House
 
 ### Warmup
 
@@ -96267,6 +108371,10 @@ Switch Qs
 
 ## All aboard the MABA merry go round!
 
+### Q
+
+Drizzle
+
 ### Warmup
 
 SSHs
@@ -96299,6 +108407,10 @@ Flutter kicks IC
 
 ## Mannyversary Mish Mosh
 
+### Q
+
+Manny
+
 ### Warmup
 
 Willie Mays Hayes IC
@@ -96323,6 +108435,10 @@ merkin waterfall to 3
 
 ## Happy Clappy
 
+### Q
+
+Gilligan
+
 ### Warmup
 
 SSH, Alarm Clocks, Helicopters, Toy Soldiers, MH, Grass Grabbers
@@ -96344,6 +108460,10 @@ American Hammers, LBCs, BBSU, Alarm Clocks, Nolan Ryan
 ---
 
 ## Backblast
+
+### Q
+
+Fish Fry
 
 ### Warmup
 
@@ -96382,6 +108502,10 @@ Work until 5:47
 
 ## Back to work
 
+### Q
+
+Baaarf
+
 ### Warmup
 
 5 to 1 Motivators IC
@@ -96412,6 +108536,10 @@ Guantanamo Bay
 ---
 
 ## Monday at #ao_the_way
+
+### Q
+
+Bushwood
 
 ### Warmup
 
@@ -96448,6 +108576,10 @@ See Diagram
 ---
 
 ## Count Down to Christmas!
+
+### Q
+
+Thumper
 
 ### Warmup
 
@@ -96487,6 +108619,10 @@ Count Down to Christmas
 
 ## Fix It's VQ
 
+### Q
+
+Fix-it Felix
+
 ### Thang
 
 murder bunny 1st cone, 10 reps, murder to 2nd cone 15 reps, murder to 3rd cone 20 reps, murder to 4th cone 25 reps. mosey back to start after each cone and do 5 burpees.
@@ -96496,6 +108632,10 @@ murder bunny 1st cone, 10 reps, murder to 2nd cone 15 reps, murder to 3rd cone 2
 ---
 
 ## Backblast
+
+### Q
+
+Worm
 
 ### Warmup
 
@@ -96545,6 +108685,10 @@ Station 7. Shrine of the Silver Monkey: No Monkey but we got a flag!
 
 ## Fun (or Not so Fun?) Friday
 
+### Q
+
+Hamburglar
+
 ### Warmup
 
 5 to 1 Motivators (IC)
@@ -96566,6 +108710,10 @@ Plank Hold
 ---
 
 ## Reindeer Games
+
+### Q
+
+Sanka
 
 ### Warmup
 
@@ -96598,6 +108746,10 @@ Big Circle up for High / Low Plank / Shoulder Tap Planks - while two members fro
 
 ## work hard play hard
 
+### Q
+
+Silicone
+
 ### Thang
 
 Work hard: Focus today was on form/good reps/engaging right muscles for Deadlift and Squats. PAX formed a circle around two sandbags and performed various exercises together (high plank, side planks, low plank/pushup hold, BBSU) while 2 PAX came to center to complete 5 squats (60lb sandbag) or 5 deadlifts (80lb sandbag).
@@ -96609,6 +108761,10 @@ COR, NOR:
 ---
 
 ## Backblast
+
+### Q
+
+9 to 5
 
 ### Warmup
 
@@ -96633,6 +108789,10 @@ COR, NOR:
 ---
 
 ## Thursday at World Headquarters
+
+### Q
+
+Bushwood
 
 ### Warmup
 
@@ -96669,6 +108829,10 @@ Repeat for each round adding 10 coutn to each exercise
 
 ## Picking up the Six
 
+### Q
+
+Olav, Emilio
+
 ### Warmup
 
 Grass Grabbers
@@ -96690,6 +108854,10 @@ Flutter kicks
 ---
 
 ## Railroad Park chesterfield valley 9hole
+
+### Q
+
+DOS
 
 ### Warmup
 
@@ -96722,6 +108890,10 @@ DOS Error 83 - Qs count
 ---
 
 ## We made some room for some holiday cookies!
+
+### Q
+
+Uncle Buck
 
 ### Warmup
 
@@ -96757,6 +108929,10 @@ We rinsed and repeated, believe we were able to get through 5 rotations.
 
 ## Dealer's Choice
 
+### Q
+
+Otter
+
 ### Warmup
 
 Mosey around parking lot
@@ -96785,6 +108961,10 @@ Rosalitas IC
 ---
 
 ## Ferkloch’s back?! Back Again!?
+
+### Q
+
+Ferkloch
 
 ### Warmup
 
@@ -96818,6 +108998,10 @@ Flutter Kicks x 15 IC, Foot circles x 10 OYO
 
 ## Backblast
 
+### Q
+
+Schlitz
+
 ### Warmup
 
 Grass Grabbers
@@ -96849,6 +109033,10 @@ Queen's "Bicycle Race": Freddy Mercuries while they say "Bicycle", otherwise Big
 
 ## The Pickle Jar
 
+### Q
+
+Rock Chalk
+
 ### Warmup
 
 - 6-1 Motivators
@@ -96874,6 +109062,10 @@ Queen's "Bicycle Race": Freddy Mercuries while they say "Bicycle", otherwise Big
 ---
 
 ## Be the Dude
+
+### Q
+
+Bobbit
 
 ### Warmup
 
@@ -96914,6 +109106,10 @@ Rnd  7
 
 ## Tis the season to keep working
 
+### Q
+
+Stanley
+
 ### Warmup
 
 Downward Dog
@@ -96947,6 +109143,10 @@ Leg Circles – Santa around the World in 1 night
 
 ## This is a test
 
+### Q
+
+TheBeav
+
 ### Warmup
 
 Goofballs IC
@@ -96978,6 +109178,10 @@ NA ran out of time
 
 ## Kelly’s VQ Beatdown or Dumpster Fire
 
+### Q
+
+Kelly
+
 ### Warmup
 
 Grass Grabbers
@@ -97006,6 +109210,10 @@ Box cutters (20/15)
 
 ## are you concerned?
 
+### Q
+
+Drizzle
+
 ### Warmup
 
 SSHs
@@ -97032,6 +109240,10 @@ Flutter kicks IC
 ---
 
 ## Backblast
+
+### Q
+
+Bushwood
 
 ### Warmup
 
@@ -97080,6 +109292,10 @@ No rest between exercises or sets, focus on our arms, shoulders and back this mo
 
 ## Royale w/ Cheese
 
+### Q
+
+Hamburglar
+
 ### Warmup
 
 7 to 1 Motivators (IC)
@@ -97120,6 +109336,10 @@ WWIII Sit-Ups + American Hammers Waterfall through 2 rounds
 
 ## Karats 3 year maniversary part 2
 
+### Q
+
+Karat
+
 ### Warmup
 
 7 to 1 motivators
@@ -97148,6 +109368,10 @@ Penguin tappers ICx25
 
 ## Hungry Hungry Hippos!
 
+### Q
+
+Thumper
+
 ### Warmup
 
 in cadence
@@ -97174,6 +109398,10 @@ in cadence
 
 ## Karats 3 year maniversary part 2
 
+### Q
+
+Karat
+
 ### Warmup
 
 7 to 1 motivators
@@ -97198,6 +109426,10 @@ Flutterkicks
 ---
 
 ## Karats 3 year maniversary part 2
+
+### Q
+
+Bill Nye
 
 ### Warmup
 
@@ -97224,6 +109456,10 @@ Flutterkicks
 
 ## Karats 3 year maniversary part 1
 
+### Q
+
+Karat
+
 ### Warmup
 
 7 to 1 motivators
@@ -97246,6 +109482,10 @@ Flutterkicks
 ---
 
 ## Backblast
+
+### Q
+
+Fish Fry
 
 ### Warmup
 
@@ -97276,6 +109516,10 @@ Work until 6:04
 ---
 
 ## Rainy Friday
+
+### Q
+
+Bushwood
 
 ### Warmup
 
@@ -97328,6 +109572,10 @@ No rest between exercises or sets, focus on our arms, shoulders and back this mo
 
 ## Fun Friday
 
+### Q
+
+Stanley
+
 ### Warmup
 
 5 to 1 Motivators
@@ -97353,6 +109601,10 @@ Leg Circles
 
 ## defeated by victory / FORM FRIDAY
 
+### Q
+
+PillowFight
+
 ### Warmup
 
 25 6-count Burpees &amp; Dry Humpers
@@ -97369,6 +109621,10 @@ Laps around the park &amp; Bernie up the hill.
 ---
 
 ## Carnival Returns to the #ao_pickle_jar
+
+### Q
+
+Bushwood
 
 ### Warmup
 
@@ -97398,6 +109654,10 @@ No Mary, ran out of time.
 
 ## Backblast
 
+### Q
+
+Worm
+
 ### Warmup
 
 Parking Lot Lap
@@ -97419,6 +109679,10 @@ PAX moseyed over to the track for a very simple work out of 11s. Reverse Grip Co
 
 ## EAT THAT FROG
 
+### Q
+
+DDP
+
 ### Warmup
 
 High Knees, Willie MaysHays, AbeV, Grass Grabbers, Arm Circles, Calf Stretch
@@ -97434,6 +109698,10 @@ American Hammers, Flutter Kicks, Hello Dolly
 ---
 
 ## 20 Paradoxes of Life
+
+### Q
+
+Rock Ride
 
 ### Warmup
 
@@ -97464,6 +109732,10 @@ none, we got enough core in the beat down.
 
 ## Backblast
 
+### Q
+
+9 to 5
+
 ### Warmup
 
 - SSH
@@ -97484,6 +109756,10 @@ none, we got enough core in the beat down.
 ---
 
 ## Backblast
+
+### Q
+
+Charmin
 
 ### Warmup
 
@@ -97524,6 +109800,10 @@ RECOVER-RECOVER
 
 ## Monthly Murph Prep
 
+### Q
+
+Silicone
+
 ### Warmup
 
 Learning to Phelps
@@ -97549,6 +109829,10 @@ Cindy = 5 pullups, 10 merkins, 15 squats
 ---
 
 ## Backblast
+
+### Q
+
+Dowry
 
 ### Warmup
 
@@ -97587,6 +109871,10 @@ Jailbreak 200 feet
 
 ## That Escalated Quickly
 
+### Q
+
+Olav
+
 ### Warmup
 
 Movements around the playground
@@ -97615,6 +109903,10 @@ Run to the fence and back
 ---
 
 ## Engage with Your Community
+
+### Q
+
+rogerroger
 
 ### Warmup
 
@@ -97669,6 +109961,10 @@ Crab Cakes IC
 
 ## Moving and Grooving
 
+### Q
+
+Mayfield
+
 ### Warmup
 
 SSH
@@ -97702,6 +109998,10 @@ Flutter kicks
 ---
 
 ## Winter (soldier) is coming!
+
+### Q
+
+Bucky
 
 ### Warmup
 
@@ -97762,6 +110062,10 @@ Superman 25 second hold
 
 ## Just another old BD... but they came anyway
 
+### Q
+
+Wilson (SpiritSTL)
+
 ### Warmup
 
 Imperial Walkers IC
@@ -97795,6 +110099,10 @@ Rinse and Repeat.  We completed 2.5 rounds
 ---
 
 ## Ski Season
+
+### Q
+
+Fazoli
 
 ### Warmup
 
@@ -97834,6 +110142,10 @@ Penguin tappers
 
 ## Round and round again
 
+### Q
+
+Topeka
+
 ### Warmup
 
 High knees
@@ -97862,6 +110174,10 @@ Guantanamo
 
 ## Jacob's Ladder
 
+### Q
+
+Rock Chalk
+
 ### Warmup
 
 13 to 12 Motivators
@@ -97889,6 +110205,10 @@ Jacob's Ladder - Start at the top, descend, repeat bottom exercise on way back u
 
 ## Run and Stuff
 
+### Q
+
+Schlitz
+
 ### Warmup
 
 Triangle poses
@@ -97911,6 +110231,10 @@ Even more BBSUs!
 ---
 
 ## Not A Trot (D&D&Z reprise)
+
+### Q
+
+Manny
 
 ### Warmup
 
@@ -97946,6 +110270,10 @@ COR, NOR:
 
 ## Friday Funday
 
+### Q
+
+Silicone
+
 ### Thang
 
 1 mile
@@ -97959,6 +110287,10 @@ white_check_mark:
 ---
 
 ## Sequential Burn
+
+### Q
+
+Bill Nye
 
 ### Warmup
 
@@ -98008,6 +110340,10 @@ High to low plank
 
 ## Bridge Over the Nest
 
+### Q
+
+Gilligan
+
 ### Warmup
 
 SSH, toy soldiers, MH, jog to the circular base of the access road to the amphitheatre
@@ -98030,6 +110366,10 @@ American Hammers, Nolan Ryans (each side), 10 burpees
 
 ## Mousetrap Cindy
 
+### Q
+
+DOS
+
 ### Warmup
 
 Oldman stretch
@@ -98049,6 +110389,10 @@ DOS error
 ---
 
 ## Trot like a turkey
+
+### Q
+
+Baaarf
 
 ### Warmup
 
@@ -98085,6 +110429,10 @@ PAX circle up and hold high plank. Take turns going around the circle and each H
 
 ## Backblast
 
+### Q
+
+Bushwood
+
 ### Warmup
 
 - PAX carried their coupons house down the street to an open field while Q covered Mission, Credo, Disclaimer, 5 Core principles
@@ -98113,6 +110461,10 @@ PAX circle up and hold high plank. Take turns going around the circle and each H
 ---
 
 ## Burn the Bird
+
+### Q
+
+Pothole (SoSTL)
 
 ### Warmup
 
@@ -98145,6 +110497,10 @@ Planksgiving - 2 Min Low Plank
 
 ## Backblast
 
+### Q
+
+Worm
+
 ### Warmup
 
 5-1 Motivators
@@ -98175,6 +110531,10 @@ Simple stack workout with 12 reps per exercise and running to the light at the e
 
 ## Happy Thanksgiving!
 
+### Q
+
+Noah
+
 ### Warmup
 
 SSH, AbeV, WMH, Seal clap, OH clap, LBAC
@@ -98192,6 +110552,10 @@ with Rifle Carry travel 30 yds
 ---
 
 ## Memphis Pyramid
+
+### Q
+
+Hound Dog
 
 ### Warmup
 
@@ -98212,6 +110576,10 @@ GGs (center, right, left) for 10; WMH (left, right) for 10
 
 ## 1st Annual Spirit of St. Louis Turkey Bowl at LHS
 
+### Q
+
+DOS
+
 ### Warmup
 
 Trash talk and stretching
@@ -98229,6 +110597,10 @@ It was a rough start, and finish and middle for the trap, but as the game went o
 ---
 
 ## Turkey tabata trot
+
+### Q
+
+Butterball
 
 ### Warmup
 
@@ -98257,6 +110629,10 @@ Last two cycles the run was performed twice in the sequences to add more running
 
 ## 1st Annual Spirit of St.Louis Turkey Bowl
 
+### Q
+
+Bushwood
+
 ### Thang
 
 - Flag Football game scheduled for Lafayette High School, #ao_the_way vs #ao_mousetrap.
@@ -98266,6 +110642,10 @@ Last two cycles the run was performed twice in the sequences to add more running
 ---
 
 ## Friendsgiving
+
+### Q
+
+Stanley
 
 ### Warmup
 
@@ -98286,6 +110666,10 @@ V- leg lifts (Voltrans)
 ---
 
 ## Backblast
+
+### Q
+
+Drop Out (SpiritSTL)
 
 ### Warmup
 
@@ -98317,6 +110701,10 @@ spiderman mountain climbers IC
 
 ## Monday motivation
 
+### Q
+
+crop duster
+
 ### Warmup
 
 Grass Grabbers
@@ -98341,6 +110729,10 @@ Plank for 30 seconds switch to rocking front to back then side to side on Q's ca
 ---
 
 ## Backblast
+
+### Q
+
+Schlitz
 
 ### Warmup
 
@@ -98380,6 +110772,10 @@ COR, NOR
 
 ## What A Drag
 
+### Q
+
+Bushwood
+
 ### Warmup
 
 - 10 - SLOW Willie Mays Hayes
@@ -98408,6 +110804,10 @@ COR, NOR
 
 ## Maniversary; plus a day
 
+### Q
+
+TheBeav
+
 ### Warmup
 
 Open the Gates IC
@@ -98429,6 +110829,10 @@ Windshield wipers IC
 ---
 
 ## Journey WC Men’s Retreat
+
+### Q
+
+Tofu
 
 ### Warmup
 
@@ -98468,6 +110872,10 @@ skipped
 ---
 
 ## Backblast
+
+### Q
+
+Bill Nye, Twin Peaks
 
 ### Warmup
 
@@ -98509,6 +110917,10 @@ Crunches, oblique crunches, downward dog into cobra
 
 ## Putting the "Club" back in the Country Club
 
+### Q
+
+Rumple Minze
+
 ### Warmup
 
 5-1 Motivators
@@ -98541,6 +110953,10 @@ Flutter Kicks
 
 ## Spread'em
 
+### Q
+
+DOS
+
 ### Warmup
 
 `Old man stretch OYO`
@@ -98564,6 +110980,10 @@ Flutter Kicks
 ---
 
 ## Backblast
+
+### Q
+
+Cinderella
 
 ### Warmup
 
@@ -98603,6 +111023,10 @@ Each round a different song with different exercises
 
 ## Take Care of Your Heart
 
+### Q
+
+Schlitz
+
 ### Thang
 
 24 round TABATA, :45 on with :15 sec rest
@@ -98631,6 +111055,10 @@ Ric Flair
 ---
 
 ## A  ~Quarter Pounder~ Royale w/ Cheese. We made it a DOUBLE!
+
+### Q
+
+Hamburglar
 
 ### Warmup
 
@@ -98662,6 +111090,10 @@ We repeated back down the order to start and completed a DOUBLE!
 
 ## Tabata Thursday
 
+### Q
+
+Freshman
+
 ### Warmup
 
 Grass grabbers
@@ -98686,6 +111118,10 @@ Heels to heaven
 ---
 
 ## Prodical Son seatbelt
+
+### Q
+
+DOS
 
 ### Warmup
 
@@ -98715,6 +111151,10 @@ Heels to heaven
 
 ## Volun-Q’d
 
+### Q
+
+Klinger
+
 ### Warmup
 
 - Baby Arm Circles
@@ -98736,6 +111176,10 @@ not today, we were time bound
 ---
 
 ## Backblast
+
+### Q
+
+Bushwood
 
 ### Warmup
 
@@ -98792,6 +111236,10 @@ Great work everyone - glad we didn't have any dropped or broken coupons on the p
 
 ## Backblast
 
+### Q
+
+Keys
+
 ### Warmup
 
 5×1 Motivators
@@ -98826,6 +111274,10 @@ Picked up 6 with a plank
 ---
 
 ## No 6’s, all together
+
+### Q
+
+Munchies
 
 ### Warmup
 
@@ -98869,6 +111321,10 @@ NOR coming
 
 ## Humpity Hump Day
 
+### Q
+
+Freshman
+
 ### Warmup
 
 Grass grabbers
@@ -98892,6 +111348,10 @@ Heels to heaven
 ---
 
 ## Use It Before We Lose It
+
+### Q
+
+Manny
 
 ### Warmup
 
@@ -98927,6 +111387,10 @@ COR, NOR:
 
 ## Monday's are such a drag
 
+### Q
+
+Karat
+
 ### Warmup
 
 7-1 motivators
@@ -98952,6 +111416,10 @@ Flutter kicks IC x 35
 ---
 
 ## Backblast
+
+### Q
+
+1chain
 
 ### Warmup
 
@@ -98993,6 +111461,10 @@ Hold high plank, merkin every time they said Florida Man (total 42 merkins)
 ---
 
 ## Let's get to work.
+
+### Q
+
+Tuition
 
 ### Warmup
 
@@ -99051,6 +111523,10 @@ Recover to Mary
 
 ## Backblast
 
+### Q
+
+Big Spoon
+
 ### Warmup
 
 SSH
@@ -99082,6 +111558,10 @@ Freddie Mercury's
 
 ## Backblast
 
+### Q
+
+DRP
+
 ### Warmup
 
 50 Moroccan Night Clubs
@@ -99108,6 +111588,10 @@ Pick up 6
 ---
 
 ## Two Bucks are better than One: strength and conditioning
+
+### Q
+
+Bucky, Uncle Buck
 
 ### Warmup
 
@@ -99172,6 +111656,10 @@ Head home with walking around the worlds
 
 ## It Takes a Village
 
+### Q
+
+Charmin
+
 ### Thang
 
 Round 1:
@@ -99212,6 +111700,10 @@ RECOVER-RECOVER
 
 ## Three Square
 
+### Q
+
+Bushwood
+
 ### Warmup
 
 - 10 - SLOW Count Grass Grabbers
@@ -99250,6 +111742,10 @@ Pick-Up the Six
 
 ## Mystery Miles
 
+### Q
+
+Klinger
+
 ### Warmup
 
 Grass Grabbers
@@ -99268,6 +111764,10 @@ Waterfall of Merkins as we waited for 6 to come in depending on which group
 ---
 
 ## V-day Extravaganza - the Air Force Physical Fitness Test
+
+### Q
+
+Klinger, Norton
 
 ### Warmup
 
@@ -99290,6 +111790,10 @@ plank waterfall up to three
 
 ## Backblast
 
+### Q
+
+Amber Alert
+
 ### Warmup
 
 SSH x 20 IC, Grass Grabbers x 0
@@ -99307,6 +111811,10 @@ After each pair completed the circuit, picked up 6.
 
 ## Chadx1000
 
+### Q
+
+Captain Underpants
+
 ### Thang
 
 20 step ups x 50min
@@ -99314,6 +111822,10 @@ After each pair completed the circuit, picked up 6.
 ---
 
 ## Backblast
+
+### Q
+
+Worm
 
 ### Warmup
 
@@ -99340,6 +111852,10 @@ Round 5: Blockies / CPRs
 ---
 
 ## We Did Something!
+
+### Q
+
+Thumper
 
 ### Warmup
 
@@ -99375,6 +111891,10 @@ in cadence
 
 ## Trench Warfare
 
+### Q
+
+Freshman
+
 ### Warmup
 
 Grass grabbers
@@ -99404,6 +111924,10 @@ Blood on the risers (star jumps and no surrenders )
 
 ## A visit from Melva’s cousin
 
+### Q
+
+Truckstop
+
 ### Warmup
 
 Willy Mays Hays
@@ -99427,6 +111951,10 @@ Recover Recover(forgot but you knew)
 ---
 
 ## Thursday - Arms Like Thor
+
+### Q
+
+Bushwood
 
 ### Warmup
 
@@ -99482,6 +112010,10 @@ Great work everyone - glad we didn't have any dropped or broken coupons on the p
 
 ## Seize the Opportunity
 
+### Q
+
+rogerroger
+
 ### Warmup
 
 - 5:1 Motivators
@@ -99513,6 +112045,10 @@ Round:    Exercise 1     Exercise 2
 
 ## Murph Prep - it’s never too early to get started!
 
+### Q
+
+Norton
+
 ### Warmup
 
 - Goofballs
@@ -99540,6 +112076,10 @@ We finished six rounds of the following switching up the type of merkin and squa
 ---
 
 ## A traveling we will go
+
+### Q
+
+Flatley
 
 ### Warmup
 
@@ -99574,6 +112114,10 @@ Team 2 Flag - 20 Monkey Humpers
 
 ## Let’s get Ready to RUNble!!!
 
+### Q
+
+BigTex
+
 ### Warmup
 
 Side Straddle Hops
@@ -99595,6 +112139,10 @@ Low Plank for 1:15
 ---
 
 ## The Trifecta
+
+### Q
+
+Bill Nye
 
 ### Warmup
 
@@ -99630,6 +112178,10 @@ Recover to Mary.
 
 ## Its leg day
 
+### Q
+
+DOS
+
 ### Warmup
 
 `11 to 1 Motivators`
@@ -99662,6 +112214,10 @@ Recover to Mary.
 ---
 
 ## Manniversary EMOM
+
+### Q
+
+Big Spoon
 
 ### Warmup
 
@@ -99707,6 +112263,10 @@ Around the World
 
 ## Advising Pink Floyd
 
+### Q
+
+Duke
+
 ### Warmup
 
 - SSH
@@ -99729,6 +112289,10 @@ Shity 11’s
 ---
 
 ## Pick SIX
+
+### Q
+
+Bucky
 
 ### Warmup
 
@@ -99760,6 +112324,10 @@ L over C-6 right only, 6 left only, 16 both legs
 ---
 
 ## The Arm Farm
+
+### Q
+
+Clotshot
 
 ### Warmup
 
@@ -99803,6 +112371,10 @@ L over C-6 right only, 6 left only, 16 both legs
 
 ## Nickel and Dimes
 
+### Q
+
+Captain Underpants
+
 ### Thang
 
 Mosey to the playground
@@ -99820,6 +112392,10 @@ Flutter kicks x 21
 ---
 
 ## Monday, Monday (bah-da bah-da-da-da)
+
+### Q
+
+Nikola
 
 ### Warmup
 
@@ -99853,6 +112429,10 @@ Recover to Mary
 ---
 
 ## Don't Rue the Day!
+
+### Q
+
+Bushwood
 
 ### Warmup
 
@@ -99894,6 +112474,10 @@ Pick-Up the Six
 ---
 
 ## Backblast
+
+### Q
+
+Dowry
 
 ### Warmup
 
@@ -99942,6 +112526,10 @@ Mosey back to flags
 
 ## Here comes the sun
 
+### Q
+
+Drizzle
+
 ### Thang
 
 Ran to #ao_arkham and back, ran up the hill to get our full 5k in, sub 9 min pace
@@ -99951,6 +112539,10 @@ All: stay tuned for a possible 4 miler next week, possibly same place, def same 
 ---
 
 ## Nothing is Wasted
+
+### Q
+
+Bill Nye
 
 ### Warmup
 
@@ -99977,6 +112569,10 @@ Child's Pose - front, right and left
 ---
 
 ## Start off the weekend right!
+
+### Q
+
+Jayhawk
 
 ### Warmup
 
@@ -100017,6 +112613,10 @@ Not today
 
 ## Happy Feet!
 
+### Q
+
+Uncle Buck
+
 ### Warmup
 
 Willie Mayes Hayes
@@ -100048,6 +112648,10 @@ LBC's 20X
 ---
 
 ## Tag Team
+
+### Q
+
+Baaarf
 
 ### Warmup
 
@@ -100113,6 +112717,10 @@ Played “Flower” by Moby (3.5 min) - Hold boat, do leg lifts on "Bring Sally 
 
 ## First Friday, 10th-Q what should we do?
 
+### Q
+
+FlyBoy
+
 ### Warmup
 
 10-1 Motivators
@@ -100142,6 +112750,10 @@ Box Cutters – 10
 ---
 
 ## Bear Crawl Before Breakfast
+
+### Q
+
+Keynote
 
 ### Thang
 
@@ -100203,6 +112815,10 @@ Exercise (Station 4)
 
 ## Thanos was right
 
+### Q
+
+PillowFight
+
 ### Thang
 
 Full body circuit w bag-man as timer
@@ -100218,6 +112834,10 @@ The Primus: Losers do lunges / remaining racers back up the hill 1 more time
 ---
 
 ## what the hell karen!
+
+### Q
+
+DOS
 
 ### Warmup
 
@@ -100242,6 +112862,10 @@ The Primus: Losers do lunges / remaining racers back up the hill 1 more time
 ---
 
 ## Just like DOS only easier
+
+### Q
+
+Olav
 
 ### Warmup
 
@@ -100288,6 +112912,10 @@ broga
 
 ## What Is Your Path? 30 for 30
 
+### Q
+
+Norton
+
 ### Warmup
 
 skipped to get straight to 30min workout
@@ -100303,6 +112931,10 @@ skipped
 ---
 
 ## What is Your Path?
+
+### Q
+
+Schlitz
 
 ### Warmup
 
@@ -100372,6 +113004,10 @@ Side Plank 1 min each side
 
 ## Convergence Forge!
 
+### Q
+
+Otter
+
 ### Warmup
 
 Run around track with stops.
@@ -100424,6 +113060,10 @@ Calf Stretch
 
 ## Candyburner Forge Convergence
 
+### Q
+
+Cheeks, 9 to 5
+
 ### Warmup
 
 -9 to 5 motivators
@@ -100445,6 +113085,10 @@ RECOVER/RECOVER
 ---
 
 ## Backblast
+
+### Q
+
+Ferkloch
 
 ### Warmup
 
@@ -100470,6 +113114,10 @@ Recover, Recover CoR,NoR
 
 ## BrownOut's Halloween Special
 
+### Q
+
+BrownOut
+
 ### Warmup
 
 1. 5 to 1 motivators IC
@@ -100490,6 +113138,10 @@ World War 3 Situps - 10
 ---
 
 ## Goblins and Stuff
+
+### Q
+
+TheBeav
 
 ### Warmup
 
@@ -100516,6 +113168,10 @@ COR/NOC
 ---
 
 ## ground beef
+
+### Q
+
+Drop Out (SpiritSTL)
 
 ### Warmup
 
@@ -100544,6 +113200,10 @@ rinse and repeat till time.
 ---
 
 ## We’ll do something!
+
+### Q
+
+Thumper
 
 ### Warmup
 
@@ -100575,6 +113235,10 @@ Musical beatdown
 ---
 
 ## Embrace the Suck
+
+### Q
+
+crop duster
 
 ### Warmup
 
@@ -100612,6 +113276,10 @@ Plank for 30 seconds switch to rocking front to back then side to side on Q's ca
 
 ## Fartlek - Speed Play
 
+### Q
+
+Rock Ride
+
 ### Warmup
 
 OYO before BD
@@ -100632,6 +113300,10 @@ Sprint - last 100 yards to the flag
 ---
 
 ## Backblast
+
+### Q
+
+rogerroger
 
 ### Warmup
 
@@ -100663,6 +113335,10 @@ Round:    Exercise 1     Exercise 2
 ---
 
 ## Introducing, The Briefcase!
+
+### Q
+
+Gumbo (STL)
 
 ### Warmup
 
@@ -100699,6 +113375,10 @@ Recover, Recover! PAX collected lights, coupons, &amp; Briefcases… and we mosi
 ---
 
 ## A shade of Red, while you wait
+
+### Q
+
+DOS
 
 ### Warmup
 
@@ -100744,6 +113424,10 @@ Recover, Recover! PAX collected lights, coupons, &amp; Briefcases… and we mosi
 
 ## Sixes - Monthly Murph Prep
 
+### Q
+
+Silicone
+
 ### Warmup
 
 Learning to Phelps, Grass Grabbers, Willie Mays Hayes, Arm Circles, Pretzels
@@ -100760,6 +113444,10 @@ PAX performed 60% of a full Murph structured as follows:
 ---
 
 ## 500~ 325?
+
+### Q
+
+Dowry
 
 ### Warmup
 
@@ -100796,6 +113484,10 @@ Rinse and repeat until time
 
 ## Terrible~ Terrific Thursday
 
+### Q
+
+Karat
+
 ### Warmup
 
 7:1 motivators
@@ -100819,6 +113511,10 @@ Flutter kicks ICx20
 
 ## rinse and repeat
 
+### Q
+
+Drop Out (SpiritSTL)
+
 ### Warmup
 
 6 to 1 Motivators
@@ -100836,6 +113532,10 @@ navy seal burpee chased by 4 coupon squats and 4 EW reverse lunges.  rinse and r
 ---
 
 ## Highlighting the 3F’s
+
+### Q
+
+Hamburglar, Gumbo (STL)
 
 ### Warmup
 
@@ -100888,6 +113588,10 @@ Fall down Getups (IC) no hand assist. Use only your core muscles to get up.
 
 ## A simple stroll and picnic in the park
 
+### Q
+
+Charmin
+
 ### Warmup
 
 Grass grabbers x10 IC
@@ -100934,6 +113638,10 @@ RECOVER-RECOVER
 
 ## We happy few…
 
+### Q
+
+Noah
+
 ### Thang
 
 Up &amp; Down the steps w/
@@ -100955,6 +113663,10 @@ Left plank 1 min.
 ---
 
 ## Shot shot shot shots shots EVERYBODy!!!!
+
+### Q
+
+Savers
 
 ### Warmup
 
@@ -100986,6 +113698,10 @@ Heels to heaven
 ---
 
 ## The Rock Bi-Annual(ish) Tractor Pull Competition
+
+### Q
+
+Klinger
 
 ### Warmup
 
@@ -101025,6 +113741,10 @@ Heels to heaven
 
 ## Dr Strange1: “Time is an insult”
 
+### Q
+
+PillowFight
+
 ### Warmup
 
 Parking Lot lap & Old man stretch
@@ -101061,6 +113781,10 @@ flutter kicks
 ---
 
 ## Building Blocks
+
+### Q
+
+Tuition
 
 ### Warmup
 
@@ -101099,6 +113823,10 @@ Recover to the Flag
 
 ## Clean your house
 
+### Q
+
+Topeka
+
 ### Warmup
 
 SSH
@@ -101122,6 +113850,10 @@ Exercises while people travel (one must be the big boi, switch as needed).
 ---
 
 ## Monday RUNDAY!
+
+### Q
+
+Flatley
 
 ### Warmup
 
@@ -101152,6 +113884,10 @@ Walk one full lap (to rest)
 ---
 
 ## Backblast
+
+### Q
+
+Shower House, Wilson (SpiritSTL)
 
 ### Thang
 
@@ -101187,6 +113923,10 @@ Alternated between 4 count mountain climbers and 4 count King Kong planks IC
 
 ## Yes Pain, Gimme 100
 
+### Q
+
+Lotus Notes
+
 ### Warmup
 
 10-1 Motivators, Grass Grabbers, Imperial Walkers, Learning to Phelps (For the Gold)
@@ -101204,6 +113944,10 @@ Round 3 - 100 Thrusters Total - one HIM moseys down parking lot and back while o
 ---
 
 ## Backblast
+
+### Q
+
+Fish Fry
 
 ### Warmup
 
@@ -101252,6 +113996,10 @@ Exercise (planned if some get through all rounds)
 
 ## Yard game fun!
 
+### Q
+
+Charmin
+
 ### Warmup
 
 Hamstring stretch IC, Goofballs IC, Learning to Phelps IC, Willie Mayes Hayes IC
@@ -101289,6 +114037,10 @@ RECOVER-RECOVER
 
 ## Backblast
 
+### Q
+
+Bucky
+
 ### Warmup
 
 20 SSH
@@ -101302,6 +114054,10 @@ Running with interval exercises including: burpees, merkins, plank jacks, wall s
 ---
 
 ## FRIDAY - PLEASE Sign up for Q Spots
+
+### Q
+
+Bushwood
 
 ### Warmup
 
@@ -101348,6 +114104,10 @@ TABATA  - 45 seconds on for each exercise, 15 seconds off between exercises
 ---
 
 ## Weekend Accelerator
+
+### Q
+
+Big Spoon
 
 ### Warmup
 
@@ -101401,6 +114161,10 @@ Hello Dolly (IC)
 
 ## Saddle up partner!
 
+### Q
+
+Dowry
+
 ### Warmup
 
 SSH IC x 20
@@ -101445,6 +114209,10 @@ Switch
 
 ## Q'Tober Week 3  - Stop 4: Getting Tough with Charles Bronson
 
+### Q
+
+Gumbo (STL)
+
 ### Warmup
 
 Goofballs - IC
@@ -101480,6 +114248,10 @@ BONUS Round - LAIGNAPPE! Bearbrawls! Q and_ PAX _demonstated. PAX lined up in Pa
 
 ## Backblast
 
+### Q
+
+Tofu
+
 ### Warmup
 
 Legs
@@ -101507,6 +114279,10 @@ Little baby crunches
 ---
 
 ## Backblast
+
+### Q
+
+Hot Runs
 
 ### Warmup
 
@@ -101556,6 +114332,10 @@ Flutter kicks
 
 ## Fun Friday the 13th!
 
+### Q
+
+Thumper
+
 ### Warmup
 
 in cadence
@@ -101586,6 +114366,10 @@ Play partner Black Jack highest hand on initial turn wins. One partner mosies ar
 ---
 
 ## There was 1 and then there were 2
+
+### Q
+
+Charmin
 
 ### Warmup
 
@@ -101627,6 +114411,10 @@ RECOVER-RECOVER
 
 ## FORGE - #ao_roux and #ao_gravel_pit
 
+### Q
+
+Bushwood
+
 ### Warmup
 
 - 9-to-5 Motivators - Note 9 to 5 = 140 reps, 5 to 1 = 60 reps
@@ -101656,6 +114444,10 @@ RECOVER/RECOVER
 ---
 
 ## HIIT Monday in the face
+
+### Q
+
+Captain Underpants
 
 ### Warmup
 
@@ -101691,6 +114483,10 @@ Flutter kicks x 21 IC
 
 ## Go to the Logan Launch
 
+### Q
+
+Dowry
+
 ### Warmup
 
 1.5 mile run
@@ -101715,6 +114511,10 @@ EMOM
 ---
 
 ## get in the loop
+
+### Q
+
+Stanley
 
 ### Warmup
 
@@ -101783,6 +114583,10 @@ Leg circles - counter clockwise 10, clockwise 10
 
 ## Launch Time!
 
+### Q
+
+TheBeav
+
 ### Warmup
 
 SSH 25 IC 100
@@ -101804,6 +114608,10 @@ No time, or we would have done Bear Crawl Indian Run. Next time .
 ---
 
 ## Backblast
+
+### Q
+
+Twin Peaks
 
 ### Warmup
 
@@ -101851,6 +114659,10 @@ RECOVER/RECOVER
 
 ## It ain’t much, but it’s honest work
 
+### Q
+
+Five-Hole
+
 ### Warmup
 
 5:1 Motivators
@@ -101883,6 +114695,10 @@ Big Boy Sit Ups x 10 OYO
 
 ## Monday's are such a drag!
 
+### Q
+
+Karat
+
 ### Warmup
 
 6 minute warm-up
@@ -101908,6 +114724,10 @@ Flutter kicks IC x25
 ---
 
 ## Backblast
+
+### Q
+
+Worm
 
 ### Warmup
 
@@ -101940,6 +114760,10 @@ PAX moseyed over to the circle near the pavilion. Holding coupon we did 45 secon
 ---
 
 ## Freaky Friday~ - Friday the 13th
+
+### Q
+
+Stanley
 
 ### Warmup
 
@@ -101985,6 +114809,10 @@ Time for 1 more sandbag run and AMRAP set.
 
 ## Backblast
 
+### Q
+
+Short Circuit
+
 ### Warmup
 
 SSH IC
@@ -102012,6 +114840,10 @@ Penguin Tappers
 ---
 
 ## Four is good!
+
+### Q
+
+Topeka
 
 ### Warmup
 
@@ -102052,6 +114884,10 @@ Lots of answers, which means lots of opportunities to let our walls down and ask
 
 ## There and Back Again
 
+### Q
+
+Olav
+
 ### Warmup
 
 Willy Mayes Hayes
@@ -102076,6 +114912,10 @@ ran out of time
 ---
 
 ## Let’s Go!
+
+### Q
+
+Norton
 
 ### Warmup
 
@@ -102118,6 +114958,10 @@ Full Body
 
 ## Living in a gamer’s paradise
 
+### Q
+
+Silicone
+
 ### Warmup
 
 SSH
@@ -102155,6 +114999,10 @@ No Mary due to time
 
 ## Backblast
 
+### Q
+
+BigTex, Wilson (SpiritSTL)
+
 ### Warmup
 
 Abe Vagotas IC
@@ -102187,6 +115035,10 @@ Exercises performed between travels - not in order
 ---
 
 ## Square Supercubed, or Biquadrated, or Tesseracted
+
+### Q
+
+Bushwood
 
 ### Warmup
 
@@ -102246,6 +115098,10 @@ RECOVER/RECOVER
 
 ## Thumper's Angry High School Days
 
+### Q
+
+crop duster
+
 ### Warmup
 
 Arm Circles
@@ -102303,6 +115159,10 @@ Plank for 30 seconds switch to rocking front to back then side to side on Q's ca
 
 ## The Tribute
 
+### Q
+
+Dowry
+
 ### Warmup
 
 SSH IC x 20
@@ -102352,6 +115212,10 @@ High Low Planks IC x 10
 
 ## Elevens + Elevens
 
+### Q
+
+Manny
+
 ### Warmup
 
 Willie Mays Hayes IC
@@ -102374,6 +115238,10 @@ COR, NOR:
 ---
 
 ## The Best of the Worst
+
+### Q
+
+Duke
 
 ### Warmup
 
@@ -102412,6 +115280,10 @@ EMOM with 12 stations / 45 seconds on and 15 seconds to move – 2 rounds
 
 ## Backblast
 
+### Q
+
+Bucky
+
 ### Warmup
 
 Imperial Walkers 15
@@ -102443,6 +115315,10 @@ Recover, Recovery
 
 ## Oktoberfest - ish
 
+### Q
+
+Noah
+
 ### Warmup
 
 Abe V; Grass Gr; WMH; Dog/Cobra; Flying Squirrels
@@ -102460,6 +115336,10 @@ In cadence -
 ---
 
 ## We're In a Battle, Men Need to Be Prepared
+
+### Q
+
+Rock Ride
 
 ### Warmup
 
@@ -102510,6 +115390,10 @@ None, got enough core in the thang.
 
 ## Is it finally fall?
 
+### Q
+
+Squidward
+
 ### Warmup
 
 Grass Grabbers IC
@@ -102532,6 +115416,10 @@ Partner up, 8 exercises and repeat
 ---
 
 ## OUTSIDE THE LINES!
+
+### Q
+
+Bobbit
 
 ### Warmup
 
@@ -102603,6 +115491,10 @@ COR, NOR
 
 ## Monday - PLEASE Sign up for Qs Thru End of October
 
+### Q
+
+Bushwood
+
 ### Warmup
 
 - 10 - SLOW Count Grass Grabbers
@@ -102663,6 +115555,10 @@ RECOVER/RECOVER
 
 ## Backblast
 
+### Q
+
+Fish Fry
+
 ### Warmup
 
 Grass grabbers
@@ -102688,6 +115584,10 @@ Work until 6:12
 ---
 
 ## Backblast
+
+### Q
+
+BigTex
 
 ### Warmup
 
@@ -102724,6 +115624,10 @@ Hold low plank for about 1 minute
 
 ## DEM BALLS!
 
+### Q
+
+Topeka
+
 ### Warmup
 
 5:1 Motivators
@@ -102746,6 +115650,10 @@ No time, circle up and RECOVER RECOVER
 ---
 
 ## Backblast
+
+### Q
+
+Rock Ride
 
 ### Warmup
 
@@ -102773,6 +115681,10 @@ LBCs - 30 on Qs up call
 
 ## Everest - Monthly Murph Prep
 
+### Q
+
+Silicone
+
 ### Thang
 
 PAX performed 100 Pullups/Rows, 200 Merkins, 300 Squats in a Pyramid format (in our case, Mountain) as outlined in the spreadsheet. Rounds were time-limited and breaks were interspersed.
@@ -102783,6 +115695,10 @@ Recover, Recover (Mary Who???)
 ---
 
 ## Country as You WAANA Be-WORLD TOUR DAY 3
+
+### Q
+
+Bobbit
 
 ### Warmup
 
@@ -102831,6 +115747,10 @@ HORSESHOE RINGER-  Pair up with someone from the other team and each throw one h
 
 ## Backblast
 
+### Q
+
+Worm
+
 ### Warmup
 
 5-1 Motivators
@@ -102878,6 +115798,10 @@ One full lot suicide run touching each line
 
 ## 5 Core Principles BD
 
+### Q
+
+Rock Ride
+
 ### Warmup
 
 Goofballs 20 IC
@@ -102908,6 +115832,10 @@ Single Leg Pulses 8 IC each leg
 ---
 
 ## Country as You WAANA Be
+
+### Q
+
+Bobbit
 
 ### Warmup
 
@@ -102959,6 +115887,10 @@ Guantanamo fo the group
 
 ## Over the river and through the woods
 
+### Q
+
+Drizzle
+
 ### Warmup
 
 -6 to 1 motivators
@@ -102978,6 +115910,10 @@ Oblique crunches
 ---
 
 ## Are you ready for some football?!
+
+### Q
+
+Otter
 
 ### Warmup
 
@@ -103006,6 +115942,10 @@ We had a few minutes so we did 2 rounds of 20 yard bear brawls for our MARY:
 ---
 
 ## Backblast
+
+### Q
+
+rogerroger
 
 ### Warmup
 
@@ -103055,6 +115995,10 @@ RND 3
 
 ## Iron Sharpens Iron
 
+### Q
+
+Klinger
+
 ### Warmup
 
 Grass Grabers, Abe V, Willy Mays Hays, little Arm Circles, Jog 100m
@@ -103076,6 +116020,10 @@ Grass Grabers, Abe V, Willy Mays Hays, little Arm Circles, Jog 100m
 ---
 
 ## October - When Things Really Get Scary at HQ
+
+### Q
+
+Bushwood
 
 ### Warmup
 
@@ -103109,6 +116057,10 @@ Course was just a smidge under a half mile. We will call it a PAX half mile. PAX
 
 ## It's Tuesday
 
+### Q
+
+Drizzle
+
 ### Warmup
 
 -6 to 1 motivators
@@ -103138,6 +116090,10 @@ More yoga
 ---
 
 ## Dial 1-900-BIG-SPOO
+
+### Q
+
+Big Spoon
 
 ### Warmup
 
@@ -103176,6 +116132,10 @@ Pickle Pounders IC
 ---
 
 ## Innate Value
+
+### Q
+
+Rock Ride
 
 ### Warmup
 
@@ -103216,6 +116176,10 @@ Triple Bears
 
 ## MousePax: The Remix
 
+### Q
+
+Bucky
+
 ### Warmup
 
 5 to 1 motivators.
@@ -103244,6 +116208,10 @@ THE BEST OF IPAX (we finish together)
 ---
 
 ## Come get your kicks
+
+### Q
+
+Schlitz
 
 ### Warmup
 
@@ -103298,6 +116266,10 @@ Ring of Fire with a perfect merkin, up to 2
 
 ## Country as You WAANA Be
 
+### Q
+
+Bobbit
+
 ### Warmup
 
 Cowboy giddyups-  big boy get up with a stretch at the top
@@ -103345,6 +116317,10 @@ HORSESHOE RINGER-  Pair up with someone from the other team and each throw one h
 
 ## Conditioning
 
+### Q
+
+Klinger
+
 ### Warmup
 
 Grass Grabers, Abe V, Willy Mays Hays, little Arm Circles, Jog 400m
@@ -103367,6 +116343,10 @@ Grass Grabers, Abe V, Willy Mays Hays, little Arm Circles, Jog 400m
 ---
 
 ## Saturday Workout
+
+### Q
+
+JanBrady
 
 ### Warmup
 
@@ -103394,6 +116374,10 @@ Each team completes all 3 sets for 1 complete round. Repeat for 3 total rounds
 
 ## Backblast
 
+### Q
+
+Vanilla Ice
+
 ### Warmup
 
 SSH x 20 IC
@@ -103412,6 +116396,10 @@ Workout turned into a bit of a  once we discovered there was a youth soccer game
 
 ## Friday Funday
 
+### Q
+
+Karat
+
 ### Thang
 
 Find an outer cone in the grass, there were 5 in a circle with 1 in the middle.
@@ -103427,6 +116415,10 @@ Flutter kicks ICx20
 ---
 
 ## Fridays Are Fun!
+
+### Q
+
+Thumper
 
 ### Warmup
 
@@ -103462,6 +116454,10 @@ Disc Golf Putting in teams of 3 each stroke is 5 reps of the card drawn [Max 20 
 ---
 
 ## TUT & HIIT Tabata
+
+### Q
+
+Rock Ride
 
 ### Warmup
 
@@ -103502,6 +116498,10 @@ Jump Rope
 
 ## Backblast
 
+### Q
+
+Keys
+
 ### Warmup
 
 5×1 Motivators
@@ -103522,6 +116522,10 @@ PAX Choice
 ---
 
 ## All Together Now
+
+### Q
+
+Pothole (SoSTL)
 
 ### Warmup
 
@@ -103570,6 +116574,10 @@ Worlds Greatest Stretch
 ---
 
 ## IRONPAX WEEK 4 - We Arnt Professionals
+
+### Q
+
+Drop Out (SpiritSTL)
 
 ### Warmup
 
@@ -103627,6 +116635,10 @@ END OF WORKOUT
 
 ## Let the Music PLAY
 
+### Q
+
+Manscapes
+
 ### Thang
 
 Let the Music Play – Exercise during song with alternating exercise at key word or phrase
@@ -103660,6 +116672,10 @@ Flutter Kicks with coupon w/ Chest Press on Final Countdown
 
 ## 2023 IRONPAX-WEEK 4 WE AREN’T PROFESSIONALS
 
+### Q
+
+Hamburglar
+
 ### Warmup
 
 OYO
@@ -103678,6 +116694,10 @@ RECOVER-RECOVER
 ---
 
 ## 2023 IPC WEEK 4 -WE AREN'T PROFESSIONAL~ PIVOT
+
+### Q
+
+Dowry
 
 ### Warmup
 
@@ -103723,6 +116743,10 @@ High Low Planks x 10 IC
 
 ## Picking Up the 63
 
+### Q
+
+Noah
+
 ### Warmup
 
 SSH, Abe V, Flying Squirrels, Arm Circles
@@ -103739,6 +116763,10 @@ Run around the parking lot
 ---
 
 ## 2023 IPC WEEK 4 -WE AREN'T PROFESSIONALS
+
+### Q
+
+Rock Chalk
 
 ### Warmup
 
@@ -103799,6 +116827,10 @@ END OF WORKOUT
 
 ## Backblast
 
+### Q
+
+Worm
+
 ### Warmup
 
 5 - 1 Motivators
@@ -103837,6 +116869,10 @@ May have slightly underestimated the difficulty of playing dodgeball in the gloo
 
 ## Let's Bring it Home
 
+### Q
+
+Clotshot
+
 ### Warmup
 
 SSH x20 IC
@@ -103871,6 +116907,10 @@ No time for Mary
 ---
 
 ## IPC WEEK 4 -WE AREN’T PROFESSIONALS
+
+### Q
+
+Wilson (SpiritSTL)
 
 ### Warmup
 
@@ -103911,6 +116951,10 @@ END OF WORKOUT  Recover Recover
 ---
 
 ## IRONPAX WEEK 4 - We Arnt Professionals
+
+### Q
+
+Olav
 
 ### Warmup
 
@@ -103969,6 +117013,10 @@ END OF WORKOUT
 
 ## Backblast
 
+### Q
+
+Charmin
+
 ### Warmup
 
 Side straddle hoops, Quad stretch, Hamstring stretch, learning to Phelps, jog around parking lot
@@ -104001,6 +117049,10 @@ RECOVER-RECOVER
 
 ## A new Tradition
 
+### Q
+
+PillowFight
+
 ### Warmup
 
 SSH / Copper Head Squats / Cadence Push-ups
@@ -104024,6 +117076,10 @@ Last man swinging.
 
 ## Sunday Runday
 
+### Q
+
+Manscapes
+
 ### Thang
 
 5 ish + mile run down the Al Foster Trail to the Sherman Trailhead and back
@@ -104031,6 +117087,10 @@ Last man swinging.
 ---
 
 ## Look out for Coupons
+
+### Q
+
+crop duster
 
 ### Warmup
 
@@ -104082,6 +117142,10 @@ Plank for 30. Rock side to side for 10. rock forward and back for 10.
 ---
 
 ## IRONPAX WEEK 3 -CINDY 500
+
+### Q
+
+Drizzle
 
 ### Warmup
 
@@ -104163,6 +117227,10 @@ Rotating PAX picks a card and all perform the following exercises by suit and nu
 
 ## Backblast
 
+### Q
+
+Drop Out (SpiritSTL)
+
 ### Warmup
 
 mosie around circle
@@ -104207,6 +117275,10 @@ various and sundry yoga stretches
 
 ## Fun Fridays
 
+### Q
+
+ginsu
+
 ### Warmup
 
 - Willie Mayes Hayes - IC
@@ -104235,6 +117307,10 @@ None - Time cut short due to the extensive and long lasting , therefore Mary was
 ---
 
 ## IronPAX WEEK 3 - CINDY 500
+
+### Q
+
+Schlitz
 
 ### Warmup
 
@@ -104292,6 +117368,10 @@ None
 
 ## If nothing changes, nothing changes.
 
+### Q
+
+PillowFight
+
 ### Warmup
 
 Grass Grabber | Jog to Point Lucerne | Bear Crawls
@@ -104308,6 +117388,10 @@ That being said, we celebrate hard work, not necessarily the number of the clock
 ---
 
 ## IronPAX Week 3: Cindy 500
+
+### Q
+
+Manny
 
 ### Warmup
 
@@ -104370,6 +117454,10 @@ COR, NOR:
 
 ## FORGE 101
 
+### Q
+
+Freshman, DOS
+
 ### Warmup
 
 `10 to 1 motivators`
@@ -104389,6 +117477,10 @@ COR, NOR:
 ---
 
 ## Hump Day, Leg Day?
+
+### Q
+
+Squidward
 
 ### Warmup
 
@@ -104417,6 +117509,10 @@ Plank Hold 1 min
 ---
 
 ## 2023 IPC WEEK 3 -CINDY 500
+
+### Q
+
+Otter
 
 ### Warmup
 
@@ -104483,6 +117579,10 @@ Some light stretching.
 
 ## EMBRACE the SUCK! IronPax 2023 Week 3
 
+### Q
+
+Bushwood
+
 ### Warmup
 
 - 9 - SLOW Count Grass Grabbers
@@ -104545,6 +117645,10 @@ Round #5
 
 ## It's fun to someone
 
+### Q
+
+DOS
+
 ### Warmup
 
 `Old Man Stretch IC`
@@ -104571,6 +117675,10 @@ Round #5
 ---
 
 ## 2023 IPC WEEK 3 -CINDY 500
+
+### Q
+
+Savers
 
 ### Warmup
 
@@ -104632,6 +117740,10 @@ All done IC????
 
 ## Man in the Mirror Beat Down
 
+### Q
+
+Bobbit
+
 ### Warmup
 
 - Grass Grabbers
@@ -104679,6 +117791,10 @@ Man in Mirror fight yourself to failure!!
 
 ## D&amp;D&amp;Z (Dice &amp; Dragons &amp; Zombies)
 
+### Q
+
+Manny
+
 ### Warmup
 
 Willie Mays Hayes, downward dog, cobra OYO during intro
@@ -104709,6 +117825,10 @@ COR, NOR:
 ---
 
 ## 2023 IPC WEEK 3 -CINDY 500
+
+### Q
+
+Duke
 
 ### Warmup
 
@@ -104774,6 +117894,10 @@ COR, NOR:
 
 ## Three Years of F3
 
+### Q
+
+Romeo
+
 ### Warmup
 
 Grass Grabbers IC
@@ -104812,6 +117936,10 @@ Tree Pose
 ---
 
 ## Oh How Time Flies
+
+### Q
+
+Bushwood
 
 ### Warmup
 
@@ -104852,6 +117980,10 @@ Round #2
 
 ## KONG
 
+### Q
+
+DOS
+
 ### Warmup
 
 `6to1 Motivators`
@@ -104881,6 +118013,10 @@ Round #2
 
 ## IronPax Week 2
 
+### Q
+
+Duke
+
 ### Warmup
 
 - Prisoner Good Morning
@@ -104899,6 +118035,10 @@ Round #2
 ---
 
 ## Backblast
+
+### Q
+
+Jayhawk
 
 ### Warmup
 
@@ -104930,6 +118070,10 @@ King Kong planks
 ---
 
 ## Backblast
+
+### Q
+
+Fish Fry
 
 ### Warmup
 
@@ -104984,6 +118128,10 @@ Work until 6:04
 
 ## Three Headed Trigger Man
 
+### Q
+
+Rock Ride, Power Clean (JeffCo)
+
 ### Warmup
 
 SSH 10 IC
@@ -105011,6 +118159,10 @@ Blockbusters and alternatibg merkins on Coupon
 ---
 
 ## Double Trouble
+
+### Q
+
+Otter
 
 ### Warmup
 
@@ -105041,6 +118193,10 @@ Flutter Kicks IC
 
 ## BDE MILE – IPC 2023 WEEK 2
 
+### Q
+
+Ferkloch
+
 ### Warmup
 
 SSH x 20 IC
@@ -105060,6 +118216,10 @@ Rinse and repeat until time is called
 ---
 
 ## IRON PAX WEEK 2
+
+### Q
+
+DOS
 
 ### Warmup
 
@@ -105084,6 +118244,10 @@ Total number of meters rounded down to the closest 100 when time is called
 ---
 
 ## Stationary Wednesday
+
+### Q
+
+Bushwood
 
 ### Warmup
 
@@ -105129,6 +118293,10 @@ Tabata Workout - 45 Seconds per Exercise, followed by 15 seconds of Rest
 
 ## last: come and see
 
+### Q
+
+Olav
+
 ### Warmup
 
 Grass Grabbers
@@ -105163,6 +118331,10 @@ Canoes to V-ups  10
 
 ## IronPax Week 2
 
+### Q
+
+Five-Hole
+
 ### Warmup
 
 SSH x 20
@@ -105183,6 +118355,10 @@ Rinse &amp; Repeat until time is called
 ---
 
 ## BDE MILE – IPC 2023 WEEK 2
+
+### Q
+
+Ferkloch
 
 ### Warmup
 
@@ -105206,6 +118382,10 @@ Rinse and repeat until time is called
 
 ## BDE MILE – IPC 2023 WEEK 2
 
+### Q
+
+Dowry
+
 ### Warmup
 
 SSH x 25 IC
@@ -105226,6 +118406,10 @@ Rinse and repeat until time is called
 ---
 
 ## Embrace the Suck
+
+### Q
+
+rogerroger
 
 ### Warmup
 
@@ -105267,6 +118451,10 @@ Rinse and repeat until time is called
 
 ## Not IPAX, but we still had “fun”
 
+### Q
+
+Noah
+
 ### Warmup
 
 31 SSH; 10 Learn the Phelps; 10 OH Clap; 10 Seal Clap;
@@ -105291,6 +118479,10 @@ Superman; Plank
 
 ## IRON PAX WEEK 2 - BDE MILE
 
+### Q
+
+Wilson (SpiritSTL)
+
 ### Warmup
 
 Abe Vagotas IC
@@ -105311,6 +118503,10 @@ BDE MILE
 ---
 
 ## IRON PAX WEEK 2
+
+### Q
+
+Bucky
 
 ### Warmup
 
@@ -105342,6 +118538,10 @@ Recover, Recovery
 
 ## 50s day
 
+### Q
+
+crop duster
+
 ### Warmup
 
 Arm Circles
@@ -105371,6 +118571,10 @@ Round 4 Exercises
 ---
 
 ## Never Forget
+
+### Q
+
+Sanka
 
 ### Warmup
 
@@ -105402,6 +118606,10 @@ Superman Plank for 60 sec
 
 ## we’re going to do some running
 
+### Q
+
+Silicone
+
 ### Warmup
 
 - Q skipped as PAX stretched OYO prior to beginning
@@ -105426,6 +118634,10 @@ Not today
 ---
 
 ## Blind leading the Blind
+
+### Q
+
+Bushwood
 
 ### Warmup
 
@@ -105477,6 +118689,10 @@ The blindfolded workout could be a littel disorienting, especially the Bear Craw
 
 ## IRONPAX WEEK 1!
 
+### Q
+
+Neymar
+
 ### Warmup
 
 13 reps of each exercise (all 4 count)
@@ -105524,6 +118740,10 @@ Times in the image below.    Those who finished early picked up the 6.
 
 ## Backblast
 
+### Q
+
+BigTex
+
 ### Warmup
 
 Side Straddle Hops
@@ -105543,6 +118763,10 @@ See results
 ---
 
 ## Something about Mary
+
+### Q
+
+Uncle Buck
 
 ### Warmup
 
@@ -105576,6 +118800,10 @@ WW3's
 ---
 
 ## Fun Friday (AKA dumpster fire)
+
+### Q
+
+Munchies
 
 ### Warmup
 
@@ -105619,6 +118847,10 @@ Mode of Travel: In pairs 1) Bear crawl 30yds, crabwalk 15yds 2) coupon carry the
 
 ## Space Station sighted!
 
+### Q
+
+PillowFight
+
 ### Warmup
 
 SSH, Arm Circles, Copper-head Squat, touch your toes.
@@ -105636,6 +118868,10 @@ FYI _yesterday's_ losers were the EUREKA WILDCATS 8U baseball team who were deci
 ---
 
 ## IRONPAX 1 Participation Award
+
+### Q
+
+Manny
 
 ### Warmup
 
@@ -105669,6 +118905,10 @@ Score = Total Reps Completed
 
 ## The Harry Pickle
 
+### Q
+
+Harry C
+
 ### Warmup
 
 5-1 motivators
@@ -105696,6 +118936,10 @@ Merkin rotating circle count to 100
 
 ## F3 NATION IRONPAX  WEEK 1 at Arkham
 
+### Q
+
+DOS
+
 ### Warmup
 
 nope, PAX were on their own to stretch out.
@@ -105712,6 +118956,10 @@ EMOM for MOT every 5 minutes
 ---
 
 ## Journey WC Blackops
+
+### Q
+
+Norton
 
 ### Warmup
 
@@ -105741,6 +118989,10 @@ Completed two rounds of the following:
 ---
 
 ## IRONPAX 1 Participation Award
+
+### Q
+
+Flatley
 
 ### Warmup
 
@@ -105780,6 +119032,10 @@ Make sure to upload your scores when you have a moment.
 
 ## Backblast
 
+### Q
+
+BigTex, Rumple Minze
+
 ### Warmup
 
 - 20 King Kong Planks
@@ -105803,6 +119059,10 @@ RECOVER and back to the flags
 ---
 
 ## pull something
+
+### Q
+
+DOS
 
 ### Warmup
 
@@ -105833,6 +119093,10 @@ RECOVER and back to the flags
 ---
 
 ## IronPAX Week 1
+
+### Q
+
+Gumbo (STL)
 
 ### Warmup
 
@@ -105874,6 +119138,10 @@ Upload your scores:
 
 ## IronPAX
 
+### Q
+
+Freshman
+
 ### Warmup
 
 OYO
@@ -105908,6 +119176,10 @@ Upload your scores:
 
 ## Way-back Wednesday
 
+### Q
+
+Schlitz
+
 ### Warmup
 
 Side Straddle Hops
@@ -105941,6 +119213,10 @@ COR, NOR:
 ---
 
 ## IronPAX Week 1
+
+### Q
+
+Romeo
 
 ### Warmup
 
@@ -105982,6 +119258,10 @@ Stretching
 
 ## Teamwork Tuesday
 
+### Q
+
+Karat
+
 ### Warmup
 
 6 minute warm-up
@@ -106008,6 +119288,10 @@ Flutterkicks x 20 IC
 ---
 
 ## Substi-Q
+
+### Q
+
+Stanley
 
 ### Warmup
 
@@ -106051,6 +119335,10 @@ Hello Dollys
 
 ## IRONPAX 1 Participation Award
 
+### Q
+
+Karat
+
 ### Warmup
 
 7-1 Motivators
@@ -106086,6 +119374,10 @@ CoR, NoR
 
 ## IRONPAX Week 1 Participation Award!
 
+### Q
+
+Bucky
+
 ### Warmup
 
 SSH 10 IC
@@ -106118,6 +119410,10 @@ Recover, Recovery
 ---
 
 ## Early Morning Shakes
+
+### Q
+
+Five-Hole
 
 ### Warmup
 
@@ -106155,6 +119451,10 @@ Freddie Mercury x 20
 
 ## Monday Runway
 
+### Q
+
+PillowFight
+
 ### Warmup
 
 jog down the runway
@@ -106171,6 +119471,10 @@ help some nice older guys move an oven into Honda CRV
 
 ## Sunday Runday
 
+### Q
+
+Manscapes
+
 ### Thang
 
 4.8 ish mile run. Down hwy 100 trail.
@@ -106178,6 +119482,10 @@ help some nice older guys move an oven into Honda CRV
 ---
 
 ## Our Labor by Choice
+
+### Q
+
+rogerroger
 
 ### Warmup
 
@@ -106208,6 +119516,10 @@ Latter: 5, 10, 15, 20, 30, 20, 15
 ---
 
 ## 2.0 Beatdown @ GravelPit
+
+### Q
+
+Norton, Keynote
 
 ### Warmup
 
@@ -106248,6 +119560,10 @@ Races
 
 ## Friday Funday
 
+### Q
+
+Karat
+
 ### Warmup
 
 6 minute warm-up
@@ -106275,6 +119591,10 @@ Flutterkicks x 20 IC
 
 ## It's a long way to the top
 
+### Q
+
+Drizzle
+
 ### Thang
 
 started at bridge, played follow the leader up the hill to hwy 100.
@@ -106301,6 +119621,10 @@ Recover to Mary
 
 ## Round and round
 
+### Q
+
+Otter
+
 ### Warmup
 
 SSH IC
@@ -106317,6 +119641,10 @@ After completing all six station run one lap around the track. PAX completed 2 f
 ---
 
 ## Friday Favorites
+
+### Q
+
+Bushwood
 
 ### Warmup
 
@@ -106351,6 +119679,10 @@ PAX completed 2+ laps on Q Favorites Course.
 ---
 
 ## Little of this Little of That: aka Beav's 1st Q at the PJ
+
+### Q
+
+TheBeav
 
 ### Warmup
 
@@ -106410,6 +119742,10 @@ Pickle Pounders IC
 
 ## Backblast
 
+### Q
+
+BigTex
+
 ### Warmup
 
 Side Straddle Hops
@@ -106437,6 +119773,10 @@ Suicide with jailbreak to the electrical boxes
 
 ## Backblast
 
+### Q
+
+Short Circuit
+
 ### Warmup
 
 SSHWilly Mayes HazeGrass Grabbers learning to Phelps
@@ -106455,6 +119795,10 @@ SSHWilly Mayes HazeGrass Grabbers learning to Phelps
 ---
 
 ## Backblast
+
+### Q
+
+Bobbit
 
 ### Warmup
 
@@ -106489,6 +119833,10 @@ _Exercises for full 1:30min_
 
 ## WOD Style
 
+### Q
+
+Klinger
+
 ### Warmup
 
 - Grass Grabbers in cadence x 10
@@ -106516,6 +119864,10 @@ _Exercises for full 1:30min_
 
 ## Backblast
 
+### Q
+
+BUB
+
 ### Warmup
 
 Little Baby Arm Circles
@@ -106540,6 +119892,10 @@ Round 6 - Pax jailbreked (or jailbroke) to first light, then 3 burpees. Jailbrea
 ---
 
 ## Jump Jump
+
+### Q
+
+DOS
 
 ### Warmup
 
@@ -106570,6 +119926,10 @@ Round 6 - Pax jailbreked (or jailbroke) to first light, then 3 burpees. Jailbrea
 ---
 
 ## Learning our ABCs
+
+### Q
+
+Rock Ride
 
 ### Warmup
 
@@ -106609,6 +119969,10 @@ Single Leg Pulses 10 IC
 
 ## The hills are alive
 
+### Q
+
+Flatley
+
 ### Thang
 
 PAX traveled 3.5 miles around the park. Did all the hills backwards.  Ended with a Merkin waterfall!
@@ -106616,6 +119980,10 @@ PAX traveled 3.5 miles around the park. Did all the hills backwards.  Ended with
 ---
 
 ## Dichotomy of Control
+
+### Q
+
+Tofu, Rock Ride
 
 ### Warmup
 
@@ -106646,6 +120014,10 @@ reverse pickle pounders
 
 ## Backblast
 
+### Q
+
+Fish Fry
+
 ### Warmup
 
 Grass grabbers
@@ -106669,6 +120041,10 @@ Note 2: work until 6:07
 ---
 
 ## Duets
+
+### Q
+
+Duke
 
 ### Warmup
 
@@ -106701,6 +120077,10 @@ Partner 1 performs a combo exercise while Partner 2 climbs the hill for Plank Ja
 
 ## Friday - Covering House Challenge
 
+### Q
+
+Bushwood
+
 ### Warmup
 
 - 20 Count - Old Man Straight Leg Stretch
@@ -106724,6 +120104,10 @@ Stop #4: 20 Monkey Humpers
 ---
 
 ## M in M
+
+### Q
+
+Keynote
 
 ### Warmup
 
@@ -106754,6 +120138,10 @@ COR, NOR – Yep!
 
 ## Dodge, duck, dip, dive and dodge
 
+### Q
+
+ginsu
+
 ### Warmup
 
 Grass Grabbers  - IC
@@ -106776,6 +120164,10 @@ Full Tennis court suicides
 ---
 
 ## Backblast
+
+### Q
+
+Worm
 
 ### Warmup
 
@@ -106807,6 +120199,10 @@ Ran out of time
 
 ## Sometimes you have to do hard things
 
+### Q
+
+Schlitz
+
 ### Warmup
 
 Little Baby Arm Circles
@@ -106824,6 +120220,10 @@ No time for Mary
 ---
 
 ## Backblast
+
+### Q
+
+9 to 5
 
 ### Warmup
 
@@ -106855,6 +120255,10 @@ COR &amp; NOR
 
 ## -Longest Yard
 
+### Q
+
+Bobbit
+
 ### Warmup
 
 -SSH
@@ -106870,6 +120274,10 @@ pax to run somewhere and do  50 of an exercise and run back and do 50 of an exer
 ---
 
 ## Backblast
+
+### Q
+
+1chain
 
 ### Warmup
 
@@ -106904,6 +120312,10 @@ Run 1 lap
 ---
 
 ## Game day decision, Part Deux
+
+### Q
+
+Shower House
 
 ### Warmup
 
@@ -106940,6 +120352,10 @@ Merry
 ---
 
 ## Backblast
+
+### Q
+
+Tuition
 
 ### Warmup
 
@@ -106987,6 +120403,10 @@ Each HIM did 55 Blockees
 
 ## Backblast
 
+### Q
+
+Manny
+
 ### Warmup
 
 Two laps: first guardian run, then OYO
@@ -107007,6 +120427,10 @@ COR, NOR:
 
 ## Backblast
 
+### Q
+
+PillowFight
+
 ### Warmup
 
 SSH / leg swings / WMH
@@ -107024,6 +120448,10 @@ CoR, NoR
 
 ## FORGE -Mystery box #5 -wait, didn't we just do this?
 
+### Q
+
+Drizzle
+
 ### Warmup
 
 -SSHs
@@ -107037,6 +120465,10 @@ CoR, NoR
 ---
 
 ## Mystery Box Monday!
+
+### Q
+
+Otter
 
 ### Warmup
 
@@ -107054,6 +120486,10 @@ PAX and PAX each did 2 extra laps for about 3.66 miles. Total PAX miles over 19 
 ---
 
 ## Mystery Box Monday
+
+### Q
+
+Dowry
 
 ### Warmup
 
@@ -107075,6 +120511,10 @@ Stretching on your own
 
 ## 3rd Annual Big Dumb Race and Service Event
 
+### Q
+
+PillowFight, Topeka
+
 ### Warmup
 
 SSH, Batwing, WMH
@@ -107091,6 +120531,10 @@ Take care
 ---
 
 ## Saturday Funday
+
+### Q
+
+Mayfield
 
 ### Warmup
 
@@ -107140,6 +120584,10 @@ X Factors
 
 ## Let’s stay together.
 
+### Q
+
+Shower House
+
 ### Warmup
 
 25 Side Straddle Hops - IC
@@ -107176,6 +120624,10 @@ Merry
 
 ## The Buddy 200
 
+### Q
+
+Harry C
+
 ### Warmup
 
 High Knees and a Mosy
@@ -107189,6 +120641,10 @@ CoR, NoR
 ---
 
 ## Football is Back - Let’s Draft
+
+### Q
+
+Bliss
 
 ### Warmup
 
@@ -107209,6 +120665,10 @@ Lots of leg, arm, chest and ab work.
 
 ## Curse of the BUBino (reposted for the Roux channel)
 
+### Q
+
+Catnip
+
 ### Warmup
 
 - Willie Mays Hays
@@ -107224,6 +120684,10 @@ Regarding the format of this "beatdown," each inning had a different exercise re
 
 ## Gravel Pit vs. Roux Wiffle Ball Classic
 
+### Q
+
+Catnip
+
 ### Warmup
 
 - Willie Mays Hays
@@ -107238,6 +120702,10 @@ Regarding the format of this "beatdown," each inning had a different exercise re
 ---
 
 ## Backblast
+
+### Q
+
+Peloton
 
 ### Warmup
 
@@ -107264,6 +120732,10 @@ Regarding the format of this "beatdown," each inning had a different exercise re
 ---
 
 ## Backblast
+
+### Q
+
+Vanilla Ice
 
 ### Warmup
 
@@ -107315,6 +120787,10 @@ One Pax stays in center with coupon &amp; chains, and completes as many Marley T
 
 ## Getting right - what a difference 364 days makes.
 
+### Q
+
+Noah
+
 ### Warmup
 
 (wandering) SSH + 1burpee; Abe V + 2 burpees; Grass Grabbers + 3 burpees; Arm circles + 4 burpees; 7-to-1 Motivators
@@ -107332,6 +120808,10 @@ LBCs + ONE BURPEE!
 ---
 
 ## MYSTERY BOX #4 - THE EXAM ROOM
+
+### Q
+
+DOS
 
 ### Warmup
 
@@ -107359,6 +120839,10 @@ LBCs + ONE BURPEE!
 ---
 
 ## FORGE—-THE EXAM ROOM …
+
+### Q
+
+Bobbit
 
 ### Warmup
 
@@ -107393,6 +120877,10 @@ One guy runs down and crab walks back for 5 min and other guys does a 5  min cur
 
 ## The Exam Room
 
+### Q
+
+crop duster
+
 ### Warmup
 
 SSH x20
@@ -107418,6 +120906,10 @@ Skipped it - Time
 ---
 
 ## The Exam Room
+
+### Q
+
+Topeka
 
 ### Warmup
 
@@ -107452,6 +120944,10 @@ One guy runs down 40 yrds and crab walks back for 5 min 40 yrds and other guys d
 ---
 
 ## The Exam Room
+
+### Q
+
+Gumbo (STL)
 
 ### Warmup
 
@@ -107489,6 +120985,10 @@ Round 3 - (Q modified)
 
 ## Winter is coming…
 
+### Q
+
+Five-Hole
+
 ### Warmup
 
 5:1 Motivators
@@ -107519,6 +121019,10 @@ Freddie Mercury x 20
 
 ## Around and around we go
 
+### Q
+
+Squidward
+
 ### Warmup
 
 Grass Grabbers
@@ -107541,6 +121045,10 @@ Hose Drags-Indian run style. Pax split in two teams, leader runs 100' pulls hose
 ---
 
 ## Backblast
+
+### Q
+
+Bobbit
 
 ### Warmup
 
@@ -107587,6 +121095,10 @@ Reverse pickle pounders x20 IC
 
 ## Moving Monday
 
+### Q
+
+Karat
+
 ### Warmup
 
 6 minute warm-up
@@ -107608,6 +121120,10 @@ CoR, NoR
 ---
 
 ## Backblast
+
+### Q
+
+Tuition, Bucky
 
 ### Warmup
 
@@ -107659,6 +121175,10 @@ Stretches
 ---
 
 ## IRONPAX Readiness WOD
+
+### Q
+
+Gumbo (STL)
 
 ### Warmup
 
@@ -107731,6 +121251,10 @@ Plank jacks
 
 ## Another Year- Over the Hills and Far Away
 
+### Q
+
+Hamburglar
+
 ### Warmup
 
 5 to 1 Motivators
@@ -107756,6 +121280,10 @@ Ric Flair
 
 ## Table Rock Dock
 
+### Q
+
+Norton
+
 ### Warmup
 
 Stretch OYO
@@ -107773,6 +121301,10 @@ Stretch OYO
 ---
 
 ## Looked Good On Paper - Well That was the truth!!!
+
+### Q
+
+Manscapes
 
 ### Warmup
 
@@ -107800,6 +121332,10 @@ Pax did SSH, Plank, Merken or other until all got through.
 ---
 
 ## Balanthced
+
+### Q
+
+DOS
 
 ### Warmup
 
@@ -107831,6 +121367,10 @@ Pax did SSH, Plank, Merken or other until all got through.
 ---
 
 ## Weekend Vibes on the Mind
+
+### Q
+
+Five-Hole
 
 ### Warmup
 
@@ -107872,6 +121412,10 @@ Freddie Mercury x 20
 
 ## Codename: Rock Chalk
 
+### Q
+
+Rock Chalk
+
 ### Warmup
 
 - 7-1 Motivators
@@ -107902,6 +121446,10 @@ Keep repeating down the field and back.
 
 ## Backblast
 
+### Q
+
+Bushwood
+
 ### Warmup
 
 - 10 - SLOW Count Grass Grabbers
@@ -107928,6 +121476,10 @@ NO MARY  - ran out of time
 ---
 
 ## Backblast
+
+### Q
+
+Drop Out (SpiritSTL)
 
 ### Warmup
 
@@ -107956,6 +121508,10 @@ Flutter kicks IC
 ---
 
 ## Are you ready for some futbol?
+
+### Q
+
+Schlitz
 
 ### Warmup
 
@@ -108003,6 +121559,10 @@ Mountain Climbers
 ---
 
 ## Back from vacation and time to get back to it!
+
+### Q
+
+Jayhawk
 
 ### Warmup
 
@@ -108053,6 +121613,10 @@ COR &amp; NOR
 
 ## Homecoming
 
+### Q
+
+TheBeav
+
 ### Warmup
 
 5:1 motivators
@@ -108085,6 +121649,10 @@ American Hammers IC
 
 ## It’s Hump Day!
 
+### Q
+
+Ferkloch
+
 ### Warmup
 
 - Monkey Humpers (no eye contact)
@@ -108116,6 +121684,10 @@ For a total of 250 air squats, and 100 yards of walking lunges.
 
 ## Backblast
 
+### Q
+
+Noah
+
 ### Warmup
 
 see the list
@@ -108133,6 +121705,10 @@ see the list
 ---
 
 ## Backblast
+
+### Q
+
+Savers
 
 ### Warmup
 
@@ -108175,6 +121751,10 @@ Team 2 took turns calling out “green light” which allowed Team 1  to bear cr
 
 ## Life's a Beach
 
+### Q
+
+Dowry
+
 ### Warmup
 
 SSH
@@ -108198,6 +121778,10 @@ Freddy Mercurys
 ---
 
 ## Backblast
+
+### Q
+
+Babbel
 
 ### Warmup
 
@@ -108257,6 +121841,10 @@ Rick flare!
 
 ## Backblast
 
+### Q
+
+9 to 5
+
 ### Warmup
 
 SSHs
@@ -108297,6 +121885,10 @@ COR &amp; NOR
 
 ## Backblast
 
+### Q
+
+Drop Out (SpiritSTL)
+
 ### Warmup
 
 6-1 Motivators
@@ -108328,6 +121920,10 @@ Bear position plank then to shoulder taps IC
 ---
 
 ## have a light dinner
+
+### Q
+
+5 on 2
 
 ### Warmup
 
@@ -108370,6 +121966,10 @@ Bat wings, Seal claps, and overhead claps 12 in cadence
 
 ## Hill Hustlin' [Bulldog tryouts postponed pending the open investigation of player ages]
 
+### Q
+
+PillowFight
+
 ### Warmup
 
 - SSH / Dead lift / Agility Ladder
@@ -108389,6 +121989,10 @@ The Primus: Last man standing Burpee every 6 seconds
 ---
 
 ## To Hill or Not to Hill
+
+### Q
+
+rogerroger
 
 ### Warmup
 
@@ -108427,6 +122031,10 @@ _Repeat for Duration:_ 3 Rounds Completed
 ---
 
 ## Backblast
+
+### Q
+
+Savers
 
 ### Warmup
 
@@ -108469,6 +122077,10 @@ Team 2 took turns calling out “green light” which allowed Team 1  to bear cr
 
 ## trail and error
 
+### Q
+
+Stanley
+
 ### Warmup
 
 Little Baby Arm Circles
@@ -108488,6 +122100,10 @@ Freddy Mercury’s
 ---
 
 ## Sunrise Saturday - except there was no sun to see
+
+### Q
+
+Wilson (SpiritSTL)
 
 ### Warmup
 
@@ -108535,6 +122151,10 @@ Bear Hold for a 50 count
 
 ## Sucky~ Super Saturday
 
+### Q
+
+Karat
+
 ### Warmup
 
 6 minute warm-up
@@ -108556,6 +122176,10 @@ CoR, NoR
 ---
 
 ## Backblast
+
+### Q
+
+Vanilla Ice
 
 ### Warmup
 
@@ -108580,6 +122204,10 @@ _“Tunes In The Gloom”_ today brought us hits from Cutting Crew, Tommy Tutone
 ---
 
 ## Backblast
+
+### Q
+
+Fish Fry
 
 ### Warmup
 
@@ -108623,6 +122251,10 @@ Lader up 1 to 12.
 
 ## Belated Birthdays and
 
+### Q
+
+ginsu
+
 ### Warmup
 
 - 7 to 1 Motivators
@@ -108640,6 +122272,10 @@ Ultimate Frisbee with coupon exercises for the off team.
 ---
 
 ## First Fun Friday in August
+
+### Q
+
+Hamburglar
 
 ### Warmup
 
@@ -108667,6 +122303,10 @@ American Hammers (20)
 ---
 
 ## Eazy Friday
+
+### Q
+
+Bushwood
 
 ### Warmup
 
@@ -108723,6 +122363,10 @@ PAX struggled during MARY with counting, following directions, paying attention,
 
 ## TUT &amp; HIIT
 
+### Q
+
+Rock Ride
+
 ### Warmup
 
 High Knees IC
@@ -108751,6 +122395,10 @@ Freddy Mercury 10 IC slow
 
 ## work'n out
 
+### Q
+
+DOS
+
 ### Warmup
 
 `5 to 1 Motivators`
@@ -108778,6 +122426,10 @@ Freddy Mercury 10 IC slow
 
 ## Backblast
 
+### Q
+
+BUB
+
 ### Warmup
 
 Goofballs
@@ -108804,6 +122456,10 @@ Pax OYO assigned 100 BBSUs. Q was a gassed and gave the recover, recover prior t
 ---
 
 ## ”Human Timer ”
+
+### Q
+
+9-lives
 
 ### Warmup
 
@@ -108841,6 +122497,10 @@ Stations (not in order)
 
 ## Backblast
 
+### Q
+
+Worm
+
 ### Warmup
 
 5-1 Motivators
@@ -108865,6 +122525,10 @@ Due to rain we changed course for the BD to be under the pavilion. PAX rotated t
 ---
 
 ## Belated Birthdays and
+
+### Q
+
+1chain
 
 ### Warmup
 
@@ -108895,6 +122559,10 @@ American hammers
 ---
 
 ## 1 year F3 Anniversary
+
+### Q
+
+Otter
 
 ### Warmup
 
@@ -108927,6 +122595,10 @@ Flutter Kicks IC
 
 ## Laredo &amp; 100 Abs
 
+### Q
+
+Norton
+
 ### Warmup
 
 - 400M jog
@@ -108956,6 +122628,10 @@ More details on the full 300 ab workout below. Plan is to build up to this in fu
 ---
 
 ## Which way to the beach?
+
+### Q
+
+Dowry
 
 ### Warmup
 
@@ -109015,6 +122691,10 @@ Flutter Kicks IC x 30
 
 ## Let's get swoll
 
+### Q
+
+Drizzle
+
 ### Warmup
 
 -SSH's
@@ -109042,6 +122722,10 @@ Recover to Mary
 ---
 
 ## Spirit of Wentzville
+
+### Q
+
+DOS
 
 ### Warmup
 
@@ -109073,6 +122757,10 @@ Recover to Mary
 
 ## Backblast
 
+### Q
+
+Vanilla Ice
+
 ### Warmup
 
 What warm up?!?!? We got a workout to get to!!!
@@ -109092,6 +122780,10 @@ _Credo_ —_&gt; 10 Accountability Burpees OYO (If you know_…_)_
 ---
 
 ## Backblast
+
+### Q
+
+Bushwood
 
 ### Warmup
 
@@ -109140,6 +122832,10 @@ Square #4 - Crab Walk with Coupon Travel between stations located at the 4 corne
 
 ## 2 Year = 2x the fun
 
+### Q
+
+Gumbo (STL), Thumper
+
 ### Warmup
 
 in cadence
@@ -109173,6 +122869,10 @@ in cadence
 
 ## Coffee Run ... a field trip
 
+### Q
+
+Sanka
+
 ### Warmup
 
 Grass Grabbers
@@ -109197,6 +122897,10 @@ Recover Recover Recover
 ---
 
 ## Stop 5 of Tolkien's Manniversary Tour: Gates of Mordor
+
+### Q
+
+Tolkien
 
 ### Warmup
 
@@ -109232,6 +122936,10 @@ Hold high plank until failure then pickle pointer.
 ---
 
 ## Circle of pain..again
+
+### Q
+
+DOS
 
 ### Warmup
 
@@ -109272,6 +122980,10 @@ Hold high plank until failure then pickle pointer.
 
 ## Ultimate Fun Friday
 
+### Q
+
+Thumper
+
 ### Warmup
 
 in cadence
@@ -109304,6 +123016,10 @@ Ultimate frisbee (each round is to 3 points)
 
 ## Backblast
 
+### Q
+
+Vanilla Ice
+
 ### Thang
 
 EMOM Coupon Work_
@@ -109318,6 +123034,10 @@ Mosey ‘round the way of THE #ao_the_way + Walking NoR
 ---
 
 ## Save Cindy
+
+### Q
+
+Manny
 
 ### Warmup
 
@@ -109346,6 +123066,10 @@ Single leg flutter kicks IC
 ---
 
 ## Do Hard Things - Vacation Mode
+
+### Q
+
+Bill Nye
 
 ### Warmup
 
@@ -109382,6 +123106,10 @@ Pick up 6 when done with main or bonus round
 
 ## July 30 for 30 – “At what point do you ask for help?”
 
+### Q
+
+NameTag
+
 ### Warmup
 
 Abe Vigoda (25) IC
@@ -109413,6 +123141,10 @@ Little Baby Arm Circles (21) IC
 
 ## Backblast
 
+### Q
+
+Captain Underpants
+
 ### Warmup
 
 SSH + 5 burpee EMOM
@@ -109437,6 +123169,10 @@ Green sally
 
 ## The Full Monty
 
+### Q
+
+Short Circuit
+
 ### Warmup
 
 -5-1 Motivators IC
@@ -109458,6 +123194,10 @@ Pax were able to pick any exercises they knew so long is it focus on legs, arms,
 ---
 
 ## Bermuda Triangle
+
+### Q
+
+Otter
 
 ### Warmup
 
@@ -109487,6 +123227,10 @@ Alphabet Abs
 
 ## One Year of fun
 
+### Q
+
+Freshman
+
 ### Warmup
 
 7 to 1 motivators
@@ -109510,6 +123254,10 @@ Guantanamo bay
 ---
 
 ## Ups and Downs
+
+### Q
+
+Topeka
 
 ### Warmup
 
@@ -109538,6 +123286,10 @@ Circle Merk - 6 rounds
 
 ## IronPax4Fun
 
+### Q
+
+BrownandBrown
+
 ### Warmup
 
 - x10 curls
@@ -109563,6 +123315,10 @@ x25 flutter kicks
 ---
 
 ## No Joke Roy
+
+### Q
+
+DOS
 
 ### Warmup
 
@@ -109599,6 +123355,10 @@ DOS Error QC
 
 ## who needs math when you have burpees
 
+### Q
+
+East Side
+
 ### Warmup
 
 SSHs
@@ -109618,6 +123378,10 @@ The Ric Flair
 ---
 
 ## Forge Friday: Mystery Box
+
+### Q
+
+Wilson (SpiritSTL)
 
 ### Warmup
 
@@ -109664,6 +123428,10 @@ Q was not aware that this BD was supposed to be done YOY and a score kept for th
 
 ## Backblast
 
+### Q
+
+BigTex
+
 ### Warmup
 
 Bat Wings
@@ -109693,6 +123461,10 @@ Freddie Mercuries
 
 ## You can rest after this BD
 
+### Q
+
+Drizzle
+
 ### Warmup
 
 -Goofballs IC
@@ -109713,6 +123485,10 @@ Recover to Mary
 ---
 
 ## We Get to do this, not have to do this.
+
+### Q
+
+Rock Ride
 
 ### Warmup
 
@@ -109753,6 +123529,10 @@ Triple Bears
 
 ## Monday fun-day
 
+### Q
+
+Harry C
+
 ### Warmup
 
 High Knees
@@ -109771,6 +123551,10 @@ Merkin circle group count of 100.
 ---
 
 ## We have to walk before we run.
+
+### Q
+
+Bucky
 
 ### Warmup
 
@@ -109835,6 +123619,10 @@ LBC with coupon 20
 
 ## This is The Way
 
+### Q
+
+Dowry
+
 ### Warmup
 
 SSH IC x 20
@@ -109861,6 +123649,10 @@ Freddy Mercurys IC x 20
 
 ## Backblast
 
+### Q
+
+Fish Fry
+
 ### Warmup
 
 Grass grabbers
@@ -109881,6 +123673,10 @@ See attachment
 
 ## MYSTERY BOX!
 
+### Q
+
+Charmin
+
 ### Warmup
 
 goofballs, copperhead squats, learning to Phelps, world's greatest stretch, triceps stretch
@@ -109894,6 +123690,10 @@ RECOVER-RECOVER
 ---
 
 ## Misery Box Friday
+
+### Q
+
+Bushwood
 
 ### Warmup
 
@@ -109941,6 +123741,10 @@ Top performers were 1) PAX (duh), 2) PAX 3) PAX, and 3) PAX.
 
 ## MB 3: The Misery Box
 
+### Q
+
+Manny
+
 ### Warmup
 
 - CPR not an expert
@@ -109974,6 +123778,10 @@ See part 2 of mystery box
 ---
 
 ## Friday Eve
+
+### Q
+
+Bushwood
 
 ### Warmup
 
@@ -110024,6 +123832,10 @@ Court #4 - Crab Walk with Coupon Travel between stations located at the 4 corner
 
 ## Jailbreaking off the Disabled List
 
+### Q
+
+Bucky
+
 ### Warmup
 
 SSH
@@ -110061,6 +123873,10 @@ Freddy Mercury 20
 
 ## Getting Back After it with the Critters of Louisiana
 
+### Q
+
+Gumbo (STL)
+
 ### Warmup
 
 5-1 Motivators
@@ -110095,6 +123911,10 @@ Victory Mosey Lap around the Pond
 ---
 
 ## Backblast
+
+### Q
+
+Tofu
 
 ### Warmup
 
@@ -110132,6 +123952,10 @@ easy walk
 ---
 
 ## Junk in the Trunk
+
+### Q
+
+Hamburglar
 
 ### Warmup
 
@@ -110171,6 +123995,10 @@ Plank hold (30 seconds)
 
 ## HUMPDAY!!!
 
+### Q
+
+Topeka
+
 ### Warmup
 
 SSH
@@ -110206,6 +124034,10 @@ Guantanamo
 ---
 
 ## THE UNEXPECTED
+
+### Q
+
+Bobbit
 
 ### Warmup
 
@@ -110245,6 +124077,10 @@ cut...5 min crunch test
 
 ## When it rains, make it a Core Day!
 
+### Q
+
+crop duster
+
 ### Warmup
 
 Grass grabbers
@@ -110270,6 +124106,10 @@ Mosey around the track between set 1 and 2 to break things up.
 ---
 
 ## Dog Days of Summer
+
+### Q
+
+Freshman
 
 ### Warmup
 
@@ -110306,6 +124146,10 @@ Bring sally up
 
 ## Grin and Bear It
 
+### Q
+
+BUB
+
 ### Thang
 
 Pax paired up. Partners alternated between exercise and travel.
@@ -110319,6 +124163,10 @@ Merkin ring-of-fire. Pax completed five rounds.
 ---
 
 ## Terrible Tuesday
+
+### Q
+
+Rock Ride
 
 ### Warmup
 
@@ -110366,6 +124214,10 @@ Freddy Mercurys - 15 IC slow, focus on twist and touch elbow to far knee
 ---
 
 ## Round about and up we go
+
+### Q
+
+Fazoli
 
 ### Warmup
 
@@ -110417,6 +124269,10 @@ Side planks
 
 ## Tour the Rock on a String
 
+### Q
+
+Manny
+
 ### Thang
 
 Swings - 10 burpees, coupon mosy to lot
@@ -110434,6 +124290,10 @@ Single leg flutter kicks
 ---
 
 ## Summer Concert Training
+
+### Q
+
+Gilligan
 
 ### Warmup
 
@@ -110457,6 +124317,10 @@ LBCs, Monkey Humpers(!)
 ---
 
 ## Backblast
+
+### Q
+
+rogerroger
 
 ### Warmup
 
@@ -110504,6 +124368,10 @@ Part 2:
 
 ## Backblast
 
+### Q
+
+Romeo
+
 ### Warmup
 
 SSH IC
@@ -110538,6 +124406,10 @@ Various stretches and balance exercises
 
 ## The 38 Challenge
 
+### Q
+
+Uncle Buck
+
 ### Warmup
 
 (all IC)
@@ -110556,6 +124428,10 @@ The 38 Challenge
 ---
 
 ## Backblast
+
+### Q
+
+Shower House
 
 ### Warmup
 
@@ -110617,6 +124493,10 @@ RECOVER, RECOVER  Game called on account of time.
 
 ## Backblast
 
+### Q
+
+Ikea
+
 ### Warmup
 
 5-1 motivators
@@ -110647,6 +124527,10 @@ Pax w/o coupon: Monkey humpers
 ---
 
 ## Backblast
+
+### Q
+
+Worm
 
 ### Warmup
 
@@ -110693,6 +124577,10 @@ After one round through we did a lap around the lot and started back at the top.
 
 ## Double Down
 
+### Q
+
+Otter
+
 ### Warmup
 
 Goofballs
@@ -110727,6 +124615,10 @@ Flutter Kicks
 
 ## Lead Right Q3
 
+### Q
+
+Chief
+
 ### Thang
 
 - The Leadership Skills are the four capabilities of Effective Leadership that enable a man do what a Leader does
@@ -110738,6 +124630,10 @@ Continue to be the THERMOSTAT not the THERMOMETER! Set the tone in your home.
 ---
 
 ## Blockbuster Friday
+
+### Q
+
+Bushwood
 
 ### Warmup
 
@@ -110787,6 +124683,10 @@ Blockbuster Tabata
 
 ## Joy comes with the morning
 
+### Q
+
+Schlitz
+
 ### Warmup
 
 Side stretches during principles and disclaimer
@@ -110821,6 +124721,10 @@ COR, NOR:
 ---
 
 ## Stick it to 'em
+
+### Q
+
+Dowry
 
 ### Warmup
 
@@ -110890,6 +124794,10 @@ Jailbreak back to start
 
 ## 12 Days of Christmas in July
 
+### Q
+
+Bobbit
+
 ### Warmup
 
 - willly mays hays
@@ -110921,6 +124829,10 @@ Recover Recover as out of time
 ---
 
 ## Tee Time at the C.C.
+
+### Q
+
+Rock Ride
 
 ### Warmup
 
@@ -110965,6 +124877,10 @@ Freddy Mercurys 15 IC slow, focus on twisting and touching elbow to far knee
 
 ## Climb the hills to make it through the valleys
 
+### Q
+
+Squidward
+
 ### Warmup
 
 5-1 Motivators
@@ -110992,6 +124908,10 @@ Penguin Tappers
 ---
 
 ## Stations of FUN!
+
+### Q
+
+Five-Hole
 
 ### Warmup
 
@@ -111053,6 +124973,10 @@ BBSU x 10 OYO
 
 ## In pursuit of greatness
 
+### Q
+
+TheBeav
+
 ### Warmup
 
 - SSH IC (been a while since Q led these sans motivators. We were a little off, sorry fellas)
@@ -111092,6 +125016,10 @@ Big boy sit ups IC
 
 ## You're So Annoying
 
+### Q
+
+Big Spoon
+
 ### Warmup
 
 SSH (IC)
@@ -111130,6 +125058,10 @@ Most of us completed 4 rounds but of course PAX and PAX got 5 done.
 ---
 
 ## Prime Day
+
+### Q
+
+Bushwood, Freshman
 
 ### Warmup
 
@@ -111174,6 +125106,10 @@ Lucky 7s - Round 2
 
 ## Circuits
 
+### Q
+
+Topeka
+
 ### Warmup
 
 - SSH
@@ -111195,6 +125131,10 @@ Stations:
 ---
 
 ## Luck of the Draw
+
+### Q
+
+Clotshot
 
 ### Warmup
 
@@ -111233,6 +125173,10 @@ knee to chest
 
 ## Who's your hero?
 
+### Q
+
+Drizzle
+
 ### Warmup
 
 -SSHs IC
@@ -111265,6 +125209,10 @@ Recover to Mary
 ---
 
 ## Backblast
+
+### Q
+
+Jailbait
 
 ### Warmup
 
@@ -111323,6 +125271,10 @@ Stretching/almost-yoga
 
 ## it’s all about the climb
 
+### Q
+
+Stanley
+
 ### Warmup
 
 OYO stretching while disclaimers given
@@ -111338,6 +125290,10 @@ Single leg flutter kicks
 ---
 
 ## A Saturday at the Roux!
+
+### Q
+
+Charmin
 
 ### Warmup
 
@@ -111379,6 +125335,10 @@ RECOVER-RECOVER
 
 ## Race Day
 
+### Q
+
+Harry C
+
 ### Warmup
 
 Willie Mayes Hayes
@@ -111399,6 +125359,10 @@ CoR, NoR
 ---
 
 ## Tetris
+
+### Q
+
+DOS
 
 ### Warmup
 
@@ -111433,6 +125397,10 @@ CoR, NoR
 
 ## Backblast
 
+### Q
+
+Gumbo (STL)
+
 ### Warmup
 
 - 5-1 Burpivators
@@ -111464,6 +125432,10 @@ Bear-Brawls!  For 5Ct ea. plus an additional round for Q.
 
 ## Some Friday Fun!
 
+### Q
+
+Karat
+
 ### Warmup
 
 7-1 motivators
@@ -111490,6 +125462,10 @@ BBSU ICx25
 ---
 
 ## Backblast
+
+### Q
+
+Norton
 
 ### Warmup
 
@@ -111553,6 +125529,10 @@ Finish with a Sprint
 
 ## Row, row, row your boat
 
+### Q
+
+Norton
+
 ### Warmup
 
 skipped to allow enough time for the thang
@@ -111600,6 +125580,10 @@ skipped so we could complete 3 full rounds of the Thang
 
 ## Thirsty Thursday
 
+### Q
+
+Freshman
+
 ### Warmup
 
 5 to 1 motivators
@@ -111631,6 +125615,10 @@ Bear suicides at the tennis courts with 5 jungle boy squats in between
 ---
 
 ## Backblast
+
+### Q
+
+Bucky
 
 ### Warmup
 
@@ -111712,6 +125700,10 @@ Game on. Game off at 6:10.
 
 ## Backblast
 
+### Q
+
+1chain
+
 ### Warmup
 
 Grass grabbers
@@ -111754,6 +125746,10 @@ America Hammers
 ---
 
 ## Only 179 Days Left to Make a Difference in 2023!
+
+### Q
+
+Bushwood
 
 ### Warmup
 
@@ -111802,6 +125798,10 @@ Abbreviated Mary - Beatdown ran over but the entire PAX completed all 4 rounds!
 
 ## Keeping the Lights On
 
+### Q
+
+Tolkien
+
 ### Warmup
 
 7-1 Motivators
@@ -111825,6 +125825,10 @@ COR, NOR
 ---
 
 ## (Sorry about the delay in posting this.) We had a wonderful 4th of July BD.  The exercises were tough but they were interspersed with Revolutionary War trivia.  Patriotic music played during the BD. When the Star Spangled Banner played we stopped exercising and paid our respects.
+
+### Q
+
+Honey Pot
 
 ### Warmup
 
@@ -111866,6 +125870,10 @@ Freedom is never more than one generation away from extinction. We didn't pass i
 
 ## Backblast
 
+### Q
+
+Worm
+
 ### Warmup
 
 5-1 Motivators
@@ -111898,6 +125906,10 @@ Rinse/repeat for time. PAX killed it this morning making it through 4 rounds.
 ---
 
 ## We hold these truths to be self-evident….
+
+### Q
+
+Noah
 
 ### Warmup
 
@@ -111949,6 +125961,10 @@ PAX-Count One Minute High Plank (struggled a little with the language barrier)
 
 ## Independence Day Trivia
 
+### Q
+
+Karat
+
 ### Warmup
 
 7-1 motivators
@@ -111965,6 +125981,10 @@ CoR, NoR
 ---
 
 ## Backblast
+
+### Q
+
+Fish Fry
 
 ### Warmup
 
@@ -112021,6 +126041,10 @@ Completed during BD
 
 ## 3 rounds for the 3rd of July
 
+### Q
+
+Charmin
+
 ### Warmup
 
 Quad Stretch IC, Hamstring stretch on coupon IC, Learning to Phelps IC, little baby arm circles IC
@@ -112061,6 +126085,10 @@ RECOVER-RECOVER
 ---
 
 ## Let Freedom Ring
+
+### Q
+
+rogerroger
 
 ### Warmup
 
@@ -112107,6 +126135,10 @@ Travel Length Per Set 1,776 inches
 
 ## Hail Mary!
 
+### Q
+
+Keynote
+
 ### Warmup
 
 - Side Straddle Hops
@@ -112133,6 +126165,10 @@ Hail Mary!
 ---
 
 ## Backblast
+
+### Q
+
+Rock Ride
 
 ### Thang
 
@@ -112246,6 +126282,10 @@ Freddy Mercurys 15 IC
 
 ## Moist &amp; Meaty
 
+### Q
+
+Captain Underpants
+
 ### Warmup
 
 8-1 motivators
@@ -112275,6 +126315,10 @@ Complete the exercise, then mosey, complete the additional reps. Pick up the 6
 
 ## Backblast
 
+### Q
+
+BigTex
+
 ### Warmup
 
 25 x SSH
@@ -112292,6 +126336,10 @@ Numbers may not be 100% accurate... But see how you compared versus last quarter
 ---
 
 ## Partner Up to Power Through
+
+### Q
+
+Bliss
 
 ### Warmup
 
@@ -112321,6 +126369,10 @@ nope
 
 ## Backblast
 
+### Q
+
+Camelot
+
 ### Warmup
 
 SSH 20 IC
@@ -112346,6 +126398,10 @@ Rosalitas - 15 IC
 ---
 
 ## No Talent Necessary
+
+### Q
+
+Bushwood
 
 ### Warmup
 
@@ -112395,6 +126451,10 @@ PAX completed 4 or 5 rounds before calling Recover due to time.
 
 ## Monthly Murph Prep at Gravel Pit - There’s something about Cindy
 
+### Q
+
+Silicone
+
 ### Warmup
 
 SSH, Willie Mays Hays, Learning to Phelps, Little Baby Arm Circles
@@ -112415,6 +126475,10 @@ Freddy Mercury, BBSU, Single leg flutter kicks
 ---
 
 ## Race for the Prize
+
+### Q
+
+Schlitz
 
 ### Warmup
 
@@ -112449,6 +126513,10 @@ COR, NOR:
 
 ## Nasty 11s
 
+### Q
+
+Rock Ride
+
 ### Warmup
 
 Goofballs 20 IC
@@ -112474,6 +126542,10 @@ Freddy Mercurys 15 IC
 ---
 
 ## June 30 for 30 - What is the lie you tell yourself most often?
+
+### Q
+
+Stanley
 
 ### Warmup
 
@@ -112501,6 +126573,10 @@ Bird Dogs
 ---
 
 ## Backblast
+
+### Q
+
+Drop Out (SpiritSTL)
 
 ### Warmup
 
@@ -112538,6 +126614,10 @@ nope
 
 ## Backblast
 
+### Q
+
+1chain
+
 ### Warmup
 
 20 SSH
@@ -112559,6 +126639,10 @@ No Mary
 ---
 
 ## Play stupid games win stupid prizes
+
+### Q
+
+TheBeav
 
 ### Warmup
 
@@ -112618,6 +126702,10 @@ Pax used a hill to perform 100 thrusters, 100 taint scrappers, and 75 burpees in
 
 ## Field trip
 
+### Q
+
+Fazoli
+
 ### Warmup
 
 Willy Mays Hays
@@ -112649,6 +126737,10 @@ COR, NOR:
 ---
 
 ## Getting REacquainted with Sugar Creek
+
+### Q
+
+Catnip
 
 ### Warmup
 
@@ -112692,6 +126784,10 @@ Exercise: Bear Crawl around the trail.
 
 ## Relay Races
 
+### Q
+
+Manscapes
+
 ### Warmup
 
 SSH - x30
@@ -112714,6 +126810,10 @@ Coupon Squats
 ---
 
 ## Backblast
+
+### Q
+
+Fish Fry
 
 ### Warmup
 
@@ -112756,6 +126856,10 @@ Work until 6:05
 
 ## Hurricane Season
 
+### Q
+
+Rock Ride
+
 ### Warmup
 
 SSH - 20 IC
@@ -112778,6 +126882,10 @@ Freddy Mercuries - 15 IC
 ---
 
 ## Stuff. And things.
+
+### Q
+
+Topeka
 
 ### Warmup
 
@@ -112808,6 +126916,10 @@ Guantanamo
 
 ## Forwards and Backwards
 
+### Q
+
+Flatley
+
 ### Thang
 
 Full lap around the park.  Pax Deioned up every hill on the run.  Quads on
@@ -112819,6 +126931,10 @@ WMH, Grass Grabbers, 90 second Plank
 ---
 
 ## Back in the Saddle
+
+### Q
+
+Thumper
 
 ### Warmup
 
@@ -112851,6 +126967,10 @@ Song is Timer- 20 rep of an exercise at one area then mosey another area  and do
 ---
 
 ## Summer School
+
+### Q
+
+Bucky
 
 ### Warmup
 
@@ -112895,6 +127015,10 @@ Freddie Mercury
 
 ## Death by a thousand cuts
 
+### Q
+
+DOS
+
 ### Warmup
 
 `7 to 1 Motivators IC`
@@ -112931,6 +127055,10 @@ Freddie Mercury
 
 ## Harry C’s F3versey
 
+### Q
+
+Harry C
+
 ### Warmup
 
 High Knees
@@ -112947,6 +127075,10 @@ Mosey to garage. Passed the coupon in a line squat
 ---
 
 ## Guess who's back, back again
+
+### Q
+
+Keys
 
 ### Warmup
 
@@ -112970,6 +127102,10 @@ Penguin Tappers
 ---
 
 ## 1 Year F3Versary
+
+### Q
+
+Dowry
 
 ### Warmup
 
@@ -113021,6 +127157,10 @@ High Low Planks IC x 10
 
 ## The Beatings Will Continue Until Morale Improves
 
+### Q
+
+NeckBrace
+
 ### Warmup
 
 Goofballs, Side shuffle arm swings, WMH, SSH
@@ -113055,6 +127195,10 @@ Mosey back to parking lot w/ coupon
 ---
 
 ## 1 Year F3Versary Eve
+
+### Q
+
+Dowry
 
 ### Warmup
 
@@ -113130,6 +127274,10 @@ Triple Bear IC x 13
 
 ## Carpe Diem
 
+### Q
+
+rogerroger
+
 ### Warmup
 
 - 5-1 Motivators
@@ -113166,6 +127314,10 @@ _Repeat for Duration:_ 3 Rounds Completed
 ---
 
 ## “1st Annual Tractor Pull”
+
+### Q
+
+Klinger
 
 ### Warmup
 
@@ -113233,6 +127385,10 @@ Bear Hold
 
 ## Who's ready for a challenge?
 
+### Q
+
+Drizzle
+
 ### Warmup
 
 -SSHs
@@ -113247,6 +127403,10 @@ Bear Hold
 ---
 
 ## Practical fitness
+
+### Q
+
+Camelot
 
 ### Warmup
 
@@ -113276,6 +127436,10 @@ imperial walkers
 ---
 
 ## Short Circuit
+
+### Q
+
+Silicone
 
 ### Warmup
 
@@ -113320,6 +127484,10 @@ not today
 
 ## Backblast
 
+### Q
+
+Vanilla Ice
+
 ### Warmup
 
 SSHs x 101 IC
@@ -113350,6 +127518,10 @@ Bear Crawl Up Gherkin Hill; Crawl Bear Down
 ---
 
 ## Backblast
+
+### Q
+
+Olav
 
 ### Warmup
 
@@ -113382,6 +127554,10 @@ Coupon Mosey to Fence and Back
 
 ## "Catch"
 
+### Q
+
+Elsa
+
 ### Warmup
 
 25 SSH
@@ -113401,6 +127577,10 @@ Elevens - thrusters and merkins
 ---
 
 ## Choose you're own adventure
+
+### Q
+
+Wilson (SpiritSTL)
 
 ### Warmup
 
@@ -113427,6 +127607,10 @@ Body Flys IC
 ---
 
 ## Backblast
+
+### Q
+
+Bucky
 
 ### Warmup
 
@@ -113478,6 +127662,10 @@ Dead bugs/coach roach 20 IC (right/left/both)
 
 ## Holy 7's
 
+### Q
+
+Nickelback
+
 ### Warmup
 
 Goofballs, Copperhead Squats, Willie Mays Hays, Tie Fighters, Quad Pulls
@@ -113510,6 +127698,10 @@ Gas Pumpers, X-Factors and Canoes &amp; Hammers
 ---
 
 ## Backblast
+
+### Q
+
+Shower House
 
 ### Warmup
 
@@ -113562,6 +127754,10 @@ RECOVER, RECOVER   Game called on account of time.
 ---
 
 ## Backblast
+
+### Q
+
+Tuition
 
 ### Warmup
 
@@ -113625,6 +127821,10 @@ One minute plank.
 
 ## Dumpster Fire
 
+### Q
+
+Otter
+
 ### Warmup
 
 Mosey around parking lot
@@ -113654,6 +127854,10 @@ Carolina drydocks to failure then Merkins. Hands on top coupons to give greater 
 
 ## Ultimate Adventures
 
+### Q
+
+rogerroger
+
 ### Warmup
 
 - 5-1 Motivators
@@ -113678,6 +127882,10 @@ Ultimate Frisbee
 
 ## Avatar! The Way of Water!!!
 
+### Q
+
+PillowFight
+
 ### Warmup
 
 Jog to Pavillion
@@ -113694,6 +127902,10 @@ The Primus: Crossfit "Last Man Standing" WOD: ~15 cal on bike~ 30 yard run + ~Ba
 ---
 
 ## Forge Mystery Box Part 2: _Sweat 4 Your Brain.
+
+### Q
+
+DOS
 
 ### Warmup
 
@@ -113720,6 +127932,10 @@ The Primus: Crossfit "Last Man Standing" WOD: ~15 cal on bike~ 30 yard run + ~Ba
 
 ## Sweat4YourBrain - Mystery Box Edition
 
+### Q
+
+Schlitz
+
 ### Warmup
 
 Willy Mays Hays
@@ -113744,6 +127960,10 @@ COR, NOR:
 ---
 
 ## Forge Mystery Box Part 2: _Sweat 4 Your Brain.
+
+### Q
+
+PillowFight
 
 ### Warmup
 
@@ -113771,6 +127991,10 @@ Till next time take care.
 
 ## Dora-cides
 
+### Q
+
+Rock Ride
+
 ### Warmup
 
 SSH 25 IC
@@ -113792,6 +128016,10 @@ Flutter Kicks 20 IC
 ---
 
 ## Backblast
+
+### Q
+
+Bobbit
 
 ### Warmup
 
@@ -113815,6 +128043,10 @@ Hip thrusters
 ---
 
 ## Backblast
+
+### Q
+
+Dowry
 
 ### Warmup
 
@@ -113861,6 +128093,10 @@ High Low Planks IC x 10
 
 ## Training Day
 
+### Q
+
+TheBeav
+
 ### Warmup
 
 5:1 motivators
@@ -113895,6 +128131,10 @@ Mosey back to flags
 ---
 
 ## Freed to Lead
+
+### Q
+
+Manny
 
 ### Warmup
 
@@ -113933,6 +128173,10 @@ Squat ring of fire (3,6)
 
 ## Tank Top Tuesday
 
+### Q
+
+Dowry
+
 ### Warmup
 
 Mosey down Kehrs Mill
@@ -113953,6 +128197,10 @@ Mosey back to #ao_pickle_jar
 ---
 
 ## Backblast
+
+### Q
+
+Drop Out (SpiritSTL)
 
 ### Warmup
 
@@ -113986,6 +128234,10 @@ Welsh Dragons variation
 
 ## Backblast
 
+### Q
+
+9 to 5
+
 ### Warmup
 
 - SSHs
@@ -114012,6 +128264,10 @@ COR &amp; NOR
 ---
 
 ## Backblast
+
+### Q
+
+Bucky
 
 ### Warmup
 
@@ -114055,6 +128311,10 @@ outlaws x20 right x20 left
 
 ## Backblast
 
+### Q
+
+Karat
+
 ### Warmup
 
 5 minutes
@@ -114078,6 +128338,10 @@ CoR, NoR
 ---
 
 ## Field Day Relays
+
+### Q
+
+Sanka
 
 ### Warmup
 
@@ -114122,6 +128386,10 @@ Alternating Shoulder Taps IC x 15
 
 ## Backblast
 
+### Q
+
+Silicone
+
 ### Thang
 
 Pax ran 3.75 miles mixing in merkinsx15 BBSUx15 and air squatsx15 at various points throughout
@@ -114129,6 +128397,10 @@ Pax ran 3.75 miles mixing in merkinsx15 BBSUx15 and air squatsx15 at various poi
 ---
 
 ## Pathfinder Launch
+
+### Q
+
+Tofu
 
 ### Warmup
 
@@ -114156,6 +128428,10 @@ Alphabet soup with feet
 
 ## No Pain, No Gian
 
+### Q
+
+Lotus Notes
+
 ### Warmup
 
 5-1 Motivators
@@ -114181,6 +128457,10 @@ Once back, HIM picks up on reps!
 ---
 
 ## Backblast
+
+### Q
+
+Fish Fry
 
 ### Warmup
 
@@ -114212,6 +128492,10 @@ Completed during BD
 ---
 
 ## 7s wild
+
+### Q
+
+Butterball
 
 ### Warmup
 
@@ -114245,6 +128529,10 @@ Ring of fire plank push ups
 
 ## Friday Funday
 
+### Q
+
+Karat
+
 ### Warmup
 
 5 Minutes-30 seconds SSH and 30 seconds for 5 burpees, stolen
@@ -114266,6 +128554,10 @@ More burpees to Billy Squire, The Stroke. 1 burpee every time they sing stroke .
 ---
 
 ## Back in the Saddle
+
+### Q
+
+Manny
 
 ### Warmup
 
@@ -114304,6 +128596,10 @@ Covered above, no separate Mary
 
 ## The Pickle Tradition
 
+### Q
+
+PillowFight
+
 ### Warmup
 
 Treetime SSH | Horse race
@@ -114321,6 +128617,10 @@ Have a great week.
 ---
 
 ## Backblast
+
+### Q
+
+Olav
 
 ### Warmup
 
@@ -114349,6 +128649,10 @@ The following list of exercises are performed in sets of 25 reps. After completi
 ---
 
 ## Plan or Improvise!?
+
+### Q
+
+Schlitz
 
 ### Warmup
 
@@ -114418,6 +128722,10 @@ PAX crushed it all with background tunes by Dead &amp; Company
 
 ## Wondering Wednesday
 
+### Q
+
+Captain Underpants
+
 ### Warmup
 
 5 min: 30 sec of SSH, 30 sec to complete 5 burpees.
@@ -114443,6 +128751,10 @@ More Flutter kicks!
 ---
 
 ## Backblast
+
+### Q
+
+Worm
 
 ### Warmup
 
@@ -114489,6 +128801,10 @@ Moral of the BD today is PAX and PAX may be heading to the boat by noon.
 
 ## Middle school track and field day
 
+### Q
+
+Harry C
+
 ### Warmup
 
 High knees with poor execution of the counting.
@@ -114512,6 +128828,10 @@ Flutter kicks
 ---
 
 ## We moved together!
+
+### Q
+
+Truckstop
 
 ### Warmup
 
@@ -114555,6 +128875,10 @@ Lemon Squeezers
 
 ## 2 Fast 2 Furious
 
+### Q
+
+Topeka
+
 ### Warmup
 
 - 5-1 Motivators
@@ -114585,6 +128909,10 @@ Team 3 still won #CheatToWin
 
 ## It's an historic day
 
+### Q
+
+Drizzle
+
 ### Warmup
 
 -10-4 motivators IC (fouled up by Q so audibled to 5-1)
@@ -114609,6 +128937,10 @@ Ran lap around track
 ---
 
 ## THE CHALLENGE
+
+### Q
+
+Dowry
 
 ### Warmup
 
@@ -114675,6 +129007,10 @@ High Low Planks IC x 10
 ---
 
 ## Backblast
+
+### Q
+
+Olav
 
 ### Warmup
 
@@ -114751,6 +129087,10 @@ Big Boy Sit-up x 5 | American Hammers x 20
 
 ## Gravel Pit Saturday!
 
+### Q
+
+Schlitz
+
 ### Warmup
 
 Jog to the playground, stopping for grass grabbers, pretzels
@@ -114793,6 +129133,10 @@ COR, NOR:
 
 ## Mystery Box - Saved by the EMOM
 
+### Q
+
+Jayhawk
+
 ### Warmup
 
 5/1 motivators
@@ -114829,6 +129173,10 @@ EMOM - 3 Burpees every 2 minutes throughout the BD
 
 ## The Mystery Box
 
+### Q
+
+Uncle Buck
+
 ### Warmup
 
 (all IC)
@@ -114845,6 +129193,10 @@ The Mystery Box
 ---
 
 ## Backblast
+
+### Q
+
+Karat
 
 ### Warmup
 
@@ -114880,6 +129232,10 @@ One end was overhead press, other side was Cusacks
 ---
 
 ## Mystery Box - Saved by the EMOM
+
+### Q
+
+Dowry
 
 ### Warmup
 
@@ -114922,6 +129278,10 @@ Guantanamo Bay
 
 ## The Mystery Box
 
+### Q
+
+Topeka
+
 ### Warmup
 
 - SSH
@@ -114951,6 +129311,10 @@ Cones set up 15 yds apart, start with a 30 yd coupon mosey (down and back), anot
 ---
 
 ## Quest for the Cup
+
+### Q
+
+Five-Hole
 
 ### Warmup
 
@@ -115009,6 +129373,10 @@ Big Boy Sit Ups x 20
 ---
 
 ## RED LIGHT, GREEN LIGHT
+
+### Q
+
+Bobbit
 
 ### Warmup
 
@@ -115086,6 +129454,10 @@ LINE Guantanamo with the pax took a while and was challenging!
 
 ## Backblast
 
+### Q
+
+BigTex
+
 ### Warmup
 
 25 x SSH
@@ -115112,6 +129484,10 @@ Jailbreak between sets (turned into more of a mosey as our legs became jelly)
 ---
 
 ## Core before 30/30
+
+### Q
+
+COBOL
 
 ### Warmup
 
@@ -115145,6 +129521,10 @@ Guantanamo
 
 ## 11-1pyramids
 
+### Q
+
+Chief
+
 ### Warmup
 
 -5:1 motivator
@@ -115171,6 +129551,10 @@ Recover for MARY
 ---
 
 ## Wednesday Beatdwon
+
+### Q
+
+Bushwood
 
 ### Warmup
 
@@ -115214,6 +129598,10 @@ PAX was the pacesetter and smoked everyone. As PAX finished they went back and p
 
 ## F3versary party!
 
+### Q
+
+Rock Ride, 1chain
+
 ### Warmup
 
 High Knees, Worlds Greatest Stretch, Bat Wings
@@ -115230,6 +129618,10 @@ Circle Merk with rounds of 1,2,3,5 Merkins. You know we were not getting out of 
 ---
 
 ## Backblast
+
+### Q
+
+Drop Out (SpiritSTL)
 
 ### Warmup
 
@@ -115270,6 +129662,10 @@ Keys tappers IC
 
 ## Slow Down (Slow Burn)
 
+### Q
+
+Petey
+
 ### Warmup
 
 Willy Mays Hayes 16(IC)
@@ -115309,6 +129705,10 @@ American Hammers 10
 
 ## Backblast
 
+### Q
+
+Lotus Notes
+
 ### Warmup
 
 5-1 Motivators
@@ -115336,6 +129736,10 @@ PAX put in some extra miles this morning...
 
 ## Backblast
 
+### Q
+
+Drop Out (SpiritSTL), Uncle Buck
+
 ### Warmup
 
 Grass Grabbers
@@ -115356,6 +129760,10 @@ Murph Challenge
 
 ## Backblast
 
+### Q
+
+Romeo
+
 ### Warmup
 
 Group stretching while Q explained setup for Murph
@@ -115372,6 +129780,10 @@ Group stretching while Q explained setup for Murph
 
 ## Down Range MURPH
 
+### Q
+
+DOS
+
 ### Warmup
 
 CrossFit style: various leg stretches  and shoulder-PVC
@@ -115387,6 +129799,10 @@ Till next time take care
 ---
 
 ## Taste of the Way
+
+### Q
+
+Sanka
 
 ### Warmup
 
@@ -115421,6 +129837,10 @@ Mountain Climbers - IC
 
 ## Air Force Physical Fitness Test
 
+### Q
+
+Norton
+
 ### Warmup
 
 - Grass grabbers
@@ -115447,6 +129867,10 @@ no time for that nonsense today
 
 ## Backblast
 
+### Q
+
+Karat
+
 ### Warmup
 
 7-1 Motivators
@@ -115470,6 +129894,10 @@ Nope
 
 ## Double down
 
+### Q
+
+Drizzle
+
 ### Warmup
 
 -10-4 motivators IC
@@ -115487,6 +129915,10 @@ Recover to Mary:
 ---
 
 ## ”B-ball Beatdown”
+
+### Q
+
+9-lives
 
 ### Warmup
 
@@ -115518,6 +129950,10 @@ Closed with 3 games of knockout- when knocked out started with SSH, as each pax 
 ---
 
 ## Don’t skip leg day
+
+### Q
+
+Silicone
 
 ### Warmup
 
@@ -115556,6 +129992,10 @@ Plank, Shoulder Taps, Imperial Walkers
 ---
 
 ## North &amp; South or East &amp; West
+
+### Q
+
+Nickelback
 
 ### Warmup
 
@@ -115611,6 +130051,10 @@ Canoes &amp; Hammers
 
 ## Backblast
 
+### Q
+
+Worm
+
 ### Warmup
 
 Quick jog to and from flags with Burpees on Q count
@@ -115648,6 +130092,10 @@ Not typically a little league soccer / participation guy; but today we were all 
 
 ## National Medal of Honor Day, Murph Workout
 
+### Q
+
+Hamburglar
+
 ### Warmup
 
 5 to 1 Motivators
@@ -115672,6 +130120,10 @@ Bring Sally Up/Bring Sally Down Leg Lift Challenge (A very long 3:20 minutes!)
 ---
 
 ## RED LIGHT, GREEN LIGHT
+
+### Q
+
+Bobbit
 
 ### Warmup
 
@@ -115720,6 +130172,10 @@ LINE Guantanamo with the pax took a while and was challenging!
 
 ## The legs feed the wolf, gentlemen
 
+### Q
+
+Topeka
+
 ### Warmup
 
 Monkey humpers
@@ -115747,6 +130203,10 @@ Run the suicide gauntlet, pick up the 6 before every round.
 
 ## Monkey humpin through hump day
 
+### Q
+
+Freshman
+
 ### Warmup
 
 Monkey humpers
@@ -115767,6 +130227,10 @@ Repeat
 ---
 
 ## Sharpening Up
+
+### Q
+
+TheBeav
 
 ### Warmup
 
@@ -115793,6 +130257,10 @@ PAX brought us home with BBSUs IC
 ---
 
 ## That's a lot
+
+### Q
+
+DOS
 
 ### Warmup
 
@@ -115834,6 +130302,10 @@ Get cones...
 
 ## FiboWhat
 
+### Q
+
+DOS
+
 ### Warmup
 
 `4-1 Motivators IC`
@@ -115870,6 +130342,10 @@ Get cones...
 ---
 
 ## Back at it
+
+### Q
+
+Clotshot
 
 ### Warmup
 
@@ -115924,6 +130400,10 @@ Hello dollies
 
 ## Are you prepared?
 
+### Q
+
+Captain Underpants
+
 ### Warmup
 
 1 min each of: SSH/Merkins/Squats/BBSU/Burpees
@@ -115951,6 +130431,10 @@ Lap around the parking garage
 ---
 
 ## men at work
+
+### Q
+
+PillowFight
 
 ### Warmup
 
@@ -115987,6 +130471,10 @@ Pax held a plank while one at a time Pax did 10 2-count side planks.
 ---
 
 ## Pools are opening!! Need that bod
+
+### Q
+
+Brad Pitt
 
 ### Warmup
 
@@ -116029,6 +130517,10 @@ Mountain Climbers
 
 ## Running with Wu-Tang
 
+### Q
+
+Nacho
+
 ### Warmup
 
 performed whilst asking PAX the above mission, principles, credo.
@@ -116050,6 +130542,10 @@ Last set of merkins, squats, and BBSU.
 ---
 
 ## Bring on the stairs
+
+### Q
+
+Jayhawk
 
 ### Warmup
 
@@ -116085,6 +130581,10 @@ Mosey back to flags
 ---
 
 ## Winner Winner Chicken Dinner
+
+### Q
+
+DOS
 
 ### Warmup
 
@@ -116125,6 +130625,10 @@ Plank hold for ~2 minutes
 
 ## Backblast
 
+### Q
+
+Romeo
+
 ### Warmup
 
 Grass Grabbers IC
@@ -116164,6 +130668,10 @@ Quad Stretch
 
 ## Friday Fun Day
 
+### Q
+
+Otter
+
 ### Warmup
 
 High Knees
@@ -116185,6 +130693,10 @@ Hello Dollies
 ---
 
 ## Q School!  LONG POST GREAT FOR New Pax and VQs!
+
+### Q
+
+Fulton (STL)
 
 ### Thang
 
@@ -116246,6 +130758,10 @@ Low plank and plank jacks to finish
 
 ## Lasting
 
+### Q
+
+DOS
+
 ### Warmup
 
 `5-1 Motivators IC`
@@ -116276,6 +130792,10 @@ Low plank and plank jacks to finish
 
 ## la vista
 
+### Q
+
+Stanley
+
 ### Warmup
 
 - Side Straddle Hops
@@ -116304,6 +130824,10 @@ American Hammers
 
 ## Livin’ on a Prayer
 
+### Q
+
+Topeka
+
 ### Warmup
 
 SSH + burpees
@@ -116324,6 +130848,10 @@ Batwings
 
 ## Be a Man of Value
 
+### Q
+
+Rock Ride
+
 ### Thang
 
 Hurricane Workout - 5 increasing hurricane categories with sprints between. 5 AMRAP tabata excercises for 50 seconds each, 20 seconds active bounce rest. No rest for the weary, the point was to push our cardio and mental toughness to keep pushing even when we feel like splashing merlot.
@@ -116338,6 +130866,10 @@ Crunchy Frogs or Lemon Squeezers as PAX calls em - 12 IC - toast
 ---
 
 ## Backblast
+
+### Q
+
+1chain
 
 ### Warmup
 
@@ -116393,6 +130925,10 @@ American Hammers
 
 ## Off to the Races
 
+### Q
+
+rogerroger
+
 ### Warmup
 
 - SSH
@@ -116428,6 +130964,10 @@ Split into 2 Groups
 
 ## Here Comes the Sun!
 
+### Q
+
+Noah
+
 ### Warmup
 
 Abe Vigodas, Grass Grabbers, Willie Mays Hays, Arm Circles, Seal &amp; Overhead Claps, Downward Dog &amp; Cobra, Monkey H’s
@@ -116446,6 +130986,10 @@ One Minute Each High Plank, Right Plank, Left Plank;  50 LBCs in cadence.
 ---
 
 ## Make it Rain!
+
+### Q
+
+Dowry
 
 ### Warmup
 
@@ -116510,6 +131054,10 @@ Run 100 Meters
 
 ## What: That’s wrong! Rain :writing_hand:edit
 
+### Q
+
+Bucky
+
 ### Warmup
 
 Abe Vogota
@@ -116564,6 +131112,10 @@ Protractor each Him calling out a degree
 
 ## Fun in the rain!
 
+### Q
+
+Truckstop
+
 ### Warmup
 
 Willie Mays Hays
@@ -116612,6 +131164,10 @@ American Hammers
 
 ## Monday
 
+### Q
+
+Harry C
+
 ### Warmup
 
 - high knees
@@ -116631,6 +131187,10 @@ American Hammers
 ---
 
 ## Backblast
+
+### Q
+
+Nikola
 
 ### Warmup
 
@@ -116658,6 +131218,10 @@ Back stretch
 ---
 
 ## From Q to Q (passing of the flags)
+
+### Q
+
+Charmin
 
 ### Warmup
 
@@ -116688,6 +131252,10 @@ RECOVER-RECOVER
 ---
 
 ## The Mother Load
+
+### Q
+
+DOS
 
 ### Warmup
 
@@ -116732,6 +131300,10 @@ RECOVER-RECOVER
 
 ## morning bike ride
 
+### Q
+
+Monocle-winsky
+
 ### Warmup
 
 No need for warm ups where we were going
@@ -116743,6 +131315,10 @@ Just under a twenty mile recovery bike after PAX BD on Friday
 ---
 
 ## Backblast
+
+### Q
+
+Shower House
 
 ### Warmup
 
@@ -116774,6 +131350,10 @@ Mosey back to the flags.  Recover.  Recover.
 
 ## You Tabata Believe It.
 
+### Q
+
+Bliss
+
 ### Warmup
 
 3 to 1 Motivatos
@@ -116798,6 +131378,10 @@ PAX paired up to complete a 9 cycle Tabata alternating jumping rope and completi
 ---
 
 ## A Nomads Guide to Accelera’chion annd Stoicism
+
+### Q
+
+Gumbo (STL)
 
 ### Warmup
 
@@ -116837,6 +131421,10 @@ Recover That
 
 ## 2x4 (ish)
 
+### Q
+
+Topeka
+
 ### Warmup
 
 10 SSH + 5 burpees
@@ -116861,6 +131449,10 @@ Backward 7s
 ---
 
 ## King of the Hill
+
+### Q
+
+Dowry
 
 ### Warmup
 
@@ -116921,6 +131513,10 @@ High Low Planks IC x 10
 
 ## Backblast
 
+### Q
+
+Romeo
+
 ### Warmup
 
 Abe Vigoda IC
@@ -116948,6 +131544,10 @@ Broga stretching
 ---
 
 ## WOBBLE BABY WOBBLE!!
+
+### Q
+
+Bobbit
 
 ### Warmup
 
@@ -116990,6 +131590,10 @@ walking curls
 
 ## Community Makes Life Tolerable
 
+### Q
+
+rogerroger
+
 ### Warmup
 
 - 5:1 Motivators
@@ -117026,6 +131630,10 @@ Repeat For Duration
 
 ## Lessons from the Stoics
 
+### Q
+
+Rock Ride
+
 ### Warmup
 
 SSH 20 IC
@@ -117054,6 +131662,10 @@ LBCs 20 IC
 
 ## Hump Day
 
+### Q
+
+Otter
+
 ### Warmup
 
 High knees
@@ -117078,6 +131690,10 @@ Mountain Climbers, Flutter Kicks, Shoulder Taps, and Rosealitas.
 ---
 
 ## Backblast
+
+### Q
+
+Topeka
 
 ### Warmup
 
@@ -117112,6 +131728,10 @@ Round 3 - Presenting Simba
 
 ## Tribute to 8 open heart surgeries
 
+### Q
+
+Hot Runs
+
 ### Warmup
 
 Side Straddle Hops (8)
@@ -117142,6 +131762,10 @@ Recover….Recover
 
 ## Better late than never
 
+### Q
+
+Wilson (SpiritSTL)
+
 ### Warmup
 
 5 to 1 motivators
@@ -117165,6 +131789,10 @@ COR, NOR
 
 ## Backblast
 
+### Q
+
+9 to 5
+
 ### Warmup
 
 - Goofballs
@@ -117186,6 +131814,10 @@ Red Rover, Red Rover
 ---
 
 ## Backblast
+
+### Q
+
+Fish Fry
 
 ### Warmup
 
@@ -117226,6 +131858,10 @@ Each PAX will sit on the wall and if you have to stop start doing burpees.  Go u
 
 ## Where can you go from there? Where?
 
+### Q
+
+Five-Hole
+
 ### Warmup
 
 5:1 Motivators
@@ -117260,6 +131896,10 @@ Big Boy Sit Ups x 11 OYO
 ---
 
 ## Circle of Fun
+
+### Q
+
+Dowry
 
 ### Warmup
 
@@ -117296,6 +131936,10 @@ Round 3 - 8 Merkins
 
 ## Monday DRP Run-Day
 
+### Q
+
+Schlitz
+
 ### Warmup
 
 Open the Gates
@@ -117308,6 +131952,10 @@ Grass Grabbers
 ---
 
 ## Backblast
+
+### Q
+
+Worm
 
 ### Warmup
 
@@ -117334,6 +131982,10 @@ Round 2: Wheel Barrel Races in parking lot / 10 Air Squats
 
 ## Backblast
 
+### Q
+
+PillowFight
+
 ### Thang
 
 Partner work and Travel, Travel included sawhorse barrier: [30 Rows, Pickle Pounders, 30 Burpees, poop, Farmer Hold/Calf Raise] &amp; intermittent Pushups.
@@ -117347,6 +131999,10 @@ FYI PAX: +25 points for second day heroics, +7.88 to PAX for the summersault, -5
 ---
 
 ## Cinco de Mayo
+
+### Q
+
+Bushwood
 
 ### Warmup
 
@@ -117402,6 +132058,10 @@ Each HIM led the PAX in an exercise of their choice:
 
 ## Kessel Run - Can you make it under 12?
 
+### Q
+
+Frosty, Manny
+
 ### Warmup
 
 - Imperial Walkers x 16 IC
@@ -117430,6 +132090,10 @@ T-Wing Merkin waterfall to 3
 ---
 
 ## Who are you performing for?
+
+### Q
+
+Ronda
 
 ### Warmup
 
@@ -117471,6 +132135,10 @@ Count &amp; Name -o-rama
 
 ## (Sorry for the late post)
 
+### Q
+
+Freshman
+
 ### Warmup
 
 5 to 1 motivators
@@ -117511,6 +132179,10 @@ Sally came to the pickle jar
 
 ## Backblast
 
+### Q
+
+Drop Out (SpiritSTL)
+
 ### Warmup
 
 5-1 Motivators
@@ -117548,6 +132220,10 @@ single leg RDLS
 
 ## Bump Merkin Deon Burpee
 
+### Q
+
+Bobbit
+
 ### Warmup
 
 Willy mays hays
@@ -117569,6 +132245,10 @@ slow lemon squeezers
 
 ## Over the river and through the woods…
 
+### Q
+
+Bliss
+
 ### Warmup
 
 -5-1 motivators
@@ -117582,6 +132262,10 @@ PAX ran through the park changing up the pace between a jog and a sprint. Multip
 ---
 
 ## HUMP DAAAAYYYYY!!!!!!
+
+### Q
+
+Topeka
 
 ### Warmup
 
@@ -117611,6 +132295,10 @@ Bonus Round!!!
 ---
 
 ## Overdue VQ - Don't Sell Yourself Short
+
+### Q
+
+JanBrady
 
 ### Warmup
 
@@ -117642,6 +132330,10 @@ The partner not actively completing Merkin/LBC ladder rungs did the following:
 
 ## Broken back parade
 
+### Q
+
+Mayfield
+
 ### Warmup
 
 Grassgrabbers x10
@@ -117672,6 +132364,10 @@ Ring of fire where each Pax held a plank until it was their turn to do 3 merkins
 
 ## Backblast
 
+### Q
+
+1chain
+
 ### Warmup
 
 SSH 10-5 Blockees x4
@@ -117699,6 +132395,10 @@ American Hammers
 ---
 
 ## SO YOU WANT TO BE A FARMER
+
+### Q
+
+Bobbit
 
 ### Warmup
 
@@ -117760,6 +132460,10 @@ Cowboy flutter kicks(knees in and out up),
 
 ## FEW BUT MIGHTY; SIMPLE BUT TOUGH
 
+### Q
+
+Noah
+
 ### Warmup
 
 SSH, Seal Clap, Overhead Clap, Phelps, Small/Lg Arm Circles, Drydock calf stretch/Cobra
@@ -117778,6 +132482,10 @@ In Cadence: Hello Dollies, LBC, Freddies, BBS, Superman Plank
 ---
 
 ## Backblast
+
+### Q
+
+Manscapes
 
 ### Warmup
 
@@ -117816,6 +132524,10 @@ LBC - lost count
 
 ## Another milestone
 
+### Q
+
+Drizzle
+
 ### Warmup
 
 -7-1 motivators IC
@@ -117837,6 +132549,10 @@ OYO, do 15 sets of 15 reps each of bobby hurleys ew, dips, LBCs, and a selection
 ---
 
 ## Getting Ready
+
+### Q
+
+Romeo
 
 ### Warmup
 
@@ -117867,6 +132583,10 @@ Various Stretches
 
 ## Backblast
 
+### Q
+
+9 to 5
+
 ### Warmup
 
 - Goofballs
@@ -117891,6 +132611,10 @@ Split into two teams and go to opposite ends. Travel and meet in the middle to d
 
 ## No man left behind
 
+### Q
+
+Klinger
+
 ### Warmup
 
 10 yards each of Exterior over fence, interior over fence, quad pulls, and knee hugs.
@@ -117902,6 +132626,10 @@ Ran the outer loop, most of the crew sprinted up the inclines and waited at the 
 ---
 
 ## Backblast
+
+### Q
+
+Karat
 
 ### Warmup
 
@@ -117936,6 +132664,10 @@ Nope
 ---
 
 ## The Circle of Pain
+
+### Q
+
+Dowry
 
 ### Warmup
 
@@ -118002,6 +132734,10 @@ High Low Plank IC x 10
 
 ## Keeping the Lights On
 
+### Q
+
+Tolkien
+
 ### Warmup
 
 Goofballs
@@ -118045,6 +132781,10 @@ Mosey back to the Flag
 
 ## FATE IS IN YOUR HANDS!
 
+### Q
+
+Bobbit
+
 ### Warmup
 
 run 20 yrds
@@ -118079,6 +132819,10 @@ Lemon Squeezers
 
 ## Exercise!
 
+### Q
+
+Truckstop
+
 ### Thang
 
 Thrusters
@@ -118112,6 +132856,10 @@ American Hammers
 ---
 
 ## Backblast
+
+### Q
+
+Drop Out (SpiritSTL)
 
 ### Warmup
 
@@ -118150,6 +132898,10 @@ Various and Sundry stretches
 
 ## Backblast
 
+### Q
+
+Tom Tom
+
 ### Warmup
 
 Grassgrabbers IC x12
@@ -118183,6 +132935,10 @@ Merkin waterfall to 5
 
 ## Why not Wednesdays
 
+### Q
+
+Wet Wipe
+
 ### Warmup
 
 Slow Willy Mays Hays x8, Slow Grass Grabbers x8, SSH’s x25, Bat Wings + Pretzel x12
@@ -118204,6 +132960,10 @@ Freddie Mercuries (15), Flutter Kicks (15), Hello Dolly (15), 60 second plank
 ---
 
 ## Bear Down for Hump Day
+
+### Q
+
+Freshman
 
 ### Warmup
 
@@ -118238,6 +132998,10 @@ Sally makes a reappearance
 ---
 
 ## (20+5)4  X = BD
+
+### Q
+
+BUB
 
 ### Warmup
 
@@ -118295,6 +133059,10 @@ Flutter kicks
 
 ## Rocked UP!
 
+### Q
+
+Bobbit
+
 ### Warmup
 
 run 20 yrds
@@ -118340,6 +133108,10 @@ Lemon Squeezers
 ---
 
 ## Yards of SUCK
+
+### Q
+
+Five-Hole
 
 ### Warmup
 
@@ -118391,6 +133163,10 @@ Rosalitas x 20
 
 ## ”9s with 9-Lives”
 
+### Q
+
+9-lives
+
 ### Warmup
 
 SSH IC x 25
@@ -118422,6 +133198,10 @@ Exercises
 ---
 
 ## Backblast
+
+### Q
+
+Bucky
 
 ### Warmup
 
@@ -118459,6 +133239,10 @@ slide  planks (tried/failed) switch to 30 second plank.
 ---
 
 ## A Minute to Fatigue
+
+### Q
+
+Charmin
 
 ### Warmup
 
@@ -118509,6 +133293,10 @@ RECOVER-RECOVER
 
 ## WW Invades the Way!
 
+### Q
+
+Wet Wipe
+
 ### Warmup
 
 SSH’s x15, Willy Mays Hays x10, Grass Grabbers x10, Bat Wings + Pretzel x10, Monkey Humpers x12
@@ -118530,6 +133318,10 @@ Freddie Mercuries (10), Box Cutters (10), American Hammers (20), 60 second plank
 ---
 
 ## Backblast
+
+### Q
+
+Bushwood
 
 ### Warmup
 
@@ -118587,6 +133379,10 @@ Round 4
 
 ## Celebrating Queeny Launch at THE ROUX!!!!
 
+### Q
+
+ginsu
+
 ### Warmup
 
 Random Stretching
@@ -118617,6 +133413,10 @@ Run a lap around the track
 ---
 
 ## Gimme a 5
+
+### Q
+
+Dowry
 
 ### Warmup
 
@@ -118683,6 +133483,10 @@ High Low Planks IC x 10
 
 ## It is always good to have gratitude
 
+### Q
+
+Honey Pot
+
 ### Warmup
 
 SSH X 25
@@ -118714,6 +133518,10 @@ Six minutes of Mary:
 ---
 
 ## Ready to
+
+### Q
+
+Schlitz
 
 ### Warmup
 
@@ -118802,6 +133610,10 @@ PAX was delighted at the chance to learn and do so many Elf on a Shelf reps sinc
 
 ## Who you callin’ a skank?!~ The Drunk Uncle
 
+### Q
+
+Commando
+
 ### Warmup
 
 SSH
@@ -118820,6 +133632,10 @@ Teams took turns coming to the table for a face off to determine who would contr
 ---
 
 ## Backblast
+
+### Q
+
+Bucky
 
 ### Warmup
 
@@ -118851,6 +133667,10 @@ How else would 420 day wrap up?
 
 ## A Little DRP
 
+### Q
+
+Olav
+
 ### Warmup
 
 7-1 motivators
@@ -118876,6 +133696,10 @@ Flutter Kicks IC
 ---
 
 ## Backblast
+
+### Q
+
+Five-Hole
 
 ### Warmup
 
@@ -118914,6 +133738,10 @@ Grass Grabbers x 12
 
 ## Wednesday Warriors: aka the rain BD but not in the rain
 
+### Q
+
+TheBeav
+
 ### Warmup
 
 Bat Wings IC
@@ -118944,6 +133772,10 @@ American Hammers IC
 ---
 
 ## Make it a Double
+
+### Q
+
+Dowry
 
 ### Warmup
 
@@ -119002,6 +133834,10 @@ Jailbreak down hill and back to start
 
 ## Backblast
 
+### Q
+
+Worm
+
 ### Warmup
 
 Bat Wings
@@ -119041,6 +133877,10 @@ Accountability Planks - 3 min partner planks- if you break form your partner has
 
 ## Get out of that funk
 
+### Q
+
+Topeka
+
 ### Warmup
 
 SSH
@@ -119075,6 +133915,10 @@ PAX led us in 31 American Hammers
 
 ## Backblast
 
+### Q
+
+BigTex
+
 ### Warmup
 
 20 x SSH
@@ -119106,6 +133950,10 @@ Lunge Walk
 ---
 
 ## Elevate Yourself!!
+
+### Q
+
+Bobbit
 
 ### Warmup
 
@@ -119149,6 +133997,10 @@ Ran out of time
 
 ## The EMOMosey
 
+### Q
+
+Gumbo (STL)
+
 ### Warmup
 
 Goofballs - IC
@@ -119176,6 +134028,10 @@ _!!!  we do a set of King Kong Planks (chest pounds).  If you did all, there wer
 ---
 
 ## Monday DRP
+
+### Q
+
+Rock Ride
 
 ### Warmup
 
@@ -119212,6 +134068,10 @@ Flutter kicks
 
 ## Heavy Metal Bells
 
+### Q
+
+PillowFight
+
 ### Warmup
 
 5 EMOM [ 10 push-ups, 5 pull-ups]
@@ -119230,6 +134090,10 @@ Last Place: PAX
 ---
 
 ## Backblast
+
+### Q
+
+Bushwood
 
 ### Warmup
 
@@ -119295,6 +134159,10 @@ Round 5
 
 ## The EMOMosey
 
+### Q
+
+Gumbo (STL)
+
 ### Warmup
 
 Goofballs - IC
@@ -119319,6 +134187,10 @@ RECOVER, RECOVER - PAX took a victory Mosey back to the Flags.
 ---
 
 ## Ready To Roll!
+
+### Q
+
+Bobbit
 
 ### Warmup
 
@@ -119377,6 +134249,10 @@ Wack-a-moles- bicycles but smack opposite foot each time up
 
 ## EMOM Circuit. Continue Accelerating and Lighting
 
+### Q
+
+Hamburglar
+
 ### Warmup
 
 (25) Side shuttle Hops (IC)
@@ -119395,6 +134271,10 @@ Centipede Race
 ---
 
 ## Backblast
+
+### Q
+
+Tuition
 
 ### Warmup
 
@@ -119440,6 +134320,10 @@ PAX PAX PAX had 4000 (team of three)
 
 ## Maximum Suck Factor
 
+### Q
+
+Rock Ride
+
 ### Warmup
 
 SSH 20 IC
@@ -119478,6 +134362,10 @@ Flutter kicks
 
 ## A tradition unlike any other
 
+### Q
+
+Duke
+
 ### Warmup
 
 - SSH
@@ -119506,6 +134394,10 @@ Hole 6 Thornapple – Par 4.   Wheelbarrow to the hole.
 ---
 
 ## Mendoza Line
+
+### Q
+
+Drizzle
 
 ### Warmup
 
@@ -119540,6 +134432,10 @@ Station 2:
 
 ## Get Right: Whetstone (1.8)
 
+### Q
+
+BUB
+
 ### Thang
 
 DThang: . Also great to encourage those who have shield-lock relationships outside of F3 to encourage those men to come to F3.
@@ -119547,6 +134443,10 @@ DThang: . Also great to encourage those who have shield-lock relationships outsi
 ---
 
 ## Don’t worry, be happy
+
+### Q
+
+Norton
 
 ### Warmup
 
@@ -119593,6 +134493,10 @@ Round 4
 
 ## Backblast
 
+### Q
+
+Bucky
+
 ### Warmup
 
 Sun Gods
@@ -119628,6 +134532,10 @@ Round 2 reality- Jump squats 40 than mosey the loop, reduce by 10 than mosey, re
 ---
 
 ## Tour de Roux Deux . Deux
+
+### Q
+
+Otter
 
 ### Warmup
 
@@ -119666,6 +134574,10 @@ Tricep Stretch
 
 ## Backblast
 
+### Q
+
+Karat, Wilson (SpiritSTL)
+
 ### Warmup
 
 7-1 Motivators
@@ -119686,6 +134598,10 @@ PAX returned to flags.
 ---
 
 ## Backblast
+
+### Q
+
+Fish Fry
 
 ### Warmup
 
@@ -119724,6 +134640,10 @@ Run back to the flag
 ---
 
 ## True Grit Friday
+
+### Q
+
+Bushwood
 
 ### Warmup
 
@@ -119767,6 +134687,10 @@ PAX completed 4 or 5 circuits.
 ---
 
 ## Live in Freedom
+
+### Q
+
+rogerroger
 
 ### Warmup
 
@@ -119817,6 +134741,10 @@ Mosie Back to Start
 
 ## the real GOOD FRIDAY
 
+### Q
+
+BrownandBrown
+
 ### Warmup
 
 3-1 motivators
@@ -119839,6 +134767,10 @@ BB sit ups, American hammers, plank
 
 ## Backblast
 
+### Q
+
+Olav
+
 ### Warmup
 
 Piano Tappers
@@ -119860,6 +134792,10 @@ Arm Haulers
 ---
 
 ## Temperature Plunge
+
+### Q
+
+Noah
 
 ### Warmup
 
@@ -119903,6 +134839,10 @@ Ric Flair
 
 ## Backblast
 
+### Q
+
+Short Circuit
+
 ### Warmup
 
 Grass Grabbers
@@ -119933,6 +134873,10 @@ Pax choice.
 
 ## Tour de Roux! Part Deux
 
+### Q
+
+Dowry
+
 ### Warmup
 
 5:1 Motivators
@@ -119952,6 +134896,10 @@ Round 1: 2 Merkins
 ---
 
 ## Holy Humpday
+
+### Q
+
+Freshman
 
 ### Warmup
 
@@ -119978,6 +134926,10 @@ Bring sally up
 ---
 
 ## Motivated to Move
+
+### Q
+
+Truckstop
 
 ### Warmup
 
@@ -120017,6 +134969,10 @@ Mosey to edge of parking lot and back
 ---
 
 ## Backblast
+
+### Q
+
+Bobbit
 
 ### Warmup
 
@@ -120071,6 +135027,10 @@ Rnd 10- duck walk
 
 ## Rifle on over
 
+### Q
+
+Clotshot
+
 ### Warmup
 
 - SSH x20 IC
@@ -120101,6 +135061,10 @@ Exercises between rifle carry cycles:
 ---
 
 ## Back to the Basics
+
+### Q
+
+Gumbo (STL)
 
 ### Warmup
 
@@ -120145,6 +135109,10 @@ Round 5: 10 /10/10 of each for the Final Station - 3 Navy Seals!
 
 ## Backblast
 
+### Q
+
+Worm
+
 ### Thang
 
 3 stations set up around the trap. PAX counted off into groups of three and went to the front of the lot. Stations A &amp; B were AMRAP with the exercises changing each round. Station C was constant hill work
@@ -120183,6 +135151,10 @@ Made it through 5 rounds
 
 ## Meramec  Spirit
 
+### Q
+
+Rub Down
+
 ### Warmup
 
 SSH, Learning to Phelps
@@ -120214,6 +135186,10 @@ X-factors x 10
 ---
 
 ## It's all Fun and Games
+
+### Q
+
+Dowry
 
 ### Warmup
 
@@ -120247,6 +135223,10 @@ Guantanamo Bay
 
 ## Friday Fun
 
+### Q
+
+Captain Underpants
+
 ### Warmup
 
 10 burpees
@@ -120278,6 +135258,10 @@ Mosey back to the flags
 ---
 
 ## Backblast
+
+### Q
+
+Uncle Buck
 
 ### Warmup
 
@@ -120318,6 +135302,10 @@ all IC
 
 ## Backblast
 
+### Q
+
+Gobstopper
+
 ### Warmup
 
 4 to 6 Motivators (yes, it worked)
@@ -120349,6 +135337,10 @@ Big Boy Situps
 
 ## Can we go 6-0
 
+### Q
+
+Flobee
+
 ### Warmup
 
 IC
@@ -120368,6 +135360,10 @@ Devoted to another game
 ---
 
 ## WHAT COMES UP MUST COME DOWN
+
+### Q
+
+Skid Mark
 
 ### Warmup
 
@@ -120410,6 +135406,10 @@ Willy Mays Hays IC
 ---
 
 ## ROUND AND ROUND
+
+### Q
+
+Zero Turn
 
 ### Warmup
 
@@ -120462,6 +135462,10 @@ Merkin waterfall to 5
 
 ## DRAW THE LINE!!
 
+### Q
+
+Bobbit
+
 ### Thang
 
 Draw a Line down the field of gloom!!!!
@@ -120488,6 +135492,10 @@ Guantanamo 1 x entire pax as we ran out of time
 ---
 
 ## The Dingmaster
+
+### Q
+
+Inseam
 
 ### Warmup
 
@@ -120520,6 +135528,10 @@ Not today
 ---
 
 ## Play Ball!
+
+### Q
+
+Elmer
 
 ### Warmup
 
@@ -120613,6 +135625,10 @@ Catcher’s Stretch
 
 ## The Longest Yard!!!
 
+### Q
+
+Bobbit
+
 ### Thang
 
 5 Rounds run-travel- exercise with everyone chasing a PAX member.  If someone beats the “rabbit” to the finish line then the Pax has 10 burpees.
@@ -120658,6 +135674,10 @@ Run the mountain
 
 ## The trail of two cities convergence. Going the distance with chariots of fire.
 
+### Q
+
+Road Rage
+
 ### Warmup
 
 Flying squirrels OYO
@@ -120676,6 +135696,10 @@ High knees - all together.
 ---
 
 ## KING TUT.......TIME UNDER TENSION
+
+### Q
+
+Bobbit
 
 ### Warmup
 
@@ -120705,6 +135729,10 @@ If this were your final day, what would you do or say?
 
 ## Beatdown and 30 for 30
 
+### Q
+
+Buckeye (F3STL Meramec)
+
 ### Warmup
 
 SSH IC
@@ -120733,6 +135761,10 @@ Penguin Tappers IC
 ---
 
 ## Taebo Combo
+
+### Q
+
+Taebo
 
 ### Warmup
 
@@ -120765,6 +135797,10 @@ Rise and repeat if able
 ---
 
 ## Backblast
+
+### Q
+
+Fulton (STL)
 
 ### Warmup
 
@@ -120812,6 +135848,10 @@ Mosey back to the flag.
 
 ## The Infinity Season Part 1: Horse Power
 
+### Q
+
+PillowFight
+
 ### Thang
 
 Horse Power [15 good Pushups]
@@ -120825,6 +135865,10 @@ Horse Power [15 good Pushups]
 ---
 
 ## Backblast
+
+### Q
+
+Worm
 
 ### Warmup
 
@@ -120878,6 +135922,10 @@ Team 2 whooped Team 1. They will be getting tested for PEDs later today.
 
 ## If you have the choice between being an eagle or a crow,  BE The Eagle
 
+### Q
+
+Glee
+
 ### Warmup
 
 Lap around community center
@@ -120914,6 +135962,10 @@ PAX led PAX with Flutter Kicks
 ---
 
 ## Even Coal Can Be Pretty
+
+### Q
+
+Cousin Eddy
 
 ### Warmup
 
@@ -121002,6 +136054,10 @@ Dying cockroach
 
 ## A MURDER OF CROWS
 
+### Q
+
+Manicure
+
 ### Warmup
 
 - Willie Mays Hayes IC
@@ -121030,6 +136086,10 @@ Pick up the six after completing round 2
 ---
 
 ## Passing the Flag
+
+### Q
+
+Catnip, Noah
 
 ### Warmup
 
@@ -121063,6 +136123,10 @@ Started with a lap around the park. As we closed out VQ month and prepared for a
 
 ## Backblast
 
+### Q
+
+Karat
+
 ### Warmup
 
 7-1 Motivators
@@ -121084,6 +136148,10 @@ Didn't make it to round 5.
 ---
 
 ## Backblast
+
+### Q
+
+Fish Fry
 
 ### Warmup
 
@@ -121132,6 +136200,10 @@ On 6 with legs extended like a flutter kick then bring shoulders up like a LBC
 
 ## (s)Murph Monday
 
+### Q
+
+Tinker Bell
+
 ### Warmup
 
 SSH IC
@@ -121156,6 +136228,10 @@ Supermans IC
 ---
 
 ## MANIC MONDAY
+
+### Q
+
+Zero Turn
 
 ### Warmup
 
@@ -121193,6 +136269,10 @@ Repeat
 ---
 
 ## March Madness!
+
+### Q
+
+Charmin
 
 ### Warmup
 
@@ -121235,6 +136315,10 @@ High plank alternating arm/leg
 
 ## 5k Monday
 
+### Q
+
+Farva (Stl Meramec)
+
 ### Thang
 
 Ran a 5K!
@@ -121242,6 +136326,10 @@ Ran a 5K!
 ---
 
 ## Zig Zag
+
+### Q
+
+Otter
 
 ### Warmup
 
@@ -121270,6 +136358,10 @@ Alphabet abs. Probably the worst display of knowing the alphabet by adults ever.
 ---
 
 ## Adapt
+
+### Q
+
+Roomba
 
 ### Warmup
 
@@ -121316,6 +136408,10 @@ PAX completed 3 rounds!
 
 ## Backblast
 
+### Q
+
+Lotus Notes
+
 ### Warmup
 
 Grass Grabbers
@@ -121336,6 +136432,10 @@ Still a little time for Mary to get some Core exercises in.
 ---
 
 ## Sink Or Swim
+
+### Q
+
+Gobstopper
 
 ### Warmup
 
@@ -121370,6 +136470,10 @@ Battle Ropes, Tables Dips, Jump Squats, Coupon Squats, Blockeez (50lb sandbag op
 
 ## Don’t Buy Yourself Flowers
 
+### Q
+
+Rub Down
+
 ### Warmup
 
 5:1 Motivators
@@ -121398,6 +136502,10 @@ PAX completed 4 rounds and sandbag exercise for round 5.
 ---
 
 ## Tellier Hero WOD  Enhanced
+
+### Q
+
+Tinker Bell
 
 ### Warmup
 
@@ -121441,6 +136549,10 @@ blackdiamond01: enhanced:
 
 ## Going Under the Wire
 
+### Q
+
+rogerroger
+
 ### Warmup
 
 - 5:1 Motivators
@@ -121481,6 +136593,10 @@ Completed 8 rounds
 
 ## Backblast
 
+### Q
+
+Karat
+
 ### Warmup
 
 7-1 Motivators
@@ -121501,6 +136617,10 @@ Didn't make it to round 5.
 ---
 
 ## 069 1 YEAR CELLY
+
+### Q
+
+Zero Turn, Elmer
 
 ### Warmup
 
@@ -121548,6 +136668,10 @@ Superman’s
 
 ## Backblast
 
+### Q
+
+Gumbo (STL)
+
 ### Warmup
 
 Active bounce in place while we finish up the Disclaimer
@@ -121567,6 +136691,10 @@ Round Tree: 300 Weighted Squats! - Static hold: Al Gore
 
 ## Breaking Free
 
+### Q
+
+Noah
+
 ### Warmup
 
 AbeVs, grassgrab, LB arm circles, stretch, LTPhelps
@@ -121583,6 +136711,10 @@ walked our coupons around the path with stops for 23 curls/merkins, 23 shoulder 
 
 ## Running the Levy
 
+### Q
+
+Roadkill
+
 ### Warmup
 
 Side Straddle Hops
@@ -121596,6 +136728,10 @@ PAX started from Meramec Greenway and proceeded to Vance Road, then turned onto 
 ---
 
 ## 26 yr Anniversary-Nobody Puts Baby in a Corner!
+
+### Q
+
+Bobbit
 
 ### Warmup
 
@@ -121640,6 +136776,10 @@ z seated front press (lean back inclined press)
 ---
 
 ## MENTAL BATTLE REACH
+
+### Q
+
+Zero Turn
 
 ### Warmup
 
@@ -121720,6 +136860,10 @@ Each team took a Station to preform CPR and address the emergency following the 
 
 ## One Year F3 Anniversary
 
+### Q
+
+Chowda
+
 ### Warmup
 
 - 7-1 Motivators - tribute to PAX
@@ -121752,6 +136896,10 @@ RECOVER • RECOVER
 
 ## Tabata Wednesday
 
+### Q
+
+Rock Ride
+
 ### Warmup
 
 Hillbilly Walkers - 15 IC
@@ -121768,6 +136916,10 @@ PAX took us on a running lap for cooldown instead of Mary
 ---
 
 ## Queeny Park Spring Break Trip
+
+### Q
+
+PillowFight
 
 ### Warmup
 
@@ -121790,6 +136942,10 @@ Alt Sphynx Tricep Pushups / Curls
 ---
 
 ## No Spring Break Tuesday
+
+### Q
+
+Bushwood
 
 ### Warmup
 
@@ -121841,6 +136997,10 @@ Part 3
 
 ## Backblast
 
+### Q
+
+Drop Out (SpiritSTL)
+
 ### Warmup
 
 7-1 Motivators
@@ -121870,6 +137030,10 @@ table tops IC
 ---
 
 ## 3-2-1-2-3 FORE
+
+### Q
+
+Misty
 
 ### Warmup
 
@@ -121910,6 +137074,10 @@ Freddy Mercuries
 
 ## Contact in Wardak
 
+### Q
+
+Roomba
+
 ### Warmup
 
 - 10x Willy Mays Hayes IC
@@ -121940,6 +137108,10 @@ Q led PAX in a popcorn Mary.
 
 ## 5's a crowd
 
+### Q
+
+Inseam
+
 ### Warmup
 
 Side Straddle Hops
@@ -121967,6 +137139,10 @@ Popcorn Mary
 
 ## Mars Volta in the Parking Garage.
 
+### Q
+
+PillowFight
+
 ### Thang
 
 3- Man: 8 Min 45 Goblet Squat with rifle carry, 8 Min 45 RH/LH Row with jog, 120 Burpees
@@ -121978,6 +137154,10 @@ Alt Sphynx Tricep Pushups / Curls
 ---
 
 ## It's the first day of spring so why is it so cold?
+
+### Q
+
+Drizzle
 
 ### Warmup
 
@@ -122019,6 +137199,10 @@ Dice were rolled 9 times. Team 2 definitely had the worse luck.
 
 ## 100 Lbs and releasing
 
+### Q
+
+Power Clean (JeffCo)
+
 ### Warmup
 
 Burpees, Copperhead Squats and a 1/4 mile jog
@@ -122040,6 +137224,10 @@ After a couple rounds we ran another 1/4 mile and when we returned we circled up
 ---
 
 ## Backblast
+
+### Q
+
+Jailbait
 
 ### Warmup
 
@@ -122064,6 +137252,10 @@ So our main hill doesn't find out about our side hill
 ---
 
 ## Mental Battle WOD
+
+### Q
+
+Rock Ride
 
 ### Warmup
 
@@ -122117,6 +137309,10 @@ Skipped as we did plenty of core at Station 4
 
 ## Free-Puffing or Jiggly-Falling
 
+### Q
+
+Jigglypuff (STL Meramec)
+
 ### Warmup
 
 hairy Rockettes, knee pulls, quad pulls, Willy Mayes, grass grabbers, 15 burpees
@@ -122128,6 +137324,10 @@ hairy Rockettes, knee pulls, quad pulls, Willy Mayes, grass grabbers, 15 burpees
 ---
 
 ## Rifle on over
+
+### Q
+
+Clotshot
 
 ### Warmup
 
@@ -122166,6 +137366,10 @@ Exercises between rifle carry cycles:
 
 ## Backblast
 
+### Q
+
+BigTex
+
 ### Warmup
 
 7-1 Motivators
@@ -122201,6 +137405,10 @@ Jailbreak
 
 ## Happy St. Patrick's Day
 
+### Q
+
+Seabiscuit
+
 ### Warmup
 
 SSHs
@@ -122228,6 +137436,10 @@ Sumo Squats
 ---
 
 ## Luck o’ the Irish
+
+### Q
+
+Five-Hole
 
 ### Warmup
 
@@ -122279,6 +137491,10 @@ Penguin Tappers x 15
 
 ## Saint Patty's Day
 
+### Q
+
+Inseam
+
 ### Warmup
 
 Side Straddle Hops
@@ -122307,6 +137523,10 @@ Popcorn Mary
 ---
 
 ## Bracket Buster
+
+### Q
+
+Dowry
 
 ### Warmup
 
@@ -122369,6 +137589,10 @@ Flutter Kicks IC
 
 ## Do Hard Things
 
+### Q
+
+rogerroger
+
 ### Warmup
 
 - 7:1 Motivators
@@ -122398,6 +137622,10 @@ Latter: 5, 15, 25, 35, 10
 ---
 
 ## Party won’t start
+
+### Q
+
+Farva (Stl Meramec)
 
 ### Warmup
 
@@ -122459,6 +137687,10 @@ For last travel, Q modified to a PAX choice parking lot lap WITH coupon, picked 
 
 ## Hard Rock
 
+### Q
+
+NeckBrace
+
 ### Warmup
 
 12 WMH (IC)
@@ -122505,6 +137737,10 @@ Name O'rama
 
 ## Hump Day
 
+### Q
+
+Tuition
+
 ### Warmup
 
 Little baby Arm circles
@@ -122542,6 +137778,10 @@ Recover to Mary
 
 ## The King, Queen and Jester walk into a bar...
 
+### Q
+
+BigPharma
+
 ### Warmup
 
 - Stupid Motivators 23:19
@@ -122563,6 +137803,10 @@ The last 5 minutes of the thing consisted of an Indian rifle carry.  Once all PA
 ---
 
 ## Mental Battle WOD
+
+### Q
+
+Rub Down
 
 ### Warmup
 
@@ -122617,6 +137861,10 @@ Ric Flair!
 ---
 
 ## High/Low
+
+### Q
+
+Otter
 
 ### Thang
 
@@ -122677,6 +137925,10 @@ PAX completed the following:
 ---
 
 ## Sumn New
+
+### Q
+
+Dowry
 
 ### Warmup
 
@@ -122744,6 +137996,10 @@ Each song there's an exercise to be repped during a certain lyric
 
 ## COUCH potato’s?
 
+### Q
+
+Farva (Stl Meramec)
+
 ### Warmup
 
 Learning to Phelps
@@ -122807,6 +138063,10 @@ Coupon Curls, Freddy Mercury's, flying squirrels / mosey
 
 ## Its Monday morning…take a deep breath.
 
+### Q
+
+Brad Pitt
+
 ### Warmup
 
 7:1 Motivators
@@ -122837,6 +138097,10 @@ Freddy Mercurys
 ---
 
 ## Choose Your Own Pi Adventure
+
+### Q
+
+Manny
 
 ### Warmup
 
@@ -122925,6 +138189,10 @@ PAX mark (Scuba PAX’s)
 
 ## Keep ‘em on they Toes! -Brent Cobb
 
+### Q
+
+Snuggles
+
 ### Warmup
 
 -7:1 Motivators
@@ -122946,6 +138214,10 @@ Hold Plank position while listening to “Keep ‘em on They Toes”
 ---
 
 ## Work, Work, Work, Work…
+
+### Q
+
+meatloaf
 
 ### Warmup
 
@@ -122973,6 +138245,10 @@ Round 8 - crawl bear down levee, Deion back up
 ---
 
 ## Backblast
+
+### Q
+
+Peaches, Power Clean (JeffCo)
 
 ### Warmup
 
@@ -123026,6 +138302,10 @@ Recover-Recover
 ---
 
 ## 12 and 6
+
+### Q
+
+Zero Turn
 
 ### Warmup
 
@@ -123092,6 +138372,10 @@ Mountain Climbers IC/PLANK JACKS IC/PIKE UPS IC
 
 ## 3-Man the hard way
 
+### Q
+
+PillowFight
+
 ### Thang
 
 3- Man: 8 Min 45 Goblet Squat with rifle carry, 8 Min 45 RH/LH Row with jog, 120 Burpees
@@ -123104,6 +138388,10 @@ Result: A resounding Victory for Wet Willy. Hopefully the small teams kept every
 ---
 
 ## It’s always better when it’s wet
+
+### Q
+
+ginsu
 
 ### Warmup
 
@@ -123145,6 +138433,10 @@ Nobody won as we all did 10 Burpees to finish out the day and start our weekend.
 ---
 
 ## THE EDGE OF GLORY (FENTON/VP "BLACK DIAMOND" BLACKOPS #2)
+
+### Q
+
+Manicure
 
 ### Warmup
 
@@ -123216,6 +138508,10 @@ NOR.
 
 ## Working for the Weekend
 
+### Q
+
+Freshman
+
 ### Thang
 
 Trigger man
@@ -123231,6 +138527,10 @@ That Sally is a cold hearted serpent
 ---
 
 ## Backblast
+
+### Q
+
+Bushwood
 
 ### Warmup
 
@@ -123264,6 +138564,10 @@ That Sally is a cold hearted serpent
 ---
 
 ## Backblast
+
+### Q
+
+Drop Out (SpiritSTL)
 
 ### Warmup
 
@@ -123306,6 +138610,10 @@ Hip Thrusts IC
 ---
 
 ## THE DEN 2 YEAR ANNIVERSARY!!
+
+### Q
+
+Tinker Bell, Buckeye (F3STL Meramec)
 
 ### Warmup
 
@@ -123359,6 +138667,10 @@ Group 3:
 
 ## Jump jump around
 
+### Q
+
+O'Doyle Rules
+
 ### Warmup
 
 6-1 Motivators
@@ -123387,6 +138699,10 @@ LBC
 
 ## Piecing it All Together
 
+### Q
+
+Schlitz
+
 ### Warmup
 
 Lap around loop, stopping for:
@@ -123410,6 +138726,10 @@ single leg flutter kicks
 
 ## Over the River and Through the Woods
 
+### Q
+
+Road Rage
+
 ### Warmup
 
 High knees
@@ -123427,6 +138747,10 @@ Dynamic exercises, high knees, karaoke, and butt kicks.
 ---
 
 ## Covered Country Club
+
+### Q
+
+Harry C
 
 ### Warmup
 
@@ -123489,6 +138813,10 @@ COR &amp; NOR:
 
 ## Let the Madness begin!
 
+### Q
+
+Drizzle
+
 ### Warmup
 
 -7-1 motivators IC
@@ -123524,6 +138852,10 @@ started with Sweet 16 exercises, then Elite 8, and so on until we had a champion
 ---
 
 ## 7 Diamonds of Pain
+
+### Q
+
+Pigeon
 
 ### Warmup
 
@@ -123571,6 +138903,10 @@ PAX would jailbreak out and back in between each Round. Stopwatches were used to
 
 ## It’s always better when it’s wet
 
+### Q
+
+Duke
+
 ### Warmup
 
 SSH
@@ -123601,6 +138937,10 @@ PAX Choice
 ---
 
 ## Counting by 10s
+
+### Q
+
+Romeo
 
 ### Warmup
 
@@ -123688,6 +139028,10 @@ American Hammers
 
 ## 3 - 2 - 1 - GO (Black Diamond Fenton/Valley Park)
 
+### Q
+
+Jigglypuff (STL Meramec)
+
 ### Warmup
 
 Hairy Rockettes, Knee Pulls, High Knees, Quad Pulls, Butt Kickers, Neck Stretch, PAX’s Stretch
@@ -123724,6 +139068,10 @@ PAX made a friend half way with a park ranger.
 
 ## The Longest Yards
 
+### Q
+
+Farva (Stl Meramec)
+
 ### Warmup
 
 5-1 Motivators
@@ -123757,6 +139105,10 @@ None
 
 ## Happy National Cereal Day
 
+### Q
+
+NameTag
+
 ### Warmup
 
 (8) Willie Mays Hayes (IC)
@@ -123789,6 +139141,10 @@ Name O’Rama:
 
 ## “Death by DORA”!
 
+### Q
+
+9-lives
+
 ### Warmup
 
 SSH x 15
@@ -123812,6 +139168,10 @@ Total 8400
 ---
 
 ## Wheel of Pain
+
+### Q
+
+Fazoli
 
 ### Warmup
 
@@ -123888,6 +139248,10 @@ Ended with 5 blockees, 10 burpees and the divided into parters one took a lap wh
 
 ## 2 Sides to the Coin
 
+### Q
+
+Rub Down
+
 ### Warmup
 
 SSH x 15 Willy Mays Hays x 10
@@ -123927,6 +139291,10 @@ Bonus round since we had time:
 ---
 
 ## Something is Brewing
+
+### Q
+
+Road Rage
 
 ### Warmup
 
@@ -123972,6 +139340,10 @@ At the flag for seven minutes. When completed, rinse and repeat.
 
 ## Backblast
 
+### Q
+
+Jailbait
+
 ### Warmup
 
 - 7 to 1 motivators
@@ -124014,6 +139386,10 @@ the stablest man
 
 ## 5k Monday
 
+### Q
+
+Farva (Stl Meramec)
+
 ### Thang
 
 Ran a 5K!
@@ -124021,6 +139397,10 @@ Ran a 5K!
 ---
 
 ## Bounce Back Monday
+
+### Q
+
+Bushwood
 
 ### Warmup
 
@@ -124064,6 +139444,10 @@ Ran a 5K!
 
 ## Backblast
 
+### Q
+
+Skid Mark
+
 ### Warmup
 
 SSH's
@@ -124083,6 +139467,10 @@ We were to competitive, we balled until the very end. No Mary today.
 ---
 
 ## Backblast
+
+### Q
+
+Herky
 
 ### Warmup
 
@@ -124113,6 +139501,10 @@ Ran to the poop deck and back
 
 ## Good start to Friday
 
+### Q
+
+scooter
+
 ### Warmup
 
 5-1 motivators
@@ -124134,6 +139526,10 @@ COR + NOR: check
 ---
 
 ## 3rd Core Principle: Held Out Doors (Rain or Shine)
+
+### Q
+
+FunkyBunch
 
 ### Warmup
 
@@ -124164,6 +139560,10 @@ RECOVER • RECOVER
 
 ## Backblast
 
+### Q
+
+Herky
+
 ### Warmup
 
 Copperhead squats
@@ -124190,6 +139590,10 @@ Flutter kicks x 25 IC
 ---
 
 ## Coupons Make Things Better, Right?
+
+### Q
+
+Peloton
 
 ### Warmup
 
@@ -124224,6 +139628,10 @@ Flutter kicks x 25 IC
 
 ## Nick Sloan HERO WOD
 
+### Q
+
+Inseam
+
 ### Warmup
 
 Willie Mays Hays - IC
@@ -124242,6 +139650,10 @@ No Mary today
 ---
 
 ## The Few The Proud
+
+### Q
+
+rogerroger
 
 ### Warmup
 
@@ -124273,6 +139685,10 @@ Latter: 5, 10, 15, 20
 
 ## Backblast
 
+### Q
+
+Cheeks
+
 ### Warmup
 
 SSH - 30
@@ -124291,6 +139707,10 @@ Pax 2 exercises until completing together
 ---
 
 ## Building Blocks
+
+### Q
+
+Olav
 
 ### Warmup
 
@@ -124355,6 +139775,10 @@ The pax found a loop hole and we finished early
 
 ## Murph Prep
 
+### Q
+
+Nerf
+
 ### Thang
 
 wearing weighted vest
@@ -124368,6 +139792,10 @@ wearing weighted vest
 ---
 
 ## Tri….Fail….Tri Again
+
+### Q
+
+Hot Runs, Hamburglar
 
 ### Warmup
 
@@ -124398,6 +139826,10 @@ No time left for Mary. Poor Mary! (but worked in a lot of core exercises through
 
 ## 5K training
 
+### Q
+
+Road Rage
+
 ### Warmup
 
 Goof balls - OYO
@@ -124416,6 +139848,10 @@ Tip to tip, Karaokes, high knees, karaoke, butt kicks, high knees, and other PAX
 ---
 
 ## Deliver the Bomb
+
+### Q
+
+Roomba
 
 ### Warmup
 
@@ -124451,6 +139887,10 @@ Then start from top if completed.
 ---
 
 ## Backblast
+
+### Q
+
+COBOL
 
 ### Warmup
 
@@ -124490,6 +139930,10 @@ They build endurance in the low back &amp; abs while increasing core stability.
 ---
 
 ## Backblast
+
+### Q
+
+1chain
 
 ### Warmup
 
@@ -124539,6 +139983,10 @@ American Hammers IC 25
 ---
 
 ## Like Sands of the Hourglass
+
+### Q
+
+Lancer
 
 ### Warmup
 
@@ -124590,6 +140038,10 @@ Count o Rama 11
 
 ## Backblast
 
+### Q
+
+1chain
+
 ### Warmup
 
 10 SSH
@@ -124627,6 +140079,10 @@ Surprise song! A tribute to Florida Man- hold high plank, merkin every time they
 ---
 
 ## Backblast
+
+### Q
+
+Drop Out (SpiritSTL)
 
 ### Warmup
 
@@ -124713,6 +140169,10 @@ The greatest waste of our natural resources is the number of people who never ac
 
 ## Feels Like the First Time
 
+### Q
+
+Rock Ride
+
 ### Warmup
 
 SSH 20 IC
@@ -124750,6 +140210,10 @@ Pfifer Scissors 20 IC
 
 ## Building our King!
 
+### Q
+
+Gumbo (STL)
+
 ### Warmup
 
 Side Straddle Hops (SSH) - _In Cadence (IC)_  Focused on the order of commands:  "Next Exercise Is..., Starting Position, Move... In Cadence (pause)... Exercise!"
@@ -124785,6 +140249,10 @@ PAX will start with an exercise from the PLANK position, once completed Q will y
 
 ## GOALLLLLLLLLLLLLLLLLL!!
 
+### Q
+
+Lotus Notes
+
 ### Warmup
 
 - 7-1 Motivators, Learning to Phelps, Grass Grabbers, take a lap in the Parking Lot
@@ -124802,6 +140270,10 @@ Plenty of Time for Mary, each PAX carried us out in a Core exercise
 ---
 
 ## Backblast
+
+### Q
+
+Fish Fry
 
 ### Warmup
 
@@ -124851,6 +140323,10 @@ Station 5:
 
 ## Good vs Bad
 
+### Q
+
+Cheesehead
+
 ### Thang
 
 Exercises included:
@@ -124873,6 +140349,10 @@ Flutter Kicks IC
 ---
 
 ## Backblast
+
+### Q
+
+Fiddy
 
 ### Warmup
 
@@ -124937,6 +140417,10 @@ Commando Thors 5:20
 
 ## Got it Covered
 
+### Q
+
+Thumper
+
 ### Warmup
 
 with vest in cadence
@@ -124964,6 +140448,10 @@ Tabata Timer :2.5 min upper body 2.5 minute lower body
 ---
 
 ## Moments that Matter
+
+### Q
+
+TheBeav
 
 ### Warmup
 
@@ -125004,6 +140492,10 @@ Count o Rama 10
 
 ## Get the work in
 
+### Q
+
+O'Doyle Rules
+
 ### Thang
 
 Number and exercise was on a sheet of paper and complete the exercise then run a lap and continue on to the next exercise. Then after completing all the exercises go back down on the amount on the other side of the paper.
@@ -125022,6 +140514,10 @@ Scuba PAX
 ---
 
 ## A little Bit if History Repeating
+
+### Q
+
+Cousin Eddy, Rub Down
 
 ### Warmup
 
@@ -125085,6 +140581,10 @@ Superman
 
 ## Let’s go for a Moseyyyyyyyyy
 
+### Q
+
+Harry C
+
 ### Warmup
 
 - Mosey to the Awake Lake with the company of Rebecca Black and Metallica, a match made in heaven.
@@ -125108,6 +140608,10 @@ COR &amp; NOR
 
 ## Wilt Chamberlain
 
+### Q
+
+Inseam
+
 ### Warmup
 
 Side Straddle Hops
@@ -125127,6 +140631,10 @@ Basketball Game is 4 Quarters after each exercise you run 100 yards.
 ---
 
 ## Triangle of Pain
+
+### Q
+
+Dunkin
 
 ### Warmup
 
@@ -125163,6 +140671,10 @@ Flutter kicks
 ---
 
 ## The Gauntlet
+
+### Q
+
+Dowry
 
 ### Warmup
 
@@ -125293,6 +140805,10 @@ Freddy Mercurys IC x 15
 
 ## 34 - ALL DOWNHILL FROM HERE
 
+### Q
+
+Manicure
+
 ### Warmup
 
 - Willie Mays Hayes IC
@@ -125325,6 +140841,10 @@ Not today!
 ---
 
 ## No Clever Name Friday Beatdown
+
+### Q
+
+Bushwood
 
 ### Warmup
 
@@ -125377,6 +140897,10 @@ Round 4
 
 ## Passing the Torch
 
+### Q
+
+Topeka, Dowry
+
 ### Warmup
 
 - 6-1 Motivators
@@ -125413,6 +140937,10 @@ Stay in your teams:
 
 ## When Dora met Murph
 
+### Q
+
+Drizzle
+
 ### Warmup
 
 -7-1 motivators
@@ -125427,6 +140955,10 @@ No time for Mary
 ---
 
 ## THE AMAZING RACE: la magnifica tana
+
+### Q
+
+Skid Mark
 
 ### Warmup
 
@@ -125465,6 +140997,10 @@ Al Gore Pop Quiz. PAX performed burpees for not raising their hand and getting q
 
 ## Are you Ready for Some….
 
+### Q
+
+O'Doyle Rules
+
 ### Warmup
 
 5-1 motivators
@@ -125484,6 +141020,10 @@ Scuba steve
 ---
 
 ## dice game 30/30
+
+### Q
+
+Butterball, Schlitz
 
 ### Warmup
 
@@ -125514,6 +141054,10 @@ Dice game
 
 ## Baby, we were born to run!
 
+### Q
+
+Nickelback
+
 ### Warmup
 
 Goofballs IC x 10
@@ -125532,6 +141076,10 @@ Imperial Walkers
 ---
 
 ## Stairway to Heaven
+
+### Q
+
+Manscapes
 
 ### Thang
 
@@ -125559,6 +141107,10 @@ It was a great way to experience the new amenity of  #ao_the_awakening
 ---
 
 ## It's a no-repeat BD!
+
+### Q
+
+Drizzle
 
 ### Warmup
 
@@ -125597,6 +141149,10 @@ Bobby hurleys
 ---
 
 ## Backblast
+
+### Q
+
+Fabuloso
 
 ### Warmup
 
@@ -125641,6 +141197,10 @@ Z =  Little Baby Crunches
 
 ## Deuces Wild
 
+### Q
+
+Duke
+
 ### Warmup
 
 SSH
@@ -125673,6 +141233,10 @@ Freddy Mercury
 ---
 
 ## Speed and Recovery
+
+### Q
+
+Buckeye (F3STL Meramec)
 
 ### Warmup
 
@@ -125708,6 +141272,10 @@ After about 20-25 minutes PAX performed 10 hill sprints.
 
 ## Fountain of Youth Part 2
 
+### Q
+
+Jigglypuff (STL Meramec)
+
 ### Warmup
 
 hairy Rockettes, then jog around site to get to know it.  We fit 15 pull-ups in there somewhere.
@@ -125735,6 +141303,10 @@ Q led various stretches, Pilates exercises and a yoga flow working on stability,
 ---
 
 ## Leg Daaaaay
+
+### Q
+
+Nerf
 
 ### Warmup
 
@@ -125766,6 +141338,10 @@ Repeat
 
 ## Mini Starfish - Changing of the Guard
 
+### Q
+
+Rock Ride, Bushwood
+
 ### Thang
 
 1. 10 burpees
@@ -125783,6 +141359,10 @@ Pfifer Scissors - 15 IC
 ---
 
 ## Ain’t No Mountain High Enough
+
+### Q
+
+Freshman
 
 ### Warmup
 
@@ -125803,6 +141383,10 @@ Split squats / bear crawl/ Carolina dry docks/ crawl bear
 ---
 
 ## This Must Be The Place
+
+### Q
+
+Duke
 
 ### Warmup
 
@@ -125826,6 +141410,10 @@ PAX Choice.............Ask PAX about those Manatee Tapers
 ---
 
 ## Backblast
+
+### Q
+
+Skid Mark, Cheesehead
 
 ### Warmup
 
@@ -125863,6 +141451,10 @@ Musical Coupons
 ---
 
 ## A Presidential Beatdown!
+
+### Q
+
+Gumbo (STL), DOS
 
 ### Warmup
 
@@ -125911,6 +141503,10 @@ PAX led Ring-o-Fire
 
 ## Backblast
 
+### Q
+
+Farva (Stl Meramec)
+
 ### Warmup
 
 10-1 Motivators
@@ -125937,6 +141533,10 @@ Stations: (not necessarily in order)
 ---
 
 ## For a Little T.L.C.
+
+### Q
+
+Hamburglar
 
 ### Warmup
 
@@ -125966,6 +141566,10 @@ PAX ended it with Ric Flairs
 
 ## Backblast
 
+### Q
+
+9 to 5
+
 ### Warmup
 
 - 7 —&gt; 1 Motivators
@@ -125991,6 +141595,10 @@ COR &amp; NOR
 ---
 
 ## Backblast
+
+### Q
+
+Skid Mark
 
 ### Warmup
 
@@ -126023,6 +141631,10 @@ Downward Dog Calf Stretch
 
 ## Backblast
 
+### Q
+
+Jailbait
+
 ### Warmup
 
 7 to 1 motivators
@@ -126048,6 +141660,10 @@ Move through the below, one exercise per cone:
 ---
 
 ## Manic Monday!
+
+### Q
+
+Wuhan
 
 ### Warmup
 
@@ -126077,6 +141693,10 @@ Recover to flag
 
 ## Presidents Day 2.0 Beatdown
 
+### Q
+
+Jigglypuff (STL Meramec)
+
 ### Thang
 
 Part 1 - follow the leader…. Whoever was the leader, did whatever they wanted as the PAX followed and copied.  After ~30 sec, they called out the next leader (someone who hadn’t done it yet).
@@ -126090,6 +141710,10 @@ abrinome and table
 ---
 
 ## Backblast
+
+### Q
+
+Manscapes
 
 ### Warmup
 
@@ -126189,6 +141813,10 @@ Hello dolly’s
 
 ## Backblast
 
+### Q
+
+Worm
+
 ### Warmup
 
 5-1 Motivators
@@ -126215,6 +141843,10 @@ Exercises
 ---
 
 ## Final Bachelor Beatdown
+
+### Q
+
+Bridesmaid
 
 ### Warmup
 
@@ -126246,6 +141878,10 @@ Ohh Yeahs - and PAX
 ---
 
 ## VQ Redo
+
+### Q
+
+Herky
 
 ### Warmup
 
@@ -126289,6 +141925,10 @@ Forearm back plank walk it outs 25
 
 ## Doing Hard Things!
 
+### Q
+
+Gumbo (STL)
+
 ### Warmup
 
 - Monkey Humpers - IC
@@ -126314,6 +141954,10 @@ _Round Five: 20 Gravediggers (10 each side) - Rifle Carry out, 5 1-man Bands, Ri
 ---
 
 ## Until the Wheels Fall Off
+
+### Q
+
+Dowry
 
 ### Warmup
 
@@ -126345,6 +141989,10 @@ Round 3: 8 Merkins
 ---
 
 ## Abstinence Thursday
+
+### Q
+
+Bushwood
 
 ### Warmup
 
@@ -126412,6 +142060,10 @@ Completed 1 mosey around the large lake as a PAX
 
 ## Who You Going to Call
 
+### Q
+
+rogerroger
+
 ### Warmup
 
 - 5:1 Motivators
@@ -126469,6 +142121,10 @@ Travel - Mosie
 
 ## Columbian hippo crisis
 
+### Q
+
+Farva (Stl Meramec)
+
 ### Warmup
 
 GrassGrabbers
@@ -126504,6 +142160,10 @@ Rosalitas
 ---
 
 ## Under Cover Brothers
+
+### Q
+
+Elmer
 
 ### Warmup
 
@@ -126554,6 +142214,10 @@ Triangle Lift’s ??? (Face down make a triangle w/ hands, knees bent w/toes tog
 
 ## It’s always better when it’s wet
 
+### Q
+
+Duke
+
 ### Warmup
 
 SSH
@@ -126589,6 +142253,10 @@ Zions
 
 ## Puff-Puff-Pass
 
+### Q
+
+NeckBrace
+
 ### Warmup
 
 -WMH
@@ -126616,6 +142284,10 @@ Plank-Plank-PAX (Duck-Duck-PAX while planking of course)
 ---
 
 ## Backblast
+
+### Q
+
+BigTex
 
 ### Warmup
 
@@ -126657,6 +142329,10 @@ Rifle carry
 
 ## Backblast
 
+### Q
+
+Wuhan
+
 ### Warmup
 
 Took a lap around the parking lot
@@ -126695,6 +142371,10 @@ As many big boy sit-ups as you can for 2 minutes (Target 40)
 
 ## Balls In / Balls Out
 
+### Q
+
+COBOL
+
 ### Warmup
 
 Grass Grabbers
@@ -126722,6 +142402,10 @@ Guantanamo
 ---
 
 ## Backblast
+
+### Q
+
+1chain
 
 ### Warmup
 
@@ -126763,6 +142447,10 @@ Bonnie Blair’s
 
 ## Fountain of Youth Part 1
 
+### Q
+
+Jigglypuff (STL Meramec)
+
 ### Warmup
 
 all in motion going to one side of court to other, Pax completed the following:  hairy Rockettes, runs, shuffles, 3 types of skips, and karaoke.
@@ -126786,6 +142474,10 @@ Q led various stretches, Pilates exercises and a yoga flow working on stability,
 ---
 
 ## TOMBSTONE / Consistency
+
+### Q
+
+Rock Ride
 
 ### Warmup
 
@@ -126822,6 +142514,10 @@ Flutter Kicks 20 IC
 ---
 
 ## Pushing and Pulling
+
+### Q
+
+Duke
 
 ### Warmup
 
@@ -126860,6 +142556,10 @@ EMOM with 16 stations / 45 seconds on and 15 seconds to move – 2 rounds
 
 ## Cupid's arrow
 
+### Q
+
+Drizzle
+
 ### Warmup
 
 -Toe touches on Q count
@@ -126875,6 +142575,10 @@ No time for Mary, PAX stretched during COR and NOR
 ---
 
 ## Love is in the Air (KISS)
+
+### Q
+
+Gobstopper
 
 ### Warmup
 
@@ -126896,6 +142600,10 @@ Pickle Pounders
 ---
 
 ## Backblast
+
+### Q
+
+Rub Down
 
 ### Warmup
 
@@ -126944,6 +142652,10 @@ Rope climbers
 
 ## Backblast
 
+### Q
+
+Jigglypuff (STL Meramec)
+
 ### Warmup
 
 hairy Rockettes, knee pulls, high knees, quad pulls, butt kickers, neck stretch, ankle rolls, Willy Mayes, ssh
@@ -126959,6 +142671,10 @@ PAX partnered up with similar fitness level.  3 rounds as follows.  Pick up part
 ---
 
 ## Backblast
+
+### Q
+
+Clotshot
 
 ### Warmup
 
@@ -127004,6 +142720,10 @@ Superman jacks x10 IC
 
 ## Combos - every exercise is a combination of 2
 
+### Q
+
+Wilson (SpiritSTL)
+
 ### Warmup
 
 Abe vagodas mixed with grass grabbers IC
@@ -127033,6 +142753,10 @@ Planks in cadence with knees to elbows (both sides) IC
 ---
 
 ## Our SuperBowl Swan Song
+
+### Q
+
+Tuition
 
 ### Warmup
 
@@ -127064,6 +142788,10 @@ Run until you Puke-Pax run of the 1 mile loop
 ---
 
 ## Backblast
+
+### Q
+
+MigTig
 
 ### Warmup
 
@@ -127098,6 +142826,10 @@ Hello Dolly
 ---
 
 ## Backblast
+
+### Q
+
+Romeo
 
 ### Warmup
 
@@ -127140,6 +142872,10 @@ BONUS because we had 30 seconds left: 20 Pistol Squats EW
 
 ## Backblast
 
+### Q
+
+Peloton
+
 ### Warmup
 
 - Done wile taking a lap around the track with coupon being dropped at first
@@ -127172,6 +142908,10 @@ BONUS because we had 30 seconds left: 20 Pistol Squats EW
 
 ## 2nd F3VERSARY 4 Q
 
+### Q
+
+Misty
+
 ### Warmup
 
 Imperial Walkers IC
@@ -127198,6 +142938,10 @@ PAX chose prison burpee!
 ---
 
 ## Swampy Friday Fun with the Beast
+
+### Q
+
+Rock Ride
 
 ### Warmup
 
@@ -127233,6 +142977,10 @@ Pfifer Scissors - 20 IC
 
 ## Perfect Square
 
+### Q
+
+Keys
+
 ### Warmup
 
 -Leaning to Phelps IC
@@ -127257,6 +143005,10 @@ LBC IC
 ---
 
 ## Rise &amp; Shine (1 Year Anniversary)
+
+### Q
+
+Flobee
 
 ### Warmup
 
@@ -127289,6 +143041,10 @@ Side bends with coupon - 10 on each side
 
 ## Backblast
 
+### Q
+
+Jailbait
+
 ### Warmup
 
 - grass grabbers x 12
@@ -127319,6 +143075,10 @@ Exercises (29 reps each, hard way always):
 
 ## You're gonna Carry the _____ (Preparedness)
 
+### Q
+
+Tinker Bell
+
 ### Warmup
 
 Learning to Phelps IC
@@ -127348,6 +143108,10 @@ Pick up the 6
 ---
 
 ## Ready or Not
+
+### Q
+
+rogerroger
 
 ### Warmup
 
@@ -127383,6 +143147,10 @@ Crab Cakes
 ---
 
 ## PiD
+
+### Q
+
+Dowry
 
 ### Warmup
 
@@ -127427,6 +143195,10 @@ Mountain Climbers IC x 10
 ---
 
 ## Are you tough?
+
+### Q
+
+Inseam
 
 ### Warmup
 
@@ -127476,6 +143248,10 @@ OH press / bench press
 
 ## First Q at the Rock
 
+### Q
+
+COBOL
+
 ### Warmup
 
 5-1 Motivators
@@ -127510,6 +143286,10 @@ Superman’s - 2min
 
 ## When the Levee breaks
 
+### Q
+
+Road Rage
+
 ### Warmup
 
 Flying squirrels IC
@@ -127528,6 +143308,10 @@ Tip to tip, Karaokes, high knees, karaoke, butt kicks, karaoke.
 ---
 
 ## Monkey Hump Wednesday
+
+### Q
+
+Harry C
 
 ### Warmup
 
@@ -127569,6 +143353,10 @@ Rick flair
 
 ## The Eiffel Tower
 
+### Q
+
+TI83
+
 ### Warmup
 
 Abe Vigodas
@@ -127601,6 +143389,10 @@ COR &amp; NOR:  Nope - only 3 of us; N/C/N
 
 ## Insert Fancy Title Here
 
+### Q
+
+Gobstopper
+
 ### Warmup
 
 5:1 Motivators
@@ -127630,6 +143422,10 @@ Jaba The Huts (mindful moment for 30 seconds)
 ---
 
 ## Weight of the World
+
+### Q
+
+Thumper
 
 ### Warmup
 
@@ -127661,6 +143457,10 @@ mosey around AO with vests and coupons (including extras)
 
 ## Backblast
 
+### Q
+
+PillowFight
+
 ### Warmup
 
 SSH, slow MH
@@ -127676,6 +143476,10 @@ SSH, slow MH
 ---
 
 ## DOS
+
+### Q
+
+Cheesehead
 
 ### Warmup
 
@@ -127697,6 +143501,10 @@ SSH, slow MH
 ---
 
 ## FREED TO LEAD
+
+### Q
+
+Zero Turn
 
 ### Warmup
 
@@ -127751,6 +143559,10 @@ Upward dog
 
 ## Preparedness
 
+### Q
+
+Noah
+
 ### Thang
 
 Great talk. All contributed solid insights. And kept on topic. This is crucial material to cover. Might even say it’s Foundational.
@@ -127759,6 +143571,10 @@ Good personal sharing relevant to the subject.
 ---
 
 ## TESTING TUESDAY + 2 PUMP CHUMP
+
+### Q
+
+Manicure
 
 ### Warmup
 
@@ -127794,6 +143610,10 @@ PAX began in pavilion.  Every six minutes, timer would go off and PAX owed 1 lap
 
 ## MANniversary Week Beatdown - Dr. Phil Special
 
+### Q
+
+Tom Tom
+
 ### Warmup
 
 Grass grabbers
@@ -127824,6 +143644,10 @@ Held a plank while PAX each explained the origin of their F3 name.
 
 ## Last Minute BD
 
+### Q
+
+Short Circuit
+
 ### Warmup
 
 - 8 to 1 Motivators
@@ -127851,6 +143675,10 @@ Went 3 rounds.
 
 ## No splashed merlot. What a bummer.
 
+### Q
+
+Flo (JeffCo)
+
 ### Warmup
 
 SSH IC
@@ -127871,6 +143699,10 @@ Boats, hoes, and canoes IC
 ---
 
 ## The Grizzly Mile
+
+### Q
+
+Taebo
 
 ### Warmup
 
@@ -127895,6 +143727,10 @@ Lemon Squeezers
 ---
 
 ## Italian Meatballs
+
+### Q
+
+Fazoli
 
 ### Warmup
 
@@ -127938,6 +143774,10 @@ Completed 4 rounds
 
 ## emergency procedures
 
+### Q
+
+Butterball
+
 ### Warmup
 
 SSH
@@ -127966,6 +143806,10 @@ American hammers
 ---
 
 ## Showtime at The Awakening!
+
+### Q
+
+Dowry
 
 ### Warmup
 
@@ -128053,6 +143897,10 @@ Then the teams had 3 minutes to complete exercises from additional cards to make
 
 ## No Days Off
 
+### Q
+
+Rub Down
+
 ### Warmup
 
 SSH, Learning to Phelps
@@ -128102,6 +143950,10 @@ Ric Flair!
 
 ## Friday Fuuuuuuun
 
+### Q
+
+Captain Underpants
+
 ### Warmup
 
 SSH x 23 IC
@@ -128131,6 +143983,10 @@ Freddie Merc x 23
 ---
 
 ## Backblast
+
+### Q
+
+Fish Fry
 
 ### Warmup
 
@@ -128183,6 +144039,10 @@ Sets
 
 ## Windbreaker
 
+### Q
+
+Ringer
+
 ### Warmup
 
 Just a Little bit
@@ -128194,6 +144054,10 @@ Just a Little bit
 ---
 
 ## Roll into the Weekend
+
+### Q
+
+Otter
 
 ### Warmup
 
@@ -128229,6 +144093,10 @@ Big Boy SU
 ---
 
 ## Kelly Tough
+
+### Q
+
+TheBeav
 
 ### Warmup
 
@@ -128289,6 +144157,10 @@ Mosey to orange cone at parking lot entrance and back
 
 ## Surprise
 
+### Q
+
+Short Circuit
+
 ### Warmup
 
 - SSH
@@ -128328,6 +144200,10 @@ Not today
 
 ## PART II - COCAINE BEAR (AKA PABLO ESCOBEAR)
 
+### Q
+
+Manicure
+
 ### Warmup
 
 - Baby Bears IC
@@ -128366,6 +144242,10 @@ In the middle of the game, all PAX took a quick break to bear crawl into the cen
 
 ## Running to be Better Men
 
+### Q
+
+Gumbo (STL)
+
 ### Warmup
 
 Open the Gates - IC
@@ -128394,6 +144274,10 @@ Navy Seal Merkins - 7 sets total completed, IC.
 
 ## Time for War
 
+### Q
+
+O'Doyle Rules
+
 ### Warmup
 
 6-1 motivators
@@ -128410,6 +144294,10 @@ COR + NOR: check
 ---
 
 ## Level up!
+
+### Q
+
+Wuhan
 
 ### Warmup
 
@@ -128431,6 +144319,10 @@ Did two miles total with no one dropping besides the designated time at a mile
 ---
 
 ## Backblast
+
+### Q
+
+Noah
 
 ### Warmup
 
@@ -128464,6 +144356,10 @@ LB crunches - in cadence
 
 ## The Best Way to Get Better at Running is to RUN!
 
+### Q
+
+Rub Down
+
 ### Thang
 
 Sprint Intervals
@@ -128485,6 +144381,10 @@ Squatted groin stretch
 ---
 
 ## End of MABA!
+
+### Q
+
+Bushwood
 
 ### Warmup
 
@@ -128556,6 +144456,10 @@ Recover/Recover
 
 ## Beast Mode
 
+### Q
+
+Rock Ride
+
 ### Warmup
 
 SSH 20 IC
@@ -128590,6 +144494,10 @@ Flutter Kicks 20 IC
 ---
 
 ## Backblast
+
+### Q
+
+Fabuloso
 
 ### Warmup
 
@@ -128642,6 +144550,10 @@ Triple Bears x10 IC
 
 ## “FROM THE VAULT-Fiddy Special”
 
+### Q
+
+meatloaf
+
 ### Warmup
 
 10 Burpees snooze button
@@ -128690,6 +144602,10 @@ Q finished us off with LBCs.
 ---
 
 ## Fepax
+
+### Q
+
+Dowry
 
 ### Warmup
 
@@ -128758,6 +144674,10 @@ High Low Planks IC x 10
 
 ## Backblast
 
+### Q
+
+Olav
+
 ### Warmup
 
 Warm Up/CoP
@@ -128786,6 +144706,10 @@ Repeat for a total of 6 rounds. On round 6 add 2 burpees which will bring the to
 ---
 
 ## A SKIDDY ORIGINAL
+
+### Q
+
+Skid Mark
 
 ### Warmup
 
@@ -128819,6 +144743,10 @@ Downward Dog's
 ---
 
 ## The cold won’t stop us
+
+### Q
+
+scooter
 
 ### Warmup
 
@@ -128863,6 +144791,10 @@ PAX completed the following:
 ---
 
 ## Backblast
+
+### Q
+
+BUB
 
 ### Warmup
 
@@ -128913,6 +144845,10 @@ Q set his iPhone timer app to 30 second intervals-with-airhorn-blast and commenc
 
 ## Case of the Mondays
 
+### Q
+
+Karat
+
 ### Warmup
 
 - 7-1 Motivators
@@ -128948,6 +144884,10 @@ Burpees to Morgan Wallen up/down
 ---
 
 ## The Best of the Worst
+
+### Q
+
+Duke
 
 ### Warmup
 
@@ -128985,6 +144925,10 @@ RECOVER and head until shelter for dry ground
 
 ## PART I - YOUTHFUL, INNOCENT BEAR
 
+### Q
+
+Manicure
+
 ### Warmup
 
 - Willie Mays Hays IC
@@ -129001,6 +144945,10 @@ At the end of each time around the circle, PAX used a varying form of travel to 
 ---
 
 ## Backblast
+
+### Q
+
+Jailbait
 
 ### Warmup
 
@@ -129034,6 +144982,10 @@ Round out 1 mile of total nosey
 ---
 
 ## Harder, Faster, Stronger
+
+### Q
+
+rogerroger
 
 ### Warmup
 
@@ -129079,6 +145031,10 @@ LBCs
 ---
 
 ## Backblast
+
+### Q
+
+Nickelback
 
 ### Warmup
 
@@ -129131,6 +145087,10 @@ RECOVER • RECOVER
 
 ## Backblast
 
+### Q
+
+Gumbo (STL)
+
 ### Warmup
 
 - SHHs - IC
@@ -129149,6 +145109,10 @@ Worlds Greatest Stretch
 ---
 
 ## Finally Friday
+
+### Q
+
+Jayhawk
 
 ### Warmup
 
@@ -129180,6 +145144,10 @@ No time for Mary
 
 ## Return of the DORA
 
+### Q
+
+Bliss
+
 ### Warmup
 
 -5 to 1 Motivators
@@ -129203,6 +145171,10 @@ PAX paired up in teams of 2 to complete:
 ---
 
 ## BEACH BODY BROS
+
+### Q
+
+Zero Turn
 
 ### Warmup
 
@@ -129260,6 +145232,10 @@ PAX led us in flutter kicks and LBC. F3 is peer led can’t wait for your VQ!
 
 ## MABA - Catching Jeffco
 
+### Q
+
+BowFlex
+
 ### Warmup
 
 - 3 to 1 Motivators
@@ -129288,6 +145264,10 @@ o            Black Betty – “Bam-ba-lam”
 
 ## Friday funday!
 
+### Q
+
+Wet Wipe
+
 ### Warmup
 
 Willy Mays Hays (12), Grass Grabbers (12), Grady Corn (15), SSH’s (15)
@@ -129309,6 +145289,10 @@ Box Cutters (15), American Hammers (15), Freddie Mercuries (15)
 ---
 
 ## Sweatband
+
+### Q
+
+Jigglypuff (STL Meramec)
 
 ### Warmup
 
@@ -129345,27 +145329,9 @@ Run back to berry park.
 
 ## Backblast
 
-### Warmup
+### Q
 
-Goofballs 20 IC
-Learning to Phelps 10 IC
-Willy May's Hays 8 IC slow
-SSH 20 IC
-
-### Thang
-
-Tabata timer, 40 seconds of exercise, 15 seconds active rest
-34 rounds of all body coupon, plyo, cardio, core exercises. Every 3rd round was burpees. Goal was 8 burpees for the 12 burpee rounds to get 100 MABA burpees in.
-
-### Mary
-
-LBCs - 15 IC
-Single leg pulses in LBC position - 9 each IC
-Flutter kicks - 15 IC
-
----
-
-## Backblast
+Rock Ride
 
 ### Warmup
 
@@ -129388,6 +145354,36 @@ Flutter kicks - 15 IC
 ---
 
 ## Backblast
+
+### Q
+
+Worm
+
+### Warmup
+
+Goofballs 20 IC
+Learning to Phelps 10 IC
+Willy May's Hays 8 IC slow
+SSH 20 IC
+
+### Thang
+
+Tabata timer, 40 seconds of exercise, 15 seconds active rest
+34 rounds of all body coupon, plyo, cardio, core exercises. Every 3rd round was burpees. Goal was 8 burpees for the 12 burpee rounds to get 100 MABA burpees in.
+
+### Mary
+
+LBCs - 15 IC
+Single leg pulses in LBC position - 9 each IC
+Flutter kicks - 15 IC
+
+---
+
+## Backblast
+
+### Q
+
+The Bulge
 
 ### Warmup
 
@@ -129411,6 +145407,10 @@ due to the utter insult of this abomination as an exercise)
 ---
 
 ## THIS AND THAT
+
+### Q
+
+Zero Turn
 
 ### Warmup
 
@@ -129454,6 +145454,10 @@ Recover/Recover
 
 ## Wicked Wednesday
 
+### Q
+
+Fulton (STL)
+
 ### Warmup
 
 -World’s Greatest Stretch (walk through 5 core principles)
@@ -129496,6 +145500,10 @@ Ric Flair!
 
 ## Diamond in the Rough
 
+### Q
+
+TI83
+
 ### Thang
 
 Do stations in a diamond shape at each corner of the diamond laid out in the snow covered parking lot.  Carry  the coupon to each station and do the following:
@@ -129521,6 +145529,10 @@ Wash rinse repeat.  Got 4 full rounds and one abbreviated round.  Total of 50 bu
 ---
 
 ## Cool Running (+30 for 30)
+
+### Q
+
+Roomba
 
 ### Warmup
 
@@ -129556,6 +145568,10 @@ Not today!
 
 ## Backblast
 
+### Q
+
+Nickelback
+
 ### Warmup
 
 Goofballs
@@ -129575,6 +145591,10 @@ Mosey around the Poop Deck
 ---
 
 ## Backblast
+
+### Q
+
+Jailbait
 
 ### Warmup
 
@@ -129597,6 +145617,10 @@ AR4/cool down - ~600m jog to street and back
 ---
 
 ## Snowmageddon
+
+### Q
+
+Dowry
 
 ### Warmup
 
@@ -129657,6 +145681,10 @@ High Low Planks IC x 11
 
 ## Backblast
 
+### Q
+
+1chain
+
 ### Warmup
 
 SSH 20 IC
@@ -129697,6 +145725,10 @@ Scissor kicks 20 IC
 ---
 
 ## Backblast
+
+### Q
+
+Worm
 
 ### Warmup
 
@@ -129739,6 +145771,10 @@ Stretches
 
 ## Core Builder
 
+### Q
+
+COBOL
+
 ### Warmup
 
 6-1 Motivators
@@ -129776,6 +145812,10 @@ Guantanamo
 ---
 
 ## Sandbag AMRAP &amp; Run
+
+### Q
+
+Buckeye (F3STL Meramec)
 
 ### Warmup
 
@@ -129816,6 +145856,10 @@ Guantanamo
 
 ## Hairy Dice
 
+### Q
+
+Harry C
+
 ### Warmup
 
 - learning to Phelps
@@ -129833,6 +145877,10 @@ A game involving dice with an amazing prize. Team Big Tex came back from behind 
 ---
 
 ## Mondays are for winners
+
+### Q
+
+Fazoli
 
 ### Thang
 
@@ -129871,6 +145919,10 @@ Repeated round 1 and most of round 2
 
 ## Funda Monday
 
+### Q
+
+Inseam
+
 ### Warmup
 
 SSH IC
@@ -129897,6 +145949,10 @@ Barely made it through a round and some change!
 ---
 
 ## Follow The Leader
+
+### Q
+
+Cousin Eddy
 
 ### Warmup
 
@@ -129960,6 +146016,10 @@ RECOVER • RECOVER
 
 ## Back to the grind
 
+### Q
+
+Otter
+
 ### Warmup
 
 Goof Balls
@@ -129999,6 +146059,10 @@ Flutter with coupon IC 12 count
 
 ## Stop, Rock, and Roll
 
+### Q
+
+Duke
+
 ### Warmup
 
 - SSH
@@ -130033,6 +146097,10 @@ Incorporated in the beatdown.
 
 ## Backblast
 
+### Q
+
+1chain
+
 ### Warmup
 
 SSH
@@ -130066,6 +146134,10 @@ Burpee increasing number of merkins
 ---
 
 ## 3rd F3versary
+
+### Q
+
+Peloton
 
 ### Warmup
 
@@ -130109,6 +146181,10 @@ Burpee increasing number of merkins
 
 ## Friday Fun
 
+### Q
+
+Karat
+
 ### Warmup
 
 - 7-1 Motivators
@@ -130136,6 +146212,10 @@ Round 3
 ---
 
 ## Over the river and through the woods...
+
+### Q
+
+Drizzle
 
 ### Thang
 
@@ -130195,6 +146275,10 @@ Freddie Mercs IC with coupon
 
 ## Balls In / Balls Out
 
+### Q
+
+COBOL
+
 ### Warmup
 
 12-1 Motivators
@@ -130242,6 +146326,10 @@ Guantanamo
 ---
 
 ## Backblast
+
+### Q
+
+Herky
 
 ### Warmup
 
@@ -130292,6 +146380,10 @@ Reverse Plank Step Out 10
 
 ## Success Through Clarity LANGUAGE (F2)
 
+### Q
+
+rogerroger
+
 ### Warmup
 
 - 5:1 Motivators
@@ -130333,6 +146425,10 @@ If No Match, Exercises from the following List:
 
 ## Success Through Clarity LANGUAGE (F2)
 
+### Q
+
+rogerroger
+
 ### Warmup
 
 - 5:1 Motivators
@@ -130373,6 +146469,10 @@ If No Match, Exercises from the following List:
 ---
 
 ## On Burpee Pond
+
+### Q
+
+Bushwood
 
 ### Warmup
 
@@ -130435,6 +146535,10 @@ a. Complete 15 Burpees each
 
 ## Backblast
 
+### Q
+
+Olav
+
 ### Warmup
 
 5-1 motivators
@@ -130483,6 +146587,10 @@ Peer-led choice (5x)
 ---
 
 ## 4 Corners of MABA
+
+### Q
+
+Rock Ride
 
 ### Warmup
 
@@ -130604,6 +146712,10 @@ Leg Pulses in LBC position 10 each leg IC
 
 ## An Artificial Intelligence Inspired Beatdown via [chat.openai.com](http://chat.openai.com)
 
+### Q
+
+Norton
+
 ### Warmup
 
 Sure! Here are 5 exercises that you can choose from the list you provided, where "tag/type" includes "warm-up":
@@ -130662,6 +146774,10 @@ Bodies Hit the Floor: this is done to the song Bodies by Drowning Pool (time 3:2
 
 ## Backblast
 
+### Q
+
+Olav
+
 ### Warmup
 
 Q played a Chumbawamba Classic, Tubthumping to kick start the BD with a few Burpees and SideStraddle Hops
@@ -130695,6 +146811,10 @@ Recover Recover (no Wait…. Just recover)
 ---
 
 ## Backblast
+
+### Q
+
+Manicure
 
 ### Warmup
 
@@ -130736,6 +146856,10 @@ More weeping from the PAX as they lamented there was no time for Mary.
 
 ## Pinball Wizard
 
+### Q
+
+BigPharma
+
 ### Warmup
 
 - 5:1 Motivators
@@ -130762,6 +146886,10 @@ When the tabata timer went off occasionally it was MULTIBALL time.  The PAX ran 
 ---
 
 ## Backblast
+
+### Q
+
+1chain
 
 ### Warmup
 
@@ -130790,6 +146918,10 @@ Side Planks IC 10 each side
 
 ## Breath of the wild and burpees.
 
+### Q
+
+PillowFight
+
 ### Thang
 
 Defeat Shrines, acquire runes, complete burpees: 10 every 3 minutes for 60 minutes (200)
@@ -130797,6 +146929,10 @@ Defeat Shrines, acquire runes, complete burpees: 10 every 3 minutes for 60 minut
 ---
 
 ## Another Brick In The Wall
+
+### Q
+
+Duke
 
 ### Warmup
 
@@ -130832,6 +146968,10 @@ Final exercise: PAX Coupon Air Chair. PAX are all in Air Chair. Coupon starts at
 
 ## Backblast
 
+### Q
+
+Drop Out (SpiritSTL)
+
 ### Warmup
 
 8-1 Motivators
@@ -130865,6 +147005,10 @@ set 2:
 
 ## Tough than a Diamond...........
 
+### Q
+
+Inseam
+
 ### Warmup
 
 Willie Mays Hays
@@ -130883,6 +147027,10 @@ Enough time for Rosalitas
 ---
 
 ## Rub Down Q’s The Station - A Maiden Voyage
+
+### Q
+
+Rub Down
 
 ### Warmup
 
@@ -130921,6 +147069,10 @@ PAX led us in Crucifixes
 ---
 
 ## Motivational Burpees with a few Abs
+
+### Q
+
+Truckstop
 
 ### Warmup
 
@@ -130961,6 +147113,10 @@ Low Plank coupon touches (10 the hard way or 20 the easy way)
 
 ## The Measure Of A Man
 
+### Q
+
+Duke
+
 ### Warmup
 
 - SSH
@@ -130994,6 +147150,10 @@ Incorporated in the beatdown.
 ---
 
 ## Backblast
+
+### Q
+
+Keys
 
 ### Warmup
 
@@ -131033,6 +147193,10 @@ At the end of each set, there was a 5 minute rest that included 5 burpees.
 
 ## Motion of the ocean
 
+### Q
+
+Farva (Stl Meramec)
+
 ### Warmup
 
 5-1 Motovators
@@ -131062,6 +147226,10 @@ Scorpions R&amp;L
 ---
 
 ## Feel it! Feel it!
+
+### Q
+
+COBOL
 
 ### Warmup
 
@@ -131103,6 +147271,10 @@ Mosey
 
 ## You get a PT, and You get a PT!
 
+### Q
+
+Wuhan
+
 ### Thang
 
 2 minutes hand release merkins
@@ -131116,6 +147288,10 @@ Big boys got our abs working.
 ---
 
 ## MLK Day 2.0 Beatdown
+
+### Q
+
+Jigglypuff (STL Meramec)
 
 ### Warmup
 
@@ -131152,6 +147328,10 @@ Played two rounds that were pretty even.  Second round we added that you can als
 ---
 
 ## What’s Your Target
+
+### Q
+
+Cousin Eddy, Rub Down
 
 ### Warmup
 
@@ -131229,6 +147409,10 @@ RECOVER • RECOVER
 
 ## Tabematoma!
 
+### Q
+
+Dowry
+
 ### Warmup
 
 5:1 Motivators
@@ -131282,6 +147466,10 @@ American Hammers IC x 12
 
 ## Feel the Heat!!
 
+### Q
+
+Shower House
+
 ### Warmup
 
 SSH IC
@@ -131306,6 +147494,10 @@ Round 5: Lawn mowers (10 each arm) - lunge walk to wall.  10 burpees.  Mosey bac
 ---
 
 ## Let this be the only turd in your day! SaTURDay
+
+### Q
+
+Mulligan
 
 ### Warmup
 
@@ -131345,6 +147537,10 @@ RECOVER • RECOVER
 ---
 
 ## Backblast
+
+### Q
+
+Bushwood, Gumbo (STL)
 
 ### Warmup
 
@@ -131425,6 +147621,10 @@ PAX had the two different groups line up across from each other and participate 
 
 ## Cardinal's V-Q
 
+### Q
+
+DOS
+
 ### Warmup
 
 `15- Side Straddles Hops`
@@ -131478,6 +147678,10 @@ Saturday MABA at the MouseTrap starting at 5:30 am
 
 ## Make It Count
 
+### Q
+
+Seabiscuit
+
 ### Warmup
 
 10 Old Man Stretches IC
@@ -131507,6 +147711,10 @@ Finished w/ 4 sets of Sprints
 ---
 
 ## Cardinals VQ
+
+### Q
+
+Cousin Eddy
 
 ### Warmup
 
@@ -131566,6 +147774,10 @@ RECOVER • RECOVER
 
 ## In Honor of F3 Cardinal’s VQ
 
+### Q
+
+Thumper
+
 ### Warmup
 
 In Cadence
@@ -131619,6 +147831,10 @@ Call Out - 10 Count
 
 ## Cardinal VQ
 
+### Q
+
+Farva (Stl Meramec)
+
 ### Warmup
 
 15-	Side Straddles Hops
@@ -131664,6 +147880,10 @@ Not today.
 
 ## Competition Breeds Excellence
 
+### Q
+
+ginsu
+
 ### Warmup
 
 SSH IC x 69
@@ -131687,6 +147907,10 @@ While you are off complete the following:
 ---
 
 ## Ground Hog Day
+
+### Q
+
+Bobbit
 
 ### Warmup
 
@@ -131740,6 +147964,10 @@ PAX CHOICE
 
 ## A Qsoure ring of fire!
 
+### Q
+
+Double Rainbow
+
 ### Warmup
 
 Willie Mays Hays
@@ -131763,6 +147991,10 @@ Mary was what the Q called the ring of fire. He had the PAX make a tight circle 
 ---
 
 ## DFQ
+
+### Q
+
+Power Clean (JeffCo)
 
 ### Warmup
 
@@ -131789,6 +148021,10 @@ NOBODY CARES WHAT YOU CAN DO WHEN YOU ARE FRESH!
 ---
 
 ## Here to Serve!
+
+### Q
+
+Schlitz
 
 ### Warmup
 
@@ -131819,6 +148055,10 @@ Split into 2 groups. Group 1 "traveled" while group 2 did a coupon exercise (wit
 
 ## It is the 1/11…12 Years Ago F3 was Founded
 
+### Q
+
+Gumbo (STL)
+
 ### Warmup
 
 - Goofballs - IC
@@ -131834,6 +148074,10 @@ Kicked us off with Socratic 1:  _What do Leaders Do?  In F3.. Took a moment to a
 ---
 
 ## Backblast
+
+### Q
+
+Drop Out (SpiritSTL)
 
 ### Warmup
 
@@ -131895,6 +148139,10 @@ go around the circle until all have done a set of plank jacks.
 
 ## Push N' Pull 2.0 (Roomba's 1st F3Versary)
 
+### Q
+
+Roomba
+
 ### Warmup
 
 22x Goofballs IC
@@ -131914,6 +148162,10 @@ Asked PAX to partner up with someone they don’t usually get. One side of the f
 ---
 
 ## Gettin after it!
+
+### Q
+
+Dunkin
 
 ### Warmup
 
@@ -131944,6 +148196,10 @@ Name O Rama and Count O Rama:
 
 ## It is the 11th……what shall we do?
 
+### Q
+
+Duke
+
 ### Warmup
 
 - SSH
@@ -131970,6 +148226,10 @@ Round 2
 
 ## It is the 1/11…12 Years Ago F3 was Founded
 
+### Q
+
+Gumbo (STL)
+
 ### Warmup
 
 - Goofballs - IC
@@ -131985,6 +148245,10 @@ Kicked us off with Socratic 1:  _What do Leaders Do?  In F3.. Took a moment to a
 ---
 
 ## Modified 7 of Diamonds
+
+### Q
+
+Rock Ride
 
 ### Warmup
 
@@ -132104,6 +148368,10 @@ Flutter Kicks IC 15
 
 ## MABA Accelerator
 
+### Q
+
+Dowry
+
 ### Thang
 
 EMOM Burpees for 20 minutes.  Log your burpees
@@ -132111,6 +148379,10 @@ EMOM Burpees for 20 minutes.  Log your burpees
 ---
 
 ## This May Hurt
+
+### Q
+
+DOS
 
 ### Warmup
 
@@ -132144,6 +148416,10 @@ Saturday MABA at the MouseTrap starting at 5:30 am
 ---
 
 ## The Return of LJ
+
+### Q
+
+Gobstopper
 
 ### Warmup
 
@@ -132198,6 +148474,10 @@ Boat &amp; Canoe (on our 6, boat=legs &amp; arms tucked in, canoe=legs &amp; arm
 
 ## Unlock the Rock
 
+### Q
+
+Catnip
+
 ### Warmup
 
 - Willie Mays Hayes
@@ -132219,6 +148499,10 @@ Ring of fire plank with 5 merkins in sequence (two times around).
 ---
 
 ## Backblast
+
+### Q
+
+Captain Underpants
 
 ### Warmup
 
@@ -132260,6 +148544,10 @@ Green sally
 
 ## Backblast
 
+### Q
+
+Fish Fry
+
 ### Warmup
 
 Grass grabbers
@@ -132294,6 +148582,10 @@ Side crunches standing
 ---
 
 ## Are We Buffaloes or Cows?
+
+### Q
+
+Cousin Eddy
 
 ### Warmup
 
@@ -132401,6 +148693,10 @@ RECOVER • RECOVER
 
 ## MABA Accelerator:
 
+### Q
+
+Gumbo (STL)
+
 ### Thang
 
 MABA ~20min~. EMOM!!! Because Q got there late and started late.
@@ -132409,6 +148705,10 @@ PAX-PICK You pick your Burpee Count and try to maintain that number throughout t
 ---
 
 ## A VQ beatdown
+
+### Q
+
+Charmin
 
 ### Warmup
 
@@ -132460,6 +148760,10 @@ Run around far median and back
 ---
 
 ## MABA Monday
+
+### Q
+
+Dowry
 
 ### Warmup
 
@@ -132517,6 +148821,10 @@ Plank Jacks IC x 10
 
 ## 3rd Annual #beatdownforthethirsty2023 – raising awareness of the need for clean water and raising funds for living water international [www.water.cc](http://www.water.cc)
 
+### Q
+
+Band Camp, Manscapes
+
 ### Warmup
 
 Advent Conspiracy (AC) Warmup   {]_
@@ -132562,6 +148870,10 @@ _What’s 8-2? Right, 6…That’s how many kilometers the average person has to
 
 ## The further on the edge, the hotter the intensity
 
+### Q
+
+Duke
+
 ### Warmup
 
 - SSH
@@ -132599,6 +148911,10 @@ Over The Top
 
 ## MABA Accelerator:
 
+### Q
+
+BowFlex
+
 ### Thang
 
 MABA 20min. EMOM!!!_
@@ -132608,6 +148924,10 @@ _PAX-PICK You pick your Burpee Count and try to maintain that number throughout 
 
 ## Come hungry, leave happy
 
+### Q
+
+Topeka
+
 ### Thang
 
 6x60x60
@@ -132615,6 +148935,10 @@ _PAX-PICK You pick your Burpee Count and try to maintain that number throughout 
 ---
 
 ## MABA Accelerator:
+
+### Q
+
+Gumbo (STL)
 
 ### Warmup
 
@@ -132628,6 +148952,10 @@ _PAX-PICK You pick your Burpee Count and try to maintain that number throughout 
 ---
 
 ## Resolution, Revelation, Epiphany Insurrection
+
+### Q
+
+Misty
 
 ### Warmup
 
@@ -132661,6 +148989,10 @@ V ups x10
 
 ## e = mc2
 
+### Q
+
+COBOL
+
 ### Warmup
 
 - LBAC
@@ -132686,6 +149018,10 @@ Rinse/repeat
 ---
 
 ## Some Stuff, then more stuff
+
+### Q
+
+Farva (Stl Meramec)
 
 ### Warmup
 
@@ -132719,6 +149055,10 @@ Ran 1 lap
 
 ## Walk-about
 
+### Q
+
+DOS
+
 ### Warmup
 
 `5to1 Motivators`
@@ -132748,6 +149088,10 @@ Ran 1 lap
 
 ## Cheat Codes Version MABA
 
+### Q
+
+PillowFight
+
 ### Thang
 
 [12 min x 2] Sand Bag Drag relay race / Navy Seal every 17 seconds while you wait.
@@ -132761,6 +149105,10 @@ Hopefully those of you who track "Apple/Garmin/Fitbit fitness stats" saw a spike
 ---
 
 ## Backblast
+
+### Q
+
+BigTex
 
 ### Warmup
 
@@ -132795,6 +149143,10 @@ Everyone did 10 more burpees on their own because we live burpees so much.
 ---
 
 ## Backblast
+
+### Q
+
+Worm
 
 ### Warmup
 
@@ -132852,6 +149204,10 @@ Each round would have been either 25 to 35 burpees. So at a minimum everyone got
 
 ## Free (nothing is ever free) Throws
 
+### Q
+
+Cheesehead
+
 ### Warmup
 
 - Lab around the school to the playground
@@ -132870,6 +149226,10 @@ Today we embarked on organized chaos on the elementary playground.  PAX moved fr
 ---
 
 ## Return to Center
+
+### Q
+
+Nickelback
 
 ### Warmup
 
@@ -132907,6 +149267,10 @@ North exercise: 15 Bobby Hurleys
 ---
 
 ## Disruption to Status Quo
+
+### Q
+
+Rock Ride
 
 ### Warmup
 
@@ -132961,6 +149325,10 @@ SSH when done
 
 ## Here we go!
 
+### Q
+
+Topeka
+
 ### Warmup
 
 6-1 motivators
@@ -132985,6 +149353,10 @@ WGS
 
 ## MABA Accelerator: ARKHAM!
 
+### Q
+
+Gumbo (STL)
+
 ### Warmup
 
 NO time for that!  Lets Go!
@@ -132999,6 +149371,10 @@ This morning we Fell Forward... and got back up... Together!
 ---
 
 ## First Years First
+
+### Q
+
+rogerroger
 
 ### Warmup
 
@@ -133028,6 +149404,10 @@ Jail Break Together - Try to Beat Your Neighbor
 ---
 
 ## Dont Break Your 4 Day NYR
+
+### Q
+
+Cheesehead
 
 ### Warmup
 
@@ -133064,6 +149444,10 @@ Alphabets
 
 ## GOOD OLE FASHION F3 CLASSIC WITH A TWIST
 
+### Q
+
+Skid Mark
+
 ### Warmup
 
 Piano Tapper's
@@ -133084,6 +149468,10 @@ Scuba PAX
 ---
 
 ## In before the cold
+
+### Q
+
+Nerf
 
 ### Warmup
 
@@ -133115,6 +149503,10 @@ Flutter Kicks, Scissor Kicks, Flutter Kicks, Scissor Kicks, Penguin Tappers, Rop
 ---
 
 ## Bust your ass in 2023 – an AI inspired beatdown
+
+### Q
+
+Norton
 
 ### Warmup
 
@@ -133172,6 +149564,10 @@ Bodies Hit the Floor: This is done to the song Bodies by Drowning Pool (time 3:2
 
 ## happy new year
 
+### Q
+
+Lotus Notes
+
 ### Warmup
 
 5-1 Motivators, GrassGrabbers, Learning to Phelps, Imperial Walkers (not Hillbillies)
@@ -133208,6 +149604,10 @@ Finished with 10 more burpees...totaled 60 for the day!
 
 ## Backblast
 
+### Q
+
+Buckeye (F3STL Meramec)
+
 ### Warmup
 
 - SSHs
@@ -133237,6 +149637,10 @@ Partner workout. 1 PAX jailbreaks about 40 yards, performs 5 merkins, and jailbr
 
 ## THE STARFISH
 
+### Q
+
+Zero Turn, Cousin Eddy
+
 ### Thang
 
 5 cones shaped as starfish w flag in middle. Pax divided in groups of 5 w/ group leaders PAX PAX PAX PAX PAX
@@ -133262,6 +149666,10 @@ PAX Wine Mixers
 
 ## MABA Accelerator: The Roux
 
+### Q
+
+Gumbo (STL)
+
 ### Warmup
 
 SSH - IC
@@ -133284,6 +149692,10 @@ annnd, POST Daily... even on Weekends.
 ---
 
 ## maba basketball
+
+### Q
+
+Butterball
 
 ### Warmup
 
@@ -133316,6 +149728,10 @@ American hammers
 
 ## The Clock / MABA: 112
 
+### Q
+
+PillowFight
+
 ### Thang
 
 16 Burpees every 7 minutes = 112 Burpees [Link in the thread]
@@ -133331,6 +149747,10 @@ Re the Burpees; that's what 112 feels like. There will be a few early Saturday e
 ---
 
 ## STANDARD (Last BD of the Year)
+
+### Q
+
+Jigglypuff (STL Meramec)
 
 ### Warmup
 
@@ -133395,6 +149815,10 @@ AO_The_Bayou (St. Charles) has a special burpee challenge 1/3/2023 at 0530.
 
 ## happy new year
 
+### Q
+
+Jayhawk
+
 ### Warmup
 
 SSH x 50
@@ -133446,6 +149870,10 @@ No time today
 
 ## New Years Eve-Eve
 
+### Q
+
+Freefall
+
 ### Warmup
 
 (all IC)
@@ -133491,6 +149919,10 @@ We did the countdown during the beatdown…Time to act Men!!!  u all!
 
 ## Winds of Change
 
+### Q
+
+Rub Down
+
 ### Warmup
 
 5-1 Motivators
@@ -133520,6 +149952,10 @@ PAX led us in LBCs x 20 to make sure our backs got soaked.
 
 ## Sandbag WOD
 
+### Q
+
+Buckeye (F3STL Meramec)
+
 ### Warmup
 
 - Grass Grabbers
@@ -133546,6 +149982,10 @@ Pax finished with about 4.5-5 miles of running and 150 sandbag thrusters. This w
 
 ## Modest Mouse Dashboard Dance Party
 
+### Q
+
+PillowFight
+
 ### Warmup
 
 35 SSH
@@ -133570,6 +150010,10 @@ Results: A victory for all Pickle nation. Small yet fierce like the honey badger
 ---
 
 ## Backblast
+
+### Q
+
+Drop Out (SpiritSTL)
 
 ### Warmup
 
@@ -133600,6 +150044,10 @@ Bat Wings
 
 ## Balmy Paradise
 
+### Q
+
+Nerf
+
 ### Warmup
 
 Get ups, SSH
@@ -133625,6 +150073,10 @@ Pax 2: jailbreak and 5 burpees
 ---
 
 ## THE FORGE @ THE DEN - CHRISTMAS RETURNS
+
+### Q
+
+Manicure
 
 ### Warmup
 
@@ -133684,6 +150136,10 @@ Round 5:
 
 ## Last Rock Beatdown of 2022
 
+### Q
+
+Big Spoon
+
 ### Warmup
 
 10-1 Motivators
@@ -133721,6 +150177,10 @@ Hello Dolly x20
 ---
 
 ## Backblast
+
+### Q
+
+9 to 5
 
 ### Warmup
 
@@ -133775,6 +150235,10 @@ COR &amp; NOR
 
 ## 22 or 23
 
+### Q
+
+Wonka
+
 ### Warmup
 
 Old man stretch
@@ -133802,6 +150266,10 @@ Dion back and repeat
 
 ## Backblast
 
+### Q
+
+Milwaukees Best
+
 ### Warmup
 
 SSH, Goffballs, asphalt grabbers
@@ -133818,6 +150286,10 @@ Give presence, love all.
 ---
 
 ## Roll with the Punches
+
+### Q
+
+ginsu
 
 ### Warmup
 
@@ -133844,6 +150316,10 @@ Rifle Carry to next Spot
 ---
 
 ## All the Hard Things
+
+### Q
+
+TheBeav
 
 ### Warmup
 
@@ -133874,6 +150350,10 @@ Heels to Heaven IC
 
 ## Tuesday Beatdown (Thumpers first time Qing at the PJ)
 
+### Q
+
+Thumper
+
 ### Warmup
 
 In Cadence
@@ -133903,6 +150383,10 @@ In Cadence
 
 ## Backblast
 
+### Q
+
+Drizzle
+
 ### Warmup
 
 5-1 motivators
@@ -133925,6 +150409,10 @@ Around the clock plank/pushups (2 rounds)
 
 ## Workout
 
+### Q
+
+Jigglypuff (STL Meramec)
+
 ### Warmup
 
 Hairy Rockettes, AbeBigotos, Imperial Walkers, Groiners, PAX, Merkins
@@ -133944,6 +150432,10 @@ Did 2 full rounds with Broga for 3min in the middle.
 ---
 
 ## ????
+
+### Q
+
+Zero Turn
 
 ### Warmup
 
@@ -133990,6 +150482,10 @@ Run to pool and back
 
 ## DRP Option 2
 
+### Q
+
+Farva (Stl Meramec)
+
 ### Warmup
 
 OYO
@@ -134001,6 +150497,10 @@ Ran from #ao_the_den  to #ao-black-diamond-eureka and back, just over 3 miles.
 ---
 
 ## Reduce. Reuse. Recycle.
+
+### Q
+
+Clotshot
 
 ### Warmup
 
@@ -134039,6 +150539,10 @@ Closed with goblet squats
 ---
 
 ## T'was the day after Christmas
+
+### Q
+
+Shower House
 
 ### Warmup
 
@@ -134120,6 +150624,10 @@ HAPPY CHRISTMAS to all, and to all a GOOD NIGHT!!!
 
 ## Santa Interview
 
+### Q
+
+DOS
+
 ### Warmup
 
 `5to1 Motivators`
@@ -134150,6 +150658,10 @@ HAPPY CHRISTMAS to all, and to all a GOOD NIGHT!!!
 ---
 
 ## The Day After
+
+### Q
+
+Prenup
 
 ### Warmup
 
@@ -134189,6 +150701,10 @@ Recover/Recover
 
 ## Never miss a Monday
 
+### Q
+
+Fulton (STL)
+
 ### Warmup
 
 World’s Greatest Stretch (covered 5 core principles and Creedo)
@@ -134223,6 +150739,10 @@ Used Car Salesman IC 13
 
 ## Remove the Deck-runations
 
+### Q
+
+Thumper
+
 ### Warmup
 
 In Cadence
@@ -134249,6 +150769,10 @@ skip will do at home
 ---
 
 ## 3 ALARM
+
+### Q
+
+Rock Ride
 
 ### Warmup
 
@@ -134289,6 +150813,10 @@ American Hammers IC x 20
 
 ## Gobby’s 2 year F3 Versary
 
+### Q
+
+Gobstopper
+
 ### Warmup
 
 5:1 motivators
@@ -134318,6 +150846,10 @@ Recover, Recover:
 
 ## Backblast
 
+### Q
+
+COBOL
+
 ### Warmup
 
 12-1 Motivators
@@ -134345,6 +150877,10 @@ Rick Flair
 ---
 
 ## Climbing the Christmas tree up and down
+
+### Q
+
+Karat
 
 ### Warmup
 
@@ -134377,6 +150913,10 @@ Not today
 
 ## Backblast
 
+### Q
+
+Drop Out (SpiritSTL)
+
 ### Warmup
 
 SSH 40 IC
@@ -134407,6 +150947,10 @@ trunk twist w/coupon IC
 ---
 
 ## The Abominable SnowHIMs
+
+### Q
+
+BigPharma
 
 ### Warmup
 
@@ -134441,6 +150985,10 @@ Mosey back to flags
 
 ## Ice Breaker
 
+### Q
+
+Thumper
+
 ### Warmup
 
 In Cadence
@@ -134469,6 +151017,10 @@ In Cadence
 
 ## Mind the Time
 
+### Q
+
+DOS
+
 ### Warmup
 
 `5to1 Motivators`
@@ -134496,6 +151048,10 @@ In Cadence
 ---
 
 ## Winter is Coming!
+
+### Q
+
+Elmer
 
 ### Warmup
 
@@ -134530,6 +151086,10 @@ Rinsed and repeated for 3 rounds.
 
 ## Century Club
 
+### Q
+
+Otter
+
 ### Warmup
 
 Goof Balls
@@ -134563,6 +151123,10 @@ Alphabet Abs
 
 ## Climbing the Christmas tree up and down
 
+### Q
+
+Karat
+
 ### Warmup
 
 7-1 motivators
@@ -134594,6 +151158,10 @@ Not today
 
 ## Blackjack
 
+### Q
+
+Captain Underpants
+
 ### Warmup
 
 SSH x 21
@@ -134622,6 +151190,10 @@ Flutter kick x 21
 
 ## Backblast
 
+### Q
+
+Bobbit
+
 ### Warmup
 
 Side Straddle Hops
@@ -134647,6 +151219,10 @@ Rnd 1 and 2 exercises
 ---
 
 ## F Around and Find Out
+
+### Q
+
+Tinker Bell
 
 ### Warmup
 
@@ -134691,6 +151267,10 @@ Morning Wood (Get-ups)  x  6
 ---
 
 ## Water Wednesday Workout to promote 3rd Annual BeatdownForTheThirsty on Sat Jan 7th 7am at The Streaker
+
+### Q
+
+Band Camp, Milwaukees Best
 
 ### Thang
 
@@ -134738,6 +151318,10 @@ Some PAX Winemixers &amp; Heels to Heavens led IC by PAX
 
 ## Backblast
 
+### Q
+
+1chain
+
 ### Warmup
 
 25 SSH
@@ -134776,6 +151360,10 @@ American Hammers
 ---
 
 ## The Calm Before the Storm
+
+### Q
+
+Dowry
 
 ### Warmup
 
@@ -134826,6 +151414,10 @@ Guantanamo Bay - 1 Round
 
 ## It looked something like Christmas!
 
+### Q
+
+BrownandBrown
+
 ### Warmup
 
 - Imperial walkers
@@ -134847,6 +151439,10 @@ Circle merk of the century!
 ---
 
 ## Backblast
+
+### Q
+
+Olav
 
 ### Warmup
 
@@ -134898,6 +151494,10 @@ Penguin Tappers
 
 ## adult recess
 
+### Q
+
+ginsu
+
 ### Warmup
 
 Grass Grabbers, 5 to 1 motivators, willie mayes hayes
@@ -134911,6 +151511,10 @@ ULTIMATE FRISBURPEEEEEEE
 ---
 
 ## FREE!!
+
+### Q
+
+Zero Turn
 
 ### Warmup
 
@@ -134946,6 +151550,10 @@ Lower back stretch
 
 ## DFQ
 
+### Q
+
+Fulton (STL)
+
 ### Warmup
 
 World’s Greatest Stretch (5CPs, Credo)
@@ -134971,6 +151579,10 @@ Ric Flair!
 ---
 
 ## Make a Good Decision
+
+### Q
+
+Clotshot
 
 ### Warmup
 
@@ -135001,6 +151613,10 @@ Broke up into teams of two. One teammate traveled while the other began the exer
 
 ## King Builder
 
+### Q
+
+Drop Out (SpiritSTL), Olav
+
 ### Warmup
 
 `5to1 Motivators`
@@ -135029,6 +151645,10 @@ Broke up into teams of two. One teammate traveled while the other began the exer
 
 ## Monday Rounds
 
+### Q
+
+Cheesehead
+
 ### Warmup
 
 - SSH IC
@@ -135051,6 +151671,10 @@ LBC, BBSU, Penguin Tappers and Flutter Kicks all IC.
 ---
 
 ## Visiting, Almost Neverland, and Poop Deck
+
+### Q
+
+Road Rage
 
 ### Warmup
 
@@ -135093,6 +151717,10 @@ Q was trying to help everyone to have Brad PAX abs.
 
 ## Kingbuilder
 
+### Q
+
+rogerroger
+
 ### Warmup
 
 - 5:1 Motivators
@@ -135124,6 +151752,10 @@ PAX Lead PAX in Piano Tappers
 
 ## 12 Pains of Christmas
 
+### Q
+
+Topeka, ginsu
+
 ### Warmup
 
 Mosey around the oarkbled by PAX
@@ -135146,6 +151778,10 @@ EMOM burpees
 
 ## The 12 Pains of Christmas
 
+### Q
+
+Skid Mark, Roomba
+
 ### Warmup
 
 - 12x Willy Mays Hayes
@@ -135164,6 +151800,10 @@ No Mary because of time
 
 ## Bunch of dudes in a garage
 
+### Q
+
+Harry C
+
 ### Warmup
 
 - Willie Mays Hays
@@ -135176,6 +151816,10 @@ Rotating follow the leader around the garage with dealers choice exercises
 ---
 
 ## Backblast
+
+### Q
+
+Worm
 
 ### Warmup
 
@@ -135210,6 +151854,10 @@ Toe Touches
 ---
 
 ## Bringing 2 Past Beatdowns Together
+
+### Q
+
+Fabuloso
 
 ### Warmup
 
@@ -135262,6 +151910,10 @@ Q finished with having the PAX do a 2 rounds of Triple Bears IC x12 &amp; IC x10
 
 ## Around the World
 
+### Q
+
+Flobee
+
 ### Warmup
 
 Moving in counterclockwise motion around coupons:
@@ -135286,6 +151938,10 @@ Moving in counterclockwise motion around coupons:
 
 ## $5 Beatdown
 
+### Q
+
+PillowFight
+
 ### Warmup
 
 1 lap, Grass Grabbers
@@ -135305,6 +151961,10 @@ Take care.
 ---
 
 ## Backblast
+
+### Q
+
+Tinker Bell
 
 ### Warmup
 
@@ -135340,6 +152000,10 @@ N-No Surrenders
 
 ## Beast of a Friday
 
+### Q
+
+Rock Ride
+
 ### Warmup
 
 - Goofballs 25 IC
@@ -135370,6 +152034,10 @@ Added - Lunges with coupon, lawn mowers HW
 
 ## Blazing a new Trail?
 
+### Q
+
+Flobee
+
 ### Warmup
 
 - OYO - you all know your bodies
@@ -135381,6 +152049,10 @@ Added - Lunges with coupon, lawn mowers HW
 ---
 
 ## Thursday Morning Football
+
+### Q
+
+Otter
 
 ### Warmup
 
@@ -135423,6 +152095,10 @@ With limited time remaining the PAX did a stretching circuit of the worlds great
 
 ## Backblast
 
+### Q
+
+Drop Out (SpiritSTL)
+
 ### Warmup
 
 6-1 Motivators
@@ -135449,6 +152125,10 @@ Q added some variations to the mix.
 
 ## North Swole or Bofa Deez Nuts
 
+### Q
+
+Inseam
+
 ### Warmup
 
 Side Straddle Hops, Willie Mays Hays, Grady Corn, Knee Pulls and The Merkin
@@ -135469,6 +152149,10 @@ Flutter Kicks
 ---
 
 ## 10 more shopping days til Christmas!
+
+### Q
+
+Noah
 
 ### Warmup
 
@@ -135514,6 +152198,10 @@ Curls for the girls
 
 ## 10 more shopping days til Christmas!
 
+### Q
+
+Noah
+
 ### Warmup
 
 Willie Mays Hyes
@@ -135547,6 +152235,10 @@ _pain (promised to Fulton)_:
 
 ## Backblast
 
+### Q
+
+DOS
+
 ### Warmup
 
 `7to1 Motivators`
@@ -135576,6 +152268,10 @@ _pain (promised to Fulton)_:
 
 ## Comfortable being Uncomfortable
 
+### Q
+
+Zero Turn
+
 ### Warmup
 
 SSH
@@ -135604,6 +152300,10 @@ Mountain Climbers and Pike Ups IC
 ---
 
 ## Movin’ da balls
+
+### Q
+
+Dunkin
 
 ### Warmup
 
@@ -135640,6 +152340,10 @@ Round 4: Merkins (lightning round)
 ---
 
 ## Coin Flip Decides Your Fate
+
+### Q
+
+Bushwood
 
 ### Warmup
 
@@ -135697,6 +152401,10 @@ RECOVER and back to the flag
 
 ## Curls are for the girls.
 
+### Q
+
+Tuition
+
 ### Warmup
 
 Little arm circles
@@ -135738,6 +152446,10 @@ Pax lap around the track.
 ---
 
 ## YAHTZEE!!
+
+### Q
+
+Skid Mark
 
 ### Warmup
 
@@ -135794,6 +152506,10 @@ Downward Dog
 
 ## Merkin Madness at Black Diamond
 
+### Q
+
+Jigglypuff (STL Meramec)
+
 ### Warmup
 
 - Hairy rockettes, knee pulls, quad pulls, high knees, butt kickers, abe bigotas, lap around park
@@ -135818,6 +152534,10 @@ Pilates circuit
 ---
 
 ## DFQ
+
+### Q
+
+Fulton (STL)
 
 ### Warmup
 
@@ -135852,6 +152572,10 @@ Ric Flair!
 ---
 
 ## You Pick the Fun
+
+### Q
+
+Wilson (SpiritSTL)
 
 ### Warmup
 
@@ -135894,6 +152618,10 @@ Lead PAX in 4 count of 15 flutter kicks
 
 ## Backblast
 
+### Q
+
+Drizzle
+
 ### Warmup
 
 5-1 motivators
@@ -135914,6 +152642,10 @@ No time to Mary, recover recover
 ---
 
 ## Go Army, Bet Navy
+
+### Q
+
+Inseam
 
 ### Warmup
 
@@ -135937,6 +152669,10 @@ Flutter Kicks, Superman Holds and PAX led us in Penguin Tappers!
 ---
 
 ## Circle Up
+
+### Q
+
+Rub Down
 
 ### Warmup
 
@@ -135976,6 +152712,10 @@ Heels to Heaven
 ---
 
 ## Run Run Rudolph
+
+### Q
+
+Thumper
 
 ### Warmup
 
@@ -136020,6 +152760,10 @@ Did something can’t remember
 
 ## Backblast
 
+### Q
+
+1chain
+
 ### Warmup
 
 25 SSH
@@ -136049,6 +152793,10 @@ American Hammers IC 30
 
 ## It's Monday, let's get to work
 
+### Q
+
+Topeka
+
 ### Thang
 
 Pair up in groups of 3. Timer is 100m out and back, rotate coupon/non-coupon/timer.
@@ -136067,6 +152815,10 @@ Pair up in groups of 3. Timer is 100m out and back, rotate coupon/non-coupon/tim
 ---
 
 ## Backblast
+
+### Q
+
+1chain
 
 ### Warmup
 
@@ -136099,6 +152851,10 @@ Finisher
 ---
 
 ## Cornholio (watch the NOR video)
+
+### Q
+
+Freefall
 
 ### Warmup
 
@@ -136134,6 +152890,10 @@ Popcorn style: All pax took a turn and called out an exercise.
 
 ## Fun Day Friday
 
+### Q
+
+Freshman
+
 ### Warmup
 
 5-1 motivators
@@ -136168,6 +152928,10 @@ Flutter kicks, Freddie Mercurys, plank waterfall
 ---
 
 ## Backblast
+
+### Q
+
+BigTex
 
 ### Warmup
 
@@ -136220,6 +152984,10 @@ ROUND 6
 
 ## The Matterhorn
 
+### Q
+
+TI83
+
 ### Warmup
 
 in cadence
@@ -136269,6 +153037,10 @@ Had time to do one more mosey lap around the parking lot
 
 ## Traveling Tabatas
 
+### Q
+
+Seabiscuit
+
 ### Warmup
 
 Old Man Stretches
@@ -136291,6 +153063,10 @@ Flutter Kicks - IC
 
 ## The Cheat C0des
 
+### Q
+
+PillowFight
+
 ### Thang
 
 50 Squats Every 7:00 X 4
@@ -136309,6 +153085,10 @@ Till next time take care.
 ---
 
 ## Basic Fundamentals
+
+### Q
+
+DOS
 
 ### Warmup
 
@@ -136343,6 +153123,10 @@ Till next time take care.
 
 ## Good Old Fashioned
 
+### Q
+
+Farva (Stl Meramec)
+
 ### Warmup
 
 10-1 Motivators
@@ -136369,6 +153153,10 @@ Attempted caterpillar race.
 
 ## Backblast
 
+### Q
+
+Rock Ride
+
 ### Warmup
 
 Goofballs 25 IC
@@ -136387,6 +153175,10 @@ we did a ton of core in the Thang, no Mary
 ---
 
 ## Gloria &amp; Rejoice in the Gloom
+
+### Q
+
+Truckstop
 
 ### Warmup
 
@@ -136432,6 +153224,10 @@ Gloria – Listened to Gloria, did side-straddle hops and each time we heard “
 
 ## Water Wednesday Workout to promote 3rd Annual BeatdownForTheThirsty on Sat Jan 7th 7am at The Streaker
 
+### Q
+
+Manscapes
+
 ### Warmup
 
 5 to 1 Motivators
@@ -136475,6 +153271,10 @@ Jump Squats
 
 ## Hump Day BD
 
+### Q
+
+Dowry
+
 ### Warmup
 
 5:1 Motivators
@@ -136515,6 +153315,10 @@ Plank Jacks IC x 10
 ---
 
 ## Kingbuilder Q Source Beatdown
+
+### Q
+
+Fabuloso
 
 ### Warmup
 
@@ -136580,6 +153384,10 @@ Teaching Point:
 
 ## ALL THE RIGHT REASONS
 
+### Q
+
+Nickelback, meatloaf
+
 ### Warmup
 
 Grass Grabbers
@@ -136643,6 +153451,10 @@ American Hammers
 
 ## Backblast
 
+### Q
+
+Gumbo (STL)
+
 ### Warmup
 
 5-1 Motivators IC
@@ -136672,6 +153484,10 @@ RECOVER for some Laignappe (a bonus)
 ---
 
 ## Water Wednesday Workout to promote 3rd Annual BeatdownForTheThirsty on Sat Jan 7th 7am at The Streaker
+
+### Q
+
+Manscapes
 
 ### Warmup
 
@@ -136713,6 +153529,10 @@ Go Tell it on the Mountain with a Merkin at each go and Mountain Climbers the re
 
 ## Backblast
 
+### Q
+
+1chain
+
 ### Warmup
 
 10 SSH-5 Burpees x5
@@ -136743,6 +153563,10 @@ American Hammers 25 IC
 
 ## EPIC
 
+### Q
+
+Cheesehead
+
 ### Warmup
 
 - SSH IC
@@ -136758,6 +153582,10 @@ Epic Dodgeball PAX style. Two teams on the tennis courts. Timer goes off every 2
 ---
 
 ## Backblast
+
+### Q
+
+Zero Turn
 
 ### Warmup
 
@@ -136804,6 +153632,10 @@ Travel:  Mosey
 
 ## There is something about Running a Mile
 
+### Q
+
+Jigglypuff (STL Meramec)
+
 ### Warmup
 
 - jog to track
@@ -136835,6 +153667,10 @@ Running NoR (see thread)
 
 ## The Kingbuilder
 
+### Q
+
+Catnip, Milwaukees Best
+
 ### Warmup
 
 5 to 1 motivators.
@@ -136858,6 +153694,10 @@ Today's beatdown was based on the four quadrants of QSource, F3's leadership man
 ---
 
 ## Backblast
+
+### Q
+
+Keys
 
 ### Warmup
 
@@ -136893,6 +153733,10 @@ Flutter Kicks
 
 ## Its Beginning To Look A Lot Like Christmas
 
+### Q
+
+Cheesehead
+
 ### Warmup
 
 - SKOL claps IC
@@ -136916,6 +153760,10 @@ American Hammers (gladiators), penguin tappers and flutter kicks all IC
 ---
 
 ## The BigPharma Biennial - WW's Greatest Hits Vol. 2
+
+### Q
+
+BigPharma
 
 ### Warmup
 
@@ -136958,6 +153806,10 @@ Circle of Pain with 3 merkins, out of time so PAX finished final round with 6 to
 
 ## 5's on 12/5
 
+### Q
+
+Butterball
+
 ### Warmup
 
 5-1 Motivators
@@ -136988,6 +153840,10 @@ Run another lap
 ---
 
 ## Skiddy needs to Q!
+
+### Q
+
+Skid Mark
 
 ### Warmup
 
@@ -137031,6 +153887,10 @@ Calf Stretch's
 
 ## You Play to Win the Game!
 
+### Q
+
+Dowry
+
 ### Warmup
 
 SSH IC x 25
@@ -137061,6 +153921,10 @@ Plank Jacks IC
 ---
 
 ## STREAKER SATURDAY - BUCKETBALL EDITION
+
+### Q
+
+Manicure
 
 ### Warmup
 
@@ -137140,6 +154004,10 @@ Freddie Mercury’s IC
 
 ## Fantastic Friday
 
+### Q
+
+Karat
+
 ### Warmup
 
 7-1 motivators
@@ -137168,6 +154036,10 @@ Burpees to ''The Stroke'' by Billy Squire, it's about 53 burpees if you can do t
 
 ## "Cant' Change It"
 
+### Q
+
+Lotus Notes
+
 ### Warmup
 
 8-1 motivators
@@ -137193,6 +154065,10 @@ Time for a little Mary, flutter kicks and freddie mercury!
 ---
 
 ## The song that never ends
+
+### Q
+
+Farva (Stl Meramec)
 
 ### Warmup
 
@@ -137228,6 +154104,10 @@ Bear-Crawl approximately 40 yards and back pick up the 6!
 
 ## Flea Market Strikes back with Kettle Bells
 
+### Q
+
+Flea Market
+
 ### Warmup
 
 5 to 1 Motivators
@@ -137246,6 +154126,10 @@ PAX Paired up and one partner did a Merkin while the other used the "as seen on 
 ---
 
 ## Hold The Line
+
+### Q
+
+rogerroger
 
 ### Warmup
 
@@ -137306,6 +154190,10 @@ Mortal Kombat Planks
 
 ## Get Your Game Face On
 
+### Q
+
+Roomba
+
 ### Warmup
 
 - Played Thunderstruck and did SSH as a static and Merkins whenever the it said Thunder, this turned into just doing Burpees because that's basically what it was.
@@ -137331,6 +154219,10 @@ Station 2 (Over 15 tags)
 ---
 
 ## Backblast
+
+### Q
+
+Roomba
 
 ### Warmup
 
@@ -137377,6 +154269,10 @@ Station 2 (Coupon Work)
 
 ## All in the Cards
 
+### Q
+
+O'Doyle Rules
+
 ### Warmup
 
 5 to 1 motivators, learning to phelps, grass grabbers, old man squatted stretch
@@ -137389,6 +154285,10 @@ Chess press, merkins, CPR, Squats, Bonnie Blairs, American Hammers, Plank Jacks,
 ---
 
 ## Dealer's Choice
+
+### Q
+
+Chief
 
 ### Warmup
 
@@ -137424,6 +154324,10 @@ Full body stretches
 
 ## it’s December 1st!
 
+### Q
+
+Farva (Stl Meramec)
+
 ### Warmup
 
 10-1 Motivators
@@ -137451,6 +154355,10 @@ None today
 
 ## 3 Loops
 
+### Q
+
+Road Rage
+
 ### Thang
 
 PAX ran 3 loops around the park, finishing up with 4.2 miles.
@@ -137462,6 +154370,10 @@ A few good stretches
 ---
 
 ## Backblast
+
+### Q
+
+Dowry
 
 ### Warmup
 
@@ -137534,6 +154446,10 @@ Flutter Kicks IC x 15
 
 ## 30:30
 
+### Q
+
+Farva (Stl Meramec)
+
 ### Warmup
 
 10-1 Motivators
@@ -137554,6 +154470,10 @@ None
 ---
 
 ## 30 for 30 Gratefulness
+
+### Q
+
+Cheesehead
 
 ### Warmup
 
@@ -137588,6 +154508,10 @@ Introduced tornados...legs performed windshield washers while the arms were over
 ---
 
 ## Water Wednesday Workout to promote 3rd Annual BeatdownForTheThirsty on Sat Jan 7th 7am at The Streaker
+
+### Q
+
+Manscapes, Band Camp
 
 ### Warmup
 
@@ -137639,6 +154563,10 @@ Repeat
 
 ## King of The Hill
 
+### Q
+
+Bushwood
+
 ### Warmup
 
 - 5-1 Motivators
@@ -137676,6 +154604,10 @@ RECOVER and back to the flag
 
 ## Back to Basics! No objections!
 
+### Q
+
+BrownandBrown
+
 ### Warmup
 
 - Mosey
@@ -137702,6 +154634,10 @@ RECOVER (10 count rest)
 ---
 
 ## 3,2,1
+
+### Q
+
+Farva (Stl Meramec)
 
 ### Warmup
 
@@ -137741,6 +154677,10 @@ LBC
 
 ## Heavenly Hills
 
+### Q
+
+Short Circuit
+
 ### Warmup
 
 - Willie Mays Hays IC
@@ -137766,6 +154706,10 @@ Not today
 ---
 
 ## Progressive Overload
+
+### Q
+
+Otter
 
 ### Warmup
 
@@ -137800,6 +154744,10 @@ Penguin tappers
 
 ## Just another BD
 
+### Q
+
+Olav
+
 ### Warmup
 
 5-1 Motivators
@@ -137826,6 +154774,10 @@ Jail Break Down and Back
 
 ## Backblast
 
+### Q
+
+Inseam
+
 ### Warmup
 
 Sumo Squats Holds, Side Straddle Hops, Willie Mays Hays, Grady Corn and Knee Pulls
@@ -137843,6 +154795,10 @@ PAX led us in penguin tappers, PAX led us in windshield Wipers and then called o
 ---
 
 ## Party's Over! Back To Work!
+
+### Q
+
+Chowda
 
 ### Warmup
 
@@ -137879,6 +154835,10 @@ RECOVER • RECOVER
 
 ## Better Together
 
+### Q
+
+Romeo
+
 ### Warmup
 
 Abe Vigoda IC
@@ -137908,6 +154868,10 @@ Sharon Stones IC
 ---
 
 ## Monday Motivation
+
+### Q
+
+Five-Hole
 
 ### Warmup
 
@@ -137954,6 +154918,10 @@ Big Boy Sit-ups x 15
 
 ## Dice Golf
 
+### Q
+
+Jigglypuff (STL Meramec)
+
 ### Warmup
 
 hairy Rockettes, Abe bigot as , imperial walkers , knee pulls, quad pulls, groiners, pigeons, merkins, old man stretch, neck stretch
@@ -137974,6 +154942,10 @@ number of throws
 ---
 
 ## Black Friday Beatdown
+
+### Q
+
+DOS
 
 ### Warmup
 
@@ -138004,6 +154976,10 @@ number of throws
 
 ## England vs USA
 
+### Q
+
+Ladybug
+
 ### Warmup
 
 Old Man Stretch
@@ -138031,6 +155007,10 @@ Penguin Tappers
 ---
 
 ## America F Yeah!
+
+### Q
+
+Dowry
 
 ### Warmup
 
@@ -138071,6 +155051,10 @@ Guantanamo Bay - 2 Rounds
 
 ## More Pie!
 
+### Q
+
+Peloton
+
 ### Warmup
 
 - 5-1 Motivators
@@ -138107,6 +155091,10 @@ Continue the pie rotation until we run out of time.
 
 ## Backblast
 
+### Q
+
+Drop Out (SpiritSTL)
+
 ### Warmup
 
 5-1 Motivators
@@ -138141,6 +155129,10 @@ exercises:
 
 ## Gobble Wobble
 
+### Q
+
+Jigglypuff (STL Meramec)
+
 ### Warmup
 
 OYO before 5:30
@@ -138168,6 +155160,10 @@ Extra Credit: PAX led us in Abrivators
 ---
 
 ## Backblast
+
+### Q
+
+9 to 5
 
 ### Warmup
 
@@ -138210,6 +155206,10 @@ The goal was for the Pax to complete 6 rotations. Some did.
 
 ## The Gobbler Challenge
 
+### Q
+
+Olav
+
 ### Warmup
 
 Old Man Stretch
@@ -138238,6 +155238,10 @@ Not Today!
 
 ## Bill and Ted's Excellent Adventure
 
+### Q
+
+Cheesehead
+
 ### Warmup
 
 - High Knees IC
@@ -138262,6 +155266,10 @@ Didn't get to go down the ladder so we missed out on american hammers, merkins, 
 ---
 
 ## Thankful for F3
+
+### Q
+
+COBOL
 
 ### Warmup
 
@@ -138296,6 +155304,10 @@ Guantanamo
 ---
 
 ## Who’s a Turkey?
+
+### Q
+
+Romeo
 
 ### Warmup
 
@@ -138347,6 +155359,10 @@ PAX Stretch (walk out to plank, WGS, walk back to standing)
 
 ## Gratitude in Motion
 
+### Q
+
+TheBeav
+
 ### Warmup
 
 Willie Mays Haze—IC
@@ -138381,6 +155397,10 @@ Scissor Split Flutter Kicks; AKA Monica Lewenski’s; AKA Sharon Stone’s –IC
 ---
 
 ## The Superfecta
+
+### Q
+
+Dowry
 
 ### Warmup
 
@@ -138421,6 +155441,10 @@ Rifle Carry one lap around the track
 
 ## Backblast
 
+### Q
+
+Inseam
+
 ### Warmup
 
 Willie Mayes Hayes
@@ -138442,6 +155466,10 @@ Flutter Kicks, Penguin Tappers, Rosalita's, LBC's and Superman Holds
 ---
 
 ## Backblast
+
+### Q
+
+COBOL
 
 ### Warmup
 
@@ -138476,6 +155504,10 @@ Guantanamo’s
 
 ## Hamburglar Helper
 
+### Q
+
+Catnip, Hamburglar
+
 ### Warmup
 
 - BatWings (20 x Forward Arm Circles, hold, 20 x Backwards Arm Circles, hold, 20 x seal claps, hold, 20 x overhead presses)
@@ -138504,6 +155536,10 @@ Guantanamo’s
 
 ## Moving Friday
 
+### Q
+
+Karat
+
 ### Warmup
 
 7-1 motivators
@@ -138525,6 +155561,10 @@ BBSU ICx21
 
 ## Have Ticket , will Travel
 
+### Q
+
+DOS
+
 ### Warmup
 
 `Prisoner Squats IC`
@@ -138545,6 +155585,10 @@ BBSU ICx21
 ---
 
 ## Backblast
+
+### Q
+
+Manicure
 
 ### Warmup
 
@@ -138578,6 +155622,10 @@ Every 6 minutes a timer went off and PAX bear crawled ~40 yards to other goal li
 
 ## Backblast
 
+### Q
+
+Milwaukees Best
+
 ### Warmup
 
 Mosey, 5:1 Manivators, followed by Goof Balls.
@@ -138602,6 +155650,10 @@ Round 6
 ---
 
 ## Backblast
+
+### Q
+
+Otter
 
 ### Warmup
 
@@ -138643,6 +155695,10 @@ Mountain climbers
 
 ## Backblast
 
+### Q
+
+PillowFight
+
 ### Thang
 
 - 5 x 3 min intervals: Heavy Squat: 75% MAX 45 seconds, 10R/10L 1 hand row
@@ -138652,6 +155708,10 @@ Mountain climbers
 ---
 
 ## Mogadishu Mile +EC
+
+### Q
+
+Tinker Bell
 
 ### Warmup
 
@@ -138683,6 +155743,10 @@ Recover, Recover:
 
 ## 1st Gateway Regional Games - HIghlander HIMS!
 
+### Q
+
+Gumbo (STL)
+
 ### Warmup
 
 - LB Arm Circles - IC
@@ -138712,6 +155776,10 @@ _RECOVER, RECOVER!_
 ---
 
 ## Classic Trigger
+
+### Q
+
+Skid Mark
 
 ### Warmup
 
@@ -138759,6 +155827,10 @@ Scuba PAX
 
 ## fun in the gloom
 
+### Q
+
+Inseam
+
 ### Warmup
 
 5 to 1 motivators, Learning to Phelps, grass grabbers, Old man squated Stretch
@@ -138780,6 +155852,10 @@ Flutter kicks, Scuba PAX
 ---
 
 ## We Accelerate!
+
+### Q
+
+Cousin Eddy
 
 ### Warmup
 
@@ -138874,6 +155950,10 @@ Mosey around the circle drive
 
 ## Successful Teams are No Accident
 
+### Q
+
+rogerroger
+
 ### Warmup
 
 - 5:1 Motivators
@@ -138904,6 +155984,10 @@ LBC's
 ---
 
 ## ...For the Reinvigoration of Male Community Leadership
+
+### Q
+
+Gumbo (STL)
 
 ### Warmup
 
@@ -138938,6 +156022,10 @@ Starting in a Plank Position_
 
 ## Dig Deep - Site Q swap
 
+### Q
+
+Road Rage
+
 ### Warmup
 
 - Grass grabbers
@@ -138969,6 +156057,10 @@ Round 3:
 
 ## Backblast
 
+### Q
+
+Short Circuit
+
 ### Warmup
 
 5 to 1 Motivators
@@ -138989,6 +156081,10 @@ Learning to Phelps
 ---
 
 ## Rocky
+
+### Q
+
+Seabiscuit
 
 ### Warmup
 
@@ -139020,6 +156116,10 @@ Planks and extended planks
 ---
 
 ## Round Trips
+
+### Q
+
+Walkman
 
 ### Warmup
 
@@ -139061,6 +156161,10 @@ Station 4:
 
 ## There and Back Again
 
+### Q
+
+Rub Down
+
 ### Warmup
 
 Goofballs
@@ -139098,6 +156202,10 @@ Most pax got through 8 rounds.
 
 ## Funday, Runday!
 
+### Q
+
+Roadkill
+
 ### Warmup
 
 5 to 1 motivators
@@ -139110,6 +156218,10 @@ Nice easy 4 miles run from Fenton City Park to Mini Ha Ha Park and back.
 ---
 
 ## Backblast
+
+### Q
+
+Drizzle
 
 ### Warmup
 
@@ -139128,6 +156240,10 @@ Freddy Mercuries
 ---
 
 ## Adversity
+
+### Q
+
+Inseam
 
 ### Warmup
 
@@ -139158,6 +156274,10 @@ Penguin Tappers and Superman Holds
 
 ## Locking Shields
 
+### Q
+
+Catnip, Frozone
+
 ### Warmup
 
 - Willie Mays Hayes
@@ -139179,6 +156299,10 @@ Penguin Tappers and Superman Holds
 ---
 
 ## The Worst of the Best
+
+### Q
+
+Duke
 
 ### Warmup
 
@@ -139218,6 +156342,10 @@ The middle exercises reps always stay the same. Once you’re back at the start,
 
 ## Saddle up partner!
 
+### Q
+
+Karat
+
 ### Warmup
 
 7:1 Motivators
@@ -139240,6 +156368,10 @@ Flutter kicks ICx30
 ---
 
 ## Frozen
+
+### Q
+
+Romeo
 
 ### Warmup
 
@@ -139272,6 +156404,10 @@ F - Flutter Kicks IC
 
 ## Space 2
 
+### Q
+
+DOS
+
 ### Warmup
 
 `5 to 1 Motivators`
@@ -139292,6 +156428,10 @@ F - Flutter Kicks IC
 ---
 
 ## Backblast
+
+### Q
+
+Olav
 
 ### Warmup
 
@@ -139351,6 +156491,10 @@ recover to Mary
 
 ## ...For the Reinvigoration of Male Community Leadership
 
+### Q
+
+Gumbo (STL)
+
 ### Warmup
 
 - Learning to Phelps - IC
@@ -139397,6 +156541,10 @@ Dying cockroach
 
 ## Weird Stuff at Black Diamond
 
+### Q
+
+Jigglypuff (STL Meramec)
+
 ### Warmup
 
 Hairy Rockettes, Ssh, knee pulls , high knees, quad pulls, butt kicks, Merkin, lap on the path (checking for slick spots)
@@ -139428,6 +156576,10 @@ prison sit-up (you had to be there)
 ---
 
 ## Manic Monday
+
+### Q
+
+Wilson (SpiritSTL)
 
 ### Warmup
 
@@ -139463,6 +156615,10 @@ COR &amp; NOR
 
 ## Winter is coming – preseason ski workout
 
+### Q
+
+Duke
+
 ### Warmup
 
 - SSH / 25
@@ -139493,6 +156649,10 @@ To the building
 ---
 
 ## “Smoked Meatloaf”
+
+### Q
+
+meatloaf
 
 ### Thang
 
@@ -139532,6 +156692,10 @@ PAX called out Scuba PAX’s
 ---
 
 ## Saddle up partner!
+
+### Q
+
+Dowry
 
 ### Warmup
 
@@ -139597,6 +156761,10 @@ V-Ups with partner x 30
 
 ## Saturdays are still the Best
 
+### Q
+
+Jigglypuff (STL Meramec)
+
 ### Warmup
 
 Hairy Rockettes, Ssh, knee pulls , high knees, quad pulls, butt kicks, run to flag pole and then to playground
@@ -139625,6 +156793,10 @@ none
 
 ## Land of the free because of the brave
 
+### Q
+
+Captain Underpants
+
 ### Warmup
 
 mosey to the parking deck and back
@@ -139637,6 +156809,10 @@ Chad x1000 WOD
 ---
 
 ## Veteran's Day
+
+### Q
+
+DOS
 
 ### Warmup
 
@@ -139652,6 +156828,10 @@ Chad x1000 WOD
 ---
 
 ## Veteran's Day Chad 1000x
+
+### Q
+
+Romeo
 
 ### Thang
 
@@ -139670,6 +156850,10 @@ Forward reach
 
 ## Movement to ADVANTAGE - Chad1000
 
+### Q
+
+Rock Ride
+
 ### Warmup
 
 Grass Grabbers IC
@@ -139684,6 +156868,10 @@ OYO AMRAP Step-ups on stadium benches. Goal of 1000.
 ---
 
 ## Backblast
+
+### Q
+
+Drop Out (SpiritSTL)
 
 ### Warmup
 
@@ -139742,6 +156930,10 @@ recover to Mary
 
 ## Bird Legs
 
+### Q
+
+Gobstopper
+
 ### Warmup
 
 5:1 Motivators
@@ -139768,6 +156960,10 @@ LBCs
 
 ## Backblast
 
+### Q
+
+Truckstop
+
 ### Warmup
 
 Abe Vigotas
@@ -139792,6 +156988,10 @@ Merkins!!
 
 ## On the Fly!
 
+### Q
+
+Flobee
+
 ### Warmup
 
 5 to 1 motivators
@@ -139809,6 +157009,10 @@ LBC IC - 15
 ---
 
 ## Backblast
+
+### Q
+
+Bliss
 
 ### Warmup
 
@@ -139837,6 +157041,10 @@ Pax sat in a circle shoulder to shoulder with backs facing to the center (it sme
 ---
 
 ## FINKLE IS EINHORN.  EINHORN IS FINKLE.  PART II.
+
+### Q
+
+Manicure
 
 ### Warmup
 
@@ -139873,6 +157081,10 @@ Not today
 ---
 
 ## Humpty Dance
+
+### Q
+
+Roadkill
 
 ### Warmup
 
@@ -139911,6 +157123,10 @@ Pigeon Stretch
 ---
 
 ## We got a First Timer Out Here!
+
+### Q
+
+Dowry
 
 ### Warmup
 
@@ -139968,6 +157184,10 @@ Plank Jacks IC
 
 ## Wrestling our Adversity
 
+### Q
+
+Freshman
+
 ### Warmup
 
 -side straddle hops
@@ -140006,6 +157226,10 @@ Bring Sally Up leg planks (it’s never over when you think it’s over!)
 
 ## Backblast
 
+### Q
+
+1chain
+
 ### Warmup
 
 SSH IC 25
@@ -140033,6 +157257,10 @@ American Hammers IC 25
 ---
 
 ## God of thunder
+
+### Q
+
+Fazoli
 
 ### Warmup
 
@@ -140119,6 +157347,10 @@ Rifle Carry
 
 ## 25!
 
+### Q
+
+Zero Turn
+
 ### Warmup
 
 Side Straddle Hops
@@ -140138,6 +157370,10 @@ Period 3-Partner Abernomes, swap after 1 minute
 ---
 
 ## Rust Buster
+
+### Q
+
+Clotshot
 
 ### Warmup
 
@@ -140174,6 +157410,10 @@ IC
 
 ## Never Miss a Monday
 
+### Q
+
+Jayhawk
+
 ### Warmup
 
 9/1 man maker motivators
@@ -140199,6 +157439,10 @@ No time for Mary.
 ---
 
 ## EMOM UP
+
+### Q
+
+Bobbit
 
 ### Warmup
 
@@ -140231,6 +157475,10 @@ RND 1- Up the ladder
 
 ## Blood makes the grass grow green!
 
+### Q
+
+Inseam
+
 ### Warmup
 
 Willie May's Hays
@@ -140250,6 +157498,10 @@ Recover for Mary.
 ---
 
 ## Back to Basics
+
+### Q
+
+Tie Down
 
 ### Warmup
 
@@ -140276,6 +157528,10 @@ Run to (Lights) and back
 ---
 
 ## Backblast
+
+### Q
+
+Five-Hole
 
 ### Warmup
 
@@ -140313,6 +157569,10 @@ Guantanamo Bay
 ---
 
 ## Real Men Dance
+
+### Q
+
+Brad Pitt
 
 ### Warmup
 
@@ -140373,6 +157633,10 @@ Recover/Recover
 
 ## It's Saturday! Just a good ole fashion beat down!
 
+### Q
+
+Pigeon
+
 ### Warmup
 
 Various ones.
@@ -140384,6 +157648,10 @@ We went around and each HIM picked an exercise from the box and led the exercise
 ---
 
 ## :spades:War:hearts:
+
+### Q
+
+Thumper
 
 ### Warmup
 
@@ -140434,6 +157702,10 @@ Mortal Kombat Planks
 
 ## Backblast
 
+### Q
+
+Harry C
+
 ### Thang
 
 Ran a mile
@@ -140450,6 +157722,10 @@ Guantanamo Bay Duck Duck PAX , PAX was a very angry PAX.
 ---
 
 ## Backblast
+
+### Q
+
+Keys
 
 ### Warmup
 
@@ -140479,6 +157755,10 @@ Ended at 6:15.
 
 ## It's Friday! Time for a Fab Workout!
 
+### Q
+
+Fabuloso
+
 ### Warmup
 
 SSH x25
@@ -140503,6 +157783,10 @@ Group 4 Started w/ Squats (Started w/ 40 and w/ coupon (if you don’t have a ve
 ---
 
 ## That there’s an RV
+
+### Q
+
+Cousin Eddy
 
 ### Warmup
 
@@ -140575,6 +157859,10 @@ RECOVER • RECOVER
 
 ## FINKLE IS EINHORN.  EINHORN IS FINKLE
 
+### Q
+
+Manicure
+
 ### Warmup
 
 - Willie Mays Hays IC
@@ -140607,6 +157895,10 @@ Not today
 ---
 
 ## :animated_dumpster_fire:Friday Dumpster Fire:animated_dumpster_fire:
+
+### Q
+
+Bushwood
 
 ### Warmup
 
@@ -140669,6 +157961,10 @@ Recover/Recover
 
 ## The Triple Crown
 
+### Q
+
+Dowry
+
 ### Warmup
 
 EMOM Burpees - 6 Minutes
@@ -140716,6 +158012,10 @@ Went around the circle and everyone did 2 merkins one at a time while the rest o
 
 ## Gobble Gobble
 
+### Q
+
+Mulligan
+
 ### Warmup
 
 7-1 Merkin Motivators
@@ -140736,6 +158036,10 @@ Flutter kicks
 ---
 
 ## Prepare For Orbit!
+
+### Q
+
+rogerroger
 
 ### Warmup
 
@@ -140782,6 +158086,10 @@ Boats Canoes
 
 ## Dinghy's Last Q in St. Louis!!!!
 
+### Q
+
+Dinghy
+
 ### Warmup
 
 Old Man Stretch
@@ -140815,6 +158123,10 @@ Nope.  Q called "Uncle"
 ---
 
 ## National Cashback Day- ChaChing Beatdown
+
+### Q
+
+Bobbit
 
 ### Warmup
 
@@ -140857,6 +158169,10 @@ Rnd 2 Down the ladder
 ---
 
 ## Backblast
+
+### Q
+
+BigTex
 
 ### Warmup
 
@@ -140918,6 +158234,10 @@ Weird combination of crab walk suicides that turned into bear crawl suicides. On
 
 ## Backblast
 
+### Q
+
+Polka
+
 ### Warmup
 
 -7 to 1 Motivators
@@ -140935,6 +158255,10 @@ Additionally, the PAX partnered up 2 to a group and each shared a 1 lap Sand Bag
 ---
 
 ## The Man in the Arena!
+
+### Q
+
+Snuggles
 
 ### Warmup
 
@@ -140970,6 +158294,10 @@ Flutter Kicks
 ---
 
 ## Backblast
+
+### Q
+
+1chain
 
 ### Warmup
 
@@ -141010,6 +158338,10 @@ Low Plank Hold for 1 minute
 
 ## Forge Fire Dora
 
+### Q
+
+Olav
+
 ### Warmup
 
 In Cadence
@@ -141044,6 +158376,10 @@ Completed 4 rounds. As planned, for the 5th round the Pax formed two larger team
 
 ## Fun with Numbers
 
+### Q
+
+Chief
+
 ### Warmup
 
 -7:1 motivators
@@ -141075,6 +158411,10 @@ Standing Stretches
 ---
 
 ## Burning Candy!
+
+### Q
+
+Wuhan
 
 ### Warmup
 
@@ -141124,6 +158464,10 @@ Penguin tappers
 
 ## Backblast
 
+### Q
+
+Drizzle
+
 ### Warmup
 
 SSH's
@@ -141162,6 +158506,10 @@ Invisible jump rope to time
 
 ## Backblast
 
+### Q
+
+Misty
+
 ### Warmup
 
 - Grass grabbers IC
@@ -141191,6 +158539,10 @@ Both teams ended with squats with 1 or 2 coupons on each end of the timber
 
 ## The longest Yard
 
+### Q
+
+Farva (Stl Meramec)
+
 ### Warmup
 
 66 SSH IC
@@ -141215,6 +158567,10 @@ Continuing the timer back to the flag, completed 2 rounds of Prison Burpee!!
 ---
 
 ## ROUND AND ROUND
+
+### Q
+
+Zero Turn
 
 ### Warmup
 
@@ -141245,6 +158601,10 @@ Mountain Climbers PAX
 
 ## Happy Halloween
 
+### Q
+
+Captain Underpants
+
 ### Warmup
 
 1 big lap
@@ -141271,6 +158631,10 @@ Hillbillies x 25
 ---
 
 ## HALLOWEEN!
+
+### Q
+
+Zero Turn
 
 ### Warmup
 
@@ -141311,6 +158675,10 @@ PAX broke a coupon and we had 1 late PAX so 10 burpees at the end
 
 ## They’ll Never Take Our F3-Dom!
 
+### Q
+
+Taebo
+
 ### Thang
 
 Broken into two parts…. Triggerman and graveyard AMRAP
@@ -141335,6 +158703,10 @@ Round 2 - burpees
 ---
 
 ## Boo at the Roux
+
+### Q
+
+Flo (JeffCo)
 
 ### Warmup
 
@@ -141365,6 +158737,10 @@ One man bands 10 IC
 
 ## Zombie Zoo!
 
+### Q
+
+DOS
+
 ### Warmup
 
 `8 to 1 Motivators IC`
@@ -141388,6 +158764,10 @@ One man bands 10 IC
 ---
 
 ## 5-Year Anniversary Appetizer
+
+### Q
+
+Dowry
 
 ### Warmup
 
@@ -141467,6 +158847,10 @@ Plank Jacks IC
 
 ## Freaky Friday
 
+### Q
+
+meatloaf
+
 ### Thang
 
 PAX successfully counted off into 4 Teams. Not an easy task at the Willy!
@@ -141505,6 +158889,10 @@ Rosalitas
 
 ## Progressive Overload
 
+### Q
+
+Otter
+
 ### Warmup
 
 Quad Stretch
@@ -141541,6 +158929,10 @@ PAX Came to work today! Set a blistering pace than most of us couldn't touch!
 
 ## SPARTAN 300
 
+### Q
+
+Polka
+
 ### Warmup
 
 W/Weighted Vest on...
@@ -141574,6 +158966,10 @@ The 12 rinsed and repeated the workout while waiting for the 6.
 ---
 
 ## Backblast
+
+### Q
+
+rogerroger, Chief
 
 ### Warmup
 
@@ -141617,6 +159013,10 @@ The 12 rinsed and repeated the workout while waiting for the 6.
 
 ## The Kraken Returns_!_ _A Bear-Muda Triangle Classic
 
+### Q
+
+Gumbo (STL)
+
 ### Warmup
 
 - Monkey Humpers - IC
@@ -141652,6 +159052,10 @@ PAX circled up with coupons for:_
 ---
 
 ## If ya ain't first yer last
+
+### Q
+
+DOS
 
 ### Warmup
 
@@ -141692,6 +159096,10 @@ PAX circled up with coupons for:_
 
 ## A.B.E.
 
+### Q
+
+Manicure
+
 ### Warmup
 
 - Willie Mays Hays IC
@@ -141718,6 +159126,10 @@ PAX circled up with coupons for:_
 ---
 
 ## Legacy
+
+### Q
+
+Captain Underpants
 
 ### Warmup
 
@@ -141746,6 +159158,10 @@ Mosey back to the flag
 
 ## Backblast
 
+### Q
+
+Bliss
+
 ### Thang
 
 PAX Completed 2 Rounds.
@@ -141753,6 +159169,10 @@ PAX Completed 2 Rounds.
 ---
 
 ## 30 for 30
+
+### Q
+
+FunkyBunch, COBOL
 
 ### Warmup
 
@@ -141797,6 +159217,10 @@ Last man on end Jail-Breaks down 25 yards and around other PAX/Air Squats &amp; 
 
 ## Dig Deep – 1 year anniversary &amp; 30 for 30
 
+### Q
+
+Road Rage, Milwaukees Best
+
 ### Warmup
 
 - Piano tappers
@@ -141823,6 +159247,10 @@ Round 3:
 
 ## “A slice of Meatloaf topped with Pickles”
 
+### Q
+
+meatloaf
+
 ### Warmup
 
 Monkey Humpers
@@ -141843,6 +159271,10 @@ No time for Mary, so next time there will be Pickle Pointers and Pickle Pounders
 ---
 
 ## That Slow Burn!!!
+
+### Q
+
+Bobbit
 
 ### Warmup
 
@@ -141873,6 +159305,10 @@ Flutter Kicks lead by PAX
 ---
 
 ## Good Ole' Classic Run at the Den!
+
+### Q
+
+Skid Mark
 
 ### Thang
 
@@ -141921,6 +159357,10 @@ Pillar bridges
 
 ## Station's
 
+### Q
+
+Inseam
+
 ### Warmup
 
 Willie Mays Hays
@@ -141946,6 +159386,10 @@ Gas Pumpers, Rosalitas, super man holds and then PAX and PAX led an exercise of 
 
 ## The 50/50 VQ
 
+### Q
+
+BUB
+
 ### Warmup
 
 - shoulder stretches
@@ -141964,6 +159408,10 @@ No Mary in interest of time
 ---
 
 ## 12 or 24
+
+### Q
+
+Ikea
 
 ### Warmup
 
@@ -141986,6 +159434,10 @@ EMOM full body workout - 5 rounds of:
 ---
 
 ## Backblast
+
+### Q
+
+Fazoli
 
 ### Warmup
 
@@ -142041,6 +159493,10 @@ Heals to heaven
 
 ## Capture the Flag: Ultimate Showdown!!
 
+### Q
+
+Roomba
+
 ### Warmup
 
 Leroy Jenkins to the Shovel Flag on the backside of EES.
@@ -142059,6 +159515,10 @@ Got a bit competitive at points but it was a blast.
 ---
 
 ## Dig Deep – 1 year anniversary
+
+### Q
+
+Road Rage
 
 ### Warmup
 
@@ -142093,6 +159553,10 @@ One fun jailbreak to top of the hill and back before Mary.
 
 ## In Rememberance
 
+### Q
+
+Gumbo (STL)
+
 ### Warmup
 
 - 5-1 Motivators - IC
@@ -142118,6 +159582,10 @@ WORLDS GREATEST STRETCH. - 4 CT, IC.
 ---
 
 ## Case of the Mondays
+
+### Q
+
+Dowry
 
 ### Warmup
 
@@ -142165,6 +159633,10 @@ LBC's
 
 ## Backblast
 
+### Q
+
+9 to 5
+
 ### Warmup
 
 - Started off with everyone’s song of choice
@@ -142201,6 +159673,10 @@ Human Centipede PG version
 
 ## Backblast
 
+### Q
+
+Drop Out (SpiritSTL)
+
 ### Warmup
 
 7-1 Motivators
@@ -142235,6 +159711,10 @@ Right side kicks
 ---
 
 ## Rub Down Goes Streaker-ing
+
+### Q
+
+Rub Down
 
 ### Warmup
 
@@ -142272,6 +159752,10 @@ Total squats done for round 2 = 50
 
 ## Friday Fright Fest
 
+### Q
+
+Chowda
+
 ### Warmup
 
 - Goofballs
@@ -142298,6 +159782,10 @@ RECOVER • RECOVER
 ---
 
 ## Friday Funday
+
+### Q
+
+Thumper
 
 ### Warmup
 
@@ -142348,6 +159836,10 @@ Pax Chosen and lead in cadence x 10
 
 ## Q4.2 Schooling
 
+### Q
+
+Fabuloso
+
 ### Thang
 
 Then when through the 3 Socratic Questions.
@@ -142357,6 +159849,10 @@ Can a natural born leader be effective without formal training?
 ---
 
 ## Hard-CORE Bench
+
+### Q
+
+McRib
 
 ### Warmup
 
@@ -142401,6 +159897,10 @@ Super Planks (high to low planks and holds on Q’s command)
 
 ## Backblast
 
+### Q
+
+Gumbo (STL)
+
 ### Warmup
 
 - Copper Head Squats - IC
@@ -142428,6 +159928,10 @@ _Recover, Recover!_
 ---
 
 ## Backblast
+
+### Q
+
+Otter
 
 ### Warmup
 
@@ -142460,6 +159964,10 @@ Plank Jacks
 ---
 
 ## Backblast
+
+### Q
+
+Short Circuit
 
 ### Warmup
 
@@ -142551,6 +160059,10 @@ Return to station 1 (same travel exercise)
 
 ## Time to get up, get up and get down
 
+### Q
+
+O'Doyle Rules
+
 ### Warmup
 
 5  to 1 Motivators
@@ -142580,6 +160092,10 @@ flutter kicks and Damn you scuba steve
 
 ## Push ups, sit ups, and curls redo
 
+### Q
+
+Scrappy
+
 ### Warmup
 
 arm circles, baby and large, front and back
@@ -142600,6 +160116,10 @@ For purposes of time, did 30 second each low hold / elbow plank on front and eac
 
 ## Wednesday Warm-up
 
+### Q
+
+Karat
+
 ### Warmup
 
 7-1 motivators
@@ -142619,6 +160139,10 @@ Mary-not today
 ---
 
 ## Hockey is BACK!
+
+### Q
+
+DOS
 
 ### Warmup
 
@@ -142654,6 +160178,10 @@ Mary-not today
 ---
 
 ## Wednesday Workout
+
+### Q
+
+Cheesehead
 
 ### Warmup
 
@@ -142704,6 +160232,10 @@ Did not show up.
 
 ## Wednesday - Why not?
 
+### Q
+
+COBOL
+
 ### Warmup
 
 - 9-1 motivators
@@ -142738,6 +160270,10 @@ Station 2:
 
 ## Roux Hosts The Forge!!!
 
+### Q
+
+Kojak
+
 ### Warmup
 
 In Cadence
@@ -142768,6 +160304,10 @@ Music Mosey
 
 ## Roux Hosts The Forge!!!
 
+### Q
+
+Kojak
+
 ### Warmup
 
 In Cadence
@@ -142797,6 +160337,10 @@ Lotta Tabata, punctuated by runs and accompanied by 12-lb medicine ball.
 ---
 
 ## 7 of Diamonds
+
+### Q
+
+Lancer
 
 ### Thang
 
@@ -142839,6 +160383,10 @@ o Rifle carry coupon
 
 ## Backblast
 
+### Q
+
+Romeo
+
 ### Warmup
 
 SSH IC
@@ -142874,6 +160422,10 @@ Squatober count: 241
 ---
 
 ## Frost Buster
+
+### Q
+
+Olav
 
 ### Warmup
 
@@ -142930,6 +160482,10 @@ Flutter Kicks
 
 ## Tuesday at the Den
 
+### Q
+
+Double Rainbow
+
 ### Warmup
 
 Mosey to the end of the parking lot and back
@@ -142960,6 +160516,10 @@ we only had enough time to do some Scuba PAX
 ---
 
 ## 4 Corners
+
+### Q
+
+Zero Turn
 
 ### Warmup
 
@@ -143003,6 +160563,10 @@ This Train is Bound for Glory-Plank/Merkin on “Train” so no prison burpees t
 
 ## Mind Games (-᷅_-᷄๑)
 
+### Q
+
+Roomba
+
 ### Warmup
 
 Played the best song ever to get us warmed up! Put on _Around the World_ by Daft Punk and did a SSH every time they say _Around the World_. 7 minutes long and comes out to over 140 SSH. Then did 1 lap around the track. Queued up _One More Time_ by Dafk Punk and every time they say those magical words we did a Jungle Boy. Static position was a low squat.
@@ -143021,6 +160585,10 @@ PAX endured the Thang for approximately 35+ minutes and did countless Taint Scra
 ---
 
 ## The 50/50 VQ
+
+### Q
+
+BUB
 
 ### Warmup
 
@@ -143044,6 +160612,10 @@ No Mary in interest of time
 ---
 
 ## Backblast
+
+### Q
+
+Keys
 
 ### Warmup
 
@@ -143105,6 +160677,10 @@ Ended at 6:15.
 
 ## Let’s Get to Work
 
+### Q
+
+Dunkin
+
 ### Warmup
 
 Fast feet with intermittent drop downs
@@ -143133,6 +160709,10 @@ Freddie Mercuries
 ---
 
 ## Backblast
+
+### Q
+
+Jailbait
 
 ### Warmup
 
@@ -143169,6 +160749,10 @@ In Cadence
 
 ## Leave Right: LDP: Schooling (Q4.2)
 
+### Q
+
+COBOL
+
 ### Thang
 
 Ended with this thought provoking quote from the reading “Before anything can be heart-knowledge, it must first be head-knowledge”
@@ -143176,6 +160760,10 @@ Ended with this thought provoking quote from the reading “Before anything can 
 ---
 
 ## Monday Madness
+
+### Q
+
+Rock Ride
 
 ### Warmup
 
@@ -143210,6 +160798,10 @@ We did plenty of core and abs so we just went longer with the Thang.
 ---
 
 ## Five Nights at Fiddy's: Gumbo's Return to the STREAKER!
+
+### Q
+
+Gumbo (STL)
 
 ### Warmup
 
@@ -143248,6 +160840,10 @@ _RECOVER, RECOVER!_
 
 ## The Death Letter
 
+### Q
+
+PillowFight
+
 ### Thang
 
 11s back and forth across the field: Diamond Push-up / Burpee featuring rotating Kettlebell carry and The Swing.
@@ -143264,6 +160860,10 @@ Till next time take care.
 ---
 
 ## NO Pain, NO Gain!
+
+### Q
+
+Lotus Notes
 
 ### Warmup
 
@@ -143283,6 +160883,10 @@ We all went about 50 yards and did a bear crawl to the movie scene "Facing the G
 ---
 
 ## Backblast
+
+### Q
+
+Short Circuit
 
 ### Warmup
 
@@ -143313,6 +160917,10 @@ The Thang consisted of 3 rounds that can be done with a coupon, sandbag, weighte
 ---
 
 ## Roll the Dice
+
+### Q
+
+CrankBait
 
 ### Warmup
 
@@ -143355,6 +160963,10 @@ Original plans called for a soccer option but Q decided it might be a little too
 
 ## Let's... Go... BLUES!
 
+### Q
+
+Chowda
+
 ### Warmup
 
 - Goofballs IC
@@ -143387,6 +160999,10 @@ RECOVER • RECOVER
 
 ## We Working Out
 
+### Q
+
+Thumper
+
 ### Warmup
 
 In Cadence
@@ -143416,6 +161032,10 @@ Music Mosey
 ---
 
 ## 3-2-1
+
+### Q
+
+Farva (Stl Meramec)
 
 ### Warmup
 
@@ -143465,6 +161085,10 @@ Calf Stretch YO-YO
 ---
 
 ## Dazed and Confused
+
+### Q
+
+Dowry
 
 ### Warmup
 
@@ -143518,6 +161142,10 @@ Circle of Fire Man Makers - Circled up with 1 coupon. High plank position. Passe
 
 ## Q-School - Gherkin Edition
 
+### Q
+
+Topeka
+
 ### Warmup
 
 - SSH x 15 IC
@@ -143560,6 +161188,10 @@ Circle of Fire Man Makers - Circled up with 1 coupon. High plank position. Passe
 
 ## Hurricane
 
+### Q
+
+DOS
+
 ### Warmup
 
 `6 to 1 Motivators`
@@ -143588,6 +161220,10 @@ Circle of Fire Man Makers - Circled up with 1 coupon. High plank position. Passe
 
 ## 24 Months of Acceleration!
 
+### Q
+
+Tinker Bell
+
 ### Warmup
 
 -Learning to Phelps IC
@@ -143615,6 +161251,10 @@ We had all worked at our own pace for the last 25-30 mins and the goal here was 
 ---
 
 ## Preparedness make Leaders of us All
+
+### Q
+
+Romeo, Gumbo (STL)
 
 ### Warmup
 
@@ -143649,6 +161289,10 @@ Roll Over Mary _
 ---
 
 ## Backblast
+
+### Q
+
+Zero Turn
 
 ### Warmup
 
@@ -143701,6 +161345,10 @@ Big Boi Sit Ups
 
 ## Backblast
 
+### Q
+
+TI83
+
 ### Warmup
 
 all in cadence:
@@ -143739,6 +161387,10 @@ LBC’s
 
 ## Return of the Thunder
 
+### Q
+
+Farva (Stl Meramec)
+
 ### Warmup
 
 Burpee every time the word Thunder appears in the sone.  SSH between Burpees!
@@ -143759,6 +161411,10 @@ American Hammers
 ---
 
 ## Squirrel Celebrates 50 with The FORGE!!!
+
+### Q
+
+Squirrel, Rub Down
 
 ### Warmup
 
@@ -143808,6 +161464,10 @@ Absolutions x 5
 
 ## Medal of Honor
 
+### Q
+
+rogerroger
+
 ### Warmup
 
 - 20 SSH IC
@@ -143838,6 +161498,10 @@ Rinse and Repeat
 
 ## Cardio infused arm day
 
+### Q
+
+Harry C
+
 ### Warmup
 
 Some motivators, stretch’s, willies and a Mosy
@@ -143866,6 +161530,10 @@ Rick flair- Whooooooo!!!!!
 ---
 
 ## Backblast
+
+### Q
+
+1chain
 
 ### Warmup
 
@@ -143912,6 +161580,10 @@ Gather around in a circle and take turns picking a workout from the hat. Everyon
 
 ## Backblast
 
+### Q
+
+Drop Out (SpiritSTL)
+
 ### Warmup
 
 7-1 Motivators
@@ -143955,6 +161627,10 @@ Penguin Tappers IC
 
 ## Stations
 
+### Q
+
+Inseam
+
 ### Thang
 
 PAX counted off in 5's, pair up and you also start at that number station as well. 5 Stations with 3 Rounds per station - Complete exercise then rotate to the next station. Fifth Station was the Triger man and was a mosey to corner of lot an back. Once back rotate stations for all three rounds.
@@ -143975,6 +161651,10 @@ A few burpees
 ---
 
 ## Bear Fest
+
+### Q
+
+Walkman
 
 ### Warmup
 
@@ -144010,6 +161690,10 @@ Pick up the 6 by finishing with them
 ---
 
 ## Let the Deck Decide
+
+### Q
+
+Clotshot
 
 ### Warmup
 
@@ -144047,6 +161731,10 @@ Played two hands. Got feedback on how to add some cardio elements and other fun 
 
 ## IronPax Week 6: Featuring Pushing AND Pulling!
 
+### Q
+
+Gumbo (STL)
+
 ### Warmup
 
 - goofballs- IC
@@ -144080,6 +161768,10 @@ American Hammers - IC - JUMP AROUND!!
 
 ## Backblast
 
+### Q
+
+Bobbit
+
 ### Warmup
 
 learning to phelps
@@ -144112,6 +161804,10 @@ PAX mosey back and did 20 lil baby crnches for mary
 
 ## Monday We’re Going Streaking
 
+### Q
+
+COBOL
+
 ### Warmup
 
 12-1 Motivators (sort of)
@@ -144141,6 +161837,10 @@ Guantanamo
 ---
 
 ## SQUATOBERFEST
+
+### Q
+
+Zero Turn
 
 ### Warmup
 
@@ -144198,6 +161898,10 @@ Work on syncing cadence w movement
 
 ## Minimurph
 
+### Q
+
+Jailbait
+
 ### Warmup
 
 - Baby arm circles forward
@@ -144222,6 +161926,10 @@ Run 1 lap lap to finish out
 
 ## 5K Monday
 
+### Q
+
+Farva (Stl Meramec)
+
 ### Thang
 
 5K Monday!!
@@ -144229,6 +161937,10 @@ Run 1 lap lap to finish out
 ---
 
 ## Backblast
+
+### Q
+
+Zero Turn
 
 ### Warmup
 
@@ -144281,6 +161993,10 @@ Big Boi Sit Ups
 
 ## Free to Lead
 
+### Q
+
+rogerroger
+
 ### Warmup
 
 - 5-1 motivators
@@ -144325,6 +162041,10 @@ Pax completed 1.5 circuits ending with Grass Grabbers
 
 ## Squatober EMOM
 
+### Q
+
+Peloton
+
 ### Thang
 
 EMOM of 40 squats. Rest is what remains of the minute for 45 straight minutes.
@@ -144334,6 +162054,10 @@ Total qty = 45 x 40 = 1,800
 ---
 
 ## Surprise IRON PAX WEEK 5
+
+### Q
+
+Farva (Stl Meramec)
 
 ### Warmup
 
@@ -144392,6 +162116,10 @@ Ran to end of field and back. Each PAX led in an exercise of their choice.
 
 ## Pre-MWWSGA (Make Wet Willy Saturday Great Again) Beatdown Fun Run For The Cure
 
+### Q
+
+Rub Down
+
 ### Thang
 
 PAX ran together a little over 2.6 miles in 23 1/2ish minutes near #ao_wet_willy to get warmed up for the Smoke Show that was about to ensue.
@@ -144401,6 +162129,10 @@ Always great getting to catch up a bit and PAX. So much respect for both of thes
 ---
 
 ## IPC - Week 5 - Return of the Kraken
+
+### Q
+
+Bobbit, Rock Ride
 
 ### Warmup
 
@@ -144433,6 +162165,10 @@ Slow bicycles 20
 ---
 
 ## Friyay Funday
+
+### Q
+
+Shower House
 
 ### Warmup
 
@@ -144472,6 +162208,10 @@ Little baby crunches
 
 ## Backblast
 
+### Q
+
+Drizzle
+
 ### Warmup
 
 7-1 motivators
@@ -144501,6 +162241,10 @@ Game of plank Simon
 ---
 
 ## IPAX Week 5!
+
+### Q
+
+Romeo
 
 ### Warmup
 
@@ -144584,6 +162328,10 @@ Additional group stretching
 
 ## In Black Diamond Fashion
 
+### Q
+
+Polka
+
 ### Warmup
 
 -Tribute to the World's Greatest Stretch
@@ -144626,6 +162374,10 @@ Ran back to Station 1. Rinse and repeat.
 
 ## Strap 310
 
+### Q
+
+PillowFight
+
 ### Warmup
 
 Jump Rope, Runner Stretch, Baby Arm Circles
@@ -144642,6 +162394,10 @@ Results: A victory. Amazing beatdown: everyone almost puked and most people's sm
 ---
 
 ## Backblast
+
+### Q
+
+Cheesehead
 
 ### Thang
 
@@ -144686,6 +162442,10 @@ glute stretch, ham stretch, quad stretch
 ---
 
 ## Surprise IRON PAX WEEK 5
+
+### Q
+
+Farva (Stl Meramec)
 
 ### Warmup
 
@@ -144742,6 +162502,10 @@ none
 
 ## Lean Into Hard Things
 
+### Q
+
+Deep Dish, Ronda
+
 ### Warmup
 
 - SSH
@@ -144777,6 +162541,10 @@ All four counts in cadence
 
 ## Backblast
 
+### Q
+
+BigTex
+
 ### Warmup
 
 -SSH x 26 IC
@@ -144802,6 +162570,10 @@ Jailbreak to the end of the parking garage and mosey back (2 times)
 ---
 
 ## IPC - Week 5 - Return of the Kraken
+
+### Q
+
+Olav
 
 ### Warmup
 
@@ -144834,6 +162606,10 @@ Walrus Tappers in Cadence-15
 ---
 
 ## 2 Year Anniversary Beatdown and Forge
+
+### Q
+
+Roomba, Jigglypuff (STL Meramec)
 
 ### Warmup
 
@@ -144886,6 +162662,10 @@ Walrus Tappers in Cadence-15
 
 ## Wednesday
 
+### Q
+
+MigTig
+
 ### Warmup
 
 Albatross Wings
@@ -144922,6 +162702,10 @@ PAX Bond’s
 
 ## Pushing AND Pulling!
 
+### Q
+
+Gumbo (STL)
+
 ### Warmup
 
 - goofballs- IC
@@ -144954,6 +162738,10 @@ American Hammers - IC
 
 ## Wednesday - Why Not?
 
+### Q
+
+COBOL
+
 ### Warmup
 
 11-1 Motivators
@@ -144983,6 +162771,10 @@ Guantanamo
 ---
 
 ## 007 Hump Day Beatdown
+
+### Q
+
+Duke
 
 ### Warmup
 
@@ -145059,6 +162851,10 @@ Guantanamo
 
 ## IPAX Week 5!
 
+### Q
+
+Wuhan
+
 ### Warmup
 
 SSH
@@ -145127,6 +162923,10 @@ Had each PAX member choose a Mary exercise that they lead in cadence. Went aroun
 ---
 
 ## No Luck Required
+
+### Q
+
+rogerroger
 
 ### Warmup
 
@@ -145230,6 +163030,10 @@ NOR. Yup
 
 ## week 5
 
+### Q
+
+Farva (Stl Meramec)
+
 ### Warmup
 
 SSH
@@ -145282,6 +163086,10 @@ none
 
 ## IPC - Week 5 - Return of the Kraken
 
+### Q
+
+Lotus Notes
+
 ### Warmup
 
 SSH, Grass Grabers, Willie Mays Hayes, Lunges
@@ -145308,6 +163116,10 @@ Round 5
 ---
 
 ## Festival of PAIN
+
+### Q
+
+DOS
 
 ### Warmup
 
@@ -145388,6 +163200,10 @@ Merry:
 
 ## Monday - Why Not?
 
+### Q
+
+COBOL
+
 ### Warmup
 
 9-1 Motivators
@@ -145428,6 +163244,10 @@ Butterfly Stretch
 
 ## Hammer Time
 
+### Q
+
+Camelot
+
 ### Warmup
 
 - Grass Grabbers
@@ -145457,6 +163277,10 @@ alternate as a group between 1 exercise in cadence and everyone taking 5 swings 
 
 ## Monday 5K!
 
+### Q
+
+Farva (Stl Meramec)
+
 ### Thang
 
 Ran a 5K around #ao_the_streaker
@@ -145464,6 +163288,10 @@ Ran a 5K around #ao_the_streaker
 ---
 
 ## On Your Mark
+
+### Q
+
+Dowry
 
 ### Warmup
 
@@ -145544,6 +163372,10 @@ Guantanamo Bay - 2 Rounds (2 rounds seemed like a good idea on paper.  In realit
 
 ## We are Steady, Strong, and Faithful
 
+### Q
+
+Gumbo (STL)
+
 ### Warmup
 
 GoofBalls - IC
@@ -145566,6 +163398,10 @@ After a 5th...long, awkward silence... (will Q call for another???)
 ---
 
 ## IronPax Week 4-
+
+### Q
+
+Freefall
 
 ### Warmup
 
@@ -145596,6 +163432,10 @@ Willie Mays Hays, SSH,High Knees,
 
 ## Backblast
 
+### Q
+
+9 to 5
+
 ### Warmup
 
 SSH
@@ -145618,6 +163458,10 @@ Mosey back
 ---
 
 ## Backblast
+
+### Q
+
+Olav
 
 ### Warmup
 
@@ -145649,6 +163493,10 @@ same format w/ running
 ---
 
 ## Glutes &amp; Ladders
+
+### Q
+
+Roomba
 
 ### Warmup
 
@@ -145682,6 +163530,10 @@ Lt. Dan's (Right Lunge, Left Lunge, Squat, repeat) plus a Squat Jump at every pa
 ---
 
 ## IRONPAX Week 4- Death by Skinny Runner
+
+### Q
+
+Peaches
 
 ### Warmup
 
@@ -145730,6 +163582,10 @@ No time for Mary this morning
 
 ## IronPAX Week 4
 
+### Q
+
+Gumbo (STL)
+
 ### Warmup
 
 SSH IC
@@ -145770,6 +163626,10 @@ Worlds Greatest Stretch! IC for a 4ct
 
 ## Sandbag Murph
 
+### Q
+
+Buckeye (F3STL Meramec)
+
 ### Warmup
 
 SSH, Grass Grabbers, Butt Kickers, Willie May's, SSH, Short Jog
@@ -145789,6 +163649,10 @@ Penguin Tappers, 60 sec Plank, LBCs, 60sec Plank
 ---
 
 ## IronPAX Week 4
+
+### Q
+
+Rock Ride
 
 ### Warmup
 
@@ -145835,6 +163699,10 @@ COR/
 
 ## 30/30 Wednesday
 
+### Q
+
+Karat
+
 ### Warmup
 
 - 7 to 1 Motivators
@@ -145854,6 +163722,10 @@ If PAX finished, start over at curls.
 ---
 
 ## It Was a Good Day
+
+### Q
+
+Dowry
 
 ### Warmup
 
@@ -145913,6 +163785,10 @@ Ended with 10 Burpees
 
 ## IPC - Week 4 - Death by Skinny Runner
 
+### Q
+
+Bobbit
+
 ### Warmup
 
 stretch on your own
@@ -145950,6 +163826,10 @@ stretch on your own
 
 ## Side-Bull
 
+### Q
+
+Side-Piece red bull
+
 ### Warmup
 
 PAX Merkins, Side-Straddle Hops, Imperial Walkers, Hairy Rockettes, and Runner-Stretch
@@ -145982,6 +163862,10 @@ V-Ups and Monster Crunches
 
 ## IronPax Week 4
 
+### Q
+
+Nerf
+
 ### Warmup
 
 6-1 Motivators, Stretches led by PAX
@@ -146009,6 +163893,10 @@ V-Ups and Monster Crunches
 ---
 
 ## Not your ESPN 30 for 30
+
+### Q
+
+Inseam
 
 ### Warmup
 
@@ -146039,6 +163927,10 @@ Rosalitas and LBC's
 
 ## Backblast
 
+### Q
+
+Milwaukees Best
+
 ### Warmup
 
 Mosey, 5 to 1 motivators, butt kickers, Mosey 4 to 2 motivators.
@@ -146051,6 +163943,10 @@ One PAX carried a 40# bag on their shoulders. All the other PAX did an exercise 
 ---
 
 ## Dog Park Circuits
+
+### Q
+
+Dogshow
 
 ### Warmup
 
@@ -146093,6 +163989,10 @@ The boys were buzzing by the end of it and nice steam clouds coming off of every
 ---
 
 ## IronPAX Week 4
+
+### Q
+
+Romeo
 
 ### Warmup
 
@@ -146138,6 +164038,10 @@ There was more than enough abs in the beatdown, so skipped for time
 
 ## Bullrush!
 
+### Q
+
+DOS (Spirit StL)
+
 ### Warmup
 
 `5 to 1 Motivators`
@@ -146159,6 +164063,10 @@ There was more than enough abs in the beatdown, so skipped for time
 ---
 
 ## IronPax Week 4
+
+### Q
+
+Jigglypuff (STL Meramec)
 
 ### Warmup
 
@@ -146194,6 +164102,10 @@ None
 
 ## Excuse Station
 
+### Q
+
+scooter
+
 ### Warmup
 
 wily maze haze, Old man stretch, goofballs, 6-1 motivators, arm circles
@@ -146224,6 +164136,10 @@ COR + NOR: check
 ---
 
 ## IronPax Week 4
+
+### Q
+
+Buckeye (F3STL Meramec)
 
 ### Warmup
 
@@ -146258,6 +164174,10 @@ None
 ---
 
 ## IPC - Week 4 - Death by Skinny Runner
+
+### Q
+
+Peloton
 
 ### Warmup
 
@@ -146297,6 +164217,10 @@ None
 ---
 
 ## Only the Strong
+
+### Q
+
+Fazoli
 
 ### Warmup
 
@@ -146341,6 +164265,10 @@ Yoga Stretching
 
 ## 988
 
+### Q
+
+Ladybug
+
 ### Warmup
 
 Old Man Stretch
@@ -146374,6 +164302,10 @@ None
 
 ## Monday Relay Races
 
+### Q
+
+Herky
+
 ### Warmup
 
 Mosey to almost Neverland pavillion
@@ -146404,6 +164336,10 @@ Wheelbarrow (teams start doing planks. First two do wheelbarrow to end. Person w
 ---
 
 ## See Ya at the Track
+
+### Q
+
+Thumper
 
 ### Warmup
 
@@ -146437,6 +164373,10 @@ Iron Pax Practice
 ---
 
 ## IPAX WEEK 4!!!
+
+### Q
+
+Wuhan
 
 ### Warmup
 
@@ -146491,6 +164431,10 @@ Total time to complete the workout
 
 ## The Beast Returns
 
+### Q
+
+Rock Ride
+
 ### Thang
 
 The BEAST
@@ -146521,6 +164465,10 @@ Freddy Mercurys 15IC
 
 ## Lions Chase Gazelles
 
+### Q
+
+Farva (Stl Meramec)
+
 ### Thang
 
 Pax Started at #ao_the_den  Q mapped a route that showed 5.4 miles…. It was about a mile short, we improvised adapted and overcame, ended over 6.
@@ -146528,6 +164476,10 @@ Pax Started at #ao_the_den  Q mapped a route that showed 5.4 miles…. It was ab
 ---
 
 ## winter is coming
+
+### Q
+
+Captain Underpants
 
 ### Warmup
 
@@ -146554,6 +164506,10 @@ Parking lot waterfall merkins
 ---
 
 ## Proud Mary
+
+### Q
+
+TI83
 
 ### Warmup
 
@@ -146588,6 +164544,10 @@ Penguin (Keys) Tappers
 ---
 
 ## Autumnal Equinox Equilibrium
+
+### Q
+
+Misty
 
 ### Warmup
 
@@ -146627,6 +164587,10 @@ LBC ic
 
 ## Ironpax Week 3 “Mrs. Burns”.
 
+### Q
+
+Milwaukees Best
+
 ### Thang
 
 Repeat 5x
@@ -146643,6 +164607,10 @@ After the 5th round, run another 400M, for rep #571.
 ---
 
 ## IPAX WK 3 Mrs Burns
+
+### Q
+
+Romeo
 
 ### Warmup
 
@@ -146670,6 +164638,10 @@ Log your results for the week:
 
 ## IPAX WK 3 Mrs Burns
 
+### Q
+
+Zero Turn
+
 ### Warmup
 
 Side Straddle Hops
@@ -146694,6 +164666,10 @@ After 5th rd-another 400m
 
 ## Heavy Metal
 
+### Q
+
+PillowFight
+
 ### Warmup
 
 SSH, WMH, Grass Grabbers, Burpees
@@ -146713,6 +164689,10 @@ stay safe out there.
 ---
 
 ## Barrel of Eggs!
+
+### Q
+
+DOS (Spirit StL)
 
 ### Warmup
 
@@ -146744,6 +164724,10 @@ stay safe out there.
 
 ## 3,9,22 Party
 
+### Q
+
+Wall-E Tightrope
+
 ### Warmup
 
 Willy Mays
@@ -146774,6 +164758,10 @@ Popcorn Mary: LBC, Flutter kick, Freddie mercury's, Jabba the Hut courtesy of th
 
 ## IronPax Week 3
 
+### Q
+
+Nerf
+
 ### Warmup
 
 6-1 Motivators
@@ -146801,6 +164789,10 @@ Total running = 1.5 miles
 
 ## Backblast
 
+### Q
+
+Roomba
+
 ### Thang
 
 - R - Run 1/3rd mile around #ao_the_rock's paved trail in the dark.
@@ -146820,6 +164812,10 @@ PAX assumed the Plank position in a circle and did increasing Merkins in a circl
 ---
 
 ## Backblast
+
+### Q
+
+Ikea
 
 ### Warmup
 
@@ -146842,6 +164838,10 @@ Merkins
 
 ## IronPax Week 3 Mrs. Burns
 
+### Q
+
+Olav
+
 ### Warmup
 
 - OYO stretching to ensure time to finish
@@ -146863,6 +164863,10 @@ After last round, run an additional 400 meters for a total of 571 reps.
 ---
 
 ## Hump Dayyyy
+
+### Q
+
+O'Doyle Rules
 
 ### Warmup
 
@@ -146888,6 +164892,10 @@ SCUBA PAX IC
 
 ## 2-Years of Explosive Growth and Manoversaries all around!!
 
+### Q
+
+Power Clean (JeffCo)
+
 ### Warmup
 
 Burpees, Copperhead Squats
@@ -146909,6 +164917,10 @@ Burpees, Copperhead Squats
 ---
 
 ## IronPax Week 3 - Preparations!
+
+### Q
+
+Gumbo (STL)
 
 ### Warmup
 
@@ -146942,6 +164954,10 @@ PAX Completed 3 Rounds with No Man Left Behind.
 ---
 
 ## Backblast
+
+### Q
+
+1chain
 
 ### Warmup
 
@@ -146980,6 +164996,10 @@ American Hammers 22 IC
 
 ## IRONPAX CHALLENGE – WEEK 3 “Mrs. Burns”
 
+### Q
+
+Wet Wipe
+
 ### Thang
 
 IRONPAX CHALLENGE – WEEK 3 “Mrs. Burns”
@@ -147000,6 +165020,10 @@ Total running = 1.5 miles
 ---
 
 ## Backblast
+
+### Q
+
+Drizzle
 
 ### Warmup
 
@@ -147046,6 +165070,10 @@ PAX choice: PAX boats and canoes on PAX count
 
 ## IRON PAX WEEK 3!!!
 
+### Q
+
+Skid Mark
+
 ### Warmup
 
 Willie Mays Hays
@@ -147078,6 +165106,10 @@ Your score is your time.
 ---
 
 ## TOTAL BODY TORTURE
+
+### Q
+
+Zero Turn
 
 ### Warmup
 
@@ -147128,6 +165160,10 @@ PAX swap continuous
 
 ## week3 Mrs. Burns
 
+### Q
+
+Farva (Stl Meramec)
+
 ### Warmup
 
 Coupon carry to the track
@@ -147151,6 +165187,10 @@ Coupon carry back to the flag
 ---
 
 ## Iron PAX week 3 Mrs. Burns!
+
+### Q
+
+Wuhan
 
 ### Warmup
 
@@ -147197,6 +165237,10 @@ NOT ALL SCHOOL TRACKS ARE 400M PER LAP SO PLEASE ADJUST THE ROUTE AS NECESSARY.
 
 ## IronPax Week 3 Mrs. Burns
 
+### Q
+
+Karat
+
 ### Warmup
 
 - 7 to 1 Motivators
@@ -147219,6 +165263,10 @@ repeat 5 times, on the fifth time, run 800m.
 ---
 
 ## Backblast
+
+### Q
+
+Bobbit
 
 ### Warmup
 
@@ -147243,6 +165291,10 @@ Standing curls 20                                   American Hammers 20
 ---
 
 ## Monday Funday
+
+### Q
+
+Cheesehead
 
 ### Warmup
 
@@ -147273,6 +165325,10 @@ Windshield wipers IC
 ---
 
 ## All in all we’re just another brick in the wall
+
+### Q
+
+Chowda
 
 ### Warmup
 
@@ -147311,6 +165367,10 @@ RECOVER • RECOVER
 
 ## Berserker
 
+### Q
+
+Camelot
+
 ### Thang
 
 5 station rotation done w/ buddy, 5th is timer
@@ -147330,6 +165390,10 @@ RECOVER • RECOVER
 
 ## 5k Run  + 10 x 10 Burpees
 
+### Q
+
+Polka
+
 ### Thang
 
 The PAX ran a self paced 5k around the Streaker.
@@ -147339,6 +165403,10 @@ The PAX learned the hard way to never attempt 100 burpees after running a 5k. We
 ---
 
 ## It takes two to tango
+
+### Q
+
+Romeo
 
 ### Warmup
 
@@ -147377,6 +165445,10 @@ Elbow Plank
 
 ## IRON PAX WEEK 2 (REDUX)
 
+### Q
+
+Freefall
+
 ### Warmup
 
 Willie Mays Hayes
@@ -147403,6 +165475,10 @@ Old Man stretch (on own)
 ---
 
 ## Twins
+
+### Q
+
+SexyDad (F3 STL) Roomba
 
 ### Warmup
 
@@ -147432,6 +165508,10 @@ The main format for the Thang is similar to a Dora 1-2-3 but with more exercises
 
 ## 1/2 Murph Challenge
 
+### Q
+
+Wilson (SpiritSTL)
+
 ### Warmup
 
 Willy Mays Hays
@@ -147456,6 +165536,10 @@ Boat/Canoes IC
 ---
 
 ## Ice Mountain
+
+### Q
+
+DOS (Spirit StL)
 
 ### Warmup
 
@@ -147483,6 +165567,10 @@ Boat/Canoes IC
 
 ## Ironpax Week 2
 
+### Q
+
+Roadkill
+
 ### Thang
 
 THE “BELLE” RINGER
@@ -147498,6 +165586,10 @@ Starting at the center cone (cone 1):
 ---
 
 ## Backblast
+
+### Q
+
+Duke
 
 ### Warmup
 
@@ -147531,6 +165623,10 @@ Phelps and Arm/Shoulder Stretches
 ---
 
 ## NATIONAL LUMBER
+
+### Q
+
+The Bulge
 
 ### Warmup
 
@@ -147595,6 +165691,10 @@ end.
 
 ## Backblast
 
+### Q
+
+Gumbo (STL)
+
 ### Warmup
 
 GoofBalls - IC
@@ -147625,6 +165725,10 @@ Old Man Stretch - OYO
 ---
 
 ## "Motivated" and Prepared!
+
+### Q
+
+Gumbo (STL)
 
 ### Warmup
 
@@ -147658,6 +165762,10 @@ Big Boi Mary!_
 
 ## IRON PAX WEEK 2!!!
 
+### Q
+
+Bobbit
+
 ### Warmup
 
 open stretch
@@ -147684,6 +165792,10 @@ NOT TODAY!
 ---
 
 ## Options
+
+### Q
+
+Cheesehead
 
 ### Warmup
 
@@ -147715,6 +165827,10 @@ LBC  and Wing Dings (alphabet with toes)
 
 ## Backblast
 
+### Q
+
+Walkman
+
 ### Warmup
 
 Learning to Phelps IC
@@ -147740,6 +165856,10 @@ Starting at the center cone (cone 1):
 ---
 
 ## Backblast
+
+### Q
+
+Drizzle
 
 ### Warmup
 
@@ -147780,6 +165900,10 @@ Flutter kicks (IC)
 
 ## Buyer beware
 
+### Q
+
+Glee
+
 ### Warmup
 
 Old man stretch
@@ -147807,6 +165931,10 @@ Jail break to flagpole grabbed coupons. Recover recover
 ---
 
 ## Around the World
+
+### Q
+
+Flobee
 
 ### Warmup
 
@@ -147837,6 +165965,10 @@ RECOVER • RECOVER
 ---
 
 ## Backblast
+
+### Q
+
+Thumper
 
 ### Warmup
 
@@ -147871,6 +166003,10 @@ In Cadence
 
 ## Lead Right: Consistency (Q3.10)
 
+### Q
+
+Thumper
+
 ### Thang
 
 [Ask your M if you would be characterized as a “simple man” as evidenced by your daily habits]
@@ -147878,6 +166014,10 @@ In Cadence
 ---
 
 ## Backblast
+
+### Q
+
+Wuhan
 
 ### Warmup
 
@@ -147920,6 +166060,10 @@ Penguin tappers
 
 ## Backblast
 
+### Q
+
+Five-Hole
+
 ### Warmup
 
 5:1 Motivators
@@ -147955,6 +166099,10 @@ PAX 530
 ---
 
 ## Circle up
+
+### Q
+
+Fazoli
 
 ### Warmup
 
@@ -147995,6 +166143,10 @@ Yoga Finish/Stretch
 
 ## IRON PAX WEEK 2!!!
 
+### Q
+
+Skid Mark
+
 ### Warmup
 
 Grass Grabber's
@@ -148021,6 +166173,10 @@ NOT TODAY!
 ---
 
 ## Backblast
+
+### Q
+
+Farva (Stl Meramec)
 
 ### Warmup
 
@@ -148050,6 +166206,10 @@ None
 ---
 
 ## Let's Roll! - a tribute to 9/11/2001
+
+### Q
+
+Norton
 
 ### Warmup
 
@@ -148086,6 +166246,10 @@ Jog, 9 side straddle hops, 11 learning to fly, 20 count toe touches, 1 burpee, 9
 ---
 
 ## Backblast
+
+### Q
+
+Fish Fry
 
 ### Warmup
 
@@ -148125,6 +166289,10 @@ Side Crunch right
 
 ## Teamwork makes the Dreamwork!
 
+### Q
+
+Farva (Stl Meramec)
+
 ### Warmup
 
 Goofballs
@@ -148144,6 +166312,10 @@ None
 ---
 
 ## Buyer beware
+
+### Q
+
+Glee
 
 ### Warmup
 
@@ -148173,6 +166345,10 @@ Jail break to flagpole grabbed coupons. Recover recover
 
 ## Backblast
 
+### Q
+
+Snuggles
+
 ### Thang
 
 The Beast-  5 rows of cones were set up approx. 15 - 20 yards apart.  The idea was that at each set of cones we did 12 reps of an excercise then a movement with the coupon to the next set of cones and wash, rinse, and repeat.  Once you get to the last set of cones, we pick up the 6 have a 10 count and turn around and go back the other way.
@@ -148188,6 +166364,10 @@ Penguin Tappers IC
 ---
 
 ## IronPAX week 2!
+
+### Q
+
+Wuhan
 
 ### Warmup
 
@@ -148217,6 +166397,10 @@ Scoring
 ---
 
 ## Monday Funday
+
+### Q
+
+Topeka
 
 ### Warmup
 
@@ -148253,6 +166437,10 @@ Up down plank waterfall
 
 ## Iron PAX Week 1
 
+### Q
+
+Double Rainbow
+
 ### Warmup
 
 Old Man Stretch
@@ -148279,6 +166467,10 @@ PAX - 617
 ---
 
 ## Backblast
+
+### Q
+
+Rub Down
 
 ### Warmup
 
@@ -148314,6 +166506,10 @@ Station 5: Get ups
 
 ## The Driver and some Heavy Metal sounding intervals.
 
+### Q
+
+PillowFight
+
 ### Thang
 
 10 Skull Crushers / 10 Coupon Press 10min EMOM + [Quick Jog &amp; Lunges]
@@ -148328,6 +166524,10 @@ Till next time take care.
 ---
 
 ## BOOM goes the dynamite!
+
+### Q
+
+DOS (Spirit StL)
 
 ### Warmup
 
@@ -148363,6 +166563,10 @@ Till next time take care.
 
 ## 5+5 = More
 
+### Q
+
+Fabuloso
+
 ### Warmup
 
 Mia Hammes x20
@@ -148389,6 +166593,10 @@ Q finished with having the PAX to Triple Bears x9 IC
 
 ## IronPax Week 1
 
+### Q
+
+BowFlex
+
 ### Warmup
 
 - Bat Wings
@@ -148407,6 +166615,10 @@ PAX stretch and cool down OYO for 2 minute.
 ---
 
 ## IronPAX Week 1 - Care Bear Squared
+
+### Q
+
+Romeo
 
 ### Warmup
 
@@ -148438,6 +166650,10 @@ If you modified, just list your Proctor as MODIFIED (it only matters for their s
 
 ## Pre-Run BlackDiamond
 
+### Q
+
+Farva (Stl Meramec)
+
 ### Thang
 
 Ran over 3 miles before the #ao-black-diamond-eureka PAX Beatdown
@@ -148445,6 +166661,10 @@ Ran over 3 miles before the #ao-black-diamond-eureka PAX Beatdown
 ---
 
 ## NINE NINE DAY
+
+### Q
+
+Manicure
 
 ### Warmup
 
@@ -148489,6 +166709,10 @@ Once complete with 9 rounds, take 1 lap around Berry Park track (no sandbag).  P
 
 ## IronPAX Week 1 - Care Bear Squared
 
+### Q
+
+Duke
+
 ### Warmup
 
 SSH, Learning to Phelps, Shoulder Stretching, Grass Grabbers
@@ -148514,6 +166738,10 @@ Scoring site:
 
 ## Ninja Warrior Training
 
+### Q
+
+Herky
+
 ### Warmup
 
 5:1 Motivators, Toe Touch, World's Greatest Stretch, PAX Phelps
@@ -148538,6 +166766,10 @@ While the other group did the following (switching when one group got back to th
 ---
 
 ## 27 Club
+
+### Q
+
+Duke
 
 ### Warmup
 
@@ -148601,6 +166833,10 @@ PAX Choice
 
 ## Three's Company
 
+### Q
+
+Inseam Buckeye (F3STL Meramec) Skid Mark
+
 ### Warmup
 
 SSH'S
@@ -148641,6 +166877,10 @@ Penguin Tapper's
 
 ## Backblast
 
+### Q
+
+Road Rage
+
 ### Warmup
 
 Flying squirrels OYO
@@ -148660,6 +166900,10 @@ A few good stretches OYO
 ---
 
 ## IronPAX WEEK 1-CareBear Square
+
+### Q
+
+Walkman
 
 ### Warmup
 
@@ -148695,6 +166939,10 @@ Little Baby Crunches ICx1 to commemorate week #1 of IronPAX being completed
 
 ## Backblast
 
+### Q
+
+BUB catnip
+
 ### Warmup
 
 7 to 1  modifiers, Learning to Phelps, Willie Mays Hayes, grass grabbers
@@ -148717,6 +166965,10 @@ crunches, crunches legs halfway up, crunches with legs at 90 degrees, slow Fredd
 
 ## IronPax Week 1
 
+### Q
+
+Karat
+
 ### Warmup
 
 - 7 to 1 Motivators
@@ -148730,6 +166982,10 @@ Four cones set up in a box formation with 25 yards between cones. Each corner of
 ---
 
 ## IronPax Week 1
+
+### Q
+
+Manscapes
 
 ### Warmup
 
@@ -148758,6 +167014,10 @@ Burpees
 
 ## Iron PAX week 1 CareBear Square
 
+### Q
+
+Olav
+
 ### Warmup
 
 SSH, Learning to Phelps, Bat wings, Grass Grabbers, short stretch on your own.
@@ -148779,6 +167039,10 @@ None
 ---
 
 ## Hump Daayyyyy
+
+### Q
+
+Farva (Stl Meramec)
 
 ### Warmup
 
@@ -148828,6 +167092,10 @@ REPEAT!!
 
 ## Downward Dog
 
+### Q
+
+Wuhan
+
 ### Warmup
 
 Run around the poop deck and return to flag
@@ -148869,6 +167137,10 @@ Flutter kick
 
 ## The Wall
 
+### Q
+
+Duke
+
 ### Warmup
 
 SSH, Learning to Fly, Learning to Land, Willie Mays Hayes, Piano Tappers
@@ -148894,6 +167166,10 @@ Round robin of PAX choice, great call PAX to lead us in a jog.
 ---
 
 ## The Truth is Life is Harder than It Looks
+
+### Q
+
+rogerroger
 
 ### Warmup
 
@@ -148927,6 +167203,10 @@ Plank or Al Gore for the six between rounds
 
 ## IronPAX Week 1 - Care Bear Squared
 
+### Q
+
+Duke
+
 ### Warmup
 
 Willie Mays Hayes, Learning to Phelps, Stretching
@@ -148949,6 +167229,10 @@ No Mary today but stretched things out
 ---
 
 ## The Beast
+
+### Q
+
+Rock Ride
 
 ### Warmup
 
@@ -148984,6 +167268,10 @@ Flutter Kicks - 15 IC
 ---
 
 ## IRON PAX WEEK 1!!!
+
+### Q
+
+Skid Mark
 
 ### Warmup
 
@@ -149025,6 +167313,10 @@ Scuba PAX
 
 ## THE FORGEEEE Power of the Purse
 
+### Q
+
+Nerf
+
 ### Warmup
 
 No handed get ups
@@ -149052,6 +167344,10 @@ Superman
 
 ## Iron PAX week 1 CareBear Square
 
+### Q
+
+Farva (Stl Meramec)
+
 ### Warmup
 
 Lap around the Berry park track headed to Football Field for the Thang
@@ -149073,6 +167369,10 @@ None
 ---
 
 ## IronPAX Week 1 - Care Bear Squared
+
+### Q
+
+Catnip
 
 ### Warmup
 
@@ -149098,6 +167398,10 @@ No Mary today.
 
 ## Backblast
 
+### Q
+
+Drizzle
+
 ### Warmup
 
 SSH
@@ -149121,6 +167425,10 @@ Child pose (Q count)
 ---
 
 ## "3 Minutes of Fun!"
+
+### Q
+
+Dinghy
 
 ### Warmup
 
@@ -149148,6 +167456,10 @@ Q called "Uncle"
 
 ## Labor Day 4 Corners
 
+### Q
+
+Peaches
+
 ### Warmup
 
 Grass Brabbers IC-x10
@@ -149173,6 +167485,10 @@ No time for Mary this morning
 ---
 
 ## Iron Pax Warmup
+
+### Q
+
+Camelot
 
 ### Warmup
 
@@ -149208,6 +167524,10 @@ ric flair
 
 ## Backblast
 
+### Q
+
+Peloton
+
 ### Warmup
 
 SSH, Don Quixoties LBACs; Moroccan Night Clubs; Downward Dog; Cobra Kai; Childs Pose; Mosey
@@ -149233,6 +167553,10 @@ PAX ran 2 laps around the school, pausing to perform:
 ---
 
 ## The Rabbit
+
+### Q
+
+Bobbit
 
 ### Warmup
 
@@ -149288,6 +167612,10 @@ Murder Rabbits
 
 ## Ozark Adventure Triatholon
 
+### Q
+
+Jigglypuff (STL Meramec)
+
 ### Thang
 
 Park Place Ozark Adventure Triatholon
@@ -149301,6 +167629,10 @@ Time = 1:54:40
 ---
 
 ## The Red Pill or the able Pill…
+
+### Q
+
+Roomba
 
 ### Warmup
 
@@ -149337,6 +167669,10 @@ Make sure to pick up the 6.
 ---
 
 ## F3 Anniversary
+
+### Q
+
+Wattage
 
 ### Warmup
 
@@ -149389,6 +167725,10 @@ Round 5
 
 ## Friday Fun
 
+### Q
+
+Jayhawk
+
 ### Warmup
 
 High knees IC x20
@@ -149413,6 +167753,10 @@ Made it through round 6
 ---
 
 ## MABA Revisit
+
+### Q
+
+BowFlex
 
 ### Warmup
 
@@ -149503,6 +167847,10 @@ Round 3: 10
 
 ## IRONPAX Week 0- FAT COE Sandwich
 
+### Q
+
+Peaches
+
 ### Warmup
 
 Abe Vigodas IC-x10
@@ -149539,6 +167887,10 @@ Hello Dollies IC-x10
 
 ## IRONPAX - Coe Sandwich
 
+### Q
+
+Carmen SanDiego
+
 ### Warmup
 
 SSH’s IC
@@ -149565,6 +167917,10 @@ Coe: 5 rounds
 ---
 
 ## Mario Cart
+
+### Q
+
+McRib
 
 ### Warmup
 
@@ -149622,6 +167978,10 @@ Nope
 
 ## IRONPAX Week 0- Fat Coe Sandwich
 
+### Q
+
+Rock Ride
+
 ### Warmup
 
 SSH’s 20 IC
@@ -149650,6 +168010,10 @@ Coe: 5 rounds
 ---
 
 ## Backblast
+
+### Q
+
+Drop Out (SpiritSTL)
 
 ### Warmup
 
@@ -149698,6 +168062,10 @@ Lbc/hip trusters
 
 ## Week 0 - Practice Baby
 
+### Q
+
+Bobbit Olav
+
 ### Warmup
 
 toe touches, willy mays hays, slinkies, lil baby arm circles
@@ -149727,6 +168095,10 @@ slow stretches and yoga poses
 ---
 
 ## WHAT MAKES A MAN
+
+### Q
+
+Manicure
 
 ### Warmup
 
@@ -149764,6 +168136,10 @@ Round 3
 
 ## Week 0 - Practice Makes Perfect
 
+### Q
+
+Walkman
+
 ### Warmup
 
 -Learning to Phelps IC
@@ -149799,6 +168175,10 @@ Picked up the 6 for the Mary
 ---
 
 ## VQ Coupon Dumpster Fire
+
+### Q
+
+Harry C
 
 ### Warmup
 
@@ -149843,6 +168223,10 @@ Rick Flair Woooooooooo!!!!!
 ---
 
 ## RR~ (Scratched that...revised to stations
+
+### Q
+
+TI83
 
 ### Warmup
 
@@ -149899,6 +168283,10 @@ LBC’s
 
 ## Let's Play A Game
 
+### Q
+
+Roomba
+
 ### Warmup
 
 65x SSH (Bad cadence Halt )
@@ -149927,6 +168315,10 @@ We played _Animal Mirror_! The objective for this game is for the PAX to mirror 
 
 ## FUN WITH COMPOUNDING
 
+### Q
+
+Snuggles
+
 ### Thang
 
 Partnered up and then lined up shoulder to shoulder.  Did 2 reps of an exercise then Deion Sanders to the first cone, mosey back, double the reps of same exercise, wash, rinse, and repeat
@@ -149943,6 +168335,10 @@ Partnered up and then lined up shoulder to shoulder.  Did 2 reps of an exercise 
 ---
 
 ## Something
+
+### Q
+
+Thumper Gumbo (STL)
 
 ### Warmup
 
@@ -149973,6 +168369,10 @@ Gumbo Lead
 ---
 
 ## Backblast
+
+### Q
+
+1chain
 
 ### Warmup
 
@@ -150024,6 +168424,10 @@ Rinse &amp; repeat until the Pax is finished
 
 ## 2022 IronPAX Challenge Week 0!! (The Fat Coe Sandwich)
 
+### Q
+
+Dowry
+
 ### Warmup
 
 5:1 Motivators
@@ -150050,6 +168454,10 @@ Coe: 5 rounds
 ---
 
 ## Prodical Son 2
+
+### Q
+
+DOS (Spirit StL)
 
 ### Warmup
 
@@ -150080,6 +168488,10 @@ Coe: 5 rounds
 
 ## Iron PAX Challange Week 0
 
+### Q
+
+Double Rainbow
+
 ### Warmup
 
 Willy Mays Hay's
@@ -150101,6 +168513,10 @@ Coe= 5 rounds or 20 thrusters, and 20 merkins
 ---
 
 ## Wildcard
+
+### Q
+
+McLuvin
 
 ### Warmup
 
@@ -150147,6 +168563,10 @@ We got lucky and had 2 prison burpees. One half way through then one at the end 
 
 ## IronPAX Week 0
 
+### Q
+
+Catnip
+
 ### Warmup
 
 Willie Mays Hayes, Abe Vigodas, Grass Grabbers, Learning to Fly
@@ -150182,6 +168602,10 @@ Freddie Mercuries, LBCs, Ric Flair
 
 ## Week 0 - Practice Baby
 
+### Q
+
+Jigglypuff (STL Meramec)
+
 ### Warmup
 
 Hairy Rockettes, old man stretch, quad pull, knee pull, ssh, lap around track
@@ -150212,6 +168636,10 @@ lap around track, various standing hip exercises, abrinome, heels to heaven
 
 ## Fat Coe Sandwich - IronPax Week 0
 
+### Q
+
+Gumbo (STL)
+
 ### Warmup
 
 - SSHs - IC
@@ -150227,6 +168655,10 @@ The Fat Coe Sandwhich._
 ---
 
 ## FUN WITH COMPOUNDING
+
+### Q
+
+Manicure
 
 ### Warmup
 
@@ -150259,6 +168691,10 @@ Pick up the six at the end of each round
 ---
 
 ## Keep it moving!
+
+### Q
+
+Dunkin
 
 ### Warmup
 
@@ -150297,6 +168733,10 @@ Station 2 Exercises (pavilion, no coupon)
 
 ## Monday, Rollsalita
 
+### Q
+
+Camelot
+
 ### Thang
 
 6 stations:
@@ -150325,6 +168765,10 @@ each way
 ---
 
 ## Iron Pax Week 0!
+
+### Q
+
+Wuhan
 
 ### Warmup
 
@@ -150359,6 +168803,10 @@ Freddy Mercuries
 
 ## Walk this Way
 
+### Q
+
+Thumper
+
 ### Warmup
 
 In Cadence
@@ -150385,6 +168833,10 @@ In Cadence
 ---
 
 ## DFQ - Move it!
+
+### Q
+
+Fulton (STL)
 
 ### Warmup
 
@@ -150417,6 +168869,10 @@ same format w/ running
 
 ## Old School “Beat Your Face” Beat Down
 
+### Q
+
+Peaches
+
 ### Warmup
 
 Abe Vigodas  IC-x10
@@ -150442,6 +168898,10 @@ Flutter Kicks IC-x10
 ---
 
 ## America's National Pastime
+
+### Q
+
+Shower House
 
 ### Warmup
 
@@ -150482,6 +168942,10 @@ Bear crawl to home
 ---
 
 ## Complaint Antidote
+
+### Q
+
+DOS (Spirit StL)
 
 ### Warmup
 
@@ -150528,6 +168992,10 @@ Bear crawl to home
 
 ## 2nd Annual Biking Beatdown for THC
 
+### Q
+
+Jigglypuff (STL Meramec)
+
 ### Warmup
 
 SSH (a very entertaining site), Hairy Rockettes, Neck Stretch, Merkins
@@ -150543,6 +169011,10 @@ none
 ---
 
 ## Remembrance. Memorial Workout for LCPL Jared Schmitz
+
+### Q
+
+Peach Fuzz
 
 ### Warmup
 
@@ -150570,6 +169042,10 @@ Guantanamo
 ---
 
 ## Backblast
+
+### Q
+
+Gumbo (STL)
 
 ### Warmup
 
@@ -150599,6 +169075,10 @@ For the Irish Revolution and Fight for Irish Freedom We did 3 Exercises:
 
 ## Out n Back
 
+### Q
+
+Tinker Bell
+
 ### Warmup
 
 Grass Grabbers IC
@@ -150614,6 +169094,10 @@ Run to Kircher Park and back from #ao-black-diamond-eureka. Some guys added in e
 ---
 
 ## The Next Generation of F3 (2.0 BD)
+
+### Q
+
+Rock Ride
 
 ### Warmup
 
@@ -150736,6 +169220,10 @@ Flutter Kicks 25 IC
 
 ## The Amazing Race
 
+### Q
+
+Duke
+
 ### Warmup
 
 - SSH
@@ -150817,6 +169305,10 @@ Question. The movie Field of Dreams was based off a novel, what was the name of 
 
 ## Rock around the Clock
 
+### Q
+
+Olav
+
 ### Warmup
 
 5-1 Motivators
@@ -150837,6 +169329,10 @@ Pax lined up in plank position and passed 25 golf balls one at a time from a box
 ---
 
 ## Build to 100!!
+
+### Q
+
+Dinghy
 
 ### Warmup
 
@@ -150874,6 +169370,10 @@ Q called "Uncle"
 
 ## PICKING UP THE Q
 
+### Q
+
+Bridesmaid
+
 ### Warmup
 
 Reps linked to different statistics from the Covering House Challenge.
@@ -150902,6 +169402,10 @@ One quick round was performed of 20 Curls, 10 Taint Scrappers, 20 Bent Over Rows
 
 ## Backblast
 
+### Q
+
+9 to 5
+
 ### Warmup
 
 Completed while giving instructions and providing demonstrations
@@ -150917,6 +169421,10 @@ ABCs workout
 ---
 
 ## FLAM!  (For the Lawful Acceleration of Men!)
+
+### Q
+
+Gumbo (STL)
 
 ### Warmup
 
@@ -150947,6 +169455,10 @@ Circled back Up for F. L. A. M.!!!  PAX choice to modify up with Coupons.
 ---
 
 ## Spidey the explorer
+
+### Q
+
+Fazoli
 
 ### Warmup
 
@@ -150979,6 +169491,10 @@ Sharon Stones 25
 ---
 
 ## 24
+
+### Q
+
+Freefall
 
 ### Warmup
 
@@ -151013,6 +169529,10 @@ Recover/Recover
 ---
 
 ## Backblast
+
+### Q
+
+Tie Down
 
 ### Warmup
 
@@ -151055,6 +169575,10 @@ Mosey to light
 
 ## Lift and move
 
+### Q
+
+Fulton (STL)
+
 ### Warmup
 
 10-1 Motivators
@@ -151078,6 +169602,10 @@ Exercises:
 
 ## Streaker 5K @ 4:30 (Day 4)
 
+### Q
+
+Roomba
+
 ### Thang
 
 Got some miles in for the CHC!
@@ -151085,6 +169613,10 @@ Got some miles in for the CHC!
 ---
 
 ## Never Say Die
+
+### Q
+
+Cheeks
 
 ### Warmup
 
@@ -151114,6 +169646,10 @@ LBCs
 ---
 
 ## Ring of Fire!!
+
+### Q
+
+Bobbit
 
 ### Warmup
 
@@ -151151,6 +169687,10 @@ Due to the call PAX and PAX chose 51 freddy mercury for mary together
 
 ## 35
 
+### Q
+
+Wall-E
+
 ### Warmup
 
 Grass Grabbers
@@ -151178,6 +169718,10 @@ Supermans &amp; Fludder Kicks
 ---
 
 ## Team Work
+
+### Q
+
+Inseam
 
 ### Warmup
 
@@ -151221,6 +169765,10 @@ Flutter Kicks IC, Superman Holds IC and a Guantanamo/Waterfall Merkin Fest...
 ---
 
 ## Chaos Reigns Vol. 01
+
+### Q
+
+PillowFight
 
 ### Warmup
 
@@ -151279,6 +169827,10 @@ NOR yup
 
 ## Backblast
 
+### Q
+
+Clotshot
+
 ### Warmup
 
 - Seal claps x 10 IC
@@ -151301,6 +169853,10 @@ NOR yup
 
 ## Monday morning mosey
 
+### Q
+
+Ikea
+
 ### Warmup
 
 SSH x 30
@@ -151320,6 +169876,10 @@ Mosey along the trail around our AO, bear crawl/crab walk over bridges. Made a f
 ---
 
 ## Backblast
+
+### Q
+
+Drizzle
 
 ### Warmup
 
@@ -151346,6 +169906,10 @@ Boats and canoes
 ---
 
 ## Strength and Mobility
+
+### Q
+
+Topeka
 
 ### Warmup
 
@@ -151394,6 +169958,10 @@ Flutterkicks
 
 ## Backblast
 
+### Q
+
+COBOL
+
 ### Warmup
 
 5-1 Motivators
@@ -151425,6 +169993,10 @@ Modified due to time got thru 9th grade and then jumped to 12th grade
 
 ## Monday WOD “dirty thirties”
 
+### Q
+
+Carmen SanDiego
+
 ### Thang
 
 - 2 laps around the track
@@ -151445,6 +170017,10 @@ Modified due to time got thru 9th grade and then jumped to 12th grade
 
 ## Streaker 5K @ 4:45 AM
 
+### Q
+
+Roomba
+
 ### Thang
 
 The PAX set out from #ao_the_streaker and looped down around the industrial park and back up to the middle school to get roughly 3.4-ish miles in. We saw PAX and PAX zipping around on their bikes while we used our legs the old-fashioned way to log miles like real men
@@ -151452,6 +170028,10 @@ The PAX set out from #ao_the_streaker and looped down around the industrial park
 ---
 
 ## 2Miles Plus Burpees!
+
+### Q
+
+Gumbo (STL)
 
 ### Warmup
 
@@ -151496,6 +170076,10 @@ PAX Rifle Carry around the Track. If you have to rest or drop your coupon do 3 B
 
 ## 2nd Annual Big Dumb Race
 
+### Q
+
+Topeka
+
 ### Thang
 
 Overall, a great success this morning logging 7 miles each to the Covering House Challenge!
@@ -151520,6 +170104,10 @@ Pool Party
 
 ## Get on A Roll
 
+### Q
+
+Jigglypuff (STL Meramec)
+
 ### Warmup
 
 SSH, neck stretch, high knees, hairy rockettes, forward hang, lap around track
@@ -151535,6 +170123,10 @@ Station 2- pair of dice.  Group rolls both dice and does he exercise and reps on
 ---
 
 ## A little Bocce Fun - Celebrating 25 years.
+
+### Q
+
+Road Rage, Roadkill
 
 ### Thang
 
@@ -151558,6 +170150,10 @@ Care of PAX and PAX
 
 ## Fun IV
 
+### Q
+
+Captain Underpants
+
 ### Warmup
 
 SSH x 50
@@ -151580,6 +170176,10 @@ PAX carried coupons to the amphitheater for TABATA:
 
 ## The Hills Are Alive
 
+### Q
+
+Cheesehead
+
 ### Warmup
 
 High Knees IC
@@ -151599,6 +170199,10 @@ American Hammers IC
 ---
 
 ## Back to school bash
+
+### Q
+
+Truman
 
 ### Warmup
 
@@ -151633,6 +170237,10 @@ Rifle Carries
 
 ## Backblast
 
+### Q
+
+Camelot
+
 ### Thang
 
 2 groups working through 4 stations 2x, 1 minute holds at each station:
@@ -151657,6 +170265,10 @@ Rifle Carries
 ---
 
 ## Midday Beatdown
+
+### Q
+
+Peloton
 
 ### Warmup
 
@@ -151692,6 +170304,10 @@ Rifle Carries
 ---
 
 ## DEVIL'S BLACKJACK
+
+### Q
+
+Manicure
 
 ### Warmup
 
@@ -151730,6 +170346,10 @@ Moseyed back to Berry Park track for:
 ---
 
 ## Starts Right Here
+
+### Q
+
+Rock Ride
 
 ### Warmup
 
@@ -151779,6 +170399,10 @@ In and Out Knee Tucks x 20 IC
 
 ## Backblast
 
+### Q
+
+Five-Hole
+
 ### Warmup
 
 7:1 Motivators IC
@@ -151806,6 +170430,10 @@ Guantanamo Bay
 
 ## Il Emomstero
 
+### Q
+
+PillowFight
+
 ### Thang
 
 Circuit w Dead Lift, KBS, Farmer Carry, Assisted Coupon Squat (AKA "_SAME TIMES!_!"), Incline Pushup, Burpee, Lunges
@@ -151822,6 +170450,10 @@ Ill next time, take care.
 ---
 
 ## The Ol' 53
+
+### Q
+
+Prenup
 
 ### Warmup
 
@@ -151857,6 +170489,10 @@ Bird Dogs IC
 
 ## Backblast
 
+### Q
+
+Peloton
+
 ### Warmup
 
 - 5:1 motivators
@@ -151887,6 +170523,10 @@ Repeat until time which equaled 3 rounds and a few min for Mary remained
 ---
 
 ## 100 Bottles of Beer on the Wall
+
+### Q
+
+Walkman
 
 ### Warmup
 
@@ -151925,6 +170565,10 @@ Had to skip 90 in order to finish
 
 ## 6 to 12
 
+### Q
+
+Beefeater
+
 ### Warmup
 
 5 to 1 motivators
@@ -151956,6 +170600,10 @@ One pax member chooses a movement while in a plank. The next member of the pax a
 
 ## Backblast
 
+### Q
+
+Wuhan
+
 ### Warmup
 
 Willy maze haze
@@ -151986,6 +170634,10 @@ Freddy mercuries
 ---
 
 ## Ready set Get Wet
+
+### Q
+
+Farva (Stl Meramec)
 
 ### Warmup
 
@@ -152041,6 +170693,10 @@ Not today!
 
 ## Build Your Strength to Improve Endurance
 
+### Q
+
+rogerroger
+
 ### Warmup
 
 - 5:1 Motivators
@@ -152086,6 +170742,10 @@ Part 2:
 
 ## The IMPRESSENCE Beatdown
 
+### Q
+
+GMO
+
 ### Warmup
 
 Started things off with right arm SSH (Q’s left shoulder still jacked), Asphalt Grabbers, Mountain Man Poopers and Little Baby Arm Circles.
@@ -152108,6 +170768,10 @@ PAX gmo'd the pax with Boat Canoes - Take the daily red pill (Q1.1) so you are s
 ---
 
 ## Backblast
+
+### Q
+
+Drop Out (SpiritSTL)
 
 ### Warmup
 
@@ -152151,6 +170815,10 @@ LBCs
 
 ## Wiff L Ball
 
+### Q
+
+Fresh Squeezed
+
 ### Warmup
 
 Side straddle hops IC
@@ -152188,6 +170856,10 @@ Bird Dogs IC
 
 ## Another day on the grindstone
 
+### Q
+
+Nerf
+
 ### Warmup
 
 No handed get ups
@@ -152211,6 +170883,10 @@ Shredder MARY
 ---
 
 ## Diamond
+
+### Q
+
+McRib
 
 ### Warmup
 
@@ -152251,6 +170927,10 @@ PAX celebrated with 14 rope climbers
 
 ## Backblast
 
+### Q
+
+Tom Tom
+
 ### Warmup
 
 - Willy Mays Hayes - 10 Ct - IC
@@ -152278,6 +170958,10 @@ American hammers IC -
 
 ## Back to School Blast
 
+### Q
+
+Karat
+
 ### Warmup
 
 7-1 motivators
@@ -152300,6 +170984,10 @@ Round 7: 18 reverse lunge (ew), 18 frog jumps, Deion Sanders 30 yard, mosey back
 ---
 
 ## It’s all fun and games… til everyone misses
+
+### Q
+
+Topeka
 
 ### Warmup
 
@@ -152335,6 +171023,10 @@ Freddie Mercury
 ---
 
 ## First Q since surgery
+
+### Q
+
+Buckeye (F3STL Meramec)
 
 ### Warmup
 
@@ -152376,6 +171068,10 @@ Freddie Mercury
 
 ## Motivational Monday
 
+### Q
+
+COBOL
+
 ### Warmup
 
 5-1 Motivators
@@ -152412,6 +171108,10 @@ Guantanamo
 ---
 
 ## Case of the mondays
+
+### Q
+
+Camelot
 
 ### Warmup
 
@@ -152461,6 +171161,10 @@ flutter kicks
 ---
 
 ## Backblast
+
+### Q
+
+Peloton
 
 ### Warmup
 
@@ -152519,6 +171223,10 @@ flutter kicks
 
 ## Pre BD Burpees 10 X 10...
 
+### Q
+
+Polka
+
 ### Thang
 
 The PAX completed 10 Burpees every minute for 10 minutes totalling 100 Burpees.
@@ -152526,6 +171234,10 @@ The PAX completed 10 Burpees every minute for 10 minutes totalling 100 Burpees.
 ---
 
 ## Searching Blackops
+
+### Q
+
+Jigglypuff (STL Meramec)
 
 ### Warmup
 
@@ -152553,6 +171265,10 @@ LBCs and Abrinome
 
 ## 213 The Golden Ratio
 
+### Q
+
+PillowFight
+
 ### Thang
 
 Dan John's EMOM Armor Building Complex: 2-1-3 Clean /  OHP / Squat
@@ -152568,6 +171284,10 @@ Nickels and Dimes EMOM: Rows and Push-ups
 ---
 
 ## Back in the Saddle
+
+### Q
+
+Gyro
 
 ### Thang
 
@@ -152591,6 +171311,10 @@ Leg Lifts
 ---
 
 ## 1
+
+### Q
+
+Polka
 
 ### Warmup
 
@@ -152616,6 +171340,10 @@ When the Batter Makes it to the following bases the Entire PAX did the following
 ---
 
 ## Make Saturdays at Wet Willy Great Again
+
+### Q
+
+Chowda
 
 ### Warmup
 
@@ -152660,6 +171388,10 @@ Guantanamo
 
 ## 2.0s at Legion Park
 
+### Q
+
+Jigglypuff (STL Meramec)
+
 ### Warmup
 
 goofballs, merkins, butt kickers, high knees, 4-1 motivators, hairy rockettes
@@ -152677,6 +171409,10 @@ none
 ---
 
 ## Backblast
+
+### Q
+
+Peloton
 
 ### Warmup
 
@@ -152747,6 +171483,10 @@ none
 
 ## Tabata with a Twist
 
+### Q
+
+Seabiscuit
+
 ### Warmup
 
 All IC - Grass Grabbers, Wille Mays Hays, Old Man Stretches, Arm Circles (small, big, both directions), 5-1 Motivators
@@ -152776,6 +171516,10 @@ Low Planks &amp; stretches from Plank position
 ---
 
 ## 1 Year Anniversary~Polka AcCelebration!!!
+
+### Q
+
+Polka Church Lady
 
 ### Warmup
 
@@ -152826,6 +171570,10 @@ PAX remained undefeated and Won the Tug Of War Championship!
 
 ## Friday! ABsolutely.
 
+### Q
+
+COBOL
+
 ### Warmup
 
 Burpees - we start at 5:30
@@ -152873,6 +171621,10 @@ Guantanamo
 
 ## Backblast
 
+### Q
+
+Walkman
+
 ### Warmup
 
 -Goofballs IC x8
@@ -152898,6 +171650,10 @@ Guantanamo
 ---
 
 ## Backblast
+
+### Q
+
+Romeo
 
 ### Warmup
 
@@ -152928,6 +171684,10 @@ Skipped due to time
 
 ## Vision Quest take 2
 
+### Q
+
+Bobbit
+
 ### Warmup
 
 Air jump rope
@@ -152953,6 +171713,10 @@ back to front side of bleachers
 ---
 
 ## Wide World of Sports Day
+
+### Q
+
+Misty
 
 ### Warmup
 
@@ -152985,6 +171749,10 @@ PAX and PAX did 5 crunches for being a tad tardy. Mosey back to flag
 
 ## Articulation is Key
 
+### Q
+
+Gumbo (STL)
+
 ### Warmup
 
 all In Cadence_
@@ -153004,6 +171772,10 @@ Great work all!
 ---
 
 ## Play &amp; Pay
+
+### Q
+
+Roomba
 
 ### Warmup
 
@@ -153043,6 +171815,10 @@ PAX was begging for more Barry Manilow so the Q decided to play "Can't Smile Wit
 
 ## Backblast
 
+### Q
+
+Gumbo (STL)
+
 ### Warmup
 
 - SSH s - 25ct - IC
@@ -153076,6 +171852,10 @@ Bonus Exercise: Big Boy Get Ups! On Q’s commands “get down” then “get up
 ---
 
 ## Backblast
+
+### Q
+
+BigTex
 
 ### Warmup
 
@@ -153118,6 +171898,10 @@ SSH x 20 IC
 ---
 
 ## Backblast
+
+### Q
+
+1chain
 
 ### Warmup
 
@@ -153170,6 +171954,10 @@ Leap Frog to cone &amp; back
 
 ## “Ella French” WOD
 
+### Q
+
+Pigeon
+
 ### Thang
 
 Ella French WOD
@@ -153185,6 +171973,10 @@ Cash-out 3:30 plank hold
 ---
 
 ## Carl Lewis Wednesday
+
+### Q
+
+COBOL
 
 ### Warmup
 
@@ -153229,6 +172021,10 @@ Guantanamo
 
 ## Sing it from the Hill Tops
 
+### Q
+
+TheBeav
+
 ### Warmup
 
 7:1 motivators
@@ -153258,6 +172054,10 @@ Pax picked a core card from F3 workout deck
 ---
 
 ## You May Need A Rub Down After This
+
+### Q
+
+Rub Down
 
 ### Warmup
 
@@ -153299,6 +172099,10 @@ Alternate Reverse Crunches and LBCs on Q’s count.
 
 ## All jokes aside
 
+### Q
+
+DOS (Spirit StL)
+
 ### Warmup
 
 Super star stretch
@@ -153322,6 +172126,10 @@ Cross-Leg stretch
 ---
 
 ## Tabatta???
+
+### Q
+
+Cheesehead
 
 ### Warmup
 
@@ -153353,6 +172161,10 @@ Absolution x10 IC
 
 ## In Honor of Our Heroes
 
+### Q
+
+Elmer
+
 ### Warmup
 
 SSH -IC
@@ -153379,6 +172191,10 @@ Same process as above while holding Crucifix position and again with one handed 
 ---
 
 ## The Hills Have Thighs...
+
+### Q
+
+Roomba
 
 ### Warmup
 
@@ -153416,6 +172232,10 @@ Round 3
 
 ## Norton's VQ
 
+### Q
+
+Norton
+
 ### Warmup
 
 - Side straddle hops
@@ -153442,6 +172262,10 @@ Round 3
 ---
 
 ## All About That Base (the sequel)
+
+### Q
+
+Wilson (SpiritSTL)
 
 ### Warmup
 
@@ -153482,6 +172306,10 @@ Ended with a Rick Flair
 
 ## Backblast
 
+### Q
+
+Drop Out (SpiritSTL)
+
 ### Warmup
 
 7-1 Motivators
@@ -153514,6 +172342,10 @@ recover to
 
 ## Dietz Hero WOD
 
+### Q
+
+Tinker Bell
+
 ### Thang
 
 Dietz Hero WOD
@@ -153528,6 +172360,10 @@ Join the 6 when you complete all 10 rounds
 ---
 
 ## REMEMBER THE TITANS
+
+### Q
+
+Zero Turn
 
 ### Warmup
 
@@ -153569,6 +172405,10 @@ Waterfall merkins then 10 together
 ---
 
 ## DRP (Daily Red Pill)
+
+### Q
+
+Thumper
 
 ### Warmup
 
@@ -153618,6 +172458,10 @@ exercises in Cadence
 
 ## Burpee 10 X 10 @ 4:45 AM
 
+### Q
+
+Roomba Polka
+
 ### Thang
 
 The PAX smashed through 10 Burpees every minute for 10 minutes which came out to 100 Burpees. And PAX learned that PAX can do 10 Burpees in an eye watering 26 seconds.
@@ -153625,6 +172469,10 @@ The PAX smashed through 10 Burpees every minute for 10 minutes which came out to
 ---
 
 ## Dora Goes to the Beach!
+
+### Q
+
+BooBoo Coach K (kinda)
 
 ### Warmup
 
@@ -153659,6 +172507,10 @@ Freddie Mercuries IC
 
 ## 11s on the Beach!
 
+### Q
+
+Manicure (kinda)
+
 ### Warmup
 
 Grass Grabbers
@@ -153680,6 +172532,10 @@ Victory lap down the beach and back
 ---
 
 ## 38 Challenge
+
+### Q
+
+Tinker Bell
 
 ### Warmup
 
@@ -153703,6 +172559,10 @@ A quick yoga flow
 ---
 
 ## We're bringing sexy back!
+
+### Q
+
+SexyDad (F3 STL)
 
 ### Warmup
 
@@ -153748,6 +172608,10 @@ Controlled pushup
 
 ## Blackops 38 Challenge
 
+### Q
+
+Manicure (kinda)
+
 ### Warmup
 
 Grass Grabbers
@@ -153772,6 +172636,10 @@ Not today!
 
 ## Blackops - Bicycle Race
 
+### Q
+
+1chain
+
 ### Warmup
 
 That's what the first 3 to 4 miles is for right?
@@ -153787,6 +172655,10 @@ Not today!
 ---
 
 ## Fun III
+
+### Q
+
+Captain Underpants
 
 ### Warmup
 
@@ -153820,6 +172692,10 @@ PAX reminded us on Monday that we have to be strong in the beginning and at the 
 ---
 
 ## Baby Steps
+
+### Q
+
+Olav
 
 ### Warmup
 
@@ -153873,6 +172749,10 @@ Travel was Mosey
 
 ## FriYay
 
+### Q
+
+Gobstopper
+
 ### Warmup
 
 5:1 Motivators
@@ -153907,6 +172787,10 @@ Jaba The Huts (mindful moment for 30 seconds; then think about what is “weighi
 ---
 
 ## You’ll Need a Rub Down After This
+
+### Q
+
+Rub Down
 
 ### Warmup
 
@@ -153968,6 +172852,10 @@ Q called cadence and switched back and forth between exercises multiple time.
 
 ## The Stakes is High [1HR Form Friday BD]
 
+### Q
+
+PillowFight
+
 ### Warmup
 
 (Batwing variation, WMH, GG, Worlds Greatest Stretch) w 1→7  Burpees EMOM
@@ -154000,6 +172888,10 @@ Have a great weekend guys.
 
 ## Backblast
 
+### Q
+
+Nerf
+
 ### Warmup
 
 Easy jog around the track
@@ -154025,6 +172917,10 @@ Easy jog around the track
 ---
 
 ## Walk this Way
+
+### Q
+
+Duke
 
 ### Warmup
 
@@ -154056,6 +172952,10 @@ Quick stretch around the flag
 
 ## Fun with Numbers
 
+### Q
+
+Cheeks
+
 ### Warmup
 
 7:1 motivators
@@ -154078,6 +172978,10 @@ LBCs
 ---
 
 ## Compound Interest
+
+### Q
+
+Wet Wipe
 
 ### Warmup
 
@@ -154107,6 +173011,10 @@ Penguin Tappers (IC) x25
 ---
 
 ## PIVOT Vision Quest to Man in the Mirror pt 2
+
+### Q
+
+Bobbit
 
 ### Warmup
 
@@ -154160,6 +173068,10 @@ burnout  lil baby crunches
 
 ## 3/4 CARAT DIAMOND
 
+### Q
+
+Manicure
+
 ### Warmup
 
 - Willie Mays Hays IC
@@ -154189,6 +173101,10 @@ Absolution x10 IC
 ---
 
 ## ALL ABOARD!
+
+### Q
+
+Zero Turn
 
 ### Warmup
 
@@ -154230,6 +173146,10 @@ waterfall merkins 1-5 which was fitting bc we finished in A huge downpour!
 
 ## West County suburbs in the 80s
 
+### Q
+
+DOS (Spirit StL)
+
 ### Warmup
 
 5to1 motivators
@@ -154259,6 +173179,10 @@ About 3 Jailbreaks 30 yards up the hill
 ---
 
 ## Team Work
+
+### Q
+
+Inseam
 
 ### Warmup
 
@@ -154300,6 +173224,10 @@ Chest Press Flutter Kicks, PAX led rope climbers, PAX led American hammers and P
 ---
 
 ## Wet Willy Burpee Fest
+
+### Q
+
+Walkman
 
 ### Warmup
 
@@ -154350,6 +173278,10 @@ Pick up the 6
 
 ## Backblast
 
+### Q
+
+1chain
+
 ### Warmup
 
 6:1 motivators
@@ -154394,6 +173326,10 @@ Leap Frog to cone &amp; back
 
 ## GBIIIGB
 
+### Q
+
+Zero Turn Rock Ride Karat Power Clean (JeffCo)
+
 ### Warmup
 
 10 to 1 Motivators
@@ -154425,6 +173361,10 @@ W/ partner-bear crawl to cones and LBCs. Swap. Repeat. 6 minutes
 
 ## Anniversary pt. 2 - Head-to-Head
 
+### Q
+
+Topeka Thumper
+
 ### Warmup
 
 SSH x 20
@@ -154445,6 +173385,10 @@ Split into two groups to compete against each other. 6 tasks, 5 min each, AMRAP.
 ---
 
 ## Backblast
+
+### Q
+
+Fazoli
 
 ### Warmup
 
@@ -154500,6 +173444,10 @@ Yoga stretch cool down
 
 ## Bodybuilding!
 
+### Q
+
+Tinker Bell
+
 ### Warmup
 
 Grass Grabbers IC
@@ -154554,6 +173502,10 @@ Up n Overs IC x 10
 
 ## Testing Tuesday and Stadium Runs
 
+### Q
+
+Jigglypuff (STL Meramec)
+
 ### Warmup
 
 SSH, Quad Stretch, butt kicks, high knees, knee pulls, hairy rockettes, neck stretch
@@ -154571,6 +173523,10 @@ Mosey back to flag
 ---
 
 ## Backblast
+
+### Q
+
+Scrappy
 
 ### Warmup
 
@@ -154598,6 +173554,10 @@ American hammers, front plank for a minute, side plank for 50 seconds each side
 
 ## Manic Monday
 
+### Q
+
+Karat
+
 ### Warmup
 
 7-1 motivators
@@ -154623,6 +173583,10 @@ PAX returned to bear crawl bridge and renamed it to lunge walk bridge to cross a
 ---
 
 ## Backblast
+
+### Q
+
+Drizzle
 
 ### Warmup
 
@@ -154673,6 +173637,10 @@ Recover to Mary
 
 ## Backblast
 
+### Q
+
+Farva (Stl Meramec)
+
 ### Warmup
 
 10 Burpees
@@ -154708,6 +173676,10 @@ None today
 
 ## Backblast
 
+### Q
+
+Thumper
+
 ### Warmup
 
 In Cadence
@@ -154738,6 +173710,10 @@ Circle Up Around Flag
 ---
 
 ## Anniversary Pt. 1 - 3/6/4
+
+### Q
+
+Topeka
 
 ### Warmup
 
@@ -154797,6 +173773,10 @@ Travel: Mosey down
 
 ## Pre BD 5K
 
+### Q
+
+Farva (Stl Meramec)
+
 ### Thang
 
 Ran a Pre-Beatdown 5K
@@ -154804,6 +173784,10 @@ Ran a Pre-Beatdown 5K
 ---
 
 ## Know Your Impact
+
+### Q
+
+rogerroger
 
 ### Warmup
 
@@ -154845,6 +173829,10 @@ Penguin Tappers
 ---
 
 ## Backblast
+
+### Q
+
+Peaches
 
 ### Warmup
 
@@ -154890,6 +173878,10 @@ Recover-Recover
 
 ## Pre BD Burpees 10 X 10...
 
+### Q
+
+Polka
+
 ### Thang
 
 The PAX completed 10 Burpees every minute for 10 minutes totalling 100 Burpees.
@@ -154897,6 +173889,10 @@ The PAX completed 10 Burpees every minute for 10 minutes totalling 100 Burpees.
 ---
 
 ## Baby Steps
+
+### Q
+
+Olav
 
 ### Warmup
 
@@ -154958,6 +173954,10 @@ Plank
 
 ## let's get swull
 
+### Q
+
+Gobstopper
+
 ### Warmup
 
 5-1motivators
@@ -154991,6 +173991,10 @@ Penguin Tappers
 ---
 
 ## MigTig vQ
+
+### Q
+
+MigTig
 
 ### Warmup
 
@@ -155027,6 +174031,10 @@ Alphabet
 
 ## Backblast
 
+### Q
+
+Thumper
+
 ### Warmup
 
 In Cadence
@@ -155062,6 +174070,10 @@ F3 Workout deck adding 12 count to each numbered card, 25 count for Face cards, 
 
 ## Berry 500
 
+### Q
+
+Farva (Stl Meramec)
+
 ### Warmup
 
 SSH
@@ -155087,6 +174099,10 @@ None
 
 ## Backblast
 
+### Q
+
+Gyro
+
 ### Warmup
 
 - 40 SSH IC
@@ -155106,6 +174122,10 @@ None
 ---
 
 ## active rest
+
+### Q
+
+Beefeater
 
 ### Warmup
 
@@ -155149,6 +174169,10 @@ Simon plank game with right arm, left arm, Merkin, and plank jack as options.
 
 ## Backblast
 
+### Q
+
+Ralphie
+
 ### Warmup
 
 SSH’s x 25
@@ -155186,6 +174210,10 @@ Bring Sally Up Squats, no coupon
 
 ## Backblast
 
+### Q
+
+rogerroger
+
 ### Warmup
 
 74 degrees, partly cloudy
@@ -155222,6 +174250,10 @@ Penguin Tappers
 
 ## Backblast
 
+### Q
+
+Farva (Stl Meramec)
+
 ### Warmup
 
 Imperial walkers
@@ -155250,6 +174282,10 @@ Imperial walkers
 
 ## Pre BD Burpees 10 X 10...
 
+### Q
+
+Polka
+
 ### Thang
 
 The PAX completed 10 Burpees every minute for 10 minutes totalling 100 Burpees.
@@ -155257,6 +174293,10 @@ The PAX completed 10 Burpees every minute for 10 minutes totalling 100 Burpees.
 ---
 
 ## Buddies
+
+### Q
+
+scooter
 
 ### Warmup
 
@@ -155288,6 +174328,10 @@ COR + NOR: check
 ---
 
 ## Backblast
+
+### Q
+
+Fiddy
 
 ### Warmup
 
@@ -155349,6 +174393,10 @@ The Six: Q and the PAX exercised with the Six at the cones and went back to the 
 
 ## Backblast
 
+### Q
+
+Farva (Stl Meramec)
+
 ### Warmup
 
 Old Man Stretch
@@ -155379,6 +174427,10 @@ Cobra stretch
 ---
 
 ## Pivot2. Don’t drop the frisbee!
+
+### Q
+
+COBOL
 
 ### Warmup
 
@@ -155418,6 +174470,10 @@ Super man
 
 ## Tour de France
 
+### Q
+
+Romeo
+
 ### Warmup
 
 - Abe Vigodas IC
@@ -155454,6 +174510,10 @@ _Finish how we start -_ 109s plank
 
 ## The Forge: One-Two Punch
 
+### Q
+
+One Five-Hole - Two Rock Ride Punch
+
 ### Warmup
 
 7:1 Motivators IC
@@ -155488,6 +174548,10 @@ Flutter kicks
 ---
 
 ## Space
+
+### Q
+
+DOS (Spirit StL)
 
 ### Warmup
 
@@ -155529,6 +174593,10 @@ Travel between stations was with coupons (except for the scout when returning fo
 
 ## insert something clever
 
+### Q
+
+Gobstopper
+
 ### Warmup
 
 5-1motivators
@@ -155551,6 +174619,10 @@ Jabba The Huts (20 seconds to disconnect and just listen to the rain)
 
 ## Business Meetings
 
+### Q
+
+Topeka
+
 ### Thang
 
 Ran 4 laps around the lake outside the hotel and stopped at each bench every lap for x15 exercises.
@@ -155565,6 +174637,10 @@ Bench 6 - step ups (both legs)
 ---
 
 ## Backblast
+
+### Q
+
+Farva (Stl Meramec)
 
 ### Warmup
 
@@ -155592,6 +174668,10 @@ Not Today
 ---
 
 ## Free Spokes
+
+### Q
+
+Peloton
 
 ### Warmup
 
@@ -155624,6 +174704,10 @@ Not Today
 
 ## Backblast
 
+### Q
+
+9 to 5
+
 ### Warmup
 
 - SSHs
@@ -155644,6 +174728,10 @@ Not Today
 
 ## Backblast
 
+### Q
+
+Borat
+
 ### Thang
 
 -25 Merkins
@@ -155659,6 +174747,10 @@ Man Maker Abset
 ---
 
 ## Out and Back
+
+### Q
+
+Fabuloso
 
 ### Warmup
 
@@ -155713,6 +174805,10 @@ Triple Bears x21 IC ...lead by PAX
 
 ## TOUR DE FARVA!
 
+### Q
+
+Farva (Stl Meramec)
+
 ### Warmup
 
 SSH 25 IC
@@ -155747,6 +174843,10 @@ Rope Climbers
 
 ## Stop thinking, let things
 
+### Q
+
+Duke
+
 ### Warmup
 
 SSH - 20
@@ -155780,6 +174880,10 @@ After the shot was made, both teams jailbreak to the ball and performced the exe
 ---
 
 ## Can-am Tribute WOD
+
+### Q
+
+Rub Down
 
 ### Warmup
 
@@ -155818,6 +174922,10 @@ Absolutions x 6
 
 ## Pre BD Burpees 10 X 10...
 
+### Q
+
+Polka
+
 ### Thang
 
 The PAX completed 10 Burpees every minute for 10 minutes totalling 100 Burpees.
@@ -155825,6 +174933,10 @@ The PAX completed 10 Burpees every minute for 10 minutes totalling 100 Burpees.
 ---
 
 ## CAN-AM Grand Prix
+
+### Q
+
+Karat
 
 ### Warmup
 
@@ -155852,6 +174964,10 @@ Out of time
 ---
 
 ## PIVOT (advertised ultimate frisbee and changed.   Feel horrible about it)
+
+### Q
+
+COBOL
 
 ### Warmup
 
@@ -155914,6 +175030,10 @@ Guantanamo
 
 ## Backblast
 
+### Q
+
+Romeo
+
 ### Warmup
 
 Grass Grabbers IC
@@ -155950,6 +175070,10 @@ World’s Greatest Stretch IC
 
 ## Who's Motivated in honor of CAN-AM (and Ryan Hummert)
 
+### Q
+
+Gumbo (STL)
+
 ### Warmup
 
 10-1 motivators (Q gave a pause at 5 for a 10ct then resumed)
@@ -155985,6 +175109,10 @@ Peer Led
 
 ## Double Black Diamond???
 
+### Q
+
+Polka
+
 ### Warmup
 
 Grass Grabbers, Side Straddle Hops, Willie Mays Hays, Side Straddle Hops, Bat Wings.
@@ -156009,6 +175137,10 @@ Most of the PAX completed 6 rounds, some completed 7 or 8 rounds.  Below are the
 ---
 
 ## Backblast
+
+### Q
+
+Dowry
 
 ### Warmup
 
@@ -156059,6 +175191,10 @@ PAX PAX PAX PAX PAX were victorious! Losers had to do butts up.
 
 ## Backblast
 
+### Q
+
+Drop Out (SpiritSTL)
+
 ### Warmup
 
 5-1 Motivators
@@ -156103,6 +175239,10 @@ Flutter Kicks 25 IC
 
 ## THE CAN-AM Sequel
 
+### Q
+
+Pigeon
+
 ### Warmup
 
 1/3 Mile Mosey
@@ -156126,6 +175266,10 @@ Old man stretch.
 ---
 
 ## THURSDAY’S ARE FOR DODGEBALL!
+
+### Q
+
+Skid Mark
 
 ### Warmup
 
@@ -156171,6 +175315,10 @@ Scuba PAX’s
 
 ## Rock Paper Scissors: Man vs Machine.
 
+### Q
+
+PillowFight
+
 ### Warmup
 
 SSH, GG, WMH
@@ -156186,6 +175334,10 @@ Rock | Paper | Doesn't matter you lose | Scissors
 ---
 
 ## Backblast
+
+### Q
+
+BigTex with 9 to 5 CoQ
 
 ### Warmup
 
@@ -156208,6 +175360,10 @@ Rock | Paper | Doesn't matter you lose | Scissors
 ---
 
 ## Backblast
+
+### Q
+
+Drop Out (SpiritSTL)
 
 ### Warmup
 
@@ -156240,6 +175396,10 @@ Various and Sundry stretches
 
 ## Hills for Days
 
+### Q
+
+Inseam
+
 ### Warmup
 
 Willie May's Hays, Bat Wings, SSH and Old Man Stretch
@@ -156259,6 +175419,10 @@ Back to circle for Mary.
 ---
 
 ## Backblast
+
+### Q
+
+1chain
 
 ### Warmup
 
@@ -156301,6 +175465,10 @@ Low Plank Hold for 45 seconds
 ---
 
 ## Chariots of Fire
+
+### Q
+
+Thumper
 
 ### Warmup
 
@@ -156351,6 +175519,10 @@ In Cadence
 
 ## Deus Vult
 
+### Q
+
+Camelot
+
 ### Warmup
 
 SS hops, Bat wings, Grass Grabbers, Goofballs
@@ -156374,6 +175546,10 @@ Flutter Kicks, Freddie Mercuries, Box Cutters, Sit ups, Mountain Climbers
 ---
 
 ## Chores
+
+### Q
+
+DOS (Spirit StL)
 
 ### Warmup
 
@@ -156421,6 +175597,10 @@ This requires holding the coupon still out in front of your chest with 2 hands a
 
 ## THE CAN-AM VQ
 
+### Q
+
+Can-Am
+
 ### Warmup
 
 10-1 motivators
@@ -156458,6 +175638,10 @@ Big Boy sit ups
 
 ## Miles to Go
 
+### Q
+
+Wattage Baby Ruth
+
 ### Warmup
 
 Tappy Taps, Motivators 5:1, Hillbillies
@@ -156474,6 +175658,10 @@ American Hammers, Leg Lifts
 
 ## We've done it once before
 
+### Q
+
+Farva (Stl Meramec)
+
 ### Thang
 
 Ran from #ao_the_den to #ao-black-diamond-eureka and back right around a 5k. Rolled into PAX PAX VQ!
@@ -156481,6 +175669,10 @@ Ran from #ao_the_den to #ao-black-diamond-eureka and back right around a 5k. Rol
 ---
 
 ## Can-Am Tribute
+
+### Q
+
+PillowFight
 
 ### Warmup
 
@@ -156503,6 +175695,10 @@ See you guys Thursday for Rock Paper Scissors.
 ---
 
 ## Backblast
+
+### Q
+
+Jayhawk
 
 ### Warmup
 
@@ -156539,6 +175735,10 @@ No time for mary.
 
 ## Backblast
 
+### Q
+
+Fish Fry
+
 ### Warmup
 
 Grass grabbers
@@ -156573,6 +175773,10 @@ Flutter kicks
 
 ## The Can-Am Grand Prix (F3 Hero WOD)
 
+### Q
+
+Roomba & O'Doyle Rules & Snipped
+
 ### Warmup
 
 56 SSH, 38 Willie Mays Hayes, 18 Merkins OYO.
@@ -156600,6 +175804,10 @@ After completing his name, the PAX then went to the track and did 1 lap and pick
 
 ## Travelin' Heavy
 
+### Q
+
+BigPharma
+
 ### Warmup
 
 Stupid Motivators 23:19
@@ -156625,6 +175833,10 @@ Circle of Pain Merkins - started with 2 each, then 4, 6, and ended on 8 each.  Q
 ---
 
 ## The legs feed the wolf, gentlemen
+
+### Q
+
+Topeka
 
 ### Warmup
 
@@ -156661,6 +175873,10 @@ Hello Dolly’s
 
 ## Backblast
 
+### Q
+
+Band Camp
+
 ### Thang
 
 3 laps at pace around the park
@@ -156673,6 +175889,10 @@ Hello Dolly’s
 ---
 
 ## Blackjack for a Six Pack
+
+### Q
+
+Catnip
 
 ### Warmup
 
@@ -156705,6 +175925,10 @@ Q acted as the dealer and competed against PAX in multiple hands of blackjack. P
 
 ## Lightening Rod Challenge
 
+### Q
+
+Topeka
+
 ### Warmup
 
 - SSH x 10
@@ -156727,6 +175951,10 @@ Tabata Stations (45s on, 10s rest)
 
 ## Speed Ball
 
+### Q
+
+Jigglypuff (STL Meramec)
+
 ### Warmup
 
 SSH, Hairy Rockettes, Knee pulls, High Knees, Quad pulls, butt kickers, old man stretch, neck rolls, lap around track
@@ -156742,6 +175970,10 @@ Think score was 5 to 7.  Winning team is represented in the first row of the boy
 ---
 
 ## RollOver Training
+
+### Q
+
+Peaches
 
 ### Warmup
 
@@ -156783,6 +176015,10 @@ Recover-Recover
 ---
 
 ## Q School
+
+### Q
+
+Peloton
 
 ### Warmup
 
@@ -156835,6 +176071,10 @@ Recover-Recover
 
 ## How you doin?
 
+### Q
+
+Stifler Gobstopper
+
 ### Warmup
 
 Grass grabbers
@@ -156863,6 +176103,10 @@ High Knees
 ---
 
 ## 24 HR Beatdown Revisited
+
+### Q
+
+Rub Down
 
 ### Warmup
 
@@ -156898,6 +176142,10 @@ Superman
 ---
 
 ## 07+15=22
+
+### Q
+
+Romeo
 
 ### Warmup
 
@@ -156936,6 +176184,10 @@ Grass Grabbers IC
 
 ## NO WEAK LINKS
 
+### Q
+
+Walkman
+
 ### Warmup
 
 Learning to Phelps IC
@@ -156972,6 +176224,10 @@ No rest between the three exercises:
 
 ## Enlightenment Through Hardship
 
+### Q
+
+TheBeav
+
 ### Warmup
 
 5:1 motivators
@@ -156998,6 +176254,10 @@ Station 6 supermans
 ---
 
 ## Backblast
+
+### Q
+
+Olav
 
 ### Warmup
 
@@ -157042,6 +176302,10 @@ LBC
 ---
 
 ## BuildUp to TearDown
+
+### Q
+
+Walkman
 
 ### Warmup
 
@@ -157091,6 +176355,10 @@ Plank Circuit, ended with a hold IC
 
 ## Pre BD Burpees 10 X 10...
 
+### Q
+
+Polka
+
 ### Thang
 
 The PAX completed 10 Burpees every minute for 10 minutes totalling 100 Burpees. The PAX noticed a much slower go at it than yesterday....
@@ -157098,6 +176366,10 @@ The PAX completed 10 Burpees every minute for 10 minutes totalling 100 Burpees. 
 ---
 
 ## Buddy Up
+
+### Q
+
+Nerf and oOoOOooo
 
 ### Warmup
 
@@ -157125,6 +176397,10 @@ REPEAT
 
 ## Backblast
 
+### Q
+
+Captain Underpants
+
 ### Warmup
 
 SSH IC x 21
@@ -157150,6 +176426,10 @@ Crunches, Hollow body hold, bicycles, flutter kicks. Rest 15 seconds. X3
 
 ## Flow
 
+### Q
+
+DOS (Spirit StL)
+
 ### Warmup
 
 5to1 motivators
@@ -157168,6 +176448,10 @@ Travel between stations was mosey except between stations 3 and 4 where travel w
 ---
 
 ## Backblast
+
+### Q
+
+Skid Mark
 
 ### Warmup
 
@@ -157224,6 +176508,10 @@ Scuba PAX’s
 
 ## Backblast
 
+### Q
+
+Duke
+
 ### Warmup
 
 - SSH / 25
@@ -157254,6 +176542,10 @@ Freddy Mercury / 50
 
 ## Pre BD Burpees 10 X 10...
 
+### Q
+
+Polka
+
 ### Thang
 
 The PAX completed 10 Burpees every minute for 10 minutes totalling 100 Burpees.
@@ -157261,6 +176553,10 @@ The PAX completed 10 Burpees every minute for 10 minutes totalling 100 Burpees.
 ---
 
 ## The Forge at Wet Willy
+
+### Q
+
+Frozone
 
 ### Warmup
 
@@ -157296,6 +176592,10 @@ PAX brought Absolution IC x 8
 ---
 
 ## Backblast
+
+### Q
+
+Dunce
 
 ### Warmup
 
@@ -157335,6 +176635,10 @@ Indian Run 1X around the field...it was a brisk pace...great effort by PAX as al
 
 ## Backblast
 
+### Q
+
+Passed Ball
+
 ### Warmup
 
 IC 15 Each
@@ -157360,6 +176664,10 @@ Guantanamo (2 rounds)
 ---
 
 ## Backblast
+
+### Q
+
+Tuition
 
 ### Warmup
 
@@ -157402,6 +176710,10 @@ Travelled Rifle Carry back to the Flag.  Then walked a lap around the track.
 
 ## International Super Hits by Green Day
 
+### Q
+
+Wall-E
+
 ### Warmup
 
 Piano Tappers
@@ -157431,6 +176743,10 @@ Supermans &amp; PAX led Boat Canoe's (1 Minute)
 ---
 
 ## Family Reunion
+
+### Q
+
+Peloton
 
 ### Warmup
 
@@ -157464,6 +176780,10 @@ Abe Vigodas
 ---
 
 ## Around and Around
+
+### Q
+
+Walkman
 
 ### Warmup
 
@@ -157513,6 +176833,10 @@ Movement: Jailbreak
 
 ## Yards and more yards....
 
+### Q
+
+Inseam
+
 ### Warmup
 
 Willy Mays Hays, Forward/Reverse Arm Circle, Knee Pulls and SSH
@@ -157530,6 +176854,10 @@ Mosey back to the flag and on your six to do some knee pulls and then finish off
 ---
 
 ## Backblast
+
+### Q
+
+Wilson (SpiritSTL)
 
 ### Warmup
 
@@ -157567,6 +176895,10 @@ American Hammers w/coupon IC
 ---
 
 ## We're gonna act like a kid
+
+### Q
+
+TI83
 
 ### Warmup
 
@@ -157619,6 +176951,10 @@ Had an extra minute, so did an extra mosey lap around the parking lot.
 
 ## Monday Mayhem
 
+### Q
+
+Topeka
+
 ### Warmup
 
 6-1 motivators
@@ -157667,6 +177003,10 @@ Bicycle Race by Queen
 
 ## Don't Be Afraid of the Lightning!
 
+### Q
+
+Snuggles
+
 ### Warmup
 
 - 7:1 Motivators
@@ -157691,6 +177031,10 @@ PAX lined up along a line of cones with another line of cones set out approx. 30
 
 ## Thanksgiving
 
+### Q
+
+PillowFight
+
 ### Warmup
 
 Burpees EMOM: 2,4,6,8,10,12
@@ -157711,6 +177055,10 @@ Also the band THE SWORD is freaking awesome.
 ---
 
 ## Circle Up Monday
+
+### Q
+
+Gyro
 
 ### Warmup
 
@@ -157768,6 +177116,10 @@ Hold the plank
 
 ## Finish (the week) Strong
 
+### Q
+
+Ralphie
+
 ### Warmup
 
 SSH’s x 25
@@ -157797,6 +177149,10 @@ officially pouring - pivoted to under pavilion and group Q calling exercises ble
 
 ## Backblast
 
+### Q
+
+Roomba
+
 ### Warmup
 
 - Willie Mays Hayes
@@ -157821,6 +177177,10 @@ Q destroyed the PAX's abs with 35 Freddie Mercurys, 25 Flutter Kicks, and a 15 c
 ---
 
 ## Strength and Cardio!
+
+### Q
+
+Roadkill
 
 ### Warmup
 
@@ -157863,6 +177223,10 @@ Planks
 
 ## Date: 7/8/22
 
+### Q
+
+Rot Gut
+
 ### Warmup
 
 Side Straddle Hops 20
@@ -157888,6 +177252,10 @@ Mosey Around Garage
 ---
 
 ## Backblast
+
+### Q
+
+Fish Fry
 
 ### Warmup
 
@@ -157922,6 +177290,10 @@ Flutter kicks
 
 ## Going to Recess
 
+### Q
+
+O'Doyle Rules
+
 ### Warmup
 
 Piano Tappers
@@ -157945,6 +177317,10 @@ LBC
 ---
 
 ## Doing tough things together
+
+### Q
+
+Dunkin
 
 ### Warmup
 
@@ -157998,6 +177374,10 @@ Home cone: chest presses (15+)
 
 ## The Crossett Fit Games
 
+### Q
+
+Farva (Stl Meramec)
+
 ### Warmup
 
 SSH IC 25
@@ -158028,6 +177408,10 @@ None
 ---
 
 ## FNG Friday
+
+### Q
+
+Rock Ride
 
 ### Warmup
 
@@ -158061,6 +177445,10 @@ Bonus Rounds
 ---
 
 ## Backblast
+
+### Q
+
+Leakage
 
 ### Warmup
 
@@ -158098,6 +177486,10 @@ Returned to circle for:
 
 ## Backblast
 
+### Q
+
+Bobbit
+
 ### Warmup
 
 5-1 Motivators
@@ -158119,6 +177511,10 @@ V up, big boy sit, flutter, dying cockroaches, freddy mercuries, King Kong plank
 
 ## Easy Company
 
+### Q
+
+Inseam
+
 ### Warmup
 
 Willie May's Hays, Side Straddle Hops, Bat Wings and Knee Pulls
@@ -158134,6 +177530,10 @@ Superman Holds and Rosalitas
 ---
 
 ## The Sauna
+
+### Q
+
+McLuvin
 
 ### Warmup
 
@@ -158180,6 +177580,10 @@ Little baby crunches IC
 
 ## Backblast
 
+### Q
+
+Lotus Notes
+
 ### Warmup
 
 8-1 motivators
@@ -158210,6 +177614,10 @@ Recover, recover....many HIMS are dripping by now, if not sooner..
 ---
 
 ## Corrida de Toros (Running of the Bulls happen tomorrow!)
+
+### Q
+
+Drizzle
 
 ### Warmup
 
@@ -158272,6 +177680,10 @@ Heels to heaven OYO
 
 ## Enjoying the Humidity
 
+### Q
+
+Skid Mark O'Doyle Rules
+
 ### Warmup
 
 Grass Grabbers
@@ -158308,6 +177720,10 @@ Scuba PAX
 
 ## Break-A-Leg
 
+### Q
+
+Road Rage
+
 ### Warmup
 
 - Rhythmic Piano tappers IC 1e&amp;a 2e&amp;a 3e&amp;a
@@ -158340,6 +177756,10 @@ Phase 4, by yourself, Rinse and repeat
 
 ## Big Brother
 
+### Q
+
+Wet Wipe
+
 ### Warmup
 
 SSH’s x 25
@@ -158366,6 +177786,10 @@ Penguin Tappers (IC) x25
 ---
 
 ## – Sweat is Weakness Leaving the Body
+
+### Q
+
+Gyro
 
 ### Warmup
 
@@ -158399,6 +177823,10 @@ Dying Cockroaches IC
 
 ## Backblast
 
+### Q
+
+Dunce
+
 ### Warmup
 
 - Little baby arm circles (variable rhythm and surprise halts)
@@ -158428,6 +177856,10 @@ Each round completed when everyone has done a Blockee in succession.
 ---
 
 ## Backblast
+
+### Q
+
+Drop Out (SpiritSTL)
 
 ### Warmup
 
@@ -158471,6 +177903,10 @@ Various and Sundry stretches
 
 ## Backblast
 
+### Q
+
+Milwaukees Best
+
 ### Thang
 
 Hills are fun?
@@ -158478,6 +177914,10 @@ Hills are fun?
 ---
 
 ## Weight training, prison style
+
+### Q
+
+Nerf
 
 ### Warmup
 
@@ -158496,6 +177936,10 @@ COR + NOR
 ---
 
 ## Beatdown/up (+Testing Tuesday)
+
+### Q
+
+Jigglypuff (STL Meramec)
 
 ### Warmup
 
@@ -158516,6 +177960,10 @@ OYO Stretching
 ---
 
 ## Backblast
+
+### Q
+
+Karat
 
 ### Warmup
 
@@ -158539,6 +177987,10 @@ Round 4 would have been 50s again with coupon rows and coupon jump overs but wer
 ---
 
 ## “Don't fire until you see the whites of their eyes!”
+
+### Q
+
+Roomba
 
 ### Warmup
 
@@ -158569,6 +178021,10 @@ COR &amp; NOR: Affirmative!
 
 ## Building Blocks of Fitness
 
+### Q
+
+Squirrel
+
 ### Warmup
 
 - Grass Grabbers IC
@@ -158590,6 +178046,10 @@ Continued with the building and the general movement pattern.  The carry was cha
 ---
 
 ## Backblast
+
+### Q
+
+Peloton
 
 ### Warmup
 
@@ -158614,6 +178074,10 @@ Partner beatdown
 ---
 
 ## Backblast
+
+### Q
+
+East Side
 
 ### Warmup
 
@@ -158652,6 +178116,10 @@ The Rick Flair
 
 ## 1776 PATRIOT GAMES!
 
+### Q
+
+Manicure
+
 ### Warmup
 
 - Willie Mays Hays IC
@@ -158674,6 +178142,10 @@ NOT TODAY
 ---
 
 ## Backblast
+
+### Q
+
+Fiddy
 
 ### Warmup
 
@@ -158716,6 +178188,10 @@ Workout took us all the way up until the end
 
 ## Backblast
 
+### Q
+
+Ikea
+
 ### Warmup
 
 5-1 motivators
@@ -158745,6 +178221,10 @@ CoR, NoR
 ---
 
 ## Hills
+
+### Q
+
+BowFlex
 
 ### Warmup
 
@@ -158783,6 +178263,10 @@ American Hammers
 ---
 
 ## GOOD OLD FASHIONED FRIDAY IRON PAX BEATDOWN!
+
+### Q
+
+Skid Mark
 
 ### Warmup
 
@@ -158830,6 +178314,10 @@ LBC’s
 
 ## Consistency &amp; Aggregation of Marginal Gains
 
+### Q
+
+Rock Ride
+
 ### Warmup
 
 7-1 Motivators
@@ -158868,6 +178356,10 @@ killer abs/core tabata timer
 ---
 
 ## Backblast
+
+### Q
+
+Drop Out (SpiritSTL)
 
 ### Warmup
 
@@ -158916,6 +178408,10 @@ Various and Sundry stretches
 
 ## Tired Thursday
 
+### Q
+
+Inseam
+
 ### Warmup
 
 Willie Mays Hays, SSH, Piano Tappers and Knee Pulls
@@ -158931,6 +178427,10 @@ Superman Holds, Coupon Hold with Rosalitas and PAX took us out with American Ham
 ---
 
 ## Train Town, USA
+
+### Q
+
+Walkman and Nerf
 
 ### Warmup
 
@@ -158972,6 +178472,10 @@ Forced to circle up for Mary due to timing.
 
 ## Backblast
 
+### Q
+
+9 to 5
+
 ### Warmup
 
 - SSHs
@@ -158995,6 +178499,10 @@ Forced to circle up for Mary due to timing.
 ---
 
 ## DOS-E-Doe
+
+### Q
+
+DOS (Spirit StL)
 
 ### Warmup
 
@@ -159030,6 +178538,10 @@ Reflection was short but to the point on 'getting through the week' and exercisi
 
 ## Tabattttaaaaaa
 
+### Q
+
+Wonka
+
 ### Warmup
 
 Pax did a series of warm up exercises including:
@@ -159042,6 +178554,10 @@ PAX did a Tabata style workout with 45 seconds of work and 15 sec of rest.  29 e
 ---
 
 ## Fitness, Fellowship, and Faith
+
+### Q
+
+Rub Down
 
 ### Warmup
 
@@ -159083,6 +178599,10 @@ Absolution - 7 IC
 
 ## Elevens &amp; Rack Em &amp; Stack Em Dumpster Fire
 
+### Q
+
+Rock Ride
+
 ### Warmup
 
 SSH 20 IC
@@ -159110,6 +178630,10 @@ Rosalitas - 15 IC
 ---
 
 ## Prodigal Son
+
+### Q
+
+DOS (Spirit StL)
 
 ### Warmup
 
@@ -159146,6 +178670,10 @@ Penguin Tappers, Heals to Heavin and Abe Vagodas
 
 ## Train to Gain
 
+### Q
+
+Jigglypuff (STL Meramec)
+
 ### Warmup
 
 Various plyometric exercises Q used to do in high school to warm up, hairy Rockettes
@@ -159166,6 +178694,10 @@ brief hip circuit
 ---
 
 ## “X” marks the spot.
+
+### Q
+
+Tetanus
 
 ### Warmup
 
@@ -159225,6 +178757,10 @@ Leg lifts IC x18
 
 ## Gumbo's 25th WOD
 
+### Q
+
+Gumbo (STL)
+
 ### Warmup
 
 Copperhead Squats - IC - 25ct
@@ -159243,6 +178779,10 @@ Recover Recover Called after approx 90 mins of work.
 ---
 
 ## Burpee Ball V2.0
+
+### Q
+
+Manscapes
 
 ### Warmup
 
@@ -159266,6 +178806,10 @@ Mary consisted of each PAX leading the exercise on the ball that faced him for a
 ---
 
 ## Backblast
+
+### Q
+
+Fish Fry
 
 ### Warmup
 
@@ -159315,6 +178859,10 @@ LBC
 ---
 
 ## Summer Burpee Fest
+
+### Q
+
+Walkman
 
 ### Warmup
 
@@ -159366,6 +178914,10 @@ Pick up the 6
 
 ## Merk-off~ Monday
 
+### Q
+
+Topeka
+
 ### Warmup
 
 7-1 motivator
@@ -159401,6 +178953,10 @@ Planned on doing a circle merk-off. Hold plank and go around the circle doing 1 
 ---
 
 ## Beachbody
+
+### Q
+
+Thumper
 
 ### Warmup
 
@@ -159462,6 +179018,10 @@ In Cadence
 
 ## Live the Mission
 
+### Q
+
+rogerroger
+
 ### Warmup
 
 - 5:1 Motivators
@@ -159497,6 +179057,10 @@ At Top of Hill
 
 ## BRO DOWN
 
+### Q
+
+CARTMAN
+
 ### Warmup
 
 WGS, MH, MMM, MH
@@ -159518,6 +179082,10 @@ Mosey back to starting spot
 ---
 
 ## The Rosa Hero WOD
+
+### Q
+
+Peaches
 
 ### Warmup
 
@@ -159543,6 +179111,10 @@ Recover-Recover
 ---
 
 ## Friday funday to start the weekend.
+
+### Q
+
+Jayhawk
 
 ### Warmup
 
@@ -159582,6 +179154,10 @@ No time for Mary.
 
 ## Vacation Week -Day 5 Beach Day
 
+### Q
+
+Cheesehead
+
 ### Warmup
 
 5 to 1 Motivators, Willie Mayes Hayes, Old Man Stretch, Grass Grabbers
@@ -159599,6 +179175,10 @@ Beach Body Exercises
 ---
 
 ## SUMMER Q SCHOOL
+
+### Q
+
+Zero Turn
 
 ### Warmup
 
@@ -159650,6 +179230,10 @@ PAX and PAX led cadence with flutter kicks and Freddie mercuries
 
 ## Backblast
 
+### Q
+
+Milwaukees Best
+
 ### Warmup
 
 -P Tappers
@@ -159668,6 +179252,10 @@ Shower and get ready for the day with the M on our road trip.
 ---
 
 ## Plan B
+
+### Q
+
+Farva (Stl Meramec)
 
 ### Warmup
 
@@ -159697,6 +179285,10 @@ LBC-5
 
 ## Episode 1: A kick in the Nutshell
 
+### Q
+
+PillowFight
+
 ### Warmup
 
 SSH, Hip Stretch, GG, Arm Circles
@@ -159720,6 +179312,10 @@ Till next time take care
 ---
 
 ## At the PJ we like to Compete
+
+### Q
+
+1chain
 
 ### Warmup
 
@@ -159778,6 +179374,10 @@ Triple Bear IC 12
 
 ## Backblast
 
+### Q
+
+Cheese
+
 ### Warmup
 
 7:1 motivators
@@ -159796,6 +179396,10 @@ Ran around the AO and do a variety of exercises
 ---
 
 ## The Magic Number
+
+### Q
+
+Walkman
 
 ### Warmup
 
@@ -159834,6 +179438,10 @@ Absolutions IC x11
 
 ## Trip around the lake.
 
+### Q
+
+Karat
+
 ### Warmup
 
 SSH 25 IC
@@ -159846,6 +179454,10 @@ Pax mosey to Memorial for step-ups, 25 HW, mosey to ~Bear Crawl~, lunge walk bri
 ---
 
 ## Backblast
+
+### Q
+
+Olav
 
 ### Warmup
 
@@ -159885,6 +179497,10 @@ recover to Mary
 
 ## Backblast
 
+### Q
+
+meatloaf
+
 ### Warmup
 
 Goof Balls
@@ -159922,6 +179538,10 @@ CIRCLE JERK – PAX circle up around the flag, everyone will do an exercise that
 ---
 
 ## Backblast
+
+### Q
+
+Romeo
 
 ### Warmup
 
@@ -159968,6 +179588,10 @@ Hammer Crunch
 ---
 
 ## We Get To, Not Have To
+
+### Q
+
+Rock Ride
 
 ### Warmup
 
@@ -160018,6 +179642,10 @@ Heels to Heaven - 15 IC
 
 ## Meanwhile…. back at Vlasis Park!
 
+### Q
+
+PillowFight
+
 ### Warmup
 
 SSH, GG, WMH, 41 Navy Seals, Bat Wing
@@ -160033,6 +179661,10 @@ Hill Quadrophenia: 4 min Bernie Sanders Up &amp; Mosey back down.
 ---
 
 ## Backblast
+
+### Q
+
+ginsu
 
 ### Warmup
 
@@ -160082,6 +179714,10 @@ Via PAX
 
 ## Vacation Week - Day 2 Carnival
 
+### Q
+
+Cheesehead
+
 ### Warmup
 
 SSH IC
@@ -160098,6 +179734,10 @@ Today we played carnival games.  A PAX either tossed a washer, flipped a bean ba
 ---
 
 ## Getting Acquainted with Sugar Creek
+
+### Q
+
+Catnip
 
 ### Warmup
 
@@ -160129,6 +179769,10 @@ As a Black Ops beatdown, we gave the new AO a trial run before the official laun
 ---
 
 ## Excuse Station
+
+### Q
+
+oOoOOooo
 
 ### Warmup
 
@@ -160186,6 +179830,10 @@ COR + NOR: check
 
 ## Backblast
 
+### Q
+
+Drop Out (SpiritSTL)
+
 ### Warmup
 
 7-1 Motivators
@@ -160216,6 +179864,10 @@ recover to Mary
 
 ## Vacation Week - Day 1 Travel Day
 
+### Q
+
+Cheesehead
+
 ### Warmup
 
 Mosey down field and back
@@ -160234,6 +179886,10 @@ AbORama...Started with Phish...each PAX picked a Mary exercise and led a 10 coun
 ---
 
 ## The 80s
+
+### Q
+
+Peaches
 
 ### Warmup
 
@@ -160267,6 +179923,10 @@ LBCs IC-x10
 
 ## Backblast
 
+### Q
+
+Topeka
+
 ### Warmup
 
 - Burpees x 10
@@ -160295,6 +179955,10 @@ LBCs IC-x10
 ---
 
 ## Backblast
+
+### Q
+
+Peloton
 
 ### Warmup
 
@@ -160328,6 +179992,10 @@ LBCs IC-x10
 
 ## : FIFA World Cup Eureka 2022. Let's finish RESPECT week strong and have fun.
 
+### Q
+
+Pigeon
+
 ### Warmup
 
 5-1 motivators, grass grabbers, Willy mays hays, mosey.
@@ -160339,6 +180007,10 @@ Soccer. Two teams. Converted to game of Speed Ball.
 ---
 
 ## 38 Challenge
+
+### Q
+
+Beefeater
 
 ### Warmup
 
@@ -160365,6 +180037,10 @@ Recover to circle for Mary.
 
 ## Sucka Free Saturday / Sterling Hero WOD
 
+### Q
+
+PillowFight
+
 ### Warmup
 
 Run to Target and back
@@ -160384,6 +180060,10 @@ Scores were around 150-200 taking the trophy home.
 
 ## Backblast
 
+### Q
+
+Jigglypuff (STL Meramec)
+
 ### Warmup
 
 3-1 Motivators , high knees , goof balls , butt kickers , merkins, squats, and monkey lovers
@@ -160399,6 +180079,10 @@ PAX led us in plank knees IC
 ---
 
 ## Friday Funday
+
+### Q
+
+Shower House Karat
 
 ### Warmup
 
@@ -160431,6 +180115,10 @@ Danger Zone - Side Straddle Hops during the song and Squats when they sing 'Dang
 ---
 
 ## Not a workout song.. workout
+
+### Q
+
+DOS (Spirit StL)
 
 ### Warmup
 
@@ -160470,6 +180158,10 @@ Reflection on Respect, building trust with those whom you have limited time with
 
 ## Backblast
 
+### Q
+
+Wattage Roadkill
+
 ### Warmup
 
 Concrete Grabbers IC
@@ -160500,6 +180192,10 @@ Freddy Mercury's
 ---
 
 ## Backblast
+
+### Q
+
+Fish Fry
 
 ### Warmup
 
@@ -160540,6 +180236,10 @@ Heel tappers
 
 ## “3.0 GAMES”
 
+### Q
+
+Can-Am
+
 ### Warmup
 
 10-1 motivators
@@ -160576,6 +180276,10 @@ Big Boy sit ups
 ---
 
 ## Respect the coupon
+
+### Q
+
+Misty
 
 ### Warmup
 
@@ -160617,6 +180321,10 @@ COR + NOR: check will attach.
 ---
 
 ## Respect Wednesday - Walk in the woods
+
+### Q
+
+Wilson (SpiritSTL)
 
 ### Warmup
 
@@ -160666,6 +180374,10 @@ COR, NOR
 
 ## Backblast
 
+### Q
+
+TI83
+
 ### Thang
 
 Pick sides of the parking lot. Coupons on One End Only. Separate into sides
@@ -160698,6 +180410,10 @@ Penguin tappers
 
 ## R E S P E C T find out what it means too...
 
+### Q
+
+Misty Exit Ramp
+
 ### Warmup
 
 Old Man Stretch
@@ -160723,6 +180439,10 @@ Jabba the Hutts x 3ish
 ---
 
 ## Moma needs a new pair of shoes / game of craps
+
+### Q
+
+Opud
 
 ### Warmup
 
@@ -160757,6 +180477,10 @@ LBC - OYO
 
 ## Drop it Like It's Hot!!!
 
+### Q
+
+Bobbit
+
 ### Warmup
 
 5-1 Motivators
@@ -160790,6 +180514,10 @@ P- overhead Press
 ---
 
 ## (Respect Beatdown)
+
+### Q
+
+Honey Pot
 
 ### Warmup
 
@@ -160846,6 +180574,10 @@ No time for Mary
 ---
 
 ## Round and Round
+
+### Q
+
+Olav
 
 ### Warmup
 
@@ -160904,6 +180636,10 @@ Run back to start
 
 ## “3.0 GAMES”
 
+### Q
+
+Can-Am
+
 ### Warmup
 
 10-1 motivators
@@ -160941,6 +180677,10 @@ Big Boy sit ups
 
 ## Backblast
 
+### Q
+
+The Bulge
+
 ### Warmup
 
 OMS IC
@@ -160972,6 +180712,10 @@ Freddy Mercuries
 
 ## 10 Rounds with the Boys
 
+### Q
+
+Power Clean (JeffCo)
+
 ### Warmup
 
 burpees and CH squats
@@ -160995,6 +180739,10 @@ PAX led us in Dead Bugs
 
 ## Grumpy Old Man
 
+### Q
+
+Terry Tate
+
 ### Warmup
 
 Assorted warm up exercises while learning the art of the cadence
@@ -161014,6 +180762,10 @@ Did good, do betters
 ---
 
 ## Terribly Awesome Beatdown
+
+### Q
+
+Manscapes
 
 ### Thang
 
@@ -161038,6 +180790,10 @@ Boat Canoes - PAX
 ---
 
 ## 13 is just a number.
+
+### Q
+
+Tuition
 
 ### Warmup
 
@@ -161088,6 +180844,10 @@ Next we did 13 King Kong planks or Shoulder taps the hard way.
 
 ## Literally, this will be the easiest BD EVER!!!   (OK...that was a little white fib)
 
+### Q
+
+Dinghy
+
 ### Warmup
 
 Old Man Stretch
@@ -161108,6 +180868,10 @@ Simple back stretches (Cause Q was spent!!)
 
 ## When you look to the sky with a big pizza pie, that's amore. Respect Week
 
+### Q
+
+Milwaukees Best
+
 ### Warmup
 
 - Grass Grabbers
@@ -161126,6 +180890,10 @@ The winning team lead the PAX with 2 Mary exercises, the other 2 teams each lead
 ---
 
 ## Backblast
+
+### Q
+
+1chain
 
 ### Warmup
 
@@ -161160,6 +180928,10 @@ American Hammers  IC 17
 
 ## Backblast
 
+### Q
+
+Gumbo (STL)
+
 ### Warmup
 
 Opening the Gates IC
@@ -161191,6 +180963,10 @@ _2) Comando Thors _ This is a 1:4 Sit Up: American Hammer exercise ending each w
 ---
 
 ## Backblast
+
+### Q
+
+Gumbo (STL)
 
 ### Warmup
 
@@ -161225,6 +181001,10 @@ Roll Over, Mary!_
 
 ## pay the toll
 
+### Q
+
+Beefeater
+
 ### Warmup
 
 - side straddle hops
@@ -161251,6 +181031,10 @@ Travel to the toll was murder bunnies, travel away from the toll was rifle carry
 ---
 
 ## Backblast
+
+### Q
+
+Lotus Notes & Karat
 
 ### Warmup
 
@@ -161292,6 +181076,10 @@ PAX shared words about the next Site Q, PAX.
 ---
 
 ## Backblast
+
+### Q
+
+Fish Fry
 
 ### Warmup
 
@@ -161349,6 +181137,10 @@ Plank 11 seconds High Plank, 11 seconds Low Plank.  Repeat high/low plank each 6
 
 ## Backblast
 
+### Q
+
+Farva (Stl Meramec)
+
 ### Warmup
 
 Imperial Walkers
@@ -161389,6 +181181,10 @@ Gut Buster
 
 ## 1 Year Anniversary for THE Cabana Boy
 
+### Q
+
+CABANA BOY
+
 ### Warmup
 
 - Grass Grabbers
@@ -161428,6 +181224,10 @@ Gut Buster
 
 ## Backblast
 
+### Q
+
+Jailbait
+
 ### Warmup
 
 Grass Grabbers
@@ -161456,6 +181256,10 @@ Overhead hold - go around circle with each HIM giving a 10 count
 
 ## Backblast
 
+### Q
+
+Cheese
+
 ### Warmup
 
 5:1 motivations
@@ -161478,6 +181282,10 @@ Hello dollys
 ---
 
 ## The Forge- The Dance
+
+### Q
+
+Matchbox Bobbit
 
 ### Warmup
 
@@ -161515,6 +181323,10 @@ Sharon stones
 
 ## No Theme Just a Beatdown
 
+### Q
+
+Gobstopper
+
 ### Warmup
 
 5:1 Motivators IC
@@ -161541,6 +181353,10 @@ Jaba The Huts (like they do at AO Black Diamond)
 ---
 
 ## AREA 51
+
+### Q
+
+Manicure
 
 ### Warmup
 
@@ -161577,6 +181393,10 @@ Looking forward to a couple of VQs!
 
 ## The Forge- The Dance
 
+### Q
+
+Matchbox Bobbit
+
 ### Warmup
 
 arm stretches
@@ -161612,6 +181432,10 @@ Sharon stones
 ---
 
 ## Do things the Burls Way
+
+### Q
+
+Ikea
 
 ### Warmup
 
@@ -161654,6 +181478,10 @@ Pax choice - PAX flutter kicks
 
 ## Why not Wednesday?
 
+### Q
+
+Beefeater
+
 ### Warmup
 
 - side straddle hops
@@ -161678,6 +181506,10 @@ Pax completed three timed rounds of the following
 ---
 
 ## A STREAKER THREESOME
+
+### Q
+
+Manicure Jigglypuff (STL Meramec) Roomba
 
 ### Warmup
 
@@ -161714,6 +181546,10 @@ NOT TODAY
 ---
 
 ## Pivot Tables
+
+### Q
+
+Rub Down
 
 ### Warmup
 
@@ -161752,6 +181588,10 @@ Heels to Heaven
 
 ## Lieutenant Dan you got new legs
 
+### Q
+
+Thumper
+
 ### Warmup
 
 In Cadence
@@ -161785,6 +181625,10 @@ In Cadence
 ---
 
 ## – Building Momentum
+
+### Q
+
+Gyro
 
 ### Warmup
 
@@ -161830,6 +181674,10 @@ Plank (60s)
 
 ## Mama Tried
 
+### Q
+
+Zero Turn
+
 ### Warmup
 
 Goofballs
@@ -161869,6 +181717,10 @@ played “ Mama Tried” again in groups. This time as many big boy sit ups as p
 ---
 
 ## Tabata Tuesday
+
+### Q
+
+Rock Ride
 
 ### Warmup
 
@@ -161910,6 +181762,10 @@ LBCs - 15 IC
 
 ## Countdown to Count Up
 
+### Q
+
+Walkman
+
 ### Warmup
 
 Learning to Phelps IC
@@ -161944,6 +181800,10 @@ Leg lift circuit with variations of holding at 6 inches, raising to 45 degrees, 
 ---
 
 ## Around the Cones.
+
+### Q
+
+Fabuloso
 
 ### Warmup
 
@@ -162008,6 +181868,10 @@ Triple Bears x10 IC
 
 ## HERO WOD #1
 
+### Q
+
+Polka
+
 ### Warmup
 
 Mosey to HS Track. Q led PAX in a routine of  several leg stretches.
@@ -162041,6 +181905,10 @@ None
 
 ## 3-2-1 Let's Go….
 
+### Q
+
+Jigglypuff (STL Meramec)
+
 ### Warmup
 
 Mosey to HS Track, SSH, Hairy Rockettes, High Knees, Quad Pulls
@@ -162069,6 +181937,10 @@ None
 ---
 
 ## PAX's Choice
+
+### Q
+
+Wilson (SpiritSTL)
 
 ### Warmup
 
@@ -162106,6 +181978,10 @@ Scott’s Special – Bunny Hops and Parking Garage Jail Break
 ---
 
 ## Decision Day
+
+### Q
+
+Keys
 
 ### Warmup
 
@@ -162153,6 +182029,10 @@ Heel Taps
 
 ## Battle of Bunker Hill
 
+### Q
+
+Milwaukees Best
+
 ### Warmup
 
 Grass Grabbers X 3,000
@@ -162180,6 +182060,10 @@ Resurrecting Cockroaches X let's say 95 lead by PAX.
 ---
 
 ## Backblast
+
+### Q
+
+Jailbait
 
 ### Warmup
 
@@ -162211,6 +182095,10 @@ Repeat Prison Yard --&gt; Jailbreak sequence as time allows
 
 ## !AO Launch! Extreme Ownership Redux
 
+### Q
+
+Rock Ride
+
 ### Thang
 
 The Beast
@@ -162236,6 +182124,10 @@ Bicycles forward and backward IC - another AbRipper one
 ---
 
 ## Backblast
+
+### Q
+
+Bucky
 
 ### Warmup
 
@@ -162270,6 +182162,10 @@ outlaws x20 right x20 left
 
 ## Ultimate
 
+### Q
+
+Jigglypuff (STL Meramec)
+
 ### Warmup
 
 SSH, Hairy Rockettes, Knee Pulls, Quad Pulls, high knees, butt kickers, pigeons, groiners, imperial walkers, and trip around the track
@@ -162287,6 +182183,10 @@ None
 ---
 
 ## Deja Vu
+
+### Q
+
+Mulligan
 
 ### Warmup
 
@@ -162309,6 +182209,10 @@ Again - Freddy Mercurys IC - 30 ct
 ---
 
 ## Backblast
+
+### Q
+
+Wuhan Zero Turn meatloaf
 
 ### Warmup
 
@@ -162335,6 +182239,10 @@ Pike in and outs
 ---
 
 ## Start your Friday off right
+
+### Q
+
+Jayhawk
 
 ### Warmup
 
@@ -162371,6 +182279,10 @@ Flutter kicks x 20IC
 ---
 
 ## THE CLIMB
+
+### Q
+
+Bobbit
 
 ### Warmup
 
@@ -162415,6 +182327,10 @@ Plank for 1 min
 
 ## Schools out for Summa
 
+### Q
+
+Mulligan
+
 ### Warmup
 
 7x1 Motivators
@@ -162441,6 +182357,10 @@ Penguin Tapps x 15
 
 ## UFOs in the Gloom
 
+### Q
+
+ginsu
+
 ### Warmup
 
 Grass grabbers
@@ -162454,6 +182374,10 @@ Willie Mays Hayes
 ---
 
 ## Bags of Sand
+
+### Q
+
+Tinker Bell
 
 ### Warmup
 
@@ -162494,6 +182418,10 @@ Forgot to say recover, recover but PAX got the hint
 
 ## Extreme Ownership
 
+### Q
+
+Rock Ride
+
 ### Warmup
 
 7:1 motivators, pivot and ended at 3. 7:3 Motivators
@@ -162528,6 +182456,10 @@ PAX and PAX crushed it and got to Bonnie Blairs before time ran out. This was a 
 ---
 
 ## Backblast
+
+### Q
+
+1chain
 
 ### Warmup
 
@@ -162579,6 +182511,10 @@ Sorry PAX PAX
 
 ## The Forge- The Dance
 
+### Q
+
+Matchbox Bobbit
+
 ### Warmup
 
 arm stretches
@@ -162614,6 +182550,10 @@ Sharon stones
 ---
 
 ## Expand the Zone
+
+### Q
+
+rogerroger
 
 ### Warmup
 
@@ -162656,6 +182596,10 @@ Penguin Tappers
 
 ## Station to Station
 
+### Q
+
+Walkman
+
 ### Warmup
 
 -Learning to Phelps IC
@@ -162684,6 +182628,10 @@ Group one made it around 3 laps. Close to 2 miles with exercise according to wat
 ---
 
 ## The Forge- The Dance
+
+### Q
+
+Matchbox Bobbit
 
 ### Warmup
 
@@ -162721,6 +182669,10 @@ Sharon stones
 
 ## Lion Tracking
 
+### Q
+
+Captain Underpants
+
 ### Warmup
 
 SSH x 25 IC
@@ -162744,6 +182696,10 @@ Flutter kicks x 25 IC
 ---
 
 ## Summertime (90 days of summer)
+
+### Q
+
+Fazoli
 
 ### Warmup
 
@@ -162782,6 +182738,10 @@ Completed 2 rounds in total
 
 ## It’s June
 
+### Q
+
+COBOL
+
 ### Warmup
 
 LBAC
@@ -162811,6 +182771,10 @@ Hip Heists
 ---
 
 ## We be biking or running
+
+### Q
+
+CrankBait
 
 ### Warmup
 
@@ -162845,6 +182809,10 @@ American Hammers
 
 ## A Bigmouth Beatdown
 
+### Q
+
+Bigmouth
+
 ### Warmup
 
 Grady Corn x 21
@@ -162872,6 +182840,10 @@ Penguin Tapps x 15
 ---
 
 ## Drop A Bomb
+
+### Q
+
+Zero Turn
 
 ### Warmup
 
@@ -162902,6 +182874,10 @@ Played “you dropped a bomb on me” by Gap Band. Shoulder taps then when “bo
 
 ## Schools Out for Summer!!
 
+### Q
+
+Farva (Stl Meramec)
+
 ### Warmup
 
 10-1 Motivators
@@ -162931,6 +182907,10 @@ None!
 
 ## Murph
 
+### Q
+
+Beefeater
+
 ### Warmup
 
 5-1 motivators
@@ -162949,6 +182929,10 @@ PAX partitioned and modified as necessary. At the 12 was PAX and PAX!!! Absolute
 ---
 
 ## 5’s are Wild!
+
+### Q
+
+Five-Hole
 
 ### Warmup
 
@@ -163009,6 +182993,10 @@ Hustle with Coupons back to the parking lot to RECOVER RECOVER
 
 ## Return of the ABCS!!!
 
+### Q
+
+Bobbit
+
 ### Warmup
 
 PAX LEAD
@@ -163037,6 +183025,10 @@ P- overhead Press
 ---
 
 ## Heartrates Up and Mumblechatter
+
+### Q
+
+Cheesehead
 
 ### Warmup
 
@@ -163069,6 +183061,10 @@ MARY did not show up due to time
 
 ## MERRY GO ROUND
 
+### Q
+
+Zero Turn
+
 ### Warmup
 
 Running Man
@@ -163093,6 +183089,10 @@ Got through about 8-10 rounds.
 
 ## The Murph
 
+### Q
+
+Peaches
+
 ### Warmup
 
 Learning to Phelps IC-10
@@ -163115,6 +183115,10 @@ The first Murph Challenge started at a Memorial Day event on Bagram Airfield, Af
 ---
 
 ## Running the Neighborhood
+
+### Q
+
+Fulton (STL)
 
 ### Warmup
 
@@ -163140,6 +183144,10 @@ Merkin bomb to 5
 ---
 
 ## Goofy Four Corners
+
+### Q
+
+Peaches
 
 ### Warmup
 
@@ -163172,6 +183180,10 @@ X-Factors- x15
 
 ## Schools out for summer fun!
 
+### Q
+
+Karat
+
 ### Warmup
 
 SSH 20 IC
@@ -163191,6 +183203,10 @@ Bonus round: 22 merkins, one for each student.
 ---
 
 ## Stop, Tabata Time
+
+### Q
+
+Olav
 
 ### Warmup
 
@@ -163221,6 +183237,10 @@ PAX picked Scissors Kicks
 ---
 
 ## Backblast
+
+### Q
+
+Seabiscuit
 
 ### Warmup
 
@@ -163261,6 +183281,10 @@ Rifle Carry (RC) to globes in front of building and back to Station 3, exercises
 
 ## Full court Friday
 
+### Q
+
+Opud
+
 ### Warmup
 
 Side straddle hops
@@ -163286,6 +183310,10 @@ lbc 24 count
 ---
 
 ## Backblast
+
+### Q
+
+Cheese
 
 ### Warmup
 
@@ -163320,6 +183348,10 @@ Water fall merkins
 ---
 
 ## 1 Year Anniversary Party!
+
+### Q
+
+1chain Rock Ride Wet Wipe
 
 ### Warmup
 
@@ -163373,6 +183405,10 @@ Station 3 , mosey to the pavilion w/ coupon for a little leg burn:
 
 ## DiSruPTion leads to Acceleration!
 
+### Q
+
+Gumbo (STL)
+
 ### Warmup
 
 Tiper Gores IC
@@ -163400,6 +183436,10 @@ American Hammers! IC  ROLL OVER!  One more TIME!
 ---
 
 ## Q SCHOOL IS IN SESSION
+
+### Q
+
+Manicure
 
 ### Warmup
 
@@ -163436,6 +183476,10 @@ PAX led us in SSH IC
 ---
 
 ## Backblast
+
+### Q
+
+Manscapes
 
 ### Warmup
 
@@ -163476,6 +183520,10 @@ Coupon Rows
 ---
 
 ## Backblast
+
+### Q
+
+DOS
 
 ### Warmup
 
@@ -163542,6 +183590,10 @@ PAX Choice PAX : Freddy Mercuries
 
 ## Strengths and Weaknesses
 
+### Q
+
+Farva (Stl Meramec)
+
 ### Warmup
 
 Arm Circles
@@ -163580,6 +183632,10 @@ Rd 4
 
 ## What happens in Vegas...
 
+### Q
+
+Chowda
+
 ### Warmup
 
 Grass Grabbers
@@ -163612,6 +183668,10 @@ Not enough time for a full third round, so we moseyed around the tree twice, pla
 ---
 
 ## Backblast
+
+### Q
+
+1chain
 
 ### Warmup
 
@@ -163662,6 +183722,10 @@ American Hammers- IC 21
 
 ## Prison style
 
+### Q
+
+Nerf
+
 ### Warmup
 
 5-1 motivators
@@ -163684,6 +183748,10 @@ COR + NOR
 
 ## Kickin it
 
+### Q
+
+Monocle-winsky
+
 ### Warmup
 
 7:1 Motivators
@@ -163705,6 +183773,10 @@ Rosalitas- Q was feeling real humble, should probably do more stretching at home
 ---
 
 ## Modified IronPAX Flashback
+
+### Q
+
+Peloton
 
 ### Warmup
 
@@ -163746,6 +183818,10 @@ Set up five stations with 50 feet between each.
 
 ## Operation: Banner Snatcher
 
+### Q
+
+Roomba
+
 ### Warmup
 
 11x Willy Mays Hayes
@@ -163769,6 +183845,10 @@ Round One - Team 1 victory. Very epic flag carries by PAX. Jail rules were, if y
 ---
 
 ## All Aboard!
+
+### Q
+
+Wuhan
 
 ### Warmup
 
@@ -163796,6 +183876,10 @@ LBCs
 ---
 
 ## COUNTRY FAIR
+
+### Q
+
+Zero Turn
 
 ### Warmup
 
@@ -163841,6 +183925,10 @@ Mountain climbers
 
 ## Backblast
 
+### Q
+
+Fish Fry
+
 ### Warmup
 
 PAX Phelps
@@ -163881,6 +183969,10 @@ Little baby crunches
 
 ## Four COREners
 
+### Q
+
+Farva (Stl Meramec)
+
 ### Warmup
 
 Grass Grabbers
@@ -163909,6 +184001,10 @@ None
 
 ## Yes, it's Monday!
 
+### Q
+
+Dunkin
+
 ### Warmup
 
 - Side Straddle Hops
@@ -163933,6 +184029,10 @@ Round 4: station exercises were Chest Press and CPR’s, travel was rifle carry
 ---
 
 ## Don't Run, Fight!
+
+### Q
+
+Rock Ride
 
 ### Thang
 
@@ -163979,6 +184079,10 @@ Dying Cockroaches 12 IC
 
 ## Changing Plans
 
+### Q
+
+Jigglypuff (STL Meramec)
+
 ### Warmup
 
 SSH, Hairy Rockettes, Groiners, Pigeons, Knee pulls, quad pulls, imperial walkers
@@ -164005,6 +184109,10 @@ One lap sort of around the property.
 
 ## Sharing the Impact of F3!
 
+### Q
+
+Gumbo (STL)
+
 ### Warmup
 
 - Goofballs IC
@@ -164022,6 +184130,10 @@ Recover,
 ---
 
 ## Fun Friday, Grow!
+
+### Q
+
+Gumbo (STL)
 
 ### Warmup
 
@@ -164050,6 +184162,10 @@ American Hammers IC
 ---
 
 ## LOGGIN Workout PT 3
+
+### Q
+
+Bobbit
 
 ### Warmup
 
@@ -164089,6 +184205,10 @@ penguin tappers ring of fire
 ---
 
 ## "Scrabble" - Either you can spell or you can't!
+
+### Q
+
+Fabuloso
 
 ### Warmup
 
@@ -164146,6 +184266,10 @@ Squat Holds only!
 
 ## Ring of Fire
 
+### Q
+
+Daffy
+
 ### Warmup
 
 Arm circles
@@ -164175,6 +184299,10 @@ Absolution
 ---
 
 ## Play the Hand You’re Dealt
+
+### Q
+
+Thumper
 
 ### Warmup
 
@@ -164227,6 +184355,10 @@ Absolution
 
 ## Backblast
 
+### Q
+
+Maroon
+
 ### Warmup
 
 Core principles
@@ -164263,6 +184395,10 @@ Everybody bearcrawl
 
 ## Learn, Practice, Train.
 
+### Q
+
+Gumbo (STL)
+
 ### Warmup
 
 - Little Baby Arm Circles - IC (13-17ct each way)
@@ -164293,6 +184429,10 @@ Round Three:  Partner Merkins in Waterfall, starting with ONE, at each end Q cal
 ---
 
 ## FLIP THE SWITCH
+
+### Q
+
+Zero Turn
 
 ### Warmup
 
@@ -164336,6 +184476,10 @@ Single Leg Touchdowns
 
 ## First Q at the Den!
 
+### Q
+
+COBOL
+
 ### Warmup
 
 15-1 motivators
@@ -164373,6 +184517,10 @@ Guantanamo
 ---
 
 ## Burpee Fest 2
+
+### Q
+
+Walkman
 
 ### Warmup
 
@@ -164421,6 +184569,10 @@ Pick up the 6
 
 ## Let’s go Blues !!!
 
+### Q
+
+Ikea
+
 ### Warmup
 
 5-1 motivators
@@ -164454,6 +184606,10 @@ King Kong planks  x 15 IC
 ---
 
 ## Lighting Strikes - Rainy day Backup
+
+### Q
+
+CrankBait
 
 ### Warmup
 
@@ -164489,6 +184645,10 @@ Plank – 60 seconds
 ---
 
 ## A Trip to Egypt….Pyramid Time!
+
+### Q
+
+Taebo
 
 ### Warmup
 
@@ -164526,6 +184686,10 @@ Dobbs and Freddie Mercuries
 
 ## ABCs
 
+### Q
+
+Rock Ride
+
 ### Warmup
 
 25 SSH IC, 10 ish Willy Mays Hays, 12 Grass Grabbers, 10 Bat Wings
@@ -164557,6 +184721,10 @@ P- Overhead Press
 
 ## Prefontaine!
 
+### Q
+
+Bridesmaid
+
 ### Warmup
 
 5 Bonus Burpees --- PAX knows that they did
@@ -164583,6 +184751,10 @@ Captain Thors
 ---
 
 ## Arkham X
+
+### Q
+
+Bobbit
 
 ### Warmup
 
@@ -164622,6 +184794,10 @@ mosey by bear crawl, crab walk, crawl bear or walk crab(forward)
 
 ## Adventure Time
 
+### Q
+
+Farva (Stl Meramec)
+
 ### Warmup
 
 Imperial Walkers
@@ -164642,6 +184818,10 @@ Burpees IC
 ---
 
 ## TOUGH HILL TO CLIMB
+
+### Q
+
+Elmer
 
 ### Warmup
 
@@ -164670,6 +184850,10 @@ The Dolly
 
 ## By land and by sea
 
+### Q
+
+Karat
+
 ### Warmup
 
 9-1 motivators
@@ -164696,6 +184880,10 @@ Burpees to Morgan Wallens' song Up Down with SSH in between burpees.
 ---
 
 ## MANIC MONDAY
+
+### Q
+
+Zero Turn
 
 ### Warmup
 
@@ -164738,6 +184926,10 @@ Played “Manic Monday” by Bangles. On chorus burpees, rest of song imperial w
 
 ## THE 80% RULE
 
+### Q
+
+Manicure
+
 ### Warmup
 
 - Merkins (Elevator Style) IC
@@ -164766,6 +184958,10 @@ PAX were sorely disappointed when they found out there was no time for Rounds 4 
 ---
 
 ## Roll of the Dice
+
+### Q
+
+Romeo
 
 ### Warmup
 
@@ -164802,6 +184998,10 @@ After Round 2; spiderman crawl up hill, 5 burpees, spiderman crawl down hill
 
 ## Navy Seals Do It
 
+### Q
+
+Polka
+
 ### Warmup
 
 5 to 1 Motivators, Grass Grabbers, Abe Vigodas, Bat Wings, Goofballs.
@@ -164814,6 +185014,10 @@ each burpee.
 ---
 
 ## Murphys Law
+
+### Q
+
+Mulligan
 
 ### Warmup
 
@@ -164847,6 +185051,10 @@ Completed  -Run total was 1.1 miles, 70 Pullups, 140 Pushups, 140 squats
 
 ## Continuing on the 1+ year theme
 
+### Q
+
+Lotus Notes
+
 ### Warmup
 
 Piano Tappers
@@ -164870,6 +185078,10 @@ Before 6MOM, Q asked PAX to write 1 thing that they would like to see in the nea
 ---
 
 ## Backblast
+
+### Q
+
+TI83
 
 ### Warmup
 
@@ -164912,6 +185124,10 @@ Thang Pt II:  Mosey up hill.  At cones, do bear crawl; back to mosey; at next co
 
 ## What’s so Schweaty?
 
+### Q
+
+COBOL
+
 ### Warmup
 
 12-1 motivators
@@ -164951,6 +185167,10 @@ Guantanamo x 2
 
 ## Filthy 15
 
+### Q
+
+Duke
+
 ### Warmup
 
 - SSH, 15
@@ -164977,6 +185197,10 @@ See above for Round 4 &amp; 5
 
 ## - Down Range in DC (where F3 all began for YHC)
 
+### Q
+
+Peloton, pop fly
+
 ### Thang
 
 3 Rounds of:
@@ -165002,6 +185226,10 @@ Flutter Kicks, Pile-Drivers, Bicycles, Boats and Canoes
 
 ## A Cheesy Pickle Jar Anniversary
 
+### Q
+
+Topeka Cheese
+
 ### Warmup
 
 7:1 motivators
@@ -165022,6 +185250,10 @@ Guantanamo
 ---
 
 ## Teamwork
+
+### Q
+
+Tuition
 
 ### Thang
 
@@ -165051,6 +185283,10 @@ Abe Vigodas
 ---
 
 ## Endure the Pain, Enjoy the Gain
+
+### Q
+
+Roomba
 
 ### Warmup
 
@@ -165088,6 +185324,10 @@ PAX made it to the end of the round two on the second time through and then we m
 
 ## TOUR DE P-TOWN
 
+### Q
+
+Zero Turn
+
 ### Warmup
 
 Started on Field
@@ -165115,6 +185355,10 @@ Captain Thors to 20
 ---
 
 ## 1 year stronger
+
+### Q
+
+Jayhawk
 
 ### Warmup
 
@@ -165151,6 +185395,10 @@ Back to the flags but no time for Mary
 
 ## Backblast
 
+### Q
+
+Irene
+
 ### Warmup
 
 Piano Tappers IC
@@ -165178,6 +185426,10 @@ Scissor kicks
 ---
 
 ## Pyramid of Power Forge
+
+### Q
+
+Tinker Bell
 
 ### Warmup
 
@@ -165222,6 +185474,10 @@ Pigeon
 
 ## Backblast
 
+### Q
+
+Rub Down
+
 ### Warmup
 
 SSH x 18
@@ -165251,6 +185507,10 @@ You need 4 wins to advance each round. PAX did 4 merkins together as Q called do
 ---
 
 ## Suns Out Guns Out!
+
+### Q
+
+COBOL
 
 ### Warmup
 
@@ -165288,6 +185548,10 @@ You need 4 wins to advance each round. PAX did 4 merkins together as Q called do
 
 ## coniglietti assassini/coniglietti della risurrezione
 
+### Q
+
+Beefeater
+
 ### Warmup
 
 Learning to Phelps
@@ -165314,6 +185578,10 @@ choice, leg raise/heels to heaven ic
 ---
 
 ## Every setback is an Opportunity for a Comeback
+
+### Q
+
+rogerroger
 
 ### Warmup
 
@@ -165347,6 +185615,10 @@ Repeat for Duration
 ---
 
 ## Gotta Warm Up
+
+### Q
+
+Cheesehead
 
 ### Warmup
 
@@ -165388,6 +185660,10 @@ Big Boy Sit Ups IC
 
 ## Leg Day
 
+### Q
+
+Jigglypuff (STL Meramec)
+
 ### Warmup
 
 hairy Rockettes, Knee Pulls, Quad Pulls, neck rolls, and glide lunges
@@ -165403,6 +185679,10 @@ High Plank alternating knee to elbow IC
 ---
 
 ## LOGGIN Workout PT 2
+
+### Q
+
+Bobbit
 
 ### Warmup
 
@@ -165446,6 +185726,10 @@ Ladder  of American Hammers Pax starts 1, then 1-2, then 1-2-3...to 7
 ---
 
 ## Rich Strike
+
+### Q
+
+Fazoli
 
 ### Warmup
 
@@ -165500,6 +185784,10 @@ Round 5
 
 ## Losers Pay
 
+### Q
+
+Cheesehead
+
 ### Warmup
 
 Goofballs, Harry Rockettes, Bat Wings, Grass Grabbers
@@ -165515,6 +185803,10 @@ Yes.  LBC and Penguins and American Hammers
 ---
 
 ## Franklin’s Wisdom (Never stop growing in wisdom and strength)
+
+### Q
+
+Road Rage
 
 ### Warmup
 
@@ -165559,6 +185851,10 @@ Toe stretch
 ---
 
 ## 9 to 5 or is it 5-9?
+
+### Q
+
+Thumper
 
 ### Warmup
 
@@ -165606,6 +185902,10 @@ Toe stretch
 
 ## TPC1: The Tasmanian Pain Coaster / The Patch Ceremony
 
+### Q
+
+PillowFight
+
 ### Warmup
 
 SSH, Happy Baby, Willy Mays Hayes, SSH, Tabata Pushup Stretch. 1 Track Lap Bear Crawl. Run to Chesterfield Row House
@@ -165629,6 +185929,10 @@ Patch qualification scores (and Season 2) is over but don’t forget what we wer
 ---
 
 ## BURP’S, MERK’S, and BUNNIES FOR THE HUNNIES!
+
+### Q
+
+Skid Mark
 
 ### Warmup
 
@@ -165668,6 +185972,10 @@ Freddie Mercury’s, Penguin Tappers, LBC’s, Planks to Heaven
 
 ## LOCK SHIELDS
 
+### Q
+
+Zero Turn Karat
+
 ### Warmup
 
 Saigon Squat
@@ -165702,6 +186010,10 @@ Big boy sit ups IC
 
 ## All About That Base
 
+### Q
+
+Wilson (SpiritSTL)
+
 ### Warmup
 
 SSHs, Warrior 1, 2, &amp; 3, Sumo Stretch
@@ -165725,6 +186037,10 @@ Alternating between Bear Holds with Downward Dogs... Q called out movement, boat
 ---
 
 ## Hit the Trifecta
+
+### Q
+
+Keys
 
 ### Warmup
 
@@ -165770,6 +186086,10 @@ Added 15 burpees for fallen coupon
 
 ## Adaptive to Conditions
 
+### Q
+
+Inseam
+
 ### Warmup
 
 GoofBalls, Wille May's Hays and Bat Wings
@@ -165789,6 +186109,10 @@ Gas Pumpers IC, Heels to Heaven IC and Superman Holds IC.
 ---
 
 ## Shield of Armor
+
+### Q
+
+UpChuck
 
 ### Warmup
 
@@ -165812,6 +186136,10 @@ Guantanamo
 ---
 
 ## NIN
+
+### Q
+
+Florida Man
 
 ### Warmup
 
@@ -165846,6 +186174,10 @@ Breathe In (4) Sec, Hold (4) Sec, Breathe Out (4) Sec
 ---
 
 ## Held Outdoors RAIN or Shine
+
+### Q
+
+Peloton
 
 ### Warmup
 
@@ -165885,6 +186217,10 @@ Six on Bricks (butt on coupon)
 
 ## Cinco De Mayo
 
+### Q
+
+O'Doyle Rules
+
 ### Warmup
 
 5-1 motivators IC
@@ -165905,6 +186241,10 @@ LBC
 ---
 
 ## Have to Spell the Word!
+
+### Q
+
+Fabuloso
 
 ### Warmup
 
@@ -165958,6 +186298,10 @@ Z = 50 Little Baby Crunches
 
 ## get s(h)illy
 
+### Q
+
+Beefeater
+
 ### Warmup
 
 - 5 to 1 motivators
@@ -165994,6 +186338,10 @@ PAX led high low planks ic
 
 ## A long time ago in an #ao not far away...
 
+### Q
+
+Atari & Misty
+
 ### Warmup
 
 Tie Fighters IC
@@ -166015,6 +186363,10 @@ Both groups later switched and performed the other activity.
 ---
 
 ## Unleash the Kraken!
+
+### Q
+
+Fazoli
 
 ### Warmup
 
@@ -166058,6 +186410,10 @@ Heals to heaven
 
 ## LOGGIN Workout
 
+### Q
+
+Bobbit
+
 ### Warmup
 
 Overalls Country Show OFFs 20 (4 count which Q messed up several times….squat down with thumbs on imaginary overall straps.then stand up and punch the straps outward….goofy move)
@@ -166094,6 +186450,10 @@ Ladder  of American Hammers Pax starts 1, then 1-2, then 1-2-3...all the way to 
 
 ## Capture the Coupon
 
+### Q
+
+Side-Piece
+
 ### Warmup
 
 - knee pulls
@@ -166121,6 +186481,10 @@ PAX led us to the finish line with triple bear.
 
 ## May the 3rd be with you
 
+### Q
+
+Nerf
+
 ### Warmup
 
 Stretches + 1 lap
@@ -166142,6 +186506,10 @@ More running
 ---
 
 ## Backblast
+
+### Q
+
+Manscapes
 
 ### Warmup
 
@@ -166176,6 +186544,10 @@ No Time for Mary
 ---
 
 ## Backblast
+
+### Q
+
+Fish Fry
 
 ### Warmup
 
@@ -166225,6 +186597,10 @@ Heel tappers
 
 ## Get it Right, Get it Tight!
 
+### Q
+
+CABANA BOY
+
 ### Warmup
 
 - Mosey around trees
@@ -166270,6 +186646,10 @@ Q spoke of several different points concerning doing proper form and not cutting
 
 ## A Proper Passing of the Torch!
 
+### Q
+
+Gumbo (STL)
+
 ### Warmup
 
 - SSHs, IC (EVEN NUMBER)
@@ -166295,6 +186675,10 @@ Winning Team's Choice!_
 ---
 
 ## Quick Draw ABCS!!!
+
+### Q
+
+Bobbit
 
 ### Warmup
 
@@ -166329,6 +186713,10 @@ PAX Choice Ring of FIre lead by each man
 
 ## Black Ops Sunday BD
 
+### Q
+
+Polka
+
 ### Warmup
 
 -5 to 1 Motivators
@@ -166349,6 +186737,10 @@ The PAX ran approx 100 yards in-between each set.
 ---
 
 ## VQ Baby!!!
+
+### Q
+
+Skid Mark
 
 ### Warmup
 
@@ -166401,6 +186793,10 @@ Plank to Sky
 
 ## Deck of Destruction
 
+### Q
+
+Pedro (SGF)
+
 ### Warmup
 
 5-1 Motivators//Abe Vigodas x15 IC//Grass Grabbers x15 IC//Arm Circles x10 IC forward then reverse
@@ -166419,6 +186815,10 @@ LBCs 15 IC//Penguin Crunches 15 IC//American Hammers 25 IC
 ---
 
 ## Backblast
+
+### Q
+
+Ikea
 
 ### Warmup
 
@@ -166451,6 +186851,10 @@ Flutter kicks
 
 ## Pick your poison
 
+### Q
+
+Inseam
+
 ### Warmup
 
 Goof Balls, Willie Mays Hays, Learning to Phelps and Symbol Crashers.
@@ -166467,6 +186871,10 @@ No time for Mary today, but explained to PAX what the Mary consists of.
 ---
 
 ## Don't Be Blinded By Your Six!
+
+### Q
+
+meatloaf Sweet Pea Shortcake
 
 ### Warmup
 
@@ -166513,6 +186921,10 @@ Hello Dolly's
 
 ## It's Always Better When It's Wet - Blame It On The Rain
 
+### Q
+
+Duke
+
 ### Warmup
 
 - SSH, 11
@@ -166552,6 +186964,10 @@ Round 3 - Beastmode for heavy coupons via PAX PAX PAX
 
 ## Backblast
 
+### Q
+
+Gumbo (STL)
+
 ### Warmup
 
 - Side Straddle Hops! (SSHs) IC
@@ -166574,6 +186990,10 @@ Battle II: _Reinforce your wall! Teams brought up their Coupons to the Front LIN
 ---
 
 ## Backblast
+
+### Q
+
+Bobbit
 
 ### Warmup
 
@@ -166601,6 +187021,10 @@ Guantanamo Leg raises in circel with entire pax smashing them down
 ---
 
 ## Mini Mudder Madness
+
+### Q
+
+Roomba
 
 ### Warmup
 
@@ -166637,6 +187061,10 @@ PAX completed 2 rounds.
 
 ## The Countdown
 
+### Q
+
+Walkman
+
 ### Warmup
 
 Learning to Phelps IC
@@ -166671,6 +187099,10 @@ Penguin Tappers IC
 
 ## Backblast
 
+### Q
+
+Karat
+
 ### Warmup
 
 10-1 Motivators
@@ -166702,6 +187134,10 @@ PAX then lined back up for 11's
 ---
 
 ## Backblast
+
+### Q
+
+Olav
 
 ### Warmup
 
@@ -166747,6 +187183,10 @@ PAX Choice, Heal tappers
 
 ## Backblast
 
+### Q
+
+Wonka
+
 ### Thang
 
 Counted 1-3 to form groups of 3
@@ -166756,6 +187196,10 @@ Completed rounds of a movement, leg exercise and arm exercise. When round was co
 ---
 
 ## Backblast
+
+### Q
+
+Wuhan
 
 ### Warmup
 
@@ -166799,6 +187243,10 @@ LBCs
 
 ## Drive for show, putt for dough!
 
+### Q
+
+Wet Wipe
+
 ### Warmup
 
 5:1 Motivators
@@ -166819,6 +187267,10 @@ Knockout Game/Mary:
 ---
 
 ## No Surprises
+
+### Q
+
+PillowFight
 
 ### Warmup
 
@@ -166852,6 +187304,10 @@ No alarms and no surprises, please
 
 ## What do you need?
 
+### Q
+
+Jigglypuff (STL Meramec)
+
 ### Warmup
 
 Hairy Rockettes, SSH, Knee Pulls, Quad Pulls, Neck Rolls
@@ -166879,6 +187335,10 @@ plank knee to elbow, knee lifts, leg lifts
 
 ## How high can you count?
 
+### Q
+
+Cheesehead
+
 ### Warmup
 
 5 to 1 motivators
@@ -166905,6 +187365,10 @@ Back rotations
 ---
 
 ## Sunrise Service
+
+### Q
+
+Captain Underpants
 
 ### Warmup
 
@@ -166939,6 +187403,10 @@ Lap
 ---
 
 ## Backblast
+
+### Q
+
+Drop Out (SpiritSTL)
 
 ### Warmup
 
@@ -166979,6 +187447,10 @@ American hammers
 
 ## Q from 24 hour beatdown!!!
 
+### Q
+
+Inseam
+
 ### Warmup
 
 Mosey
@@ -167015,6 +187487,10 @@ PAX led flutter kicks, PAX led penguin tappers and PAX led the American Hammers 
 ---
 
 ## 1% better / Thanks for the Memories
+
+### Q
+
+Chowda
 
 ### Warmup
 
@@ -167055,6 +187531,10 @@ Mosey to the road and back
 
 ## Smurfs on the Loose
 
+### Q
+
+Romeo
+
 ### Warmup
 
 Piano Tappers IC
@@ -167090,6 +187570,10 @@ Sit and Reach
 
 ## nobody move nobody get hurt
 
+### Q
+
+Beefeater
+
 ### Warmup
 
 5 to 1 motivators, learning to Phelps, single leg RDL, bat wings
@@ -167115,6 +187599,10 @@ Rounds of memorization- choices were right arm, left arm, plank jack, Merkin
 
 ## Recon for the Blackops
 
+### Q
+
+Pedro (SGF)
+
 ### Warmup
 
 Arm :o:s//Grass Grabbers//5-1 Motivators
@@ -167130,6 +187618,10 @@ LBCs 15 IC//Flutter Kicks 15 IC//Heels to Heaven 15 IC//Windshield Wipers 15 IC/
 ---
 
 ## Backblast
+
+### Q
+
+Manscapes
 
 ### Warmup
 
@@ -167181,6 +187673,10 @@ Exercise 5 – Rick Flair
 ---
 
 ## Its Friday.  Game Day.  Six Sucks.
+
+### Q
+
+Cheesehead
 
 ### Warmup
 
@@ -167262,6 +187758,10 @@ Roll EVEN number = Crab Walk Back to station 3
 
 ## RASP (Ranger School)
 
+### Q
+
+Peach Fuzz
+
 ### Warmup
 
 15x Goofballs
@@ -167294,6 +187794,10 @@ Boats/Canoes
 ---
 
 ## Happy Earth Day on the Playground
+
+### Q
+
+Herky
 
 ### Warmup
 
@@ -167335,6 +187839,10 @@ Indian run around the track
 
 ## Boys Don't Cry
 
+### Q
+
+Flea Market
+
 ### Thang
 
 Pax Headed down to the tennis courts and we did a combination of Body weight, Sand Bag and Travel.   Pax broke up into groups of 3-4.    One man did body weight exercises while another team member did Sand Bag Exercises on the far end of the court.  The other member of the team would mosey down to the far side but would stop in the middle for 2 Burpees.   The PAX would trade spots and we would work our way through the rotation.
@@ -167345,6 +187853,10 @@ Bodyweight Exercises:   LBC's,  Big Boy Situps, Merkins, Bonnie Blair, Apolo Ohn
 ---
 
 ## PAX chose well!!!
+
+### Q
+
+Inseam
 
 ### Warmup
 
@@ -167366,6 +187878,10 @@ Recover/Recover
 ---
 
 ## Dutch Tribute WOD (For the Cameras)
+
+### Q
+
+Tinker Bell
 
 ### Warmup
 
@@ -167398,6 +187914,10 @@ Mosey to Pavilion/Benches
 
 ## Backblast
 
+### Q
+
+Nacho
+
 ### Warmup
 
 SSH
@@ -167414,6 +187934,10 @@ Gear check: have to be prepared
 
 ## QSource - Q1.10 Prayer
 
+### Q
+
+Florida Man
+
 ### Thang
 
 Finished w/ Ephesians 6:18:
@@ -167421,6 +187945,10 @@ Finished w/ Ephesians 6:18:
 ---
 
 ## "You don't quit because you're tired..."
+
+### Q
+
+Ronda
 
 ### Warmup
 
@@ -167456,6 +187984,10 @@ Name &amp; Count o’Rama: completed
 
 ## 420 what day is it? (smoke em if you got em)
 
+### Q
+
+Mulligan
+
 ### Warmup
 
 20 SSH, 20 Grass Grabbers,
@@ -167481,6 +188013,10 @@ Captain Thor 1:4 ratio (x5), Pickle Pointers, Freddy Mercury, Penguin Tappers
 ---
 
 ## 4/20 is a National Holiday
+
+### Q
+
+Bridesmaid
 
 ### Warmup
 
@@ -167516,6 +188052,10 @@ Run Around Parking Lot
 
 ## PRE-STREAKING
 
+### Q
+
+Manicure
+
 ### Thang
 
 2.7 mile run around #ao_the_streaker prior to a PAX beatdown!
@@ -167523,6 +188063,10 @@ Run Around Parking Lot
 ---
 
 ## Pickle Jar Games
+
+### Q
+
+Wet Wipe
 
 ### Warmup
 
@@ -167563,6 +188107,10 @@ None - Tiebreaker was Mary today
 
 ## Summer is coming
 
+### Q
+
+Matchbox
+
 ### Warmup
 
 5-1 motivators
@@ -167598,6 +188146,10 @@ Post workout stretches
 
 ## Jump, Jump around
 
+### Q
+
+Farva (Stl Meramec)
+
 ### Warmup
 
 5-1 Motivators
@@ -167625,6 +188177,10 @@ Bonus round, guess the song Weird Al parodied, “All about the Pentiums” =1 P
 ---
 
 ## Tax Day
+
+### Q
+
+Lotus Notes
 
 ### Warmup
 
@@ -167660,6 +188216,10 @@ The adrenaline has been flowing all day, men!
 ---
 
 ## Backblast
+
+### Q
+
+Fish Fry
 
 ### Warmup
 
@@ -167699,6 +188259,10 @@ Elbows to knees crunch
 
 ## Monday's a Good Day to Workout!
 
+### Q
+
+Fabuloso
+
 ### Warmup
 
 Mia Hammes x20
@@ -167722,6 +188286,10 @@ Mountain Climbers x20 (EW)
 ---
 
 ## THE 24-M
+
+### Q
+
+Zero Turn
 
 ### Warmup
 
@@ -167767,6 +188335,10 @@ MARY all 24 count
 
 ## DRP
 
+### Q
+
+Rock Ride
+
 ### Warmup
 
 SSH 25 IC
@@ -167803,6 +188375,10 @@ Boat / Canoe 15 IC
 
 ## Prepare to be Egg-xausted!
 
+### Q
+
+Roomba
+
 ### Warmup
 
 Side Straddle Hops
@@ -167833,6 +188409,10 @@ Jaba The Hutt: 2 mins
 
 ## Share the Burden (or load)   ...in the woods
 
+### Q
+
+Wilson (SpiritSTL)
+
 ### Warmup
 
 Goofballs IC
@@ -167856,6 +188436,10 @@ Hold Al Gores
 ---
 
 ## Infinite Possibilities
+
+### Q
+
+Wet Wipe
 
 ### Warmup
 
@@ -167883,6 +188467,10 @@ Freddie Mercuries (IC) x14
 
 ## It is GOOD FRIDAY!
 
+### Q
+
+Pigeon
+
 ### Warmup
 
 SSH IC
@@ -167896,6 +188484,10 @@ Recover/Recover
 ---
 
 ## Preparation Day
+
+### Q
+
+Romeo
 
 ### Warmup
 
@@ -167925,6 +188517,10 @@ Willie Mays Hays IC
 ---
 
 ## Backblast
+
+### Q
+
+Duke & Monocle-winsky
 
 ### Warmup
 
@@ -167963,6 +188559,10 @@ Since no PAX were eliminated in the competition today, all were sent back to the
 
 ## Game, Set, Match
 
+### Q
+
+Topeka
+
 ### Warmup
 
 Motivators 6:1
@@ -167988,6 +188588,10 @@ Crowd favorite - Suicide bears
 
 ## Here We Go Again
 
+### Q
+
+Cheesehead
+
 ### Warmup
 
 High Knees
@@ -168011,6 +188615,10 @@ Recover/Recover
 ---
 
 ## Hump Day Accelera'chion!
+
+### Q
+
+Gumbo (STL)
 
 ### Warmup
 
@@ -168047,6 +188655,10 @@ Quickie with Mary!
 
 ## Pre-Game/Set/Match Jog
 
+### Q
+
+Monocle-winsky
+
 ### Thang
 
 Run 4.3 miles around beautiful Vlasis Park and Target parking lot.  Pillow fight and Ginsu went the 4+ distance and Topeka joined us for a Pre-Q 2 miler before an intense match of gloomy tennis.
@@ -168054,6 +188666,10 @@ Run 4.3 miles around beautiful Vlasis Park and Target parking lot.  Pillow fight
 ---
 
 ## Drop it, Drop it low.
+
+### Q
+
+Farva (Stl Meramec)
 
 ### Warmup
 
@@ -168085,6 +188701,10 @@ Rope Climbers IC
 ---
 
 ## Backblast
+
+### Q
+
+Duke
 
 ### Warmup
 
@@ -168124,6 +188744,10 @@ The third event of the competitions was: Tug of War (F3 style)
 
 ## What: It’s Hump Day Date: 4/13/2022
 
+### Q
+
+Irene
+
 ### Warmup
 
 5:1 Motivators
@@ -168148,6 +188772,10 @@ PAX moseyed up the hill toward 100 and back
 ---
 
 ## Agile. Mobile. Hostile
+
+### Q
+
+Cheesehead
 
 ### Warmup
 
@@ -168178,6 +188806,10 @@ Recover/Recover
 
 ## A timely story
 
+### Q
+
+Cheese Florida Man
+
 ### Thang
 
 minute exercise 15 sec rest
@@ -168192,6 +188824,10 @@ PAX took us on a little run around pickle to compete flutter kicks, heels to hea
 ---
 
 ## Backblast
+
+### Q
+
+Bobbit
 
 ### Warmup
 
@@ -168226,6 +188862,10 @@ PAX Guantanamo leg raise ring of fire---slowest one ever as Q was asleep
 ---
 
 ## THE LADIES MAN
+
+### Q
+
+Zero Turn
 
 ### Warmup
 
@@ -168281,6 +188921,10 @@ Recover/Recover
 
 ## Gloomy Goodness
 
+### Q
+
+Jigglypuff (STL Meramec)
+
 ### Warmup
 
 Hairy rockettes, ssh, high knees, butt kickers, groiners
@@ -168300,6 +188944,10 @@ NOR and Boyband
 ---
 
 ## Never Miss a Monday and preparing for Easter Bunny
+
+### Q
+
+Jayhawk
 
 ### Warmup
 
@@ -168338,6 +188986,10 @@ King Kong planks and flutter kicks in cadence.
 ---
 
 ## Backblast
+
+### Q
+
+Fish Fry
 
 ### Warmup
 
@@ -168383,6 +189035,10 @@ Rolled snake eyes twice.
 
 ## Let's Get Weird!
 
+### Q
+
+Farva (Stl Meramec)
+
 ### Warmup
 
 Learning to Phelps
@@ -168405,6 +189061,10 @@ Reverse Penguin tappers(Stump grinders)
 ---
 
 ## Monday Modification
+
+### Q
+
+Inseam
 
 ### Warmup
 
@@ -168430,6 +189090,10 @@ Rotating style Mary leading Captain Thors, PAX leading Freddie Mercuries and PAX
 ---
 
 ## What’s the 411?
+
+### Q
+
+Wet Wipe
 
 ### Warmup
 
@@ -168462,6 +189126,10 @@ COR and NOR done.
 
 ## A ~walk~ Run Along the Beach
 
+### Q
+
+1chain
+
 ### Thang
 
 Run to Newport Beach and back
@@ -168469,6 +189137,10 @@ Run to Newport Beach and back
 ---
 
 ## Adult Recess!
+
+### Q
+
+Gumbo (STL)
 
 ### Warmup
 
@@ -168488,6 +189160,10 @@ Team that got the point each round gets to throw the target Di and call the Mose
 ---
 
 ## Live in 3D
+
+### Q
+
+Rock Ride
 
 ### Thang
 
@@ -168528,6 +189204,10 @@ Goof Balls till group 6 is in
 
 ## The Hills Burn Thighs
 
+### Q
+
+Farva (Stl Meramec)
+
 ### Warmup
 
 Dynamic warmup
@@ -168560,6 +189240,10 @@ Boat/Canoe
 
 ## Friday Fun Day
 
+### Q
+
+COBOL / Jethro
+
 ### Warmup
 
 7-1 motivators
@@ -168586,6 +189270,10 @@ Guantanamo
 ---
 
 ## Friendship Friday
+
+### Q
+
+Romeo
 
 ### Warmup
 
@@ -168627,6 +189315,10 @@ Leg Lifts
 
 ## A Tradition Unlike Any Other
 
+### Q
+
+Commando
+
 ### Thang
 
 Today’s core lift focus was the Squat.  Took a moment before the heavy lifting portion to point out some common mistakes we all make when we perform this exercise.
@@ -168652,6 +189344,10 @@ Alternating Circle of Burpees x7 rounds
 ---
 
 ## Tear Down Your Walls
+
+### Q
+
+Peloton
 
 ### Warmup
 
@@ -168695,6 +189391,10 @@ Exercises (selected by PAX without knowledge of other selections)
 
 ## First Ever Beatdown
 
+### Q
+
+Inseam
+
 ### Warmup
 
 Willie Mays Hays, Bat Wings and GoofBalls
@@ -168716,6 +189416,10 @@ PAX led us in heels to heaven, PAX led us in fire hydrants and PAX led us in pla
 ---
 
 ## Q SCHOOL IS IN SESSION
+
+### Q
+
+Manicure
 
 ### Warmup
 
@@ -168754,6 +189458,10 @@ Not today!
 ---
 
 ## Virtual Farm Reality- Work Hard- life easier, Work easy, life hard
+
+### Q
+
+Bobbit
 
 ### Warmup
 
@@ -168814,6 +189522,10 @@ Check-in the corn rows(side lunge travel)
 
 ## Hump Day Acceleration
 
+### Q
+
+Duke
+
 ### Warmup
 
 SSH – 25
@@ -168842,6 +189554,10 @@ PAX - Vups 15 oyo
 ---
 
 ## Hump Daaay!
+
+### Q
+
+Mulligan
 
 ### Warmup
 
@@ -168876,6 +189592,10 @@ Crab Humpers IC (many)
 
 ## A little Pain along with some Gain's..
 
+### Q
+
+Inseam
+
 ### Warmup
 
 5 to 1 Motivators, Willie Mays Hays and Bat Wings..
@@ -168904,6 +189624,10 @@ PAX led dying cockroaches and PAX led heels to heaven with a leg lift at the top
 ---
 
 ## Back from the Dead..
+
+### Q
+
+Flea Market
 
 ### Warmup
 
@@ -168946,6 +189670,10 @@ Planks as a group and alternating raising the rope between arms  ~20 IC
 
 ## Conserve Your Time Wisely
 
+### Q
+
+rogerroger
+
 ### Warmup
 
 - 5:1 Motivators
@@ -168982,6 +189710,10 @@ V-Ups - PAX
 
 ## Tabata lot of fun!
 
+### Q
+
+O'Doyle Rules
+
 ### Warmup
 
 5-1 Motivators,  Grass Grabbers, Learning to Phelps, Squatted Old Man Stretch
@@ -169003,6 +189735,10 @@ Flutter kicks, Superman, Jabba The Hutt
 
 ## Backblast
 
+### Q
+
+Gumbo (STL)
+
 ### Warmup
 
 5-1 motivators - IC
@@ -169022,6 +189758,10 @@ FINAL ROUND: Put it all together:  20 Blockees!
 ---
 
 ## The Power of Pivoting
+
+### Q
+
+Gumbo (STL)
 
 ### Warmup
 
@@ -169059,6 +189799,10 @@ RECOVER, RECOVER!  PAX mosied back to the FLAGS
 
 ## Monday practice round
 
+### Q
+
+Beefeater
+
 ### Warmup
 
 5 to 1 motivators
@@ -169094,6 +189838,10 @@ Lowest 9 in masters history was 29. PAX completed 29 burpees to end.
 
 ## Backblast
 
+### Q
+
+Jigglypuff (STL Meramec)
+
 ### Warmup
 
 SSH, Hairy Rockettes, Knee Pulls
@@ -169127,6 +189875,10 @@ None
 
 ## Things Beasts Do
 
+### Q
+
+Rub Down
+
 ### Warmup
 
 Goofballs x 15
@@ -169158,6 +189910,10 @@ Supermans
 
 ## 48 Seconds to Win it!
 
+### Q
+
+PillowFight
+
 ### Warmup
 
 SSH, Willy Mays Hayes, Happy Baby. Rotate Pull-Ups with SSH, Mountain Climbers.
@@ -169181,6 +189937,10 @@ Results: A healthy does of whup-a$$ for Monday and another ferocious victory: in
 ---
 
 ## Super (Sweats) Sets
+
+### Q
+
+Polka
 
 ### Warmup
 
@@ -169215,6 +189975,10 @@ Completed 5 sets of each Super set
 ---
 
 ## BOFFA
+
+### Q
+
+Beefeater Zero Turn
 
 ### Warmup
 
@@ -169270,6 +190034,10 @@ PAX completed StoneHIMge . Solid reminder that as a PAX, we must lock shields as
 
 ## Fetch
 
+### Q
+
+Karat
+
 ### Warmup
 
 7-1 motivators
@@ -169290,6 +190058,10 @@ While one man was performing the exercise, the second would do a coupon mosey fo
 ---
 
 ## Backblast
+
+### Q
+
+Keys
 
 ### Warmup
 
@@ -169328,6 +190100,10 @@ Switched
 
 ## Race Day
 
+### Q
+
+BigPharma
+
 ### Warmup
 
 - Motivators 5:1
@@ -169353,6 +190129,10 @@ Circle of Pain Shoulder Press x 2 minutes (each PAX completed 5 presses while ev
 ---
 
 ## PIvot! Fun Day, Friday!
+
+### Q
+
+Gumbo (STL)
 
 ### Warmup
 
@@ -169382,6 +190162,10 @@ Ring-o-Fire Mary, Wet Willy Style!_
 ---
 
 ## UPS AND DOWNS
+
+### Q
+
+Zero Turn
 
 ### Warmup
 
@@ -169417,6 +190201,10 @@ Partner Merkins: one pax in plank w/ feet on back of partner and 10 merkins or f
 
 ## Suns out Guns out
 
+### Q
+
+Duke
+
 ### Warmup
 
 - SSH - 20
@@ -169442,6 +190230,10 @@ PAX Choice
 ---
 
 ## Backblast
+
+### Q
+
+Gobstopper
 
 ### Warmup
 
@@ -169470,6 +190262,10 @@ American Hammers, LBC, Freddy Mercury, Penguin Tappers
 
 ## Sweat More, Bleed Less (Finally)
 
+### Q
+
+Nerf
+
 ### Warmup
 
 5-1-5 motivators
@@ -169495,6 +190291,10 @@ PAX 2: TQ on leg, LBCs
 
 ## Backblast
 
+### Q
+
+Ringer
+
 ### Thang
 
 Bad Things to test your incline vs Your decline.
@@ -169506,6 +190306,10 @@ Bagpipe victory mosey
 ---
 
 ## Dumpster Fire / Baby Murph
+
+### Q
+
+Wonka
 
 ### Warmup
 
@@ -169527,6 +190331,10 @@ Q finished with having the PAX do a round of Triple Bears IC x22.
 ---
 
 ## Escalators
+
+### Q
+
+Dunkin
 
 ### Warmup
 
@@ -169554,6 +190362,10 @@ Planks hold while doing Count-O-Rama
 ---
 
 ## Take a Walk in the Park Day
+
+### Q
+
+Romeo
 
 ### Warmup
 
@@ -169591,6 +190403,10 @@ Leg Lifts
 
 ## Coach Bell’s 11s
 
+### Q
+
+Milwaukees Best
+
 ### Warmup
 
 SSH, Grass Grabbers, Mosey
@@ -169609,6 +190425,10 @@ Drove golf cart back to cabin
 ---
 
 ## Release the Kraken!!!
+
+### Q
+
+Gumbo (STL) (and Karen)
 
 ### Warmup
 
@@ -169639,6 +190459,10 @@ BONUS Round: _Ring of PAX
 
 ## A True Tabata Experience
 
+### Q
+
+Tarmac
+
 ### Warmup
 
 SSH x 25, Grass Grabbers IC x 10, Stanky Leggz IC 4x10, Bat Wings 5x10, Copperhead Squats x 10
@@ -169654,6 +190478,10 @@ Big Boy Sit Ups x 20, Flutter Kicks IC with increasing pace x 15, Freddie Mercur
 ---
 
 ## Dang Ole Rodeo
+
+### Q
+
+CrankBait
 
 ### Warmup
 
@@ -169726,6 +190554,10 @@ Q about forgot Mary is a part of this format  but worked it in
 
 ## PAINS &amp; GAINS
 
+### Q
+
+Inseam
+
 ### Warmup
 
 Side Straddle Hops, Bat Wings, Willie Mays Hays and Goof Balls
@@ -169754,6 +190586,10 @@ PAX led us in rope climbs, PAX led us in planks and PAX led us in Ukrainian Twis
 ---
 
 ## Monday Morning mosey
+
+### Q
+
+Ikea
 
 ### Warmup
 
@@ -169794,6 +190630,10 @@ PAX lead Flutter Kicks IC
 
 ## Backblast
 
+### Q
+
+Irene
+
 ### Warmup
 
 5:1 Merking Motivators
@@ -169823,6 +190663,10 @@ A little PAX yoga ending in Happy Baby!!
 
 ## Monday Movement
 
+### Q
+
+Fabuloso
+
 ### Warmup
 
 Mia Hammes x20
@@ -169843,6 +190687,10 @@ Q finished with having the PAX do a round of Triple Bears IC x22.
 ---
 
 ## Mental battle of suck
+
+### Q
+
+Herky
 
 ### Warmup
 
@@ -169888,6 +190736,10 @@ Captain Thors up to 5
 ---
 
 ## Mental battle of suck
+
+### Q
+
+Flo (JeffCo)
 
 ### Warmup
 
@@ -169936,6 +190788,10 @@ Captain Thors up to 5
 ---
 
 ## AB-SOLUTION
+
+### Q
+
+Zero Turn
 
 ### Warmup
 
@@ -169990,6 +190846,10 @@ Upward dog
 
 ## Backblast
 
+### Q
+
+Drop Out (SpiritSTL)
+
 ### Warmup
 
 7-1 Motivators
@@ -170021,6 +190881,10 @@ Hi to Lo planks
 
 ## It's a group thang; freed to lead
 
+### Q
+
+Gobstopper
+
 ### Warmup
 
 5:1 Motivators, Hairy Rockettes, Grass Grabbers, Willy Mays Hayes and Arm Circles.
@@ -170033,6 +190897,10 @@ Curls; Absoultions; PAX Wine Mixers; Lunges HW; Squats; Merkins; Blockees; Big B
 ---
 
 ## BLIMPS and BOMBS
+
+### Q
+
+Peaches
 
 ### Warmup
 
@@ -170076,6 +190944,10 @@ Recover-Recover
 
 ## Court Ladies, Acquire Currency
 
+### Q
+
+Commando
+
 ### Thang
 
 Full court diamonds x4 - Start at the corner of the baseline and jailbreak to the opposite corner baseline and then Deion sanders with your hands up back to original baseline. Then repeat across the other side of the court to end up in the same baseline corner that you started.  5 burpees once you complete 2 full diamonds.
@@ -170097,6 +190969,10 @@ Final work on the court was - 1 full court suicide bear crawl. Mosey back to the
 ---
 
 ## Blackops
+
+### Q
+
+Gumbo (STL)
 
 ### Warmup
 
@@ -170127,6 +191003,10 @@ bc there's even time for Mary DR!
 
 ## Blackops
 
+### Q
+
+Nerf
+
 ### Thang
 
 Bicep burnouts
@@ -170136,6 +191016,10 @@ Bicep burnouts
 ---
 
 ## The Little Mermaids
+
+### Q
+
+Commando
 
 ### Thang
 
@@ -170149,6 +191033,10 @@ Sandbag pyramid circuit - 10 deadlifts, 10 front lunges, 10 sandbag throws, 10 m
 ---
 
 ## 21
+
+### Q
+
+Gobstopper
 
 ### Warmup
 
@@ -170177,6 +191065,10 @@ LBC, American Hammers, Jaba the Huts
 ---
 
 ## Next Stop, Pound Town! All aboard!
+
+### Q
+
+Roomba
 
 ### Thang
 
@@ -170215,6 +191107,10 @@ Atlas Pass — Found new partners and passed a coupon around their waists to one
 ---
 
 ## Shoulders, Bi’s, Tri’s
+
+### Q
+
+1chain
 
 ### Warmup
 
@@ -170298,6 +191194,10 @@ Mountain Climbers 15 IC
 
 ## Backblast
 
+### Q
+
+Sweet Pea
+
 ### Warmup
 
 12 - Abe Vigodas
@@ -170323,6 +191223,10 @@ Round 4 - monkey humpers / PAX Andersons (only 11 of each due to time constraint
 ---
 
 ## FORGE: PARTNER TOTAL BODY PUMP
+
+### Q
+
+Zero Turn
 
 ### Warmup
 
@@ -170374,6 +191278,10 @@ BONUS ROUND:
 
 ## A Push and A Pull
 
+### Q
+
+1chain
+
 ### Warmup
 
 SSH:Burpees 10:5 x 3 rounds
@@ -170418,6 +191326,10 @@ COR-7
 ---
 
 ## Hurricane Season
+
+### Q
+
+Rock Ride
 
 ### Warmup
 
@@ -170481,6 +191393,10 @@ BBSU 20 OYO
 
 ## It's all about the numbers
 
+### Q
+
+Inseam
+
 ### Warmup
 
 Learning to phelps, Grass Grabbers, Goof Balls and Arm Circles.
@@ -170510,6 +191426,10 @@ Gas Pumpers, Coupon Flutters Kicks and Heals to Heaven.
 ---
 
 ## It's all about the numbers
+
+### Q
+
+Jigglypuff (STL Meramec)
 
 ### Warmup
 
@@ -170565,6 +191485,10 @@ Pigeon stretch
 
 ## THE STATION LAUNCH
 
+### Q
+
+Zero Turn
+
 ### Warmup
 
 Side Straddle Hops IC x43
@@ -170608,6 +191532,10 @@ Partner abernomes
 
 ## the Spirit of Merkin Madness
 
+### Q
+
+Jigglypuff (STL Meramec)
+
 ### Warmup
 
 Hairy rockettes, knee pulls, quad stretch, angle rotations , neck rolls
@@ -170623,6 +191551,10 @@ Standing knee lifts, then leg extensions (IC)
 ---
 
 ## Spring is in the air!
+
+### Q
+
+Tie Down
 
 ### Warmup
 
@@ -170669,6 +191601,10 @@ Mosey around little Tree
 ---
 
 ## Madness in March
+
+### Q
+
+Thumper
 
 ### Warmup
 
@@ -170730,6 +191666,10 @@ Mosey around little Tree
 
 ## Blackops Sunday BD!
 
+### Q
+
+Polka
+
 ### Warmup
 
 -5 to 1 Motivators
@@ -170760,6 +191700,10 @@ Not today
 ---
 
 ## Convergence-Spirit of St. Louis Launch
+
+### Q
+
+Gumbo (STL), Zero Turn, Peloton, Frozone, Tinker Bell, Buckeye (F3STL Meramec), Manicure
 
 ### Warmup
 
@@ -170814,6 +191758,10 @@ All groups did some variation of 2-3 of these rounds. The format was: Travel —
 
 ## Backblast
 
+### Q
+
+Inseam
+
 ### Warmup
 
 Willie Mayes Hayes
@@ -170835,6 +191783,10 @@ Flutter Kicks, Penguin Tappers, Rosalita's, LBC's and Superman Holds
 ---
 
 ## The Full Monty
+
+### Q
+
+Short Circuit
 
 ### Warmup
 
@@ -170858,6 +191810,10 @@ Flutter Kicks, Penguin Tappers, Rosalita's, LBC's and Superman Holds
 ---
 
 ## – FORGE BEATDOWN - MURDER MERKINS
+
+### Q
+
+Peloton
 
 ### Warmup
 

@@ -162,7 +162,7 @@ def parse(md):
     entries = []
     for chunk in md.split("\n## ")[1:]:
         nl = chunk.index("\n")
-        e = {"title": chunk[:nl].strip(), "warmup": [], "thang": [], "mary": []}
+        e = {"title": chunk[:nl].strip(), "q": [], "warmup": [], "thang": [], "mary": []}
         for sec in chunk[nl:].split("\n### ")[1:]:
             k = sec[:sec.index("\n")].strip().lower()
             body = re.sub(r"\n---\s*$", "", sec[sec.index("\n"):]).strip("\n")
@@ -210,6 +210,7 @@ def main():
             dropped["title"].append(("title", title))
             title = "Backblast"
         new["title"] = title or "Backblast"
+        new["q"] = e["q"]   # the Q's F3 nickname(s), shown as credit; not scrubbed
         if not any(workout_score(l, vocab) for l in new["thang"]):
             stats["dropped_no_thang_left"] += 1
             continue
@@ -218,6 +219,8 @@ def main():
     parts = ["# F3 Backblasts (workout only)\n"]
     for e in out_entries:
         parts.append("## " + e["title"] + "\n")
+        if any(l.strip() for l in e["q"]):
+            parts.append("### Q\n\n" + "\n".join(l for l in e["q"] if l.strip()) + "\n")
         for sec, label in (("warmup", "Warmup"), ("thang", "Thang"), ("mary", "Mary")):
             if any(l.strip() for l in e[sec]):
                 parts.append("### " + label + "\n\n" + "\n".join(e[sec]) + "\n")
