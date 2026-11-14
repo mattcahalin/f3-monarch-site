@@ -254,7 +254,11 @@
     const out = {};
     for (const key of new Set([...Object.keys(a), ...Object.keys(b)])) {
       const va = a[key] != null ? a[key] : defaults[key], vb = b[key] != null ? b[key] : defaults[key];
-      out[key] = lerp(va, vb, k);
+      if (key === 't' || key === 'ht') {
+        // Angles turn the short way round (180° to -60° goes up through -120°, not down through 0°).
+        const d = ((((vb - va) % 360) + 540) % 360) - 180;
+        out[key] = va + d * k;
+      } else out[key] = lerp(va, vb, k);
     }
     return out;
   }
